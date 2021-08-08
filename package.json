@@ -1,16 +1,21 @@
 {
   "devDependencies": {
-    "aberlaas": "1.24.6"
+    "aberlaas": "1.24.6",
+    "reddinx": "2.0.0"
   },
   "engines": {
     "node": ">=14.17.0"
   },
-  "files": ["lib/*.js"],
+  "files": [
+    "lib/*.js"
+  ],
   "license": "MIT",
   "main": "lib/main.js",
   "name": "terrainbuilding-data",
   "scripts": {
     "ci": "./scripts/ci",
+    "data:initial": "./scripts/data-initial",
+    "data:incremental": "./scripts/data-incremental",
     "husky:precommit": "./scripts/husky-precommit",
     "lint": "./scripts/lint",
     "lint:fix": "./scripts/lint-fix",
