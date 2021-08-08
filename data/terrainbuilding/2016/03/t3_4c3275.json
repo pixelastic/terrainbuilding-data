@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_3szwe",
+    "name": "davema"
+  },
+  "date": {
+    "day": 1458950400,
+    "full": 1459029295,
+    "month": 1456790400,
+    "week": 1458432000
+  },
+  "id": "t3_4c3275",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "filesize": 41624,
+    "fullUrl": "https://external-preview.redd.it/YCHCrcZqigSSVwkuXaPKHTDUwb4T2FmfDD2S0Z4wRwM.jpg?auto=webp&s=88c468837393923753ab48f5ef97214293b97a19",
+    "hash": "b88f0fd4e8",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgEF/8QAKRAAAQMDAgILAAAAAAAAAAAAAgEDBAAFEQcSBjETFCEyNTZzdJGys//EABUBAQEAAAAAAAAAAAAAAAAAAAMF/8QAGxEAAQQDAAAAAAAAAAAAAAAAAQACAxIRE2H/2gAMAwEAAhEDEQA/AMWytSZbXWBy6DTDhb2+7uFFXK5Tt5LlFpTwLc7WpzpUABiXRwBJ5qO5sEk5dIIp8LRzRny1M9Fz8Cq6J+JzfYJ9XKNxw6qoww3j2E8X/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/dAuZPvMnJ84dhxVtK9Ba8gYPlfVQyqY80yglUJdfRpI.jpg",
+    "url": "https://external-preview.redd.it/YCHCrcZqigSSVwkuXaPKHTDUwb4T2FmfDD2S0Z4wRwM.jpg?width=640&crop=smart&auto=webp&s=0fdf79adaa063372a3d7ce8cfc44e4c01b35c4b7",
+    "width": 640
+  },
+  "score": {
+    "comments": 11,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 45,
+    "value": 45
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Testing cheap way to make Stone ruins",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/4c3275/testing_cheap_way_to_make_stone_ruins/"
+}

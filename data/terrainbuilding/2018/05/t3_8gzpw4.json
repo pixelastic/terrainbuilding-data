@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_z1tqh4l",
+    "name": "CGCAdrian"
+  },
+  "date": {
+    "day": 1525392000,
+    "full": 1525444643,
+    "month": 1525132800,
+    "week": 1524960000
+  },
+  "id": "t3_8gzpw4",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 102898,
+    "fullUrl": "https://preview.redd.it/fld88jfhouv01.jpg?auto=webp&s=cca7e1d67c5ea44d72b92ffaec35f30840a9792f",
+    "hash": "497c91e2a2",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgAE/8QAIhAAAgEEAgIDAQAAAAAAAAAAAQIDBAURIQAGEzESIkFS/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABgRAAMBAQAAAAAAAAAAAAAAAAABAhED/9oADAMBAAIRAxEAPwA5022U9TZHaqhhfzq0hgiCqAVzsKVwNKSd8w9x67b4oIvFSFHBCmFAhIyD/IznP7vkWmtfX4KmlqH8hp2H2VMAEb9AcP3fstwuEUaTMilwW+SAhgQM63r1wrlqtE50msP/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/BJeJxjqO83ibr5FCjbFmg03khJiQ-_uP0jULvv0iyyk.jpg",
+    "url": "https://preview.redd.it/fld88jfhouv01.jpg?width=640&crop=smart&auto=webp&s=f59bab93ee29391da46505d3fbaac1ba61b94db8",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 0.9,
+    "ups": 29,
+    "value": 29
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Winter has come to the Imperial Sector",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/8gzpw4/winter_has_come_to_the_imperial_sector/"
+}

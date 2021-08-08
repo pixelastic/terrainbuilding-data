@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_1uxazlnb",
+    "name": "redsonatnight"
+  },
+  "date": {
+    "day": 1557792000,
+    "full": 1557849431,
+    "month": 1556668800,
+    "week": 1557619200
+  },
+  "id": "t3_bokqr4",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 81216,
+    "fullUrl": "https://preview.redd.it/0ubnysfm87y21.jpg?auto=webp&s=5652a2f589da28a3555684f8a4236b49ac0dc5eb",
+    "hash": "f1b30edda4",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFB//EACcQAAEDAgUCBwAAAAAAAAAAAAECAxEEEgAFBhMhMUEUIlFhcZHw/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABgRAAMBAQAAAAAAAAAAAAAAAAABAhFB/9oADAMBAAIRAxEAPwCxR6kyxGYGoecnaeaWpAjgC4R178fhhvVWsfFNW5EvaWgSq9IVeZHlBn35+RjIBTNP5iyVogOuISoAmI2Lo+1HB8tqnamjS4tVqtxUW9pAmPToMCX0dLT/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/ICd4Kql9zLnTAZpJK-eiEN759Fp69-MLnGynke-6H9g.jpg",
+    "url": "https://preview.redd.it/0ubnysfm87y21.jpg?width=640&crop=smart&auto=webp&s=b2c75f3e2c9847309d3aab18a7ee782912f3501f",
+    "width": 640
+  },
+  "score": {
+    "comments": 43,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 119,
+    "value": 119
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Is This Scheme Too Gaudy? (details in comments)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/bokqr4/is_this_scheme_too_gaudy_details_in_comments/"
+}

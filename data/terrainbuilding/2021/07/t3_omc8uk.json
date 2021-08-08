@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_7slx0sv7",
+    "name": "belgian-penguin"
+  },
+  "date": {
+    "day": 1626480000,
+    "full": 1626554252,
+    "month": 1625097600,
+    "week": 1625961600
+  },
+  "id": "t3_omc8uk",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 83527,
+    "fullUrl": "https://preview.redd.it/axspsgad3ub71.jpg?auto=webp&s=fd2093c0f1ee21c78fcab226c30b51ab13632143",
+    "hash": "ccbf9fe09c",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAJhAAAgIABQEJAAAAAAAAAAAAAQMCEQAEBRIhBgcTIjFBQnGBsf/EABQBAQAAAAAAAAAAAAAAAAAAAAL/xAAYEQADAQEAAAAAAAAAAAAAAAAAAQIhEf/aAAwDAQACEQMRAD8Ad6R00KywyxYtqVxoxh5i7sbvdHken3huWiiVFK966oEWfzE92RuOe6dUubBGGwQIEfEa4PN8fONLT3K1xgqBEYiqIrAmcE6fdP/Z",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/bGcNULnR-buZw7Vf_xvLiJwwVE3UajGiWlVwyB__Br4.jpg",
+    "url": "https://preview.redd.it/axspsgad3ub71.jpg?width=640&crop=smart&auto=webp&s=0a125fe3c47bb2b0f5266adc1845e93437713bc1",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 16,
+    "value": 16
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Need advice with sculpta mold. Was sculpting a map, went away for a week and came back to this. How can I prevent this and why did this happen? Is there a thing as too much water with sculpta mold? Or should I have soaked it in watered down PVA glue?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/omc8uk/need_advice_with_sculpta_mold_was_sculpting_a_map/"
+}

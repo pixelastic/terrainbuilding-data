@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_859j6",
+    "name": "Wernerio"
+  },
+  "date": {
+    "day": 1468281600,
+    "full": 1468325871,
+    "month": 1467331200,
+    "week": 1468108800
+  },
+  "id": "t3_4sgovf",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "filesize": 51701,
+    "fullUrl": "https://external-preview.redd.it/SSNtPXqk17cLOEJUbjLF-Y_uyhuDjwccxvR9vS6m1Xs.jpg?auto=webp&s=6e9625807fe73aece14826876a68ff057586d306",
+    "hash": "64b68cf775",
+    "height": 336,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAIABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAT/xAAgEAACAgICAgMAAAAAAAAAAAABAgMEERIABSExBiJB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAZEQEBAQADAAAAAAAAAAAAAAABAgAEERL/2gAMAwEAAhEDEQA/AJvi1sHrad7R5WsxbwhFWRi4GWKoSNyvk6DyQDjPE/TjuKi3a4qaKXkhtxWpElZz+Rufui59KxOPWOOOHb5OzU8eSqSjf//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/RXPVzmVV5zAGlTkNig4Dg82xcNNtjBq6jS-9CnuKnws.jpg",
+    "url": "https://external-preview.redd.it/SSNtPXqk17cLOEJUbjLF-Y_uyhuDjwccxvR9vS6m1Xs.jpg?width=640&crop=smart&auto=webp&s=28cdc16975db92937ba248b50be4f8f2a08ee7fa",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 0.86,
+    "ups": 25,
+    "value": 25
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Domus project 74: Stone staircase (part 1)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/4sgovf/domus_project_74_stone_staircase_part_1/"
+}

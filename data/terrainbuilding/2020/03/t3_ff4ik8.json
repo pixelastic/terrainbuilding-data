@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_10pqswuh",
+    "name": "LegendaryBo"
+  },
+  "date": {
+    "day": 1583625600,
+    "full": 1583627839,
+    "month": 1583020800,
+    "week": 1583625600
+  },
+  "id": "t3_ff4ik8",
+  "misc": {
+    "postHint": "hosted:video"
+  },
+  "picture": {
+    "filesize": 69554,
+    "fullUrl": "https://external-preview.redd.it/y17QlqzD5qihlru4GGSTa9LzOf4Iy4hiEgk60-Uh90U.png?format=pjpg&auto=webp&s=b8cd25fcb31faf2b7c0c9ede6287b00d276eecc9",
+    "hash": "2f47626924",
+    "height": 360,
+    "lqip": "data:image/png;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAJRAAAgECBQMFAAAAAAAAAAAAAQIDAAUEERIhMRMyM0FCcnPB/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABgRAAMBAQAAAAAAAAAAAAAAAAACAwER/9oADAMBAAIRAxEAPwDMoSjSQoykOd9DPlmByeeKZttyxWCxXVt80cE0RDRMZ9JUg+3I7elSNy72+pqFs3mb4/tHOjOvQMP/2Q==",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/2T-aZpFPlu8mow7yitjxQoTYPjKo-s7uUZiI8kAmnY4.jpg",
+    "url": "https://external-preview.redd.it/y17QlqzD5qihlru4GGSTa9LzOf4Iy4hiEgk60-Uh90U.png?width=640&crop=smart&format=pjpg&auto=webp&s=58d8e61e2dc059c082af81f76adc7775d9b33472",
+    "width": 640
+  },
+  "score": {
+    "comments": 54,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 1694,
+    "value": 1694
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "D&D Waterfall Terrain with Running Water",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ff4ik8/dd_waterfall_terrain_with_running_water/"
+}

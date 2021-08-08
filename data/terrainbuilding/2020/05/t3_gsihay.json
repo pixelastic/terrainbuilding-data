@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_ne4tz",
+    "name": "Trojan65"
+  },
+  "date": {
+    "day": 1590710400,
+    "full": 1590712458,
+    "month": 1588291200,
+    "week": 1590278400
+  },
+  "id": "t3_gsihay",
+  "misc": {
+    "postHint": "self"
+  },
+  "picture": {
+    "filesize": 28698,
+    "fullUrl": "https://external-preview.redd.it/5m9HeDpgPqL2T48N0UMPmEbkXtGzHVuuQh1hxjEHThM.jpg?auto=webp&s=5b329cc56c852412f0b7e654b98434c9e708234c",
+    "hash": "6044a86d0b",
+    "height": 665,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA8DASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMFB//EACEQAQACAgEDBQAAAAAAAAAAAAECAwQRAAUhURIxMmGR/8QAFAEBAAAAAAAAAAAAAAAAAAAAAf/EABgRAAIDAAAAAAAAAAAAAAAAAAACAREh/9oADAMBAAIRAxEAPwDFRJoTBPo08bmV1Ru3V8JBIEO3ng4BTZkkciydUNL6iO+/jlHqWJSxrswsiNpp3GSDENfvd9uOsFQp/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/1IPfRp941JbiHqzzErg6NcZlhH5Xk5cQ0tGNyuAs9aI.jpg",
+    "url": "https://external-preview.redd.it/5m9HeDpgPqL2T48N0UMPmEbkXtGzHVuuQh1hxjEHThM.jpg?width=640&crop=smart&auto=webp&s=5f490b0f830ce619b8468c24be26a8d379982397",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 8,
+    "value": 8
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Arvalon 8, Free Sci-fi Terrain and Model STL for 3D Printing",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/gsihay/arvalon_8_free_scifi_terrain_and_model_stl_for_3d/"
+}

@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_zpur1",
+    "name": "Ya-Dikobraz"
+  },
+  "date": {
+    "day": 1609027200,
+    "full": 1609033428,
+    "month": 1606780800,
+    "week": 1609027200
+  },
+  "id": "t3_kkun2z",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "filesize": 79505,
+    "fullUrl": "https://external-preview.redd.it/8q3MfqFL5ugceF5x1A_C17C3x_loFiccOTXKsFR27GY.jpg?auto=webp&s=71fa5728a6e8f01f9c5000493a4cd556122714d6",
+    "hash": "47fbbc8f30",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQGB//EACMQAAICAQMEAwEAAAAAAAAAAAECAxEEAAUhEhMxUQYiQXH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABoRAAICAwAAAAAAAAAAAAAAAAECAAMREhP/2gAMAwEAAhEDEQA/AA7jvUeE3dkyxJlwIyRRxqGboJu1scc0fXGnPje7x7xPL2FUzRTsxigftDmOwFBAtgftzf7rOMneczFnRupJWPFyIOP5VVqzdVOLivVO62WHkWPfnUHZqmwYyKLl2E//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/vdI3WioX-z1d04c2SdgP-cETGEzH9neHk4vb_v-7_ZU.jpg",
+    "url": "https://external-preview.redd.it/8q3MfqFL5ugceF5x1A_C17C3x_loFiccOTXKsFR27GY.jpg?width=640&crop=smart&auto=webp&s=a303db30ff7e34675f81fbeb781beaa71bad3c34",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "ratio": 0.86,
+    "ups": 10,
+    "value": 10
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My first 3 terrains. Too many issues with them to list, but I am learning a lot. Also frustrated a lot.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/kkun2z/my_first_3_terrains_too_many_issues_with_them_to/"
+}

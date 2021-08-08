@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_13git8",
+    "name": "stuart_vh"
+  },
+  "date": {
+    "day": 1520380800,
+    "full": 1520442572,
+    "month": 1519862400,
+    "week": 1520121600
+  },
+  "id": "t3_82pvff",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "filesize": 42580,
+    "fullUrl": "https://external-preview.redd.it/LlGUYnRPB-f56joSVnhC8S9Eqch2Li26FJL5N8x-nDI.jpg?auto=webp&s=c0dbde36044fcaf80df76a6a58a687e1883f517e",
+    "hash": "cac51dbfe8",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwQF/8QAJhAAAgECBQIHAAAAAAAAAAAAAQMCBAUABhEhMSJ0BxM1NpGxwf/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAaEQEAAQUAAAAAAAAAAAAAAAABEQACBBLw/9oADAMBAAIRAxEAPwDJd4hrg+FJYyU0kSNaiXVNp14jHTg/JxdUZqurL2+nqaJDUpUfJSIAFjZDokRudidxrwOMEWUfXbP3EfvCNZPeC+5/TgmLa7LPTTc3W0AOiv/Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/KUnY-MN4DwS61oFJkCDjeBRE_wQp_sML-2VkF0ZMnqc.jpg",
+    "url": "https://external-preview.redd.it/LlGUYnRPB-f56joSVnhC8S9Eqch2Li26FJL5N8x-nDI.jpg?width=640&crop=smart&auto=webp&s=c681c5aa4cb775d3b66d36e97f7dc0414d60281d",
+    "width": 640
+  },
+  "score": {
+    "comments": 11,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 112,
+    "value": 112
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "4x4 modular game board with city ruins",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/82pvff/4x4_modular_game_board_with_city_ruins/"
+}

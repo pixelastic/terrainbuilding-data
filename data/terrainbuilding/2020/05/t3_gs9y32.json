@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_1qx9czbj",
+    "name": "the_CA_kid"
+  },
+  "date": {
+    "day": 1590624000,
+    "full": 1590684905,
+    "month": 1588291200,
+    "week": 1590278400
+  },
+  "id": "t3_gs9y32",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 108915,
+    "fullUrl": "https://preview.redd.it/7nmg0fjddj151.jpg?auto=webp&s=0c461de592e891fd595f4b74e3f11b711a743cce",
+    "hash": "18c8256812",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAb/xAAkEAACAQMDAwUAAAAAAAAAAAABAgMEERIABSETQWEGQlFxgf/EABUBAQEAAAAAAAAAAAAAAAAAAAEE/8QAHxEBAAAEBwAAAAAAAAAAAAAAAQACA0EEERIhUZGx/9oADAMBAAIRAxEAPwCh3VhHUyRoJUjCFyHIuWBQcH9PH3qbo3M1Y43HcKbqCQYc4e74IGjbr6ip6iq6NMtWagsySI8LXBOPIJFrDHzfSYponktI1QSHGJKX79+POpVF2S/sGKq0CqaJgMiw89R//9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/2vhesEO28XPFnHmw9-ua3ksY8DD9lnkq97p53bpRD1k.jpg",
+    "url": "https://preview.redd.it/7nmg0fjddj151.jpg?width=640&crop=smart&auto=webp&s=7352b33a97d6ad5a1f13957cbfc6a09c0d3db53d",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.86,
+    "ups": 10,
+    "value": 10
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Practicing my roofing techniques. Any suggestions for painting?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/gs9y32/practicing_my_roofing_techniques_any_suggestions/"
+}

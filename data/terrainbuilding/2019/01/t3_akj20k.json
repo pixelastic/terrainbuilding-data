@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_2gt7apix",
+    "name": "UhWhatTheFrick"
+  },
+  "date": {
+    "day": 1548633600,
+    "full": 1548644047,
+    "month": 1546300800,
+    "week": 1548547200
+  },
+  "id": "t3_akj20k",
+  "misc": {
+    "postHint": "hosted:video"
+  },
+  "picture": {
+    "filesize": 75497,
+    "fullUrl": "https://external-preview.redd.it/VE5iZPZAe2_zjpr5SGUx1oKbHVmsyBqMhx1G1N07xRE.png?format=pjpg&auto=webp&s=f3b9e392c7c3b3e5543ff5e58084e37c80f0d323",
+    "hash": "be404fe333",
+    "height": 1138,
+    "lqip": "data:image/png;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABwX/xAAiEAABAwQABwAAAAAAAAAAAAABAgMRAAUGMQQHEhUhUZH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEB/9oADAMBAAIRAxEAPwCpjnMx97LGLIOGfWlaZL8yEmCYIjXjc0n93c9D5Q/hziGriRABWN0jdVDpuV//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/4_YfMSiDmkyNsMwLe1jd3IXbGBjZRxkPdukBaxIsx6w.jpg",
+    "url": "https://external-preview.redd.it/VE5iZPZAe2_zjpr5SGUx1oKbHVmsyBqMhx1G1N07xRE.png?width=640&crop=smart&format=pjpg&auto=webp&s=a9092b31547cdad0660dd9b94283572f2158877c",
+    "width": 640
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 176,
+    "value": 176
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Flickering lamp on top of a crate table. Just an old project of mine that I wanted to show off.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/akj20k/flickering_lamp_on_top_of_a_crate_table_just_an/"
+}

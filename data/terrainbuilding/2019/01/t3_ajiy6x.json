@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_bkj3ehe",
+    "name": "badjuni"
+  },
+  "date": {
+    "day": 1548288000,
+    "full": 1548374126,
+    "month": 1546300800,
+    "week": 1547942400
+  },
+  "id": "t3_ajiy6x",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 61281,
+    "fullUrl": "https://preview.redd.it/p82ezozplgc21.jpg?auto=webp&s=b4001040919a3db8515815453ca4628f23d61c58",
+    "hash": "f635edc311",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAYH/8QAKRAAAQEHAgQHAAAAAAAAAAAAAQMAAgQFBhEhEmEHExQxFSIjQXGRof/EABUBAQEAAAAAAAAAAAAAAAAAAAED/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAECESH/2gAMAwEAAhEDEQA/ANDqquplDT6NgUXlodGHWASfh07vHNrPg5zb2xkM7h5U00qKsR1y73JRhVNKIOnu8LPPAYJt9MaraBmviUTMZep1iKqnMKQ8r4ubkD42N9ms+H9IJU1AlRbSrMlx6qgyHR30O7D9aKmnXRTWH//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/xASIF9UTgon0v-07IUEEycBY2UPodo5GaPDpYe4HXNg.jpg",
+    "url": "https://preview.redd.it/p82ezozplgc21.jpg?width=640&crop=smart&auto=webp&s=e9cf1a280435c5aacc7a1049f6de7fa2733c8818",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 138,
+    "value": 138
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I decided to go for some oxidized copper for the Warhammer Killteam terrain.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ajiy6x/i_decided_to_go_for_some_oxidized_copper_for_the/"
+}

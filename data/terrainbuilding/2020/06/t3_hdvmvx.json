@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_132ilv",
+    "name": "andrewbroderick"
+  },
+  "date": {
+    "day": 1592784000,
+    "full": 1592843637,
+    "month": 1590969600,
+    "week": 1592697600
+  },
+  "id": "t3_hdvmvx",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 65857,
+    "fullUrl": "https://preview.redd.it/0a8tkc9eoh651.jpg?auto=webp&s=d5ac54edac4b04b3c7e32f758f87dcdab7be4f97",
+    "hash": "5a17cf0e7e",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgME/8QAJBAAAQQBBAAHAAAAAAAAAAAAAQIDBBEABQYSIQcTFTFBYZH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABkRAAIDAQAAAAAAAAAAAAAAAAABAgMRIf/aAAwDAQACEQMRAD8Ajv3xF1SRNbiMTvTnFRwzLW2SnziCewR7iiaF/OEo27jHjNwZbBDjaTxWlV8gSSL/AHNO4NNjKhSlrQVrCiLV30TgSHRlKCgCG6qx95Pqsj0XHBn/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/cP6CVAlmp9gV7MLbB2TmDEeHj9Mh-fLxAiDsdHOLGfI.jpg",
+    "url": "https://preview.redd.it/0a8tkc9eoh651.jpg?width=640&crop=smart&auto=webp&s=ae5304d56fbe3ddb86e1a3915eebb6fea5f756c5",
+    "width": 640
+  },
+  "score": {
+    "comments": 38,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 1634,
+    "value": 1634
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Built a new tower section for my Osgiliath battle board. It's like a maze of ruins at this point but so satisfying to look at",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/hdvmvx/built_a_new_tower_section_for_my_osgiliath_battle/"
+}

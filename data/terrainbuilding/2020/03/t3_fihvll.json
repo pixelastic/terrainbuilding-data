@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_5tuuuil",
+    "name": "Parataze"
+  },
+  "date": {
+    "day": 1584144000,
+    "full": 1584190268,
+    "month": 1583020800,
+    "week": 1583625600
+  },
+  "id": "t3_fihvll",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 64830,
+    "fullUrl": "https://preview.redd.it/u2q7skyhxmm41.jpg?auto=webp&s=77003dddb5d367d1f31dec0076ed473c93ddb700",
+    "hash": "be6d9099cd",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwUG/8QAIhAAAQQCAgMAAwAAAAAAAAAAAQIDBAURIQAGEjFRB0Fh/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABkRAAIDAQAAAAAAAAAAAAAAAAECAAMRIf/aAAwDAQACEQMRAD8ARqLr1HXVCq5ipgOOuALkqDIWla/HZyrOveANczfeeoUdrRqaEatq3vEqRJbZSgpIGR6xkfR85ThyqqxrmXpEtNapxJU9EecJKMjYBGj/AA/P1wo/KndOumskUPVkmUt5YEqa4ggJSk5DbflvZAydaGBwltUjAIjUuG1uT//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/3cJrRytL9oZfCusmAEQIAN0jI7yZc9H4nCPkZl_svfw.jpg",
+    "url": "https://preview.redd.it/u2q7skyhxmm41.jpg?width=640&crop=smart&auto=webp&s=0944b3a610baad29cd180fa25829554c5554a168",
+    "width": 640
+  },
+  "score": {
+    "comments": 10,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 239,
+    "value": 239
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "One of my light bulbs bust and I noticed it had a cool texture. All I had on hand was blutack but I reckon you could get a really nice hexagonal mesh pattern stamped on modelling clay for sci-fi settings.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/fihvll/one_of_my_light_bulbs_bust_and_i_noticed_it_had_a/"
+}

@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_3llq3hok",
+    "name": "johnpjones1775"
+  },
+  "date": {
+    "day": 1603497600,
+    "full": 1603575696,
+    "month": 1601510400,
+    "week": 1602979200
+  },
+  "id": "t3_jhhchu",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 46208,
+    "fullUrl": "https://preview.redd.it/6ble4yob44v51.jpg?auto=webp&s=a05e195be76bcc726eb0c178527ad3dc48cb1e58",
+    "hash": "36ef6442f1",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAJBAAAQMEAgEFAQAAAAAAAAAAAQIDBAUGESEABzESE0GB0dL/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERIf/aAAwDAQACEQMRAD8AW6868Qu3oQfwXFI9xwkjalbP59cy3ednM02nxpETTsdYQ7hJwErB9O/Hkcvt/smsRYzaGo1PwNbaV/XD7/vipXDQHoU5iGlpS0qy0hQIIOflR4LeDyn/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/ARwWncBKNfJFaplHOCbaQRzQDP39RvPdFHlSEMWbDJQ.jpg",
+    "url": "https://preview.redd.it/6ble4yob44v51.jpg?width=640&crop=smart&auto=webp&s=267620bff19efc2400e7b552f75f0c3726cb7cd1",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 0.91,
+    "ups": 18,
+    "value": 18
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP maya/Aztec style pyramid how should I add stairs/ramps? Cut them into the model or on top of the edges?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/jhhchu/wip_mayaaztec_style_pyramid_how_should_i_add/"
+}

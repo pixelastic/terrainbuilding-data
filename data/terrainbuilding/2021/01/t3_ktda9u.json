@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_6k9w23b9",
+    "name": "mcspeedysub"
+  },
+  "date": {
+    "day": 1610064000,
+    "full": 1610144383,
+    "month": 1609459200,
+    "week": 1609632000
+  },
+  "id": "t3_ktda9u",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 44900,
+    "fullUrl": "https://preview.redd.it/hf8cqmmeo6a61.jpg?auto=webp&s=8e98dbf57aa978d6511280f28b3562c7cc59164d",
+    "hash": "ed6388356d",
+    "height": 461,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQIFB//EACEQAAICAQQCAwAAAAAAAAAAAAECAxEEAAUSIRNRBkFx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQX/xAAaEQACAgMAAAAAAAAAAAAAAAAAAgEDESEx/9oADAMBAAIRAxEAPwDIsPZZIMRniWdncBi5yAgFi+lKnv1ehuG0QyQmdMpi0ABliaS+B/RVnSR/IMx0EcghYRv4weFEgdC6rUred3ysnPXEbxpDzW+K9nv7Jv3qjYtKLqOjk//Z",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/CbDu8FPldxmwK7rk1-tKcql8waFYls6vNKoc_JQXIB0.jpg",
+    "url": "https://preview.redd.it/hf8cqmmeo6a61.jpg?width=640&crop=smart&auto=webp&s=32567645175a6363ecca8bea9144a6d36cb5e1dc",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 0.75,
+    "ups": 6,
+    "value": 6
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Does anyone know how Matt made this pulsing light effect on Critical Role?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ktda9u/does_anyone_know_how_matt_made_this_pulsing_light/"
+}

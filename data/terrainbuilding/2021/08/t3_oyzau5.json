@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_5ngn5b9s",
+    "name": "FubarBohica"
+  },
+  "date": {
+    "day": 1628208000,
+    "full": 1628223269,
+    "month": 1627776000,
+    "week": 1627776000
+  },
+  "id": "t3_oyzau5",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 53751,
+    "fullUrl": "https://preview.redd.it/jqxtrwj7ynf71.jpg?auto=webp&s=b30df9a3a1e776ac9175728d9dad548f52117af6",
+    "hash": "03c09c019f",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAJxAAAAQEAwkAAAAAAAAAAAAAAQIDBAAFETEGB3ISFSEzNFFhcbL/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABgRAAIDAAAAAAAAAAAAAAAAAAARASFR/9oADAMBAAIRAxEAPwC5rIkzNjSYWYO5eVEqIFUG+yUAuHqtYb3W4ljJuzQYkRYpCUpU0gpQPHfjcYYy86M+gPmNFijlo6DRNuxzh//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/WvNETSw3tKxMNoWDb0DbZxFDvbw1_wE5bL2wRNak-ZM.jpg",
+    "url": "https://preview.redd.it/jqxtrwj7ynf71.jpg?width=640&crop=smart&auto=webp&s=57a65b0603f9ccf1f8e6eeaa4a737fdb0fb0bc78",
+    "width": 640
+  },
+  "score": {
+    "comments": 9,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 121,
+    "value": 121
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "It looks better in real life. I did go a little overboard with the wash",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/oyzau5/it_looks_better_in_real_life_i_did_go_a_little/"
+}

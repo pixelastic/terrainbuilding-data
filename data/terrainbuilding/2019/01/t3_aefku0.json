@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_oowid",
+    "name": "DC1346"
+  },
+  "date": {
+    "day": 1547078400,
+    "full": 1547095390,
+    "month": 1546300800,
+    "week": 1546732800
+  },
+  "id": "t3_aefku0",
+  "misc": {
+    "postHint": "self"
+  },
+  "picture": {
+    "filesize": 51329,
+    "fullUrl": "https://external-preview.redd.it/XClzc5BLFmTwdWkuxYyID3OA6iA-12tmgttIXwm-9p8.jpg?auto=webp&s=55747c133177102459e0ebb62006e53a0960eecb",
+    "hash": "a19c304948",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwUGB//EACcQAAECBAMJAQAAAAAAAAAAAAECAwAEBREGEiEHIjM0UXKBhLGy/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAcEQABBAMBAAAAAAAAAAAAAAACAAEEIQMREvD/2gAMAwEAAhEDEQA/AG+NcRMvViQelJcyrDCN7JdaXEpB8Ai5vprE41tMlkVJgSEqS62q+ZRAHW2sDq3IO9yvhjNKVxvYV+ojj5isPWmkiLcvq1//2Q==",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/cjE8uEpNPj8wCMHndX9vSSQs54JKO9tp7r-2nBjuae8.jpg",
+    "url": "https://external-preview.redd.it/XClzc5BLFmTwdWkuxYyID3OA6iA-12tmgttIXwm-9p8.jpg?width=640&crop=smart&auto=webp&s=a6b39b600cdd1df653db7938151d0f4b159535ca",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 0.81,
+    "ups": 3,
+    "value": 3
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "DIY paper buildings for 15 mm Napoleonics",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/aefku0/diy_paper_buildings_for_15_mm_napoleonics/"
+}

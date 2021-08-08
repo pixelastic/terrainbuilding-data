@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_tqfxc",
+    "name": "drpumpkinhead"
+  },
+  "date": {
+    "day": 1574640000,
+    "full": 1574718036,
+    "month": 1572566400,
+    "week": 1574553600
+  },
+  "id": "t3_e1n8y8",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 74425,
+    "fullUrl": "https://preview.redd.it/2fiqawrhjw041.jpg?auto=webp&s=f50eace3bc1f9ebc2421af5474133dc57b2d53e6",
+    "hash": "83b3b4c04d",
+    "height": 483,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQME/8QAIxAAAgEDBAEFAAAAAAAAAAAAAQIDBBEhABIxQQUTFCJRYf/EABQBAQAAAAAAAAAAAAAAAAAAAAX/xAAcEQABBQADAAAAAAAAAAAAAAABAAIDBBIhItH/2gAMAwEAAhEDEQA/AIVMcagervlPNpDgA8WHGsXkoJ6ub4qWrFFtgwZV6H4wHB74PWnnt7GFyql7FdxGQL6bSgp6OFGiS8jrdnbLHH3oea7iu2Qjt4kGV9SlgPC//9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/B4xOOh-CoqPsm3b4RMBo4yWTQalzPome_-qT-59-nOM.jpg",
+    "url": "https://preview.redd.it/2fiqawrhjw041.jpg?width=640&crop=smart&auto=webp&s=4231561b71b6404493921f80f3c454a2add93e1a",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.91,
+    "ups": 40,
+    "value": 40
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First piece of terrain - some dungeon tiles - built from BMC tutorials https://imgur.com/a/JOkaGUF",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/e1n8y8/first_piece_of_terrain_some_dungeon_tiles_built/"
+}

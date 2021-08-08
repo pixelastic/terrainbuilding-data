@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_ul4lvh2",
+    "name": "YeOleDirty"
+  },
+  "date": {
+    "day": 1564876800,
+    "full": 1564937882,
+    "month": 1564617600,
+    "week": 1564876800
+  },
+  "id": "t3_clylwd",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 91302,
+    "fullUrl": "https://preview.redd.it/fzt560l9qge31.jpg?auto=webp&s=2bb952f6d4ac98105395ddfbde573fd05ac3739e",
+    "hash": "5774536652",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQGB//EACEQAAEDBAMAAwAAAAAAAAAAAAECAwQABREhBjFBEmHw/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABkRAAIDAQAAAAAAAAAAAAAAAAEDAAIREv/aAAwDAQACEQMRAD8AmuUtrs853j8pqRBiTiEtuEK+DikK9KichWjnOuvKBwLh8G8Wm6vW0OKmNrS2XRtDWztIOlHH34K3B6JHvzAj3VlEhhKwQhXWe8/vKQjwodguEyFaYjUdlxlMlZBUoqXkjZJOqJR/Q2LcgrObP//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/UUN0-lrYBfAoCr1WlXePbXtORB2eUVbwmQjIkJpsH_E.jpg",
+    "url": "https://preview.redd.it/fzt560l9qge31.jpg?width=640&crop=smart&auto=webp&s=b85b26339e1dc9a65304ee8b6e355e6201593811",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 116,
+    "value": 116
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Working on some sigo terrain. Next step basing!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/clylwd/working_on_some_sigo_terrain_next_step_basing/"
+}

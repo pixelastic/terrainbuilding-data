@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_wpowt",
+    "name": "Marienburg-Freeguild"
+  },
+  "date": {
+    "day": 1564099200,
+    "full": 1564110215,
+    "month": 1561939200,
+    "week": 1563667200
+  },
+  "id": "t3_chxfut",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "filesize": 78392,
+    "fullUrl": "https://external-preview.redd.it/bogrus23YdMIPlR9jFupSxplPzz8lK-RTJK9I4yurUM.jpg?auto=webp&s=3f297cd9a533f2e5cf00c2795916a4f4623dcc99",
+    "hash": "282a53b747",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQF/8QAIRAAAQMEAgMBAAAAAAAAAAAAAQIDBAUGERIAITFBUWH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAv/EABkRAQACAwAAAAAAAAAAAAAAAAEAAhEhMf/aAAwDAQACEQMRAD8ABWnZDM4IlMmE/Fk5jsmW0trZW2CrPzPQ9/g5Pf1oU2kW+h6JGltVNtxCHEKW4UoBBKiM9EZHkHmZAvGs0B5aafIb0QdQlxpK8Z+EjI8+iOOapcsy5aCxT6q3GXHS61jRvVWNT1kHhy9llRrqf//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/QbLgS8NtIvFFYlH7f72wA537EfDNsO6hnZmuUZWbLuM.jpg",
+    "url": "https://external-preview.redd.it/bogrus23YdMIPlR9jFupSxplPzz8lK-RTJK9I4yurUM.jpg?width=640&crop=smart&auto=webp&s=b6c89d9d906bba8d1abfb5a4806eeca1e95d8171",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 22,
+    "value": 22
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Display Board Progress",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/chxfut/display_board_progress/"
+}

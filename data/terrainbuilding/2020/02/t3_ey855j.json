@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_ou4bfv7",
+    "name": "Lugzor"
+  },
+  "date": {
+    "day": 1580688000,
+    "full": 1580741178,
+    "month": 1580515200,
+    "week": 1580601600
+  },
+  "id": "t3_ey855j",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 54366,
+    "fullUrl": "https://preview.redd.it/ffic6azj1qe41.jpg?auto=webp&s=6937ed172682a1fd002fb7f9402c0105cb3fd8eb",
+    "hash": "9aba7fe2dc",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABwj/xAAjEAABBAEDBAMAAAAAAAAAAAABAgMEEQUAITEGBxNBYXGR/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABoRAQACAwEAAAAAAAAAAAAAAAEAAgMRIjH/2gAMAwEAAhEDEQA/ADTBZoQX5RmQY2QekxwhQmIC/Eq7oA8cgHcb/WmPPdu8LP6LTm8BDYiz2mUOOtMrCg4ki1XW1+x+ameHIUHViYiYp1dimwAVWbN386aMB3CYx/TseFGhZRD3hCFhIbCSoJok8Xto7w7iSpkq1fJ//9k=",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/PWqbQnlzcuIpKeKrkqlBre8vX1JLp2YDMIb0wRVb1N4.jpg",
+    "url": "https://preview.redd.it/ffic6azj1qe41.jpg?width=640&crop=smart&auto=webp&s=88963afefb734ce5e981512932c9bc93201a24cc",
+    "width": 640
+  },
+  "score": {
+    "comments": 21,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 696,
+    "value": 696
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Progress so far. Lots left to do.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ey855j/progress_so_far_lots_left_to_do/"
+}

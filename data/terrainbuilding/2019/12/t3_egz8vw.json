@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_l4e8qjw",
+    "name": "parasite3go"
+  },
+  "date": {
+    "day": 1577577600,
+    "full": 1577581611,
+    "month": 1575158400,
+    "week": 1577577600
+  },
+  "id": "t3_egz8vw",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 70520,
+    "fullUrl": "https://preview.redd.it/snyvkiik2h741.jpg?auto=webp&s=5ca11d28bf1fad284989822eed8872f286ce21f5",
+    "hash": "b0268bf54b",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwUG/8QAJBAAAQMCBgIDAAAAAAAAAAAAAQIDBAURAAYHEhMhIjEyQWH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGREAAgMBAAAAAAAAAAAAAAAAAQIAAxES/9oADAMBAAIRAxEAPwAyoF3A62wndI2gJuEkAffyGLU9XHRos0qVzqmFuxIsAloE+gO9xOFrNOmVXNZdqtHW1LQ45vLAPC62D0Qk+lC2NDlDSqC1SVDMsONIfdVvEceSWD+KHZURa5wNqgV5jRZjbP/Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/RV43EjHKgtCtJmCACgtvImPleFHYtvGyFQ-YVDw2xFc.jpg",
+    "url": "https://preview.redd.it/snyvkiik2h741.jpg?width=640&crop=smart&auto=webp&s=89b3e07cc584264cd19cd8fce15d8c786330e73b",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 0.93,
+    "ups": 60,
+    "value": 60
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Display diorama + custom Heroforge mini for friend's birthday",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/egz8vw/display_diorama_custom_heroforge_mini_for_friends/"
+}

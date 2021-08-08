@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_2squi4j8",
+    "name": "SocialistAlpaca"
+  },
+  "date": {
+    "day": 1571788800,
+    "full": 1571846615,
+    "month": 1569888000,
+    "week": 1571529600
+  },
+  "id": "t3_dm1e45",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 96370,
+    "fullUrl": "https://preview.redd.it/6keccsf2dbu31.jpg?auto=webp&s=8978c89ba8301ef4c8bcbadcb98eebc31af6e873",
+    "hash": "b0d3859735",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAIRAAAgICAQQDAAAAAAAAAAAAAQIDBAAREgUGITFRcaH/xAAVAQEBAAAAAAAAAAAAAAAAAAABBf/EAB0RAAICAQUAAAAAAAAAAAAAAAIRAQMABBIiMfH/2gAMAwEAAhEDEQA/AB17tUVo4VivG3YZWaQsGDIo1+nZ8A4ds9Ec11uVUZizcGk4lSv2Dvxm19GqQsnJkBYDWz71kjvSKOKoVSNQPjWEDtDlLWSz15WWOsU56c+5/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/h3DzIdKNkZxM5l7z132ED7Gw0G9avRhik_7wrc_FGfE.jpg",
+    "url": "https://preview.redd.it/6keccsf2dbu31.jpg?width=640&crop=smart&auto=webp&s=903092767083298bc1fa40073a38da5fffaed25d",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 0.95,
+    "ups": 17,
+    "value": 17
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First Small Ruinset I've ever made",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/dm1e45/first_small_ruinset_ive_ever_made/"
+}

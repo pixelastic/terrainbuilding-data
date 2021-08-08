@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_f7og4",
+    "name": "shtim"
+  },
+  "date": {
+    "day": 1592697600,
+    "full": 1592757976,
+    "month": 1590969600,
+    "week": 1592697600
+  },
+  "id": "t3_hda29b",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 74614,
+    "fullUrl": "https://preview.redd.it/bmk9nx1pla651.jpg?auto=webp&s=108f827f7c2ea526a9dfbd002dfe3b5470e4166e",
+    "hash": "0f8389b274",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFAABAAAAAAAAAAAAAAAAAAAABf/EACIQAAICAQQCAwEAAAAAAAAAAAECAwQFABEhMQYSByJhUf/EABUBAQEAAAAAAAAAAAAAAAAAAAIE/8QAGxEAAgEFAAAAAAAAAAAAAAAAAAECAxETITH/2gAMAwEAAhEDEQA/AH/MKbZIXYrNgw15p4zXeEejRsoYuJDvyp24/h20lEtjLWsbcEZxL0LTK6V5hKs6AAAluP3cfmjfkjFQLnEqu0ksMNKe0gk2P3XoddcaK8a9cFYqtjUWJbJjSaMj2RwdieD0eexsdSOpaXNDxs//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/XWXHD0jiyTfqpEHOg97172I-Twgzlf8HVuJ9usBEYxA.jpg",
+    "url": "https://preview.redd.it/bmk9nx1pla651.jpg?width=640&crop=smart&auto=webp&s=0b1bb7000a5f0c81b84f6a2b3533d021764ff3e3",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 63,
+    "value": 63
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Tester for my jungle terrain - any feedback or tips are welcome!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/hda29b/tester_for_my_jungle_terrain_any_feedback_or_tips/"
+}

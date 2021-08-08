@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_1erx8im4",
+    "name": "devilmanotis"
+  },
+  "date": {
+    "day": 1574553600,
+    "full": 1574605882,
+    "month": 1572566400,
+    "week": 1574553600
+  },
+  "id": "t3_e0z6kn",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 148891,
+    "fullUrl": "https://preview.redd.it/i0oniq07an041.jpg?auto=webp&s=56546732605322a090faaad1e03bfb978dc3bfde",
+    "hash": "f1a81b2e7f",
+    "height": 1138,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwUG/8QAKhAAAAUDAQUJAAAAAAAAAAAAAQIDBAUAERIGBxchMUETIlFTVZGV0eH/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAGBEBAAMBAAAAAAAAAAAAAAAAAQACEVH/2gAMAwEAAhEDEQA/ADeV2fxrqQXFmWWZK5HOqzWQC5MhMJMOAdzpx8Kibt5TzUfb9rX6LXDWW1CQbzMw6Esgou5AWrnEwgS5uyv0Abjy5Wpf3U6M9Nd/KqfVGpmqxtuT/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/CB_10bhboriRDaU5N984vJ46CST90jYvBEPEF-2Bpxc.jpg",
+    "url": "https://preview.redd.it/i0oniq07an041.jpg?width=640&crop=smart&auto=webp&s=cea6b1bd4df88d81a926dd56588c3e874ab2b91e",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.92,
+    "ups": 32,
+    "value": 32
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Downward spiral",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/e0z6kn/downward_spiral/"
+}

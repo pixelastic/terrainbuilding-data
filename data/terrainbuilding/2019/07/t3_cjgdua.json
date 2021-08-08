@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_l4ynp",
+    "name": "GrafGrobian"
+  },
+  "date": {
+    "day": 1564358400,
+    "full": 1564429798,
+    "month": 1561939200,
+    "week": 1564272000
+  },
+  "id": "t3_cjgdua",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 147506,
+    "fullUrl": "https://preview.redd.it/d694dd5hrad31.jpg?auto=webp&s=70ccce26aa578a3cf6f1c63671d1b3a1abfe508a",
+    "hash": "3a2e32e029",
+    "height": 1070,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAoDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAT/xAAjEAACAAUEAgMAAAAAAAAAAAABAgADBAUREiExMiNBYXKB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQP/xAAYEQADAQEAAAAAAAAAAAAAAAAAARECA//aAAwDAQACEQMRAD8AgsNXcpNsdhWeNFRQCQWH1GPyEyomM7GY4ZySWOOT7i21UFU1qaZKpxMUBMuOyc9VzuDtk+oNSHUdR0HO6huPiHchLo3Ef//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/bVnN93kZYkiO3RKcmx7ljUqUlhftb2l7a8P8vK_ZXnk.jpg",
+    "url": "https://preview.redd.it/d694dd5hrad31.jpg?width=640&crop=smart&auto=webp&s=ce22648be252143f7b23e2018d6f0e936e16c0a1",
+    "width": 640
+  },
+  "score": {
+    "comments": 12,
+    "downs": 0,
+    "ratio": 0.95,
+    "ups": 40,
+    "value": 40
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Made some Teleport Markers. Also my second try on OSL, feedback appreciated!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/cjgdua/made_some_teleport_markers_also_my_second_try_on/"
+}

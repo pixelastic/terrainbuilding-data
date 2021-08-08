@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_a6g5q",
+    "name": "lockedupsafe"
+  },
+  "date": {
+    "day": 1544659200,
+    "full": 1544660967,
+    "month": 1543622400,
+    "week": 1544313600
+  },
+  "id": "t3_a5o68m",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 71982,
+    "fullUrl": "https://preview.redd.it/6i3f76hlwx321.jpg?auto=webp&s=16cce3016c75eac35d18a59108c622c32a14b048",
+    "hash": "0aeea4f086",
+    "height": 455,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUH/8QAIhAAAgIBBAIDAQAAAAAAAAAAAQMCBBEABQYxEiEHIkFR/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABkRAQACAwAAAAAAAAAAAAAAAAEAEgIRE//aAAwDAQACEQMRAD8AN8a8G4JLjyLsLV2zuLlyS9jplMEnH2iRggRIIGe8HOf5W3HjNJu+Vbewna2JoTWtiIXCCsxOQI+Xo+8HJ9kjWecEnOvF1NM5wrMIlJYkcE4xpqVQr74pSYiKrT/KxDuLSDkeQ/ez3o92IPcM6k//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/H4IxeGPf-LeyAdQ8PTl9iy67aJpBqfrn-MmPsbYS87E.jpg",
+    "url": "https://preview.redd.it/6i3f76hlwx321.jpg?width=640&crop=smart&auto=webp&s=0915ed17c58f0884c222f1e5fd0923d0586f98f7",
+    "width": 640
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 52,
+    "value": 52
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Modular Gondorian-style fortress for GW's Middle Earth Strategy Battle game. Can be arranged as a triangle, square, hexagon or octagon (plus myriad other shapes).",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/a5o68m/wip_modular_gondorianstyle_fortress_for_gws/"
+}

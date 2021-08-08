@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_hzlby",
+    "name": "torealis"
+  },
+  "date": {
+    "day": 1470182400,
+    "full": 1470252184,
+    "month": 1470009600,
+    "week": 1469923200
+  },
+  "id": "t3_4w0b1r",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "filesize": 60173,
+    "fullUrl": "https://external-preview.redd.it/npEWHniNAglbmLCod3r1tQXNxfYFWi3vfxlqAXwF8_4.jpg?auto=webp&s=fdee09ddbe309f549a6a0c8b4e6fcef22af49af3",
+    "hash": "18eba99f4d",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAkEAACAgAFBAMBAAAAAAAAAAABAgMEAAUREiETIkFRBjFCYf/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAbEQACAQUAAAAAAAAAAAAAAAACAwABERMiYf/aAAwDAQACEQMRAD8AcMuZ3MvstWq5hMIQAkyqNsL+9v648aHEufh1iYm9fk3TWmDEr26Ej60H8GKCOObL8nV6t62nVZiy9TVeTpwNOOB4w5JujoV0idkIUBXB7l8ag+8CY/QQGLUmuYzLlp//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/GtGyZ5gg0P9rpVMNSVX1YYXjn4_ahUbRLM6ugxScscc.jpg",
+    "url": "https://external-preview.redd.it/npEWHniNAglbmLCod3r1tQXNxfYFWi3vfxlqAXwF8_4.jpg?width=640&crop=smart&auto=webp&s=20a35898aef0acf160cd47bba12adf947b5e785a",
+    "width": 640
+  },
+  "score": {
+    "comments": 18,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 81,
+    "value": 81
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Some updates on the Temple Board",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/4w0b1r/some_updates_on_the_temple_board/"
+}

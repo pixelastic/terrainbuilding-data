@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_553wp7",
+    "name": "ned_poreyra"
+  },
+  "date": {
+    "day": 1569196800,
+    "full": 1569242268,
+    "month": 1567296000,
+    "week": 1569110400
+  },
+  "id": "t3_d85y9x",
+  "misc": {
+    "postHint": "self"
+  },
+  "picture": {
+    "filesize": 140233,
+    "fullUrl": "https://external-preview.redd.it/q6eMb6Ad9hfvIbFvoYJ4PEhfaaCQt95nq7hJZJ6AY1I.jpg?auto=webp&s=9c8fe51bfd19ed9ef365a19644a5680bd5ff72de",
+    "hash": "c8d71cfb30",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMFBv/EACMQAAIBAwMEAwAAAAAAAAAAAAECAwQRIQASUQUTMUEVIoH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABoRAAICAwAAAAAAAAAAAAAAAAECAAMSIUH/2gAMAwEAAhEDEQA/AMd8hG1JVlZ0eKOYrSog+oiNm2+fW4r+amVFakXUD2oxICjACKMAXNuMW50tqWOmNUlNTyvFuDqxjKWJN8jIPHn1o6fu9xrRWLEKTs5OcarjLkVuF2DP/9k=",
+    "thumbnailUrl": "self",
+    "url": "https://external-preview.redd.it/q6eMb6Ad9hfvIbFvoYJ4PEhfaaCQt95nq7hJZJ6AY1I.jpg?width=640&crop=smart&auto=webp&s=be73b339b7ca5ae9b0c87eef5f566368e745e0d7",
+    "width": 640
+  },
+  "score": {
+    "comments": 12,
+    "downs": 0,
+    "ratio": 0.9,
+    "ups": 7,
+    "value": 7
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "How do you do riveting (efficiently)?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/d85y9x/how_do_you_do_riveting_efficiently/"
+}

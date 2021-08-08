@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_39awa4qx",
+    "name": "Maria-Ruddick"
+  },
+  "date": {
+    "day": 1555200000,
+    "full": 1555268301,
+    "month": 1554076800,
+    "week": 1555200000
+  },
+  "id": "t3_bd65u7",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 31195,
+    "fullUrl": "https://preview.redd.it/yrkktkwm1as21.jpg?auto=webp&s=2926a4092d8c6aaa651aa8c9a93a9a23e8c043f6",
+    "hash": "5c5c70e6bc",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQH/8QAIhAAAQMDBAMBAAAAAAAAAAAAAQIDBAAFBhEhMUIHQWGB/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABcRAAMBAAAAAAAAAAAAAAAAAAABIUH/2gAMAwEAAhEDEQA/AH/kg5JHgt2/DbKqQ5KaUHZidAI/oAfed6K4nZ87g3dtu9wUOWd1IadDstLimgO6Rr+ab1tfQVFM4NBwaqz/2Q==",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/gE3fYhsBiWcJ-YUHwnU5OeJw7Ywz1MunrvAjch8hhp8.jpg",
+    "url": "https://preview.redd.it/yrkktkwm1as21.jpg?width=640&crop=smart&auto=webp&s=aad1fc0a24ed333c1ea64a98c9d019733e12e2be",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.96,
+    "ups": 43,
+    "value": 43
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First attempt at wargaming terrain made from xps foam. Highly recommended material ^•^",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/bd65u7/first_attempt_at_wargaming_terrain_made_from_xps/"
+}

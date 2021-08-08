@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_cduzz",
+    "name": "Shellout"
+  },
+  "date": {
+    "day": 1542672000,
+    "full": 1542731004,
+    "month": 1541030400,
+    "week": 1542499200
+  },
+  "id": "t3_9ytmt6",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 43353,
+    "fullUrl": "https://preview.redd.it/9ji5hjathiz11.jpg?auto=webp&s=10180a5a79b2edd76e7970882607f9323a692f26",
+    "hash": "dd9da65deb",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMF/8QAIxAAAgECBQUBAAAAAAAAAAAAAQMCAAUEERIhNAYxQUJxgf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/8QAGhEAAgIDAAAAAAAAAAAAAAAAABIBAgMTMv/aAAwDAQACEQMRAD8AulN1wS5qtisSXGembZqM4EAev7t2o7xeDLFLuKXSLkiMJzUYwXIZ5agNvO5rCsvCV8FD6o4M/lOm3TERmoqof//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/faTcTTNlNLULF_mvlVqs_hUlTegjWsxdSMBY-hGeggA.jpg",
+    "url": "https://preview.redd.it/9ji5hjathiz11.jpg?width=640&crop=smart&auto=webp&s=69ad119808d773be7c74cac010e2ed2f0b5d9ed3",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "ratio": 0.86,
+    "ups": 10,
+    "value": 10
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Another WIP: cave sections",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/9ytmt6/another_wip_cave_sections/"
+}

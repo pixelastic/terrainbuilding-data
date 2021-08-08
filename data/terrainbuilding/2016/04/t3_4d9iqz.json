@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_i6ifd",
+    "name": "arbiter959"
+  },
+  "date": {
+    "day": 1459728000,
+    "full": 1459743398,
+    "month": 1459468800,
+    "week": 1459641600
+  },
+  "id": "t3_4d9iqz",
+  "misc": {
+    "postHint": "self"
+  },
+  "picture": {
+    "filesize": 41514,
+    "fullUrl": "https://external-preview.redd.it/WsXH3vc_2YdnPSD1ezAGhEwxEXUVa1vq0Ktl-GgaVYU.jpg?auto=webp&s=4df4b50ae56c1487f8d1e8cc0caf0e9530dba024",
+    "hash": "6185b7ea80",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFAABAAAAAAAAAAAAAAAAAAAABf/EACcQAAECBAMJAQAAAAAAAAAAAAECAwAEBhEFIUESExQ1NlFyc7LB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAL/xAAZEQEAAgMAAAAAAAAAAAAAAAABABECAxL/2gAMAwEAAhEDEQA/AGK2qiRwnA1MSquHnC0bKtdLZFgQdQc+2sF09Uzs07h0s+lRnUNjeTRWnZcscrZ3OkEVf1aj1p/YXo/nivFf2YO1viSYhTP/2Q==",
+    "thumbnailUrl": "self",
+    "url": "https://external-preview.redd.it/WsXH3vc_2YdnPSD1ezAGhEwxEXUVa1vq0Ktl-GgaVYU.jpg?width=640&crop=smart&auto=webp&s=803992fc42d80fe01697865cde4ce2af41f0a8c9",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.95,
+    "ups": 15,
+    "value": 15
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "1/8 scale bits to base Team Fortress figures",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/4d9iqz/18_scale_bits_to_base_team_fortress_figures/"
+}

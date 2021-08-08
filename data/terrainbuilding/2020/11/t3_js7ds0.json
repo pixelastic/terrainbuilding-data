@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_se298",
+    "name": "timeactor"
+  },
+  "date": {
+    "day": 1605052800,
+    "full": 1605098288,
+    "month": 1604188800,
+    "week": 1604793600
+  },
+  "id": "t3_js7ds0",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "filesize": 48857,
+    "fullUrl": "https://external-preview.redd.it/0rs_vv5tWZu3iva1Z0YF2d_nckAQ7Tg4-wnpreolwE8.jpg?auto=webp&s=c3d42a6e4c5e3668024d946276fc434119041610",
+    "hash": "009a8d309e",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMH/8QAJRAAAQQBAwIHAAAAAAAAAAAAAQIDBBEFABIhEzEUIlFSYXGR/8QAFAEBAAAAAAAAAAAAAAAAAAAAAf/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AMbw2OhJxzcmSx4p92yltRIbbTfBIHKifwDRsvj4rkR6RGabjPNDeUIUShabo0CTRF337avic1Fcxcdh91LEmMnpjeKS4iyQQfUXVH40bJZaGiDKQ0pD8mQjpDaPK2m+VE+6hQ+70B//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/kDS4jfVQyy_cNwNwUPNrlxZQNpy09sq6QRkg_UnC62Q.jpg",
+    "url": "https://external-preview.redd.it/0rs_vv5tWZu3iva1Z0YF2d_nckAQ7Tg4-wnpreolwE8.jpg?width=640&crop=smart&auto=webp&s=6451d49f908e2718cf1ca93b3f35cc2cd4e28015",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 0.96,
+    "ups": 29,
+    "value": 29
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Model-Study for a Lava-Base",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/js7ds0/modelstudy_for_a_lavabase/"
+}

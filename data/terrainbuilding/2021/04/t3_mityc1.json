@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_903etzw",
+    "name": "BOXone9one"
+  },
+  "date": {
+    "day": 1617321600,
+    "full": 1617398440,
+    "month": 1617235200,
+    "week": 1616889600
+  },
+  "id": "t3_mityc1",
+  "misc": {
+    "postHint": "self"
+  },
+  "picture": {
+    "filesize": 50421,
+    "fullUrl": "https://external-preview.redd.it/9XTZJifqJYpjC_CkrJvYQYGN5LmMTC0OjjVnAY7tVvU.jpg?auto=webp&s=6ffdacabc2369489cf1c40903474ae06f6d6216b",
+    "hash": "bfb3c194e3",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUG/8QAJhAAAgECBAUFAAAAAAAAAAAAAQMCBBEABQYhBxMxYXEiI1Fi0f/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oADAMBAAIRAxEAPwDIQ0OM1oqehrUoUpF5SqQPcl6TYX8/mITeF3LMgSdjt9h8jD6TiNkb1JOYzqYuWLghdwDv0IPjCI6wTVUsJZKsMSsyvJzYqMSANhGUrkAHr37YJJj/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/WUoVkzbN-y_Bz-VE7X56GKdbYzprVPaCNX55wBwvYxA.jpg",
+    "url": "https://external-preview.redd.it/9XTZJifqJYpjC_CkrJvYQYGN5LmMTC0OjjVnAY7tVvU.jpg?width=640&crop=smart&auto=webp&s=2d65e4397fb350124add0707cbe93ce1f8fd9493",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 0.81,
+    "ups": 3,
+    "value": 3
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Free STL Terrain!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/mityc1/free_stl_terrain/"
+}

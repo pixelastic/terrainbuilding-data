@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_2o6i1m8f",
+    "name": "ekhitapan"
+  },
+  "date": {
+    "day": 1588464000,
+    "full": 1588541283,
+    "month": 1588291200,
+    "week": 1588464000
+  },
+  "id": "t3_gcym9h",
+  "misc": {
+    "postHint": "self"
+  },
+  "picture": {
+    "filesize": 76088,
+    "fullUrl": "https://external-preview.redd.it/K6nI_cTEFJ1vZcQcpo4QVoOvStqjXvr3LRSRwBzxR7U.jpg?auto=webp&s=82c9af28490ea9786c3b32605e39e1f446c88d5d",
+    "hash": "c5ad287d03",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgUG/8QAIRAAAQMEAgMBAAAAAAAAAAAAAQIDBAAFESESEzFBYcH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAGxEAAgIDAQAAAAAAAAAAAAAAAQIAEQMEQRP/2gAMAwEAAhEDEQA/ADChX+cy53TDDiBRAJVwCt+sbNAx7TbcsuSZE2e6nbbRJ3nyB5I+mo8mfMffahmS4htS+HJGAoAqI0cardS7dFsNlW1bGUtLcI7HyOTrn0qO/wAo00lSsmRiTyH6liUQVXZ//9k=",
+    "thumbnailUrl": "self",
+    "url": "https://external-preview.redd.it/K6nI_cTEFJ1vZcQcpo4QVoOvStqjXvr3LRSRwBzxR7U.jpg?width=640&crop=smart&auto=webp&s=a203507318590a923e63dae3d6d84d4486a10752",
+    "width": 640
+  },
+  "score": {
+    "comments": 9,
+    "downs": 0,
+    "ratio": 0.78,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Help for a beginner! Base material? Add more interest?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/gcym9h/help_for_a_beginner_base_material_add_more/"
+}

@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_mmgf9i7",
+    "name": "Claxell"
+  },
+  "date": {
+    "day": 1609632000,
+    "full": 1609699567,
+    "month": 1609459200,
+    "week": 1609632000
+  },
+  "id": "t3_kpq7dg",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 78832,
+    "fullUrl": "https://preview.redd.it/58focbnqx5961.jpg?auto=webp&s=2cb7acbcaff6496f501bf467a6db749a0fdb8bdf",
+    "hash": "e7d78db9ff",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQIG/8QAIxAAAgEDAgcBAAAAAAAAAAAAAQMCBAURABMGBxQhMUFRUv/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAYEQEAAwEAAAAAAAAAAAAAAAABAAIRA//aAAwDAQACEQMRAD8ASPNO/gsqELYutqqfbktgwsGJwGj2CR91Vs5k3FPGwdcmiVPNRkaVTsx3CuIMh5/J7ay/FJ6OLWIEYzaRInGSM9iB8GNCW+qmpddGMYY3wrx6PY6NezFnM3Gf/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/XL-SOAUrn4y6t3IQBi7JhETFY72k1nZLEqS1v3BY0nU.jpg",
+    "url": "https://preview.redd.it/58focbnqx5961.jpg?width=640&crop=smart&auto=webp&s=e1f129c1caf1c81ca4250ae246568b8bda9ccbfb",
+    "width": 640
+  },
+  "score": {
+    "comments": 23,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 72,
+    "value": 72
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Alright friends! The time has come for me to ask you for help! These rocky walls have an amazing texture that I would very much like to learn! Does anybody here know of this method or similar techniques?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/kpq7dg/alright_friends_the_time_has_come_for_me_to_ask/"
+}

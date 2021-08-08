@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_17j9l0",
+    "name": "mproteau"
+  },
+  "date": {
+    "day": 1603324800,
+    "full": 1603331770,
+    "month": 1601510400,
+    "week": 1602979200
+  },
+  "id": "t3_jfqndm",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 37737,
+    "fullUrl": "https://preview.redd.it/1a8mnspyyju51.jpg?auto=webp&s=4c397bc24ead00378d304369b1caa3c3957fa984",
+    "hash": "c47c5164b9",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAYH/8QAJRAAAgEDBAIBBQAAAAAAAAAAAQIDBAURAAYSIQcTMSRBQlFx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABcRAQADAAAAAAAAAAAAAAAAAAABESH/2gAMAwEAAhEDEQA/AKfdnkmaybirrOll9700/qWU1QVZRxB666bJGR3jRdv+S5LlfbfbKuySxNVhV90U6soZj0QD+P77J1sd82pZ77JDJcKNGmicSLIo4ucHPEkfKnrI++NFt+zbJaK8V1HSfVBeCO7FjGAoXC5+MgDP80NO4f/Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/codqIHcvlTFTK5c3-M5Q2_3Sq6VuQfbs84YRU77HSAY.jpg",
+    "url": "https://preview.redd.it/1a8mnspyyju51.jpg?width=640&crop=smart&auto=webp&s=fa1234bb6f36d892284826e9de8c0f8538f4dc54",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 79,
+    "value": 79
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Finally finished all my bookshelf paper models!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/jfqndm/finally_finished_all_my_bookshelf_paper_models/"
+}

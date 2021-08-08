@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_nmhmh",
+    "name": "FailFailWin"
+  },
+  "date": {
+    "day": 1583625600,
+    "full": 1583683347,
+    "month": 1583020800,
+    "week": 1583625600
+  },
+  "id": "t3_ffei43",
+  "misc": {
+    "postHint": "hosted:video"
+  },
+  "picture": {
+    "filesize": 2479,
+    "fullUrl": "https://external-preview.redd.it/iYVtclBHL8Loy0nbEHOTiU258DCH0xkBbTNzwOQ-8f8.png?format=pjpg&auto=webp&s=3bc88ba46a28684b192f47bd7cbb6de53561742a",
+    "hash": "583adc9b26",
+    "height": 360,
+    "lqip": "data:image/png;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAj/xAAUEAEAAAAAAAAAAAAAAAAAAAAA/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AJUAB//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/LgIyrztxQiOOxWPzT-JPrTlyyupMJnp2UzZQUFLMahY.jpg",
+    "url": "https://external-preview.redd.it/iYVtclBHL8Loy0nbEHOTiU258DCH0xkBbTNzwOQ-8f8.png?width=640&crop=smart&format=pjpg&auto=webp&s=d55873c55d48b671357121cea92a7e8c6fd426a2",
+    "width": 640
+  },
+  "score": {
+    "comments": 36,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 1052,
+    "value": 1052
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Homemade modular terrain system I developed for my group - tutorial and more examples in comments!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ffei43/homemade_modular_terrain_system_i_developed_for/"
+}

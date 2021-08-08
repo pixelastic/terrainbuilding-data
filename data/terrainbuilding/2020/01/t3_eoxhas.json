@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_4r1vgm3l",
+    "name": "Casual_Murder"
+  },
+  "date": {
+    "day": 1579046400,
+    "full": 1579062931,
+    "month": 1577836800,
+    "week": 1578787200
+  },
+  "id": "t3_eoxhas",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 53755,
+    "fullUrl": "https://preview.redd.it/8zpwb3fafva41.jpg?auto=webp&s=67195594e6bcb8a3d293b7fe24f88b9354b1137e",
+    "hash": "b46a4a26c3",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQf/xAAlEAABAwMDAwUAAAAAAAAAAAABAgMEABEhBjFRBRJxFCNBYYH/xAAVAQEBAAAAAAAAAAAAAAAAAAABBP/EABkRAAIDAQAAAAAAAAAAAAAAAAABAgQRMf/aAAwDAQACEQMRAD8AsMbqLMFxr1CwI6sLXY2aPwSeDt5tzTyZImxg7dSkm/aVAjHg5qDy9Z6ifjJbYbhG60E+yRsoHn6pGTrfUMh+OXBE7UErJCNzbGL55/KcZO7EN6f/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/zYsy8fC9ZeL0zEXY2zChmHr6HOHDEC9G7EKf9iYsXgs.jpg",
+    "url": "https://preview.redd.it/8zpwb3fafva41.jpg?width=640&crop=smart&auto=webp&s=a5bbdf1344f4c67a49a995dda450db5d10fcb6ff",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "ratio": 0.96,
+    "ups": 29,
+    "value": 29
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Dipping my toes in the hobby with some WiP wireframe trees!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/eoxhas/dipping_my_toes_in_the_hobby_with_some_wip/"
+}

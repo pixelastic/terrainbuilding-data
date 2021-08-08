@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_10bjw9",
+    "name": "sFAMINE"
+  },
+  "date": {
+    "day": 1626307200,
+    "full": 1626327987,
+    "month": 1625097600,
+    "week": 1625961600
+  },
+  "id": "t3_okmhfk",
+  "misc": {
+    "postHint": "hosted:video"
+  },
+  "picture": {
+    "filesize": 16397,
+    "fullUrl": "https://external-preview.redd.it/uNqMNQEWKhdO-mCzvfVr4hW2eWAHfHFvXCUUF57RH1o.png?format=pjpg&auto=webp&s=d0d5908636b258227ad2204cf30e65536e9889a0",
+    "hash": "a1d25ccd83",
+    "height": 360,
+    "lqip": "data:image/png;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQQGB//EACUQAAECBAQHAAAAAAAAAAAAAAECAwAEBQcREnSyEyEiNDVBcf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAZEQACAwEAAAAAAAAAAAAAAAACEgABESH/2gAMAwEAAhEDEQA/AM3smiZTQKs9IFBmBMNpyOHpKcpx+wL6uS5kqchhwqXxlFxIJwCsg9Y8obsH4Sr6hG0xN3f7teqVtEGCsW12IWrU/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/Ca5wLy2h2YE4toF78VPqOm0JsRbWFCL4PxFuKfTuTCc.jpg",
+    "url": "https://external-preview.redd.it/uNqMNQEWKhdO-mCzvfVr4hW2eWAHfHFvXCUUF57RH1o.png?width=640&crop=smart&format=pjpg&auto=webp&s=fcf7e9635e3b27ee8b3d5a7106aca46da503cbea",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 227,
+    "value": 227
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Super Lazy Print Out Hazard Stripes",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/okmhfk/super_lazy_print_out_hazard_stripes/"
+}

@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_y6gja",
+    "name": "Tenurion"
+  },
+  "date": {
+    "day": 1628294400,
+    "full": 1628294801,
+    "month": 1627776000,
+    "week": 1627776000
+  },
+  "id": "t3_ozirhu",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 81376,
+    "fullUrl": "https://preview.redd.it/dbpx3tzwutf71.jpg?auto=webp&s=7326ad868d7ad5cdb60f99aa158daa18935f5403",
+    "hash": "a63673e8ff",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQQFBv/EACQQAAEEAQMDBQAAAAAAAAAAAAECAwQRBQASIQYiYSQxQVGR/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABcRAQEBAQAAAAAAAAAAAAAAAAEAESH/2gAMAwEAAhEDEQA/AKKMJnsYw60xiTLZWVK3Ikp7lE2CWyeBfnQxGF6pYjuByLHWpbhX6iSdwuuOLFXplWOj4dE9mfOkQ3ng44zICErYdHJpKSOxY+vzWPi9Pzcg2ZUdjLutuG97D1IUfaxuPj440QYyvS//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/S7udhMU_OTIQFl32ygS6PxAEZLuI1NidcPPMv-P5YoU.jpg",
+    "url": "https://preview.redd.it/dbpx3tzwutf71.jpg?width=640&crop=smart&auto=webp&s=19481aaea11794a89a3f8c947e46f86938df41c5",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 253,
+    "value": 253
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Working on a half-timbered \"Long-House\". The roof will be thatched and the inside will be playable since it is quite big.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ozirhu/working_on_a_halftimbered_longhouse_the_roof_will/"
+}

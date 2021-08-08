@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_h0141",
+    "name": "Zulathan"
+  },
+  "date": {
+    "day": 1573948800,
+    "full": 1574011770,
+    "month": 1572566400,
+    "week": 1573948800
+  },
+  "id": "t3_dxphik",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 111165,
+    "fullUrl": "https://preview.redd.it/bki3uigl7az31.jpg?auto=webp&s=97f4a59b237d396e1f370b446ad2ccaff42e6cff",
+    "hash": "a0d1c73d8c",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGB//EACEQAAIBAwQDAQAAAAAAAAAAAAECAwQREgAFMUEGIVLR/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABcRAQEBAQAAAAAAAAAAAAAAAAECAwD/2gAMAwEAAhEDEQA/AMOoPDamSFZpKiJY3AxKhmvfrju+h6nwjdTJlRKlVGRcspxxPyQe/wB1d7YtZQbW9LOVaRLNCec/foaV7rWwtWuZopYJeHjU2xPdwbWOhTrqWlchjNgZ7//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/zKhjfoVxu0ek2ItZL6M-EMl_Wnv9pEHmx3bYfVyBU4U.jpg",
+    "url": "https://preview.redd.it/bki3uigl7az31.jpg?width=640&crop=smart&auto=webp&s=3dbaa37b94dcf695a34fac15140f0bdcf85e14bd",
+    "width": 640
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 45,
+    "value": 45
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Update on the shingles.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/dxphik/update_on_the_shingles/"
+}

@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_3jt503yv",
+    "name": "Hexhog06"
+  },
+  "date": {
+    "day": 1573171200,
+    "full": 1573247808,
+    "month": 1572566400,
+    "week": 1572739200
+  },
+  "id": "t3_dtlz6a",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 92945,
+    "fullUrl": "https://preview.redd.it/truqljrx3jx31.jpg?auto=webp&s=d4ef80fd15f38290f74d2cf65d651c67d7b2098b",
+    "hash": "f74493cb86",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYI/8QAJhAAAgECBAUFAAAAAAAAAAAAAQIDBBEABSExBhITFGEHI1Ficf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAYEQADAQEAAAAAAAAAAAAAAAAAAQIRQf/aAAwDAQACEQMRAD8AFp/T2ORDVPl8TI4HudWNVK2tdTc31N9Dt82wRUcAM1QBS07iR3aOJTIChkBty81yN/O2IXIOKs44crO0y6rbspLK9LMOpEwP1Og/RY40Zk8VNmMOSxz0cApZXgd6dQemS0nKdCSfO++AueCw2np//9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/dcJSTDNdmne_h66qZizaN2L5BTPYydb42ls2KVgb66c.jpg",
+    "url": "https://preview.redd.it/truqljrx3jx31.jpg?width=640&crop=smart&auto=webp&s=570da5d10a32aac138b8ca5b44d107e12541bcf3",
+    "width": 640
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 250,
+    "value": 250
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Winter board ~2’x2.5’, modular 3d printed pieces",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/dtlz6a/winter_board_2x25_modular_3d_printed_pieces/"
+}

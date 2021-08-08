@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_itgid",
+    "name": "blockypigeon"
+  },
+  "date": {
+    "day": 1584576000,
+    "full": 1584629782,
+    "month": 1583020800,
+    "week": 1584230400
+  },
+  "id": "t3_flbc80",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 95243,
+    "fullUrl": "https://preview.redd.it/18pgg34e8nn41.jpg?auto=webp&s=e2df7fdb451fcbcc975ab2bb5a4d93bfc10f5bd3",
+    "hash": "cdcb81fea9",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAJRAAAgIBAgQHAAAAAAAAAAAAAQIDBAUAEQYhMWESExVBUWLR/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABkRAAIDAQAAAAAAAAAAAAAAAAECAAMRIf/aAAwDAQACEQMRAD8AK2ODUgz6TUndnEgYxWQCYiDvuDyPXtvqtksDektFpMckznmZHrKxYkk9fjnrRPQ6+WpR2sXZkZvCNncl/MH29/zRTNPlcJeNRbzRgAMFVSQN+50SB25sWwqDuT//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/NBuRj7JCcHquB_sme0kT2NSz-sckgf4ZlrM6NLv3WaA.jpg",
+    "url": "https://preview.redd.it/18pgg34e8nn41.jpg?width=640&crop=smart&auto=webp&s=7c589dfea67aa69362204e1652d7cc53d38dc66e",
+    "width": 640
+  },
+  "score": {
+    "comments": 30,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 1390,
+    "value": 1390
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "The finished sprue bridge",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/flbc80/the_finished_sprue_bridge/"
+}

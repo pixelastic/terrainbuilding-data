@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_amjl4",
+    "name": "Giddius"
+  },
+  "date": {
+    "day": 1481587200,
+    "full": 1481636956,
+    "month": 1480550400,
+    "week": 1481414400
+  },
+  "id": "t3_5i3nut",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "filesize": 112000,
+    "fullUrl": "https://external-preview.redd.it/fU1qrsFEUK00nMpZGeTx62BeAVf7_5E3jmXzykE8ADA.jpg?auto=webp&s=39b54a18480a1af5b1cb6cc95e2c968933e9e14c",
+    "hash": "25868021eb",
+    "height": 1026,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwUG/8QAIhAAAgICAwABBQAAAAAAAAAAAQIDBAURABIhBiQxQWGh/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABcRAQEBAQAAAAAAAAAAAAAAAAEAEQL/2gAMAwEAAhEDEQA/AMhfgylAJk8RJ9EYI0KyICpkbbdSCd7AZfR+/fOJGOwFK7j61o5GshniWXqUbY7AHX95Iv4bOWvlONwlX49YapUVYIbNuLqywp11I0g2oJK/jfjEccaGGsQUa8MlqkXjjVD1jbWwNebP24AOzLzl/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/U3ZQraxN9nh_YggLFHdSAEbk4dC7B9AoioUAwlMrUpg.jpg",
+    "url": "https://external-preview.redd.it/fU1qrsFEUK00nMpZGeTx62BeAVf7_5E3jmXzykE8ADA.jpg?width=640&crop=smart&auto=webp&s=c46241551454505c6d6917088c7e65480a0c1b60",
+    "width": 640
+  },
+  "score": {
+    "comments": 21,
+    "downs": 0,
+    "ratio": 0.94,
+    "ups": 42,
+    "value": 42
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Some 3D printed terrain(I know it's lazy)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/5i3nut/some_3d_printed_terraini_know_its_lazy/"
+}

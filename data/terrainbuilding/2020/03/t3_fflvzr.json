@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_bdcwl",
+    "name": "blargney"
+  },
+  "date": {
+    "day": 1583712000,
+    "full": 1583712815,
+    "month": 1583020800,
+    "week": 1583625600
+  },
+  "id": "t3_fflvzr",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 53071,
+    "fullUrl": "https://preview.redd.it/6b2d072qhjl41.jpg?auto=webp&s=8557caed8a6bf6f595ee89b0bd95cd853d97094f",
+    "hash": "4dfe728c76",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAYHCP/EACQQAAIBAwMDBQAAAAAAAAAAAAECAwAEEQUSIQYxQQcTJHGR/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABkRAQADAQEAAAAAAAAAAAAAAAEAAhESMf/aAAwDAQACEQMRAD8Al6+nuq2cbXerWvt7pAixKp8kkngHjsPs039IdCSvHcyyRw2aS2zQh7hC+GYgbSMeR+ZrRLWNvKzGaMSY4G7nAoVtKsSW+NGD3yBRBbrXyIoVwn//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/AbWJdAMGVkZwahuq3Ks90iVTtuurcJDK1GPe2b0_68w.jpg",
+    "url": "https://preview.redd.it/6b2d072qhjl41.jpg?width=640&crop=smart&auto=webp&s=1e01744e8a957ba42be8045782683874f7a67a0c",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 42,
+    "value": 42
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Stained glass window WIP",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/fflvzr/stained_glass_window_wip/"
+}

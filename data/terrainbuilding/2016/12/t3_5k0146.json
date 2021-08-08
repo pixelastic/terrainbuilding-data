@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_10bjw9",
+    "name": "sFAMINE"
+  },
+  "date": {
+    "day": 1482451200,
+    "full": 1482534936,
+    "month": 1480550400,
+    "week": 1482019200
+  },
+  "id": "t3_5k0146",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 68189,
+    "fullUrl": "https://preview.redd.it/4jsr31kyfe5y.jpg?auto=webp&s=584c885ae1dd5f7a449c8e15818290318089c481",
+    "hash": "ffd1a3d05d",
+    "height": 441,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQf/xAAgEAACAgEFAAMAAAAAAAAAAAABAgMEBQAGERIhMYGx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAYEQADAQEAAAAAAAAAAAAAAAAAAQIDMf/aAAwDAQACEQMRAD8Alm7dtQZatTyJntR2pIViWJoD1LKfgk8EeE+6J3DsFqdeKWtHbV5AAsRiLffOqLlMrfWlLTW5YFZHBWPueBx7+knQqZnJNbZWvWWVm97SE8+aind8HqU2f//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/UQbgNi0wNk4R6aZobVL1HLGAl1RqshWRc6RJX5tF7xk.jpg",
+    "url": "https://preview.redd.it/4jsr31kyfe5y.jpg?width=640&crop=smart&auto=webp&s=f589ada6febc0afd9d894f0001609cb9db446a81",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 82,
+    "value": 82
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "City Work in Progress 10mm (Feat: Terrible Lighting)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/5k0146/city_work_in_progress_10mm_feat_terrible_lighting/"
+}

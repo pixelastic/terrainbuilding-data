@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_p1mbr",
+    "name": "gorka_la_pork"
+  },
+  "date": {
+    "day": 1586044800,
+    "full": 1586058641,
+    "month": 1585699200,
+    "week": 1586044800
+  },
+  "id": "t3_fv7duf",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 43394,
+    "fullUrl": "https://preview.redd.it/tl7t39kj8xq41.jpg?auto=webp&s=18f1ee63cb6cd76c8c2b7e57710cd7240856d65d",
+    "hash": "621a69ef31",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQIG/8QAIxAAAgEDBAEFAAAAAAAAAAAAAQIDAAQRBQYSEzEhMkFhof/EABUBAQEAAAAAAAAAAAAAAAAAAAIE/8QAGREAAgMBAAAAAAAAAAAAAAAAAAEREhMh/9oADAMBAAIRAxEAPwCm3Rrd5ekXz8GjU9llCMLGFb3FvlvzwPStjou5Bqdl2RYcKePNsjl90ZfQxGXuMSGUeGKjNEi6eyhEdsqIgzhQKGcdKqJn/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/Mf0JCYbgBzrc089wtbaaoC9pL6xMFzuRAlp8IUE7cKw.jpg",
+    "url": "https://preview.redd.it/tl7t39kj8xq41.jpg?width=640&crop=smart&auto=webp&s=883f36e44b390aff9f31ea1b5b279e2b7117ff0a",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 0.87,
+    "ups": 10,
+    "value": 10
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Finished my first cottage! Need tips and/or suggestions for this next related project (details in comments)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/fv7duf/finished_my_first_cottage_need_tips_andor/"
+}

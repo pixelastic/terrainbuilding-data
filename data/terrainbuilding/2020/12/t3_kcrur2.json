@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_7wxj0",
+    "name": "ceiling_face"
+  },
+  "date": {
+    "day": 1607904000,
+    "full": 1607925335,
+    "month": 1606780800,
+    "week": 1607817600
+  },
+  "id": "t3_kcrur2",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 97862,
+    "fullUrl": "https://external-preview.redd.it/k14xrpsDX4MDzYKV_WkJtD_VTKJG-9jrf3KTmWowBm4.jpg?auto=webp&s=0d7a4388d4b7a0df37f01be4ccc45e23d7ca1b18",
+    "hash": "fdb4181855",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQH/8QAJBAAAgIBAwMFAQAAAAAAAAAAAQIDBBEABSESMWEGFUJRoXH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABcRAAMBAAAAAAAAAAAAAAAAAAABETH/2gAMAwEAAhEDEQA/AFewx+51IpGjMdh2LdbkHKk/znj9Or7Vo7hQfbNgijkdVKPblbqgjI7gH5E/Q4H5rNqG925LzVHKGtFCuI8cEYHB8eNOK3qK6duVisGMMQoTCrgZAAHYeNTJQbT/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/gLDFk1jn6j7WLdasIbVaC9aSgYgBB3NMYcKpwmFW-dQ.jpg",
+    "url": "https://external-preview.redd.it/k14xrpsDX4MDzYKV_WkJtD_VTKJG-9jrf3KTmWowBm4.jpg?width=640&crop=smart&auto=webp&s=93d506edafc5f31347277f488d7b1506202ca135",
+    "width": 640
+  },
+  "score": {
+    "comments": 9,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 105,
+    "value": 105
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Marble effect painted onto EVA foam (12” by 15”)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/kcrur2/marble_effect_painted_onto_eva_foam_12_by_15/"
+}

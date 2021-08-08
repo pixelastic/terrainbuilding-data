@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_3szwe",
+    "name": "davema"
+  },
+  "date": {
+    "day": 1521590400,
+    "full": 1521648863,
+    "month": 1519862400,
+    "week": 1521331200
+  },
+  "id": "t3_863c12",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "filesize": 163400,
+    "fullUrl": "https://external-preview.redd.it/mgmY9AW7vZ9Lowmmy0DnrLQuJy8GT1oQyBGA_2ip_Xs.gif?format=png8&s=37b184beb6f35d396d2175ed67063084b7d9d4c9",
+    "hash": "9f7adb44cf",
+    "height": 359,
+    "lqip": "data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAABxElEQVQYlQG5AUb+AG9qa5CLh1NFRks7OlxMTVZKVWBQXUdEUDY+RDU3Ojk+P01QUF1cWU1KR2pgV8C3rwB4bWZ2b2d6cnGIf3iajYdzaml7a299XWFeTkt7eXdfX2NPTlBsamlnYFxwYlhrZV4AJSMiLC01TEhcZkVIYEVEjHdnso+Ak2dae1E7VUpDQUBAMjEyOUJgTFZ6WGN8Z11uACMgHTo/Om1PRl0zKG1UQ6p7WKJxUXZGLE8oFUkrFjshEjUvLExIRnp4cmJfW15BQgBZXVdrlpx7ioaATCmhdU3OoXK6i2GYYTSFUip3SiZNMBxmNTJkMyx5bFp7eWNOTT8AcZmgf6+6cYuRim1UwJly1KNsl2hCnGg+hkogbUAdMjEmPB4YLB0XPkpEcXFeWlhEAHuqsnyosWh+gUlIQXp1YLaAZJZvWKNxS4lHG1c3HTA2MlAoHjxHQEhtbVR1c4SIeQB1pKt3qbF1nKJce31ukZdyU0lkVUp6blaAXTxcX1RLam1bamZZg4hgkZtaiZRcgocAb5uhdJ6meaatf622fKewdYB2X3ZxZ4+YX4iPXYuUYJCaXY+ZXoyVXIqSXYmTWoOMaDKpolzhMVQAAAAASUVORK5CYII=",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/csDElmUiSYOgIAeOsyNxMTfTxom_FYhdiyp57K5so38.jpg",
+    "url": "https://external-preview.redd.it/mgmY9AW7vZ9Lowmmy0DnrLQuJy8GT1oQyBGA_2ip_Xs.gif?width=640&crop=smart&format=png8&s=e6b84208581fe5ebeb01bd97e5aa5a1a9feb43c5",
+    "width": 640
+  },
+  "score": {
+    "comments": 17,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 352,
+    "value": 352
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Power Generator for 40k",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/863c12/power_generator_for_40k/"
+}

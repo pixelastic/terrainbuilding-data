@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_10u9c0",
+    "name": "dreamspeakr"
+  },
+  "date": {
+    "day": 1586649600,
+    "full": 1586721794,
+    "month": 1585699200,
+    "week": 1586649600
+  },
+  "id": "t3_g03o4h",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 93343,
+    "fullUrl": "https://preview.redd.it/uo4nu2v01gs41.jpg?auto=webp&s=372860f0731e583e666ff2fc0d60cc856ba32fa2",
+    "hash": "ae5f34c382",
+    "height": 468,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAJBAAAgEDAwMFAAAAAAAAAAAAAQIDAAQRBQYSEyExFCJhkbH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAS/9oADAMBAAIRAxEAPwA9seKKC0IiYBlUEDsAPuqu67WzudPfrCNU4g4UhOw8/lZpoGqXNoIRGVYScUcMPIJ+KdSzGdbh5VQ+nh5KuPaSMYyKLpGQgl//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/AO09kDtVIBC9MBiiD4tQDisqQrI2xbVZOKmYb7M_8JQ.jpg",
+    "url": "https://preview.redd.it/uo4nu2v01gs41.jpg?width=640&crop=smart&auto=webp&s=c689fee55a15cbf900a143408bf303c928cf1967",
+    "width": 640
+  },
+  "score": {
+    "comments": 9,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 173,
+    "value": 173
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I think i fixed my ultimate dungeon terrain.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/g03o4h/i_think_i_fixed_my_ultimate_dungeon_terrain/"
+}

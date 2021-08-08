@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_3dhi1",
+    "name": "kagius"
+  },
+  "date": {
+    "day": 1608595200,
+    "full": 1608663564,
+    "month": 1606780800,
+    "week": 1608422400
+  },
+  "id": "t3_kiblye",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 26867,
+    "fullUrl": "https://preview.redd.it/wwniju55ds661.jpg?auto=webp&s=a89e86558f5383f24cb50f173f99808580a19ee8",
+    "hash": "06f3700609",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQYHCP/EACEQAAEDBAMAAwAAAAAAAAAAAAECAwQFBhESADFBBxMh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABoRAAICAwAAAAAAAAAAAAAAAAARASESMWH/2gAMAwEAAhEDEQA/AM02xRnbgrsOlsOJadkr0StSSoD8J6AJ4Llosq3q5Lpk9OH46yknBAUPFDPhHKLY/wArw7TtWNCj0Bl+qtFYVJJS2FpJJGxA2UcHHfg4pXve8675SZFQjRG3kt/Vu2gk6ZJCcnJHfBOTrQqXT//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/GNQeYzRGOKeK45KAAf7ryr2J6Nz56sDBRPFWRc2uguY.jpg",
+    "url": "https://preview.redd.it/wwniju55ds661.jpg?width=640&crop=smart&auto=webp&s=854f5860f31b06e62750345f8394c5647dab2cf2",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.95,
+    "ups": 16,
+    "value": 16
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Made a video about designing templates for gothic arches",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/kiblye/made_a_video_about_designing_templates_for_gothic/"
+}

@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_ld7e9",
+    "name": "Budobudo"
+  },
+  "date": {
+    "day": 1611619200,
+    "full": 1611670564,
+    "month": 1609459200,
+    "week": 1611446400
+  },
+  "id": "t3_l5eu6i",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 70828,
+    "fullUrl": "https://preview.redd.it/5kqdrfsiqod61.jpg?auto=webp&s=f02d31ecfa5d8dc6b09dfdcfe9e905b6f613248b",
+    "hash": "cbfbba2e64",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAIF/8QAIhAAAQMDBAMBAAAAAAAAAAAAAQIDBAUGEQATITESQVGB/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABkRAQADAQEAAAAAAAAAAAAAAAEAAgMxQf/aAAwDAQACEQMRAD8AldKt63qxBfisJbkBRLbinFKKVcAdk/TotxVxqJbgWw7vhhrxQhok5UR1j2eBodYhR4twUmOlvdbO04suqUorJ+nPXAH5rfu+3qZBYpsaNGSlM2ftvKUfIlPBwM5A+cDQq6ijXjGmC5tnyf/Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/qSq5ZVv0-L0gk0Co0xOckxUgZmBODaQm-gSde0Nr4gs.jpg",
+    "url": "https://preview.redd.it/5kqdrfsiqod61.jpg?width=640&crop=smart&auto=webp&s=78bb16c1bcbf7c40c8a9768dc6109bb731a25564",
+    "width": 640
+  },
+  "score": {
+    "comments": 13,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 38,
+    "value": 38
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "What am I doing wrong with my wash?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/l5eu6i/what_am_i_doing_wrong_with_my_wash/"
+}

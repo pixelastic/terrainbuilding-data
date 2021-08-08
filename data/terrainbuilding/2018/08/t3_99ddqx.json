@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_sis4g",
+    "name": "Slmounge"
+  },
+  "date": {
+    "day": 1534896000,
+    "full": 1534944896,
+    "month": 1533081600,
+    "week": 1534636800
+  },
+  "id": "t3_99ddqx",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 145614,
+    "fullUrl": "https://preview.redd.it/92c4juhpdnh11.jpg?auto=webp&s=16ad53fab039d0ee79307193ae8cbf0691bda74a",
+    "hash": "d636900a0a",
+    "height": 1138,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgX/xAAoEAABAwMCAwkAAAAAAAAAAAABAgMFAAQRBhITFlUXISMxQXGUldH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABoRAAIDAQEAAAAAAAAAAAAAAAECABEhEhP/2gAMAwEAAhEDEQA/AB11pSTjpBu2euI7irKTuNtuCT3DARjz96VcpT/Wo76YVX1zqODjkvXki7dvKPiIbabCNzYVjAJOT6Cgna3CdJk/kJ/KmvbG22BR54BU/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/ItDsVEtDyk_o83_yKHkCuGiXSZapOFOYaVCsl-N58Io.jpg",
+    "url": "https://preview.redd.it/92c4juhpdnh11.jpg?width=640&crop=smart&auto=webp&s=b4434e31e1d37732617d44594c997d8ca70cd611",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 64,
+    "value": 64
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My first wire armature tree. Overall quite happy, but the sponge tree foliage needs work and flocking is harder than it looks!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/99ddqx/my_first_wire_armature_tree_overall_quite_happy/"
+}

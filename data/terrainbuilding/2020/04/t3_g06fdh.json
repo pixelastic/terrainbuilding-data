@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_1cydladv",
+    "name": "Ahlruin"
+  },
+  "date": {
+    "day": 1586649600,
+    "full": 1586731175,
+    "month": 1585699200,
+    "week": 1586649600
+  },
+  "id": "t3_g06fdh",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 43169,
+    "fullUrl": "https://preview.redd.it/mzyl97xvsgs41.jpg?auto=webp&s=5fb881aebc4bb423a269efb064326caeb308d012",
+    "hash": "ca0a1d2957",
+    "height": 331,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAIABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQG/8QAIRAAAgICAgEFAAAAAAAAAAAAAQIDBAURAAYSISIxUYH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABYRAQEBAAAAAAAAAAAAAAAAAAARIf/aAAwDAQACEQMRAD8AzmVbH9d6zWQWYrF6apGWSwkc04lZ9sWGiBpdDxJ1+8uyVTq3Z580cjbpvAteI0RE0Nd0kC+oRyQTvZ2H9vx9cccTKr//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/7q35bUmIfIP8bZ1NFecYBYXwjp1HFMISXNFJgIbdw6U.jpg",
+    "url": "https://preview.redd.it/mzyl97xvsgs41.jpg?width=640&crop=smart&auto=webp&s=fd98bc139cf1d19d307bc02eff9df86d098f35aa",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 121,
+    "value": 121
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "1st Attempt at Marble",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/g06fdh/1st_attempt_at_marble/"
+}

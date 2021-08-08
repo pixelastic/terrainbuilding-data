@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_uocz1",
+    "name": "MichaelJFenix"
+  },
+  "date": {
+    "day": 1604880000,
+    "full": 1604928805,
+    "month": 1604188800,
+    "week": 1604793600
+  },
+  "id": "t3_jqxnwp",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 78673,
+    "fullUrl": "https://preview.redd.it/cz84nd3tv7y51.jpg?auto=webp&s=d6111c279a300d6e4048a27f16cddd0398a7fed0",
+    "hash": "8eaf5f86e9",
+    "height": 443,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQMG/8QAJRAAAgECBQMFAAAAAAAAAAAAAQIEAxEABQYSMRMhIiNigbHR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAXEQEBAQEAAAAAAAAAAAAAAAABABES/9oADAMBAAIRAxEAPwATWmdZ5Wmw4lJpVMV1LRyreB2jyDe5bWIPAGKaBzOe0maevKkbQpZlXwLEDtzz+Y0moYVCoZQZCAYhkEKxX1Lgbux5sSPnDEGDFh9CLFoJSjg7diCwtsv9974FMWrlHL//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/tPmexTyOUelkZBR-sorDFx9oNrl-SkAgl_1h1feWNng.jpg",
+    "url": "https://preview.redd.it/cz84nd3tv7y51.jpg?width=640&crop=smart&auto=webp&s=d62ed5106db7207666134ce11542166135c2deb1",
+    "width": 640
+  },
+  "score": {
+    "comments": 14,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 216,
+    "value": 216
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Another grimy industrial piece",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/jqxnwp/another_grimy_industrial_piece/"
+}

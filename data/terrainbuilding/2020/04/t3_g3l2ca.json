@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_28k0n1eg",
+    "name": "DasElektroschnitzel"
+  },
+  "date": {
+    "day": 1587168000,
+    "full": 1587203556,
+    "month": 1585699200,
+    "week": 1586649600
+  },
+  "id": "t3_g3l2ca",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 120820,
+    "fullUrl": "https://preview.redd.it/n73d3etjtjt41.jpg?auto=webp&s=630248235dcefdbde263fb2fd365186b83f1c979",
+    "hash": "b54dd5e709",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQGB//EACQQAAEDAwQCAwEAAAAAAAAAAAECAwQFESEAEhMxMkEjUXGB/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAdEQABBAIDAAAAAAAAAAAAAAABAAIRIQMEBTFx/9oADAMBAAIRAxEAPwDNaKxyoQ8USZ0pCEOFtRG4JPV7nHX30NFW6XNozc2eJ76ZDoUgORbHkUcgOAdED2MHHvVJBhNN0lUQPBAvzfI2PMHxBscEfnvSlapzvBGkM1Fe5S1BbLa9u2+b2H8GdODHDJFg+FTzymu7DNGupC//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/7m9_tEJ8RHYkTLacq74bbY3uTKrWhcDMhWufpZ92jdk.jpg",
+    "url": "https://preview.redd.it/n73d3etjtjt41.jpg?width=640&crop=smart&auto=webp&s=91bec3fe3a26af0453cbd6387c81a576f715bcd2",
+    "width": 640
+  },
+  "score": {
+    "comments": 12,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 287,
+    "value": 287
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First full view of the finished Tudor house",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/g3l2ca/first_full_view_of_the_finished_tudor_house/"
+}

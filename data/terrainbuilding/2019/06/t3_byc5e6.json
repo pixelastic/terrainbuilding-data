@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_2fpqgu",
+    "name": "ovaltein"
+  },
+  "date": {
+    "day": 1559952000,
+    "full": 1560025416,
+    "month": 1559347200,
+    "week": 1559433600
+  },
+  "id": "t3_byc5e6",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 66529,
+    "fullUrl": "https://preview.redd.it/4y2hn45yy6331.jpg?auto=webp&s=df605fd0560be9621c4eabb581c84871337a179c",
+    "hash": "61887f8cee",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFBv/EACUQAAIBAgUDBQAAAAAAAAAAAAECAwQRAAUGEiExQVEUMmFygf/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAYEQADAQEAAAAAAAAAAAAAAAAAAhEBA//aAAwDAQACEQMRAD8AvZxqieuz2ZqUSBVk9OpUlfYNzX57gnn4/MGm9QVdBn1NUT1MsquBHtYluGQEHk+L4yFPdKqm3M0jOsu9nY3bra/17eMP0ChqhohuW0UbB1c7gynre/U9/OBc220UyZIf/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/4E0OxresUlglZQXFlFtBKIFnnCWU1Z_DoqnP8E_OAmI.jpg",
+    "url": "https://preview.redd.it/4y2hn45yy6331.jpg?width=640&crop=smart&auto=webp&s=d696f397c6f7d8a01b009326f2e2fcf31b5ccc17",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.92,
+    "ups": 30,
+    "value": 30
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Sealing my first set of dungeon tiles, BMC style.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/byc5e6/sealing_my_first_set_of_dungeon_tiles_bmc_style/"
+}

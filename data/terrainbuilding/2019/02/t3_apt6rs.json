@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_7vwlz",
+    "name": "TopHatPanda"
+  },
+  "date": {
+    "day": 1549929600,
+    "full": 1549977146,
+    "month": 1548979200,
+    "week": 1549756800
+  },
+  "id": "t3_apt6rs",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 52417,
+    "fullUrl": "https://preview.redd.it/kp1l3679z4g21.jpg?auto=webp&s=521b6fad99fc9adcaa95d08a8f057eb8ca008f83",
+    "hash": "fe571c6543",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQED/8QAIRAAAQQCAQUBAAAAAAAAAAAAAQIDBBEABRIGEyFRYYH/xAAUAQEAAAAAAAAAAAAAAAAAAAAG/8QAGxEAAgEFAAAAAAAAAAAAAAAAAAECAxETIUH/2gAMAwEAAhEDEQA/AEGAxGiFxUcK7abUQTaqxjp6ezsGIMmI3xZkGxYogefvsZo9oo7oWlcuTwVY4p4gUfzLpdNB08eMzFVKUiOSUBxy6JJPr6cBYNX6KJ1VJH//2Q==",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/Eme0pUDpw-IXn3WW42JgUq3bBDAJQlgZWFvOra_Sea4.jpg",
+    "url": "https://preview.redd.it/kp1l3679z4g21.jpg?width=640&crop=smart&auto=webp&s=e7799c498554f875be496a878277265a649bea5e",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 69,
+    "value": 69
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Gaps filled on my terrain piece",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/apt6rs/gaps_filled_on_my_terrain_piece/"
+}

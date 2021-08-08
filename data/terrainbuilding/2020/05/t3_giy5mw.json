@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_curmk",
+    "name": "Crovaxian"
+  },
+  "date": {
+    "day": 1589328000,
+    "full": 1589373248,
+    "month": 1588291200,
+    "week": 1589068800
+  },
+  "id": "t3_giy5mw",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 98198,
+    "fullUrl": "https://preview.redd.it/m6vzzfk41jy41.jpg?auto=webp&s=54a1d1c02b531822e7d3596cbdebb8e01c501dee",
+    "hash": "6b8adf1a12",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgII/8QAJBAAAgEDAwMFAAAAAAAAAAAAAQIDBAURAAYSQVGBBxMVIjH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGhEAAgIDAAAAAAAAAAAAAAAAAAEDBBEhUf/aAAwDAQACEQMRAD8AM3b0alWjgMctso5KeLiWglYisPdiW+p8eNAtxbFe216wR3a1VQMYYt7/ABKsc5U5HQgjPUY1p++7e+TEM1JXSUM8Y4syLy5LnOMdwfw6ueKMOA2HYAZYgZJ6nRFZfBSgxo//2Q==",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/avVJJCRPcGoniJT5cEkAQ9rVImLImARC49oc-ztn8m4.jpg",
+    "url": "https://preview.redd.it/m6vzzfk41jy41.jpg?width=640&crop=smart&auto=webp&s=fb27fef6c29d605cbb9eedba698465a84c5de82d",
+    "width": 640
+  },
+  "score": {
+    "comments": 27,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 405,
+    "value": 405
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First piece of terrain, c&c appreciated",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/giy5mw/first_piece_of_terrain_cc_appreciated/"
+}

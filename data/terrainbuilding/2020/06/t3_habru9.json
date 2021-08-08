@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_5dt955rn",
+    "name": "DirtyLictor"
+  },
+  "date": {
+    "day": 1592265600,
+    "full": 1592338495,
+    "month": 1590969600,
+    "week": 1592092800
+  },
+  "id": "t3_habru9",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 80570,
+    "fullUrl": "https://preview.redd.it/7zqdu4ccyb551.jpg?auto=webp&s=e4385b82027abfbd0d77a6d21d1d718b89bba660",
+    "hash": "4386312d22",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQH/8QAIxAAAQMDBAIDAAAAAAAAAAAAAgEDBAUREgAhMaEGEwcyYf/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAYEQEAAwEAAAAAAAAAAAAAAAABAAMhMf/aAAwDAQACEQMRAD8AMRfKRrE+mSFiQojzjWCGEjDGyLcj2S1+OtXOyTIJLwwWDZZdJtx8JKuJzZCVUD6rfn830gmfEXjrED3su1EStfH2iqdjrJ66ydBmKNOkyG8eFz360VpUxiCwOz//2Q==",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/XkmHzgDX8d800wE90rPeBudINOi2Q7Dsf9VNgvYZqd4.jpg",
+    "url": "https://preview.redd.it/7zqdu4ccyb551.jpg?width=640&crop=smart&auto=webp&s=dd49ffdb11594dbc085f08478a4345334f708312",
+    "width": 640
+  },
+  "score": {
+    "comments": 11,
+    "downs": 0,
+    "ratio": 0.93,
+    "ups": 22,
+    "value": 22
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First time building terrain magnet advice needed",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/habru9/first_time_building_terrain_magnet_advice_needed/"
+}

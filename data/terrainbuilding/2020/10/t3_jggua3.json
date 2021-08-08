@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_4s1rk2fb",
+    "name": "changobongo1"
+  },
+  "date": {
+    "day": 1603411200,
+    "full": 1603430375,
+    "month": 1601510400,
+    "week": 1602979200
+  },
+  "id": "t3_jggua3",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 103094,
+    "fullUrl": "https://preview.redd.it/k37g6wb74su51.jpg?auto=webp&s=55408f9b000ef8cfd6869657ff228d60ee879c9b",
+    "hash": "be25602023",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgEE/8QAJRAAAgEEAQIHAQAAAAAAAAAAAQIDBAURIQAxYQYSExQjQZHw/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAXEQEBAQEAAAAAAAAAAAAAAAABAgBR/9oADAMBAAIRAxEAPwAo/gJLo1E8twBBQGZhGIymTrzAYLn62dcW2O13q30Xtaehe4RRsQKn03cv06nPX+78tPUuKtoY4VUx/HlQd4J2f3mp6G5Fy0c0iBt4E2M9+EUdSphk7v/Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/5T9US8ewupS4mQh9NOpbXSpWtU0548_XC-Zo7F6S-Uc.jpg",
+    "url": "https://preview.redd.it/k37g6wb74su51.jpg?width=640&crop=smart&auto=webp&s=00bb823543afa89d7b7cc6536782ccc85a0ea819",
+    "width": 640
+  },
+  "score": {
+    "comments": 11,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 452,
+    "value": 452
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Not so blurry",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/jggua3/not_so_blurry/"
+}

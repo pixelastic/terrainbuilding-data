@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_h0141",
+    "name": "Zulathan"
+  },
+  "date": {
+    "day": 1571356800,
+    "full": 1571418508,
+    "month": 1569888000,
+    "week": 1570924800
+  },
+  "id": "t3_djqi03",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 102141,
+    "fullUrl": "https://preview.redd.it/s5isxqxh0ct31.jpg?auto=webp&s=b8f84b59412b5692ecf60e758c9cf29580e217fb",
+    "hash": "9967f35258",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQH/8QAJhAAAQMCBQMFAAAAAAAAAAAAAgEDBAYRAAUSITEHIkEWQlFhcf/EABQBAQAAAAAAAAAAAAAAAAAAAAL/xAAaEQACAwEBAAAAAAAAAAAAAAABAgADESGh/9oADAMBAAIRAxEAPwDL8goKDVUQ50KoDkZkRibrDrKASX8rvve3KYtzCBDp99ILwlOeEdRnDaJ0AVfapCltSW3T7wj09pp8G5gTIrqsgyhSDuQCN+1BKy8d3KWwnntc+mJgZVCFmG2w0KK1FdBodXlVFU5X5/MC1e40VbE6R7P/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/FnomDLjdhvO-FdCSslzi_mbwvsOBxH7EdrM7DX2wr4s.jpg",
+    "url": "https://preview.redd.it/s5isxqxh0ct31.jpg?width=640&crop=smart&auto=webp&s=0071ed06de4273473357520ae219fad9a27d7b78",
+    "width": 640
+  },
+  "score": {
+    "comments": 10,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 81,
+    "value": 81
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Building this from the ground up with no plans. Should've maybe though of windows at an earlier stage...",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/djqi03/building_this_from_the_ground_up_with_no_plans/"
+}

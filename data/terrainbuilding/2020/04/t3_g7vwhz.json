@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_1sfylt20",
+    "name": "send_me_40k_bits"
+  },
+  "date": {
+    "day": 1587772800,
+    "full": 1587830589,
+    "month": 1585699200,
+    "week": 1587254400
+  },
+  "id": "t3_g7vwhz",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "filesize": 79560,
+    "fullUrl": "https://external-preview.redd.it/s2T-ahJuFUm0Bbb4GvMyj4NzKqN-D5rWd1LEd3knYFg.jpg?auto=webp&s=01efdf83f955bf5c80bb179f1b5c908161a21735",
+    "hash": "3a35937ead",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAmEAACAQMDAwQDAAAAAAAAAAABAgMEBREAITEHEkEGExUWImFx/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABkRAAIDAQAAAAAAAAAAAAAAAAECAAMhMf/aAAwDAQACEQMRAD8ApoZq5rpAb58eKl4gXLnAbtVQpUnnAH5Eeccaj731Plob7c6ee0+8iVDrC6zLHlBsCQQc8Hf+aX9F3T7rbklnqEp7jQho5omgSUkNw69/AON/2N/Gib30uqLjdamqt9VE8ErlsTQnuUnkbbY0KWNuxGUDon//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/rzbjsUonJkIIb2SLw2trVN0AMgsCXX1c2xLepTx8v3Y.jpg",
+    "url": "https://external-preview.redd.it/s2T-ahJuFUm0Bbb4GvMyj4NzKqN-D5rWd1LEd3knYFg.jpg?width=640&crop=smart&auto=webp&s=705033cd6b417d32574d825b3de8fae4d7f919ef",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 0.93,
+    "ups": 12,
+    "value": 12
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "(WIP) trying my hand at the ruined gothic building from Wyloch’s Armory.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/g7vwhz/wip_trying_my_hand_at_the_ruined_gothic_building/"
+}

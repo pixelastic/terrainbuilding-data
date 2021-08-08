@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_4vsqm",
+    "name": "TeckHybrid"
+  },
+  "date": {
+    "day": 1585353600,
+    "full": 1585408872,
+    "month": 1583020800,
+    "week": 1584835200
+  },
+  "id": "t3_fqm425",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "filesize": 79413,
+    "fullUrl": "https://external-preview.redd.it/pB-xPC3uNdeRTTZdKjE8-EuDl2wpWPpGCYtVN_8VpCI.jpg?auto=webp&s=78f962b4f05a2678c7a83580c839bff9621854f5",
+    "hash": "4211860b83",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQH/8QAIxAAAQQBAwQDAAAAAAAAAAAAAQIDBAURABIxBxQhcSJhkf/EABQBAQAAAAAAAAAAAAAAAAAAAAX/xAAbEQABBAMAAAAAAAAAAAAAAAABAAIREgMEMf/aAAwDAQACEQMRAD8AFyp1/ZW1iwzWmCy06pL/AGrKl7CkkHG4kk86ur5rLtlGRBny50dnat8PxwhTZB8JOQDnP4Na91EhMwayZcwk9vPbG5S2+HefCxwffP3odaSTMpokxbTSJD8dha1ITgncs5Hr4jRzNiW3A4kDgNqOMyv/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/gj-1XSFcW_qLpFE6Q3K39hOhmQZ0PeveJ2py_zuE4bU.jpg",
+    "url": "https://external-preview.redd.it/pB-xPC3uNdeRTTZdKjE8-EuDl2wpWPpGCYtVN_8VpCI.jpg?width=640&crop=smart&auto=webp&s=3c4614a3a05f9967337df94de3ba295e664cb2db",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.79,
+    "ups": 11,
+    "value": 11
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "BMC Style Double-Sided Tiles and Modularization Ruins",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/fqm425/bmc_style_doublesided_tiles_and_modularization/"
+}

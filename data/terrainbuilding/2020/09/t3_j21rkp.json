@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_6asz3uye",
+    "name": "GanondolfBaggins"
+  },
+  "date": {
+    "day": 1601337600,
+    "full": 1601394367,
+    "month": 1598918400,
+    "week": 1601164800
+  },
+  "id": "t3_j21rkp",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 82321,
+    "fullUrl": "https://external-preview.redd.it/KObGePyOlzhsluNyW3oYokBA3LdddR_E4WvaxLvOLfM.jpg?auto=webp&s=1f88aca7acf9582d6052dc88eeb9b207c15bf324",
+    "hash": "c360586b4b",
+    "height": 622,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMF/8QAJRAAAgEDAgUFAAAAAAAAAAAAAQIDBAURACEGEhMxUSIyQWGR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAZEQACAwEAAAAAAAAAAAAAAAABAgARMQP/2gAMAwEAAhEDEQA/AHXnikWelo1hjaonmRQB7UUBcnLefr50238TPerNUvHDLFIgkR42YEAgHdW7MPB1jS2ynufTk53i9K8x6YZSAoO43/R21RI4KSmkgjZjJ02yXG52PcDGPGNTr0QrQ2OUYGzk/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/2HkEVQAp2-hV3eL6oylmyL--sv5bqjoQadXW77jLTec.jpg",
+    "url": "https://external-preview.redd.it/KObGePyOlzhsluNyW3oYokBA3LdddR_E4WvaxLvOLfM.jpg?width=640&crop=smart&auto=webp&s=17af7a15b13bbed8ed4d07822ab951bfe9da878e",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 154,
+    "value": 154
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A small practice piece",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/j21rkp/a_small_practice_piece/"
+}

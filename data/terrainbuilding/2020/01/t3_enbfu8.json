@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_3dhi1",
+    "name": "kagius"
+  },
+  "date": {
+    "day": 1578700800,
+    "full": 1578768805,
+    "month": 1577836800,
+    "week": 1578182400
+  },
+  "id": "t3_enbfu8",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 47987,
+    "fullUrl": "https://preview.redd.it/l5pbe15l47a41.jpg?auto=webp&s=70c1e146277715abd94deb53c0ac9dcf2bb152ce",
+    "hash": "bdf56a954e",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQGB//EACUQAAEDAwMDBQAAAAAAAAAAAAIBAwQFBxEABiESMWEUQXGhwf/EABUBAQEAAAAAAAAAAAAAAAAAAAAC/8QAFxEBAAMAAAAAAAAAAAAAAAAAAAERIf/aAAwDAQACEQMRAD8A0a4dyKtt7dMylgDLcdvoVtwAyZCQovPVx3ynGh7RuTV6nUoMQRbkBIcBtCdDpVEVcKvHjOqu41t4G719WDhRaoAIIu5VQNE7IY/qc/OkraW6SgCzNq5Cc9tMNtAWQa8591+k0qE6/9k=",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/pC9WoCcL-cBgmhoJEQJeqb59PBEFPgLwxTSPGXSZUq8.jpg",
+    "url": "https://preview.redd.it/l5pbe15l47a41.jpg?width=640&crop=smart&auto=webp&s=72dd26dc97342ca1430795b199888642946da64f",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 48,
+    "value": 48
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Making a three-part cardboard building. This is the ground floor.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/enbfu8/making_a_threepart_cardboard_building_this_is_the/"
+}

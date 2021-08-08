@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_4ee9g2je",
+    "name": "Marked1975"
+  },
+  "date": {
+    "day": 1595203200,
+    "full": 1595212829,
+    "month": 1593561600,
+    "week": 1595116800
+  },
+  "id": "t3_hudepe",
+  "misc": {
+    "postHint": "hosted:video"
+  },
+  "picture": {
+    "filesize": 36683,
+    "fullUrl": "https://external-preview.redd.it/7fEy5uqsGwJAoRy0esrTFwMk7uQQj-wranQr7Ied2PM.png?format=pjpg&auto=webp&s=594a541c593441a0ee16e5936e9d34566cbab5de",
+    "hash": "459f74e149",
+    "height": 360,
+    "lqip": "data:image/png;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAApEAABAwMBBQkAAAAAAAAAAAABAgMFAAQRBhITMUFRFCEjNjdhc3Sx/8QAFAEBAAAAAAAAAAAAAAAAAAAABf/EABoRAAMAAwEAAAAAAAAAAAAAAAEDBAASMRH/2gAMAwEAAhEDEQA/AAFwNnJyV8ibYQ01dLR2e7aJTu1YwEY6HkTzPfVfFw1tGsMRqHAA0NkKfUnBxx8RI2VH249aD1H5dkfrn8qi1v6IL+JqgpfLE6uHMZpBkZso9z//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/3wsvPEhN0tT9H6NbG0LaQuk2xQHpji93VzdjU6qHezY.jpg",
+    "url": "https://external-preview.redd.it/7fEy5uqsGwJAoRy0esrTFwMk7uQQj-wranQr7Ied2PM.png?width=640&crop=smart&format=pjpg&auto=webp&s=d4907adb3e515dae221191067102cbc4aa1b9eb6",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 68,
+    "value": 68
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Dungeon tiles and walls are coming along nicely! I still need to make a LOT more.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/hudepe/dungeon_tiles_and_walls_are_coming_along_nicely_i/"
+}

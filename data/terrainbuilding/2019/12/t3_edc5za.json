@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_859j6",
+    "name": "Wernerio"
+  },
+  "date": {
+    "day": 1576800000,
+    "full": 1576858287,
+    "month": 1575158400,
+    "week": 1576368000
+  },
+  "id": "t3_edc5za",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "filesize": 71602,
+    "fullUrl": "https://external-preview.redd.it/hcKswP_6CiROcGpZrgbffQ63KOqHIoKCsxCag1xU_yk.jpg?auto=webp&s=b22b995885ed9b1e50a70ce655b6e69abee5dd1b",
+    "hash": "87fcb757d5",
+    "height": 336,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAIABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAb/xAAfEAABAwMFAAAAAAAAAAAAAAABAgMEABESBQYhQVH/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAGBEAAwEBAAAAAAAAAAAAAAAAAQIDAAT/2gAMAwEAAhEDEQA/AJTS5CXZBfUopD7ynSMeMb3BA74BFU+1tLkSduoXdgsSMpK3CohwrWb44+AnvylKEpqSQc++zyRSh3//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/4VYHW6EXc60OPJWDB0S0yEq4sCrXq99FKRJ87vHesvM.jpg",
+    "url": "https://external-preview.redd.it/hcKswP_6CiROcGpZrgbffQ63KOqHIoKCsxCag1xU_yk.jpg?width=640&crop=smart&auto=webp&s=02a413b1b9d78628efbbad5ed92a3f1dec6d08e8",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.67,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Domus project 242: 2nd Floor slab - marquetry decoration (part 1)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/edc5za/domus_project_242_2nd_floor_slab_marquetry/"
+}

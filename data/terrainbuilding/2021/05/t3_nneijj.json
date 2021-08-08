@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_r1d7c",
+    "name": "domcmastering"
+  },
+  "date": {
+    "day": 1622246400,
+    "full": 1622258908,
+    "month": 1619827200,
+    "week": 1621728000
+  },
+  "id": "t3_nneijj",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "filesize": 58545,
+    "fullUrl": "https://external-preview.redd.it/dDfmU7ZgIfQTDUhC5kCtwWUQk7NJt-418oitxj7cXQs.jpg?auto=webp&s=f76b8aa50457fa6d0a93dbe18a787da36e9d7381",
+    "hash": "dd328c6f29",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwAG/8QAKBAAAQIDBQkBAAAAAAAAAAAAAwECAAQFBhESIUETIjE1NnN0kbLR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQP/xAAbEQABBQEBAAAAAAAAAAAAAAABAAIDBCExsf/aAAwDAQACEQMRAD8AzttgMpVolBJjO+mlHtQuW5W38FS/LWKVq8olKZOKV4SSRRle/eVBYlVrnYNUzT1CFVumKP4/5BnVeXWj7LfpsMlYNYN6FOvcL5DnD4v/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/AI24ZrFqceaBXioA949XJXrpDI80LaW_qeSEUKgMOac.jpg",
+    "url": "https://external-preview.redd.it/dDfmU7ZgIfQTDUhC5kCtwWUQk7NJt-418oitxj7cXQs.jpg?width=640&crop=smart&auto=webp&s=56dcee4738976b06bf154e0f671a569dcd2835af",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.79,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Mdf SPrue building update",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/nneijj/mdf_sprue_building_update/"
+}

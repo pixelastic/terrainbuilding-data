@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_3s90hoq",
+    "name": "7818"
+  },
+  "date": {
+    "day": 1587340800,
+    "full": 1587405492,
+    "month": 1585699200,
+    "week": 1587254400
+  },
+  "id": "t3_g4xqdd",
+  "misc": {
+    "postHint": "self"
+  },
+  "picture": {
+    "filesize": 69174,
+    "fullUrl": "https://external-preview.redd.it/YkVZEdVwEQ4yLG1qkYk2G1RnIv869DFnBWyUVJoFT08.jpg?auto=webp&s=289a31422087167a532ef1f775ffbd32b8d144e3",
+    "hash": "a4d12f09f1",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgf/xAAmEAACAQMBBwUAAAAAAAAAAAABAgMEBREABgcSEyEiQTFRYXGx/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABkRAQADAQEAAAAAAAAAAAAAAAEAAxECBP/aAAwDAQACEQMRAD8AO7KqlguM9c6wTSSxywJGzjgVHGQR86QWO9W6jkr5bwKMGRufG0gXiJ4R2ZbxgdPfUqe6Vs20dsjqKh5llmCtzDnxj80s3mUcVvsL1dODzTIid3UYIK+n1pbPLyabALVRyf/Z",
+    "thumbnailUrl": "self",
+    "url": "https://external-preview.redd.it/YkVZEdVwEQ4yLG1qkYk2G1RnIv869DFnBWyUVJoFT08.jpg?width=640&crop=smart&auto=webp&s=feae8e16c35bdf0f355cf4e0bb450c632333fadb",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.9,
+    "ups": 8,
+    "value": 8
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First building, wanting some c&c and input",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/g4xqdd/first_building_wanting_some_cc_and_input/"
+}

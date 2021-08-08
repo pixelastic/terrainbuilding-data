@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_1h7evrxw",
+    "name": "Grepok"
+  },
+  "date": {
+    "day": 1564185600,
+    "full": 1564249727,
+    "month": 1561939200,
+    "week": 1563667200
+  },
+  "id": "t3_cikjn2",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 72101,
+    "fullUrl": "https://preview.redd.it/rjtimit0e5c31.jpg?auto=webp&s=fe11f16164ca6c1ac6bcd439cb57dff00ae5c27d",
+    "hash": "3a203b86e6",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgUG/8QAJBAAAgEDAgYDAAAAAAAAAAAAAQIDBAURACEGEyIxQVEUMnH/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAECESH/2gAMAwEAAhEDEQA/ABaeHqUx09NPBTmKIFUMzc7uR9uwY7ecn8xpVdppLpAVjGEaM8t2jUBE6sEKcAKGY+sYBI7aqmMQ2GlmUs0kwRmZ2JxkBjj1vrN3ipeovcFFtHTfGSd0j6RKx8N7HSNtEzrYvXD/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/RzyrjJzbNYiJrZYuv8vaNFzeeUqWXodYilju-3LzptU.jpg",
+    "url": "https://preview.redd.it/rjtimit0e5c31.jpg?width=640&crop=smart&auto=webp&s=99a9fd15b3dd422c07092df37ab885cb95f7cd9d",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 64,
+    "value": 64
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Never thought to block level to plan my maps. Essentially the same way game developers plan sight lines.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/cikjn2/never_thought_to_block_level_to_plan_my_maps/"
+}

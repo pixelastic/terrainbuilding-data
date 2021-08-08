@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_r1d7c",
+    "name": "domcmastering"
+  },
+  "date": {
+    "day": 1626998400,
+    "full": 1627075668,
+    "month": 1625097600,
+    "week": 1626566400
+  },
+  "id": "t3_oqby99",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 134352,
+    "fullUrl": "https://preview.redd.it/batvveb5lwc71.jpg?auto=webp&s=6b90e1faaf70e8adce41ed7a92333198598a917d",
+    "hash": "eb2e26fd99",
+    "height": 800,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgX/xAAiEAACAgMAAgEFAAAAAAAAAAABAgMRBAUhABMSMTJBUmH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAFhEAAwAAAAAAAAAAAAAAAAAAAAER/9oADAMBAAIRAxEAPwAnsthjbDEKFcctERJiTY8DKJWDdZgeXYq78h5uv1suHhvkYbSOykj1TLEFBN19zE9J6aPfD0aTNjyTSyzNAg+StAwcCzYtf1/H88R6XV5G31aT4KYqL7HJaWUKzfShR5yq4APCrEiP/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/kEXIQK3TqNmOIEM2C6pbo0UUtBEowThwg7yg0Qf3eIQ.jpg",
+    "url": "https://preview.redd.it/batvveb5lwc71.jpg?width=640&crop=smart&auto=webp&s=bb08ee31f578fae13bad8100b32b1b6467dbb02d",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 119,
+    "value": 119
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Inspirational",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/oqby99/inspirational/"
+}

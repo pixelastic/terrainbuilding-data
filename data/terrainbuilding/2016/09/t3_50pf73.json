@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_3v1nj",
+    "name": "Mazku"
+  },
+  "date": {
+    "day": 1472688000,
+    "full": 1472762439,
+    "month": 1472688000,
+    "week": 1472342400
+  },
+  "id": "t3_50pf73",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "filesize": 22468,
+    "fullUrl": "https://external-preview.redd.it/auNJ4suAGHYtLidbBhVLBXse3xi4oaF8seqON1vLQO8.jpg?auto=webp&s=e87b6ddc738d7f89da99f05820f1e109efcd346b",
+    "hash": "c489ee7f76",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwUGB//EACYQAAEDAgQGAwAAAAAAAAAAAAECAwQAEQUGBxMUIjFxc7I0NYH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAID/9oADAMBAAIRAxEAPwB7qZiOIOZSk7SpDirBtbiF87TRPOoHsLftSmnuFSZuV18aHorqHlJYc3NxLrdhbr1ANxcW7mtCk/Gf8S/U0OD9fE8KPUUOZqf/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/FAay1CU1TggvGymAjQHKKYRyW7pqrBsOlBwWTciWEng.jpg",
+    "url": "https://external-preview.redd.it/auNJ4suAGHYtLidbBhVLBXse3xi4oaF8seqON1vLQO8.jpg?width=640&crop=smart&auto=webp&s=8e1ffd1bce4df9791fee9041721ba10b7978b600",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 49,
+    "value": 49
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Made a ruined house from foam core",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/50pf73/made_a_ruined_house_from_foam_core/"
+}

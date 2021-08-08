@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_5oamyrq",
+    "name": "alexquigley87"
+  },
+  "date": {
+    "day": 1602115200,
+    "full": 1602185747,
+    "month": 1601510400,
+    "week": 1601769600
+  },
+  "id": "t3_j7jtvh",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 86603,
+    "fullUrl": "https://preview.redd.it/53e7fxh6bxr51.jpg?auto=webp&s=7b485a5fcddc532eafb97d7bbc6ca24560687923",
+    "hash": "9bdd7465f5",
+    "height": 716,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA4DASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgf/xAAjEAACAQQCAgIDAAAAAAAAAAABAwIEBQYRBxIAIRMxFVGB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAaEQEAAgMBAAAAAAAAAAAAAAABAAIDERIh/9oADAMBAAIRAxEAPwCi8scuyxuvZarHTRZcEtEGOfor0Y7IiAdkj6O9aPjPjnNV5ZQyDqZ1JXrj8k1sXKEWQMiBNfb3KHr78k/KeN49PJaRaqC4rt8qmqfdWKRPvNs4jqYzlskdogaHrRJHi7i7G7dd8Vtj31d0/JUa2JmSWKKgyQmVDsPcQYx1r9fzyusaaGDW56k//9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/x9uermSd9041fCBmGbEmopWPy6UGe-qYIxMGad8EpUs.jpg",
+    "url": "https://preview.redd.it/53e7fxh6bxr51.jpg?width=640&crop=smart&auto=webp&s=a9a3bb928b93f27be22a898bd334938117583901",
+    "width": 640
+  },
+  "score": {
+    "comments": 12,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 35,
+    "value": 35
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I am thinking of building terrain for this guy. I want a charging / repair or arming station. How woud you go about that?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/j7jtvh/i_am_thinking_of_building_terrain_for_this_guy_i/"
+}

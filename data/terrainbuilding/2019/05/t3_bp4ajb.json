@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_11ib6j",
+    "name": "MansionsOfRest"
+  },
+  "date": {
+    "day": 1557878400,
+    "full": 1557957853,
+    "month": 1556668800,
+    "week": 1557619200
+  },
+  "id": "t3_bp4ajb",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 38758,
+    "fullUrl": "https://preview.redd.it/poowf5927gy21.jpg?auto=webp&s=fb122dff68eb2700dc755c781e8b30325696d8de",
+    "hash": "e83bf93ae4",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAIRAAAgEEAgIDAAAAAAAAAAAAAQMCBAURIQASMVEGE2H/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAGREAAgMBAAAAAAAAAAAAAAAAAQIAERIh/9oADAMBAAIRAxEAPwAezurLNcUocI1sZwkt7CD1WJHOjoHBPnG+SvzS5XKpbTsIQyhp5FSh2CzA+d4H6cH1rmkrp11YC3xEoeuB32gpqqrna/rimjTGTeqhgskIZiZHZOCcgaHDAdTd8ijDjNdn/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/bhuiS2MPZPQPhORVA-1h3UkXvdUwp4ELZG58cc1VkTA.jpg",
+    "url": "https://preview.redd.it/poowf5927gy21.jpg?width=640&crop=smart&auto=webp&s=ce619bd65fc05ed7ffeb24f222d28ecf8c6b70fa",
+    "width": 640
+  },
+  "score": {
+    "comments": 15,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 545,
+    "value": 545
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Waffle scatter terrain.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/bp4ajb/waffle_scatter_terrain/"
+}

@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_vb0l7mn",
+    "name": "TheWraf"
+  },
+  "date": {
+    "day": 1594425600,
+    "full": 1594492606,
+    "month": 1593561600,
+    "week": 1593907200
+  },
+  "id": "t3_hpf58w",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 87554,
+    "fullUrl": "https://preview.redd.it/wcuedislv9a51.jpg?auto=webp&s=eba558a00f9ae6f31a737fb2c5db48b80f515dd3",
+    "hash": "900cd95c33",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgL/xAAiEAABAgYCAwEAAAAAAAAAAAABAgMABAUGESESQVFxkWH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGREAAgMBAAAAAAAAAAAAAAAAASEAAjES/9oADAMBAAIRAxEAPwCbBolM5tMTISo8eIWvZOP37CG9qVRX5RijLbBLiHFMls7ZXgE+usjv3AFwuSbIfl3nEBxYJb1xBJ2RrI+wYvK46mJRQEwQdpCgMEADrHmB1CC2JsT0Xk//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/psXTt-d0MSmQCYlIqHHZm5TA2aNFHyESkJDSKykNFHQ.jpg",
+    "url": "https://preview.redd.it/wcuedislv9a51.jpg?width=640&crop=smart&auto=webp&s=10ba8e1b4beb01edcc965716e1326fe1c597cb0b",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 72,
+    "value": 72
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A ruin i made for my AoS games. It's my biggest terrain to date. What do you guys think ?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/hpf58w/a_ruin_i_made_for_my_aos_games_its_my_biggest/"
+}

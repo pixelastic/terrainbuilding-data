@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_83581",
+    "name": "EccentricOwl"
+  },
+  "date": {
+    "day": 1501286400,
+    "full": 1501302375,
+    "month": 1498867200,
+    "week": 1500768000
+  },
+  "id": "t3_6q90gl",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 53665,
+    "fullUrl": "https://preview.redd.it/exq599j8lgcz.jpg?auto=webp&s=523c6a2bd977177b628c63ff01be4bf27f0ff9c5",
+    "hash": "da03b17076",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQH/8QAIhAAAQUAAgEFAQAAAAAAAAAAAgEDBAURABIhBhMUIjFh/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABkRAAIDAQAAAAAAAAAAAAAAAAABAhEhA//aAAwDAQACEQMRAD8AvjwPTcVbmhoRkhZ1zrIMFquHJ6F9kxE8Du9v4vCF81OsreJtFoyHw+rRqRtMpiEKgOZpaul+Iqc1m4vn4Fu/8KLCYJwl7m2ygkerq6qeV4bsmI5SiuPYBJbSEYYRICF5Xeu/vDLpWoQ4Xh//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/ESET97oYB9aS3QEN8zmwPOC9JEwgzdlG-DPDrMZbKtc.jpg",
+    "url": "https://preview.redd.it/exq599j8lgcz.jpg?width=640&crop=smart&auto=webp&s=b5b569a860c9c7057734e29680947910337c2fe0",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.91,
+    "ups": 25,
+    "value": 25
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Just got my first round of 3D prints done. I just need to find a good way to prime and sand them...",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/6q90gl/just_got_my_first_round_of_3d_prints_done_i_just/"
+}

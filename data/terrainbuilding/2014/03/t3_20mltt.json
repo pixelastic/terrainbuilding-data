@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_9casa",
+    "name": "CooterSquirrel"
+  },
+  "date": {
+    "day": 1395014400,
+    "full": 1395063565,
+    "month": 1393632000,
+    "week": 1394928000
+  },
+  "id": "t3_20mltt",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "filesize": 82092,
+    "fullUrl": "https://external-preview.redd.it/ivkVvE365_uBZ6M5TA29FYjLQoT4iFa0DW4kPtlWu08.jpg?auto=webp&s=1990e4a4d19caac07616638736b9e3878cfd9e4c",
+    "hash": "fa88e9577e",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAIBAAAQQCAgMBAAAAAAAAAAAAAQIDBBEABRIhFEFRcf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARA//aAAwDAQACEQMRAD8AB1+pjymFOcbBspPoZfqtD5kxMeGwXXaJCUCyQBZ6/LwiUXIkq4zq20uKJKEkcb+5odRbZSpJPPo8ie8h5pgZMl//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/_tgqiskByiYSdWs6bA8LZ1sjVzXcHLMOgNb3UWO_7mk.jpg",
+    "url": "https://external-preview.redd.it/ivkVvE365_uBZ6M5TA29FYjLQoT4iFa0DW4kPtlWu08.jpg?width=640&crop=smart&auto=webp&s=a4ec8772926140bb7d89fdd9b7618ab7f29774e7",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 0.94,
+    "ups": 29,
+    "value": 29
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Humble beginnings & first strides - An exercise in cobblestones",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/20mltt/humble_beginnings_first_strides_an_exercise_in/"
+}

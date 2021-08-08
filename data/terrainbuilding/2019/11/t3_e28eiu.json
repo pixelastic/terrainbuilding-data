@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_4sb0mdes",
+    "name": "holupasec"
+  },
+  "date": {
+    "day": 1574812800,
+    "full": 1574818354,
+    "month": 1572566400,
+    "week": 1574553600
+  },
+  "id": "t3_e28eiu",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 59870,
+    "fullUrl": "https://external-preview.redd.it/vVkRCzcMRtlZ3dQKAmaG6TvglGZoetzNIdEbUuYw6GQ.jpg?auto=webp&s=a44e18da10eb7a4eb50a317c56da0f21adced8db",
+    "hash": "dc4e62bcc8",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwUGB//EACYQAAEDAwMCBwAAAAAAAAAAAAIBAwQFBhEAEiEHEzEzQWFigcL/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABkRAAMAAwAAAAAAAAAAAAAAAAABAgMREv/aAAwDAQACEQMRAD8ATRK5ctLu5mUTUgnzVCRp8SwoF4Ivx5+tClzLskXRIYWVNGQbyB3G3F2KKrlREkwO1McemrLrXU6lRr3YjUqoy4kfZ5bZ8Jx7ous3ev8AuaNURaCpKYZRcG0C/nR1TRROLpbR/9k=",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/OMSgKORnd3qLdp3XWDe3RMXKztE1brCjsfp6W6-a2W8.jpg",
+    "url": "https://external-preview.redd.it/vVkRCzcMRtlZ3dQKAmaG6TvglGZoetzNIdEbUuYw6GQ.jpg?width=640&crop=smart&auto=webp&s=22179e3e6f984b9732fe87701ebf9282d97fb1e0",
+    "width": 640
+  },
+  "score": {
+    "comments": 23,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 411,
+    "value": 411
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "BMC inspired city gate.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/e28eiu/bmc_inspired_city_gate/"
+}

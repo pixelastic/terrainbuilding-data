@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_e6u9fr",
+    "name": "abscnth"
+  },
+  "date": {
+    "day": 1615334400,
+    "full": 1615366334,
+    "month": 1614556800,
+    "week": 1615075200
+  },
+  "id": "t3_m1t89f",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 62264,
+    "fullUrl": "https://preview.redd.it/gyihhoyxz5m61.jpg?auto=webp&s=ff841e38d7007b8f902b7e4e786f334871453616",
+    "hash": "48192a368b",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgX/xAAjEAABAwMEAgMAAAAAAAAAAAABAgMRBAUSAAYhMRNRQWFx/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EAB0RAAICAQUAAAAAAAAAAAAAAAECAAMEBRESgfD/2gAMAwEAAhEDEQA/ADWxq0UNWoVF0qKYOMKRkGVShU9ZqHoGePWr1xultaaINW8tLcy69JJ+Scj2PvRHfAVZ66oRROr8JIBacOaSD+6M3Z/LaxWhptsuOpbOM8JPJAkmJgaO1K2HcwWVp6Xvzcn3U//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/PVek92iALxgRnayBl4yWVjGIiL5TmwQNuxaEmDJSVvk.jpg",
+    "url": "https://preview.redd.it/gyihhoyxz5m61.jpg?width=640&crop=smart&auto=webp&s=97761e5910a65e12d43d6ca235d13b05bf8ca847",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 0.95,
+    "ups": 64,
+    "value": 64
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Setting up camera rig for a stop motion sequence in my upcoming mountain pass terrain video on my channel 😂",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/m1t89f/setting_up_camera_rig_for_a_stop_motion_sequence/"
+}

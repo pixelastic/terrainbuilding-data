@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_litpy",
+    "name": "DuskGideon"
+  },
+  "date": {
+    "day": 1528329600,
+    "full": 1528408354,
+    "month": 1527811200,
+    "week": 1527984000
+  },
+  "id": "t3_8pedhv",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 71899,
+    "fullUrl": "https://preview.redd.it/pz3a5014hn211.jpg?auto=webp&s=ea40371f74dbea3ef741b80b55ae85d942a0eb52",
+    "hash": "04f7ab5f6c",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQH/8QAJxAAAgEDAgMJAAAAAAAAAAAAAQIRAwQFAAYSIVETFSIkMTJBYXH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAGREAAgMBAAAAAAAAAAAAAAAAAAIBAxNh/9oADAMBAAIRAxEAPwA7LN5S1rvTqWuVdGAirauKagR0JBnr96uz+4sj3bbm3N1Vurcg9o6+LhEn2yZb0k89ZOdz5UMPMSZHMqDo6m4cnWZy1xBKzKoo+PzRZtwWbFP/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/XbDEgH1sXWEEyv-K7inB4QtYDTQUAvEIH_iFVtgpTvA.jpg",
+    "url": "https://preview.redd.it/pz3a5014hn211.jpg?width=640&crop=smart&auto=webp&s=ffddf061f1fc2d04276e33c412c2d8a31b35664e",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.8,
+    "ups": 11,
+    "value": 11
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First hill WIP. The mostly balance anywhere on it.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/8pedhv/first_hill_wip_the_mostly_balance_anywhere_on_it/"
+}

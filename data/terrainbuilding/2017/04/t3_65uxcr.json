@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_j1ojm",
+    "name": "jeffe_el_jefe"
+  },
+  "date": {
+    "day": 1492387200,
+    "full": 1492427632,
+    "month": 1491004800,
+    "week": 1492300800
+  },
+  "id": "t3_65uxcr",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 106529,
+    "fullUrl": "https://preview.redd.it/y3bf53i2k3sy.jpg?auto=webp&s=96dd73c3c902d2cf5f07ca00be079a1964a8f270",
+    "hash": "98b0c7fc36",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAJBAAAgIBAwQCAwAAAAAAAAAAAQIDBAUAESEGEhNhBzFRcZH/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAGxEBAAEFAQAAAAAAAAAAAAAAAQMAAgQRcRL/2gAMAwEAAhEDEQA/ANBi6verk2jjSqJWnNlg7fTEdoH8GoFjAVs9cs5Iz5JXsSFnFaYBN9gOOPwBo1T+LKt2Jnmy9nvd/IxWJRueffsjT3o/CVel8OMfXnkmTyNJ3sduT6H60XJnxkejVzxpKPDu9q7DpX//2Q==",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/5q5P_Fj47Aoet9zwxActCXz7AemFPGylTNsZ_NlLPJ8.jpg",
+    "url": "https://preview.redd.it/y3bf53i2k3sy.jpg?width=640&crop=smart&auto=webp&s=e46aa5c5d2b876d9fa4610f7a22e215047f0afee",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.95,
+    "ups": 49,
+    "value": 49
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP roadsign display board for my Deathwatch, any tips?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/65uxcr/wip_roadsign_display_board_for_my_deathwatch_any/"
+}

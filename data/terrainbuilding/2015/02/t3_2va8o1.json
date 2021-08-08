@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_859j6",
+    "name": "Wernerio"
+  },
+  "date": {
+    "day": 1423440000,
+    "full": 1423472402,
+    "month": 1422748800,
+    "week": 1423353600
+  },
+  "id": "t3_2va8o1",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "filesize": 46293,
+    "fullUrl": "https://external-preview.redd.it/F65BFE8uaq8BoQWH80shM3tSorRCSPnDl9VtB2fXKck.jpg?auto=webp&s=604e7e12a2d7acc9dc0324a4a31828a529f3b7cd",
+    "hash": "458f7fe3a0",
+    "height": 336,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAIABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQG/8QAIhAAAQMDAwUAAAAAAAAAAAAAAQIEEQADBQYSMRMUFkFR/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABgRAQEBAQEAAAAAAAAAAAAAAAECABED/9oADAMBAAIRAxEAPwCBLNHmepshk2SnjW+GvZ3FolJlB3EboE8TWgwz3M5PT9hw1LctOiSLihKjAgJjgcffVKUf0pK7lxInE3//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/7VyNnQBiUeF7QR1DR82lUzZ0fwFBitH6N2nBbGTppzc.jpg",
+    "url": "https://external-preview.redd.it/F65BFE8uaq8BoQWH80shM3tSorRCSPnDl9VtB2fXKck.jpg?width=640&crop=smart&auto=webp&s=738ee460d31d7222bf019d35d36e4e76db09539d",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 12,
+    "value": 12
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Domus project 51: Cellar door",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/2va8o1/domus_project_51_cellar_door/"
+}

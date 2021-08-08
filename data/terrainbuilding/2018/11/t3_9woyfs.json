@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_1hc1vjyr",
+    "name": "Penthragore"
+  },
+  "date": {
+    "day": 1542067200,
+    "full": 1542114940,
+    "month": 1541030400,
+    "week": 1541894400
+  },
+  "id": "t3_9woyfs",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "filesize": 106919,
+    "fullUrl": "https://external-preview.redd.it/1P-Yu1iPg74UoQizIeWCBSCmU07w1qVxHTtWRHzN_H8.jpg?auto=webp&s=e9180dc5a2e2f6e63605c4cf47b5eac99bb34fb6",
+    "hash": "0738aa7d8f",
+    "height": 489,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAgX/xAAjEAACAgEDAwUAAAAAAAAAAAABAwIRBAASMRNBgQUhImFx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAeEQACAQMFAAAAAAAAAAAAAAABAwIABHERITFRof/aAAwDAQACEQMRAD8AhYPpJCk1NWOGjdJ7YSOwdrFVXnvp9FOdhYYXio3vE901z+AEbqVH3N8caOO1y10tzIiUdvN0B2F3XjRS10llfWkFmW8xEY0SR+fWllm8M1Et8nPXlQGwMeK//9k=",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/KltuXUagfqD3im-l-MtnmqEpeXn_7zeZ9nCk_LblvS4.jpg",
+    "url": "https://external-preview.redd.it/1P-Yu1iPg74UoQizIeWCBSCmU07w1qVxHTtWRHzN_H8.jpg?width=640&crop=smart&auto=webp&s=9f77a4bfb9a93eea8786892bfc39fa2b0560b25a",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 0.95,
+    "ups": 17,
+    "value": 17
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Castle Ruin Tower",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/9woyfs/castle_ruin_tower/"
+}

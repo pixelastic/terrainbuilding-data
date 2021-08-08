@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_aw9djue",
+    "name": "dfotw"
+  },
+  "date": {
+    "day": 1603238400,
+    "full": 1603307690,
+    "month": 1601510400,
+    "week": 1602979200
+  },
+  "id": "t3_jfjivb",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 56203,
+    "fullUrl": "https://preview.redd.it/7b3ajmnezhu51.jpg?auto=webp&s=1ca7b231b8f952a5c4aaabd8fb2af7ad38e1cf52",
+    "hash": "4a0d536936",
+    "height": 417,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAKABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgMF/8QAJBAAAQQCAQIHAAAAAAAAAAAAAQIDBBEAIQUSUQYTFBUxYZH/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERIf/aAAwDAQACEQMRAD8AES5cPiZ8QzHoYjLa61JCrdRs0opOqr4GbKva4/hBzl3FkLXJS006NJKa3fZRJGvrCHp2HJRcWy2pyr6ikE/uUlk+WReu2GYFOn//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/qriaDl0xezbUChuG4c0Ltkp0_xID8HCKvwYHDlNyPCk.jpg",
+    "url": "https://preview.redd.it/7b3ajmnezhu51.jpg?width=640&crop=smart&auto=webp&s=32dad050855b4a75f536bfd9c1694da118e68caf",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.95,
+    "ups": 24,
+    "value": 24
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "New to the hobby, here are my first pieces! Two very different types of sculptures, unpainted mini for scale.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/jfjivb/new_to_the_hobby_here_are_my_first_pieces_two/"
+}

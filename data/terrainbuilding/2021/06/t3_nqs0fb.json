@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_61zbn57b",
+    "name": "Bweeze086"
+  },
+  "date": {
+    "day": 1622592000,
+    "full": 1622656922,
+    "month": 1622505600,
+    "week": 1622332800
+  },
+  "id": "t3_nqs0fb",
+  "misc": {
+    "postHint": "self"
+  },
+  "picture": {
+    "filesize": 133982,
+    "fullUrl": "https://external-preview.redd.it/TXKsTQcIsho2A2NtvHSMj-8VF9YVr9-PyLkt9s8PwpI.jpg?auto=webp&s=043ab17e8a04266799a500c1a3b0ba0da6d5b14f",
+    "hash": "522959d93d",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAgEAACAgICAwEBAAAAAAAAAAABAgMEBREAIQYHElEj/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAaEQEAAgMBAAAAAAAAAAAAAAABAAIDITFB/9oADAMBAAIRAxEAPwCf9UY97mbrRVLE6wO5jkH1r7UIzab9G9crZclkomMdk4GKVCVKWLggkA31tCeuuH+mcwlWpFD9Qb/vZKugLaVQNhzo9kdj84rm/FMZ5bk5s1PWRDaCsqrZMYC/I0Ncm4w1Haw9PJ//2Q==",
+    "thumbnailUrl": "self",
+    "url": "https://external-preview.redd.it/TXKsTQcIsho2A2NtvHSMj-8VF9YVr9-PyLkt9s8PwpI.jpg?width=640&crop=smart&auto=webp&s=10a30f02d54e6de8929c93e04aace8e7b6a61f12",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 1,
+    "value": 1
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Custom Proxxon hotwire guides?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/nqs0fb/custom_proxxon_hotwire_guides/"
+}

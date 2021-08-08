@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_10bjw9",
+    "name": "sFAMINE"
+  },
+  "date": {
+    "day": 1628208000,
+    "full": 1628236904,
+    "month": 1627776000,
+    "week": 1627776000
+  },
+  "id": "t3_oz29c3",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 116745,
+    "fullUrl": "https://preview.redd.it/cs27eodr2pf71.jpg?auto=webp&s=b6f3477457f886e24c3b8b2e29d483ca9a95e08d",
+    "hash": "61a0b354fb",
+    "height": 726,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA4DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgMF/8QAJhAAAQMDAwMFAQAAAAAAAAAAAgEDBAURIQAGEgciYRMUFTFBUf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAZEQACAwEAAAAAAAAAAAAAAAABEQACAyH/2gAMAwEAAhEDEQA/AEtModCplDpJ1OJHbUDZiIbLJOeuhNiKcrLi5clva2cpq+62oNQhE3SK1JjlBke3eCIYN8CsXatwX+fWNDNvdU4U5xpiVN+PcakjyI27tvMoipZFstlXzbWV1F3jIPZ0OTSRjBLk1F1XCZbQeYCOFVE/e5M+NGNGWYls1wT/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/-c-vVY2SLTxtD0cB1rW1cQWvitu3BKiUL3G1xdTgzLs.jpg",
+    "url": "https://preview.redd.it/cs27eodr2pf71.jpg?width=640&crop=smart&auto=webp&s=d1ff19e66b2621e244f62b53f6226c79bee47f3b",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 219,
+    "value": 219
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP Santorini Building Front",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/oz29c3/wip_santorini_building_front/"
+}

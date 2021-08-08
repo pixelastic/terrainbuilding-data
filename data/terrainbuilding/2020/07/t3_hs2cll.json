@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_193re91i",
+    "name": "Almarca"
+  },
+  "date": {
+    "day": 1594857600,
+    "full": 1594870162,
+    "month": 1593561600,
+    "week": 1594512000
+  },
+  "id": "t3_hs2cll",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 48468,
+    "fullUrl": "https://preview.redd.it/x52cadua25b51.jpg?auto=webp&s=576886bee54708c726e42cbe1d83dfec21a30683",
+    "hash": "252672db23",
+    "height": 311,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAIABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAID/8QAHxAAAQQDAAMBAAAAAAAAAAAAAQIDBREABCESFDFh/8QAFAEBAAAAAAAAAAAAAAAAAAAABf/EABoRAAIDAQEAAAAAAAAAAAAAAAECAAQRA1H/2gAMAwEAAhEDEQA/AIhYie1p11e6/FyEb6riUHVdCD58qwrtnoHazaJkNtEi8DHbTAQopUhZTwKuqPwiqv8Ab+4xhhsvmxTjWRmw+Gf/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/FW4camzY_REDwyzT5HsaugW9v4KZOq4R4BwrFpbfz3U.jpg",
+    "url": "https://preview.redd.it/x52cadua25b51.jpg?width=640&crop=smart&auto=webp&s=1297b2d7764d11392974e41bb222bc66c644a6d4",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 59,
+    "value": 59
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Post apocalyptic deserted warehouse!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/hs2cll/post_apocalyptic_deserted_warehouse/"
+}

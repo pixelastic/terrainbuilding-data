@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_10bjw9",
+    "name": "sFAMINE"
+  },
+  "date": {
+    "day": 1570665600,
+    "full": 1570717689,
+    "month": 1569888000,
+    "week": 1570320000
+  },
+  "id": "t3_dfysos",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 88840,
+    "fullUrl": "https://preview.redd.it/ne08336j4qr31.jpg?auto=webp&s=318d9d5b095b5d857c3ba4706bdc708cbe1e9a10",
+    "hash": "a8daf932eb",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFBv/EACQQAAIBAwMDBQAAAAAAAAAAAAECAwQRIQAFYRITUQYVIjFB/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAZEQADAAMAAAAAAAAAAAAAAAAAAQIDEUH/2gAMAwEAAhEDEQA/AMq2zNWSCWSYGqdAOputJTj9za3GiNsJpYoG9oZjUqJUlhqAQwGOrJvwRjN9V66NpIkVZp4ggKjtuRcc+dKbUrTen62WWWRpqWo7MchPyClr/fBFx4ufOp83T6PjHLej/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/0O84X4LL_2CdZZZh4ldSWZ_qjclvD6TRL8T-tOTsreU.jpg",
+    "url": "https://preview.redd.it/ne08336j4qr31.jpg?width=640&crop=smart&auto=webp&s=89a1f0881e44460dfa4e2b0d7ea1258e84191a3f",
+    "width": 640
+  },
+  "score": {
+    "comments": 19,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 382,
+    "value": 382
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Ramshackle structures made out of magic the gathering cards 10mm",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/dfysos/ramshackle_structures_made_out_of_magic_the/"
+}

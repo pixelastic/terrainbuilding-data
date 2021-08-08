@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_ifpje",
+    "name": "Colerton"
+  },
+  "date": {
+    "day": 1563753600,
+    "full": 1563768765,
+    "month": 1561939200,
+    "week": 1563667200
+  },
+  "id": "t3_cg8gnr",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 109098,
+    "fullUrl": "https://external-preview.redd.it/H3Ya9INdjxLpr58CKMwUR5c0cZg6caTZ-yG9-caiQu8.jpg?auto=webp&s=796105d0d549ce828896e21e408d546f30278778",
+    "hash": "19278ffd22",
+    "height": 851,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAlEAABBAEDAwUBAAAAAAAAAAABAgMEBREABiEHEzEiI4GRocH/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAFxEBAQEBAAAAAAAAAAAAAAAAASEAEf/aAAwDAQACEQMRAD8AlqjdG0aGphsRqmbMkJaDTEx3tvKUD6iUpOMYUo8H+aD3BZvy7FTtYwuM0RhbS0pBSvJzwPA+/nV3vrp4qLbmZTVbUKqis+0ltWUgAZyfKsk8knTW3+m1kaWGtx+O08433HG3BkpUrnH6NBxelysC7//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/bXM9bl0b5IJ1LaJlrjTeSXrs79yxSnlgNVqTS5IMn5Q.jpg",
+    "url": "https://external-preview.redd.it/H3Ya9INdjxLpr58CKMwUR5c0cZg6caTZ-yG9-caiQu8.jpg?width=640&crop=smart&auto=webp&s=459dbefdb92f9ce9760837f01547f459f4b02e59",
+    "width": 640
+  },
+  "score": {
+    "comments": 33,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 1116,
+    "value": 1116
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I made a carboard dungeon for my players this week",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/cg8gnr/i_made_a_carboard_dungeon_for_my_players_this_week/"
+}

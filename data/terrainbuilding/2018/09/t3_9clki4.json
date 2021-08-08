@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_qmu82",
+    "name": "Fiendhunterbrand"
+  },
+  "date": {
+    "day": 1535932800,
+    "full": 1535982198,
+    "month": 1535760000,
+    "week": 1535846400
+  },
+  "id": "t3_9clki4",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 76382,
+    "fullUrl": "https://preview.redd.it/rfsih1g421k11.jpg?auto=webp&s=96378b4e6820aedb502ac4c2741ce82d7596dea3",
+    "hash": "8097e25d5f",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMF/8QAIxAAAgIABQQDAAAAAAAAAAAAAQIDBAAFBhEhEhMiMRRBUv/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAaEQACAgMAAAAAAAAAAAAAAAABAgADEiHw/9oADAMBAAIRAxEAPwAGnMwuwq3x7t+tGs3dCQklSdjtx9+QG/vjD9S5mambSQzG2jABwsd1Yl2by4BU/rE9LUbNyCE1aUqNui94iRD1MSWLEEcbEAEY1NdZfYl1JYdIIJFKqeqR9j6BwNwFrUtFoS1r4duf/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/_YELDQDnZpAxdM7dUIm26uYlVFxNP9qGORrIhkYNUfI.jpg",
+    "url": "https://preview.redd.it/rfsih1g421k11.jpg?width=640&crop=smart&auto=webp&s=9ced568ee6e52e0774afa4b60e97711ff5bc3bcd",
+    "width": 640
+  },
+  "score": {
+    "comments": 35,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 53,
+    "value": 53
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Need to seal some dungeon stackers, how do I do it without melting the foam?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/9clki4/need_to_seal_some_dungeon_stackers_how_do_i_do_it/"
+}

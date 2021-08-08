@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_l47ik",
+    "name": "flankbonus"
+  },
+  "date": {
+    "day": 1507507200,
+    "full": 1507584787,
+    "month": 1506816000,
+    "week": 1507420800
+  },
+  "id": "t3_75cdmg",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 59581,
+    "fullUrl": "https://external-preview.redd.it/ydrorNER7La0WWxn0Kpc6jFq-CszV0CRMp9sSDWGKgc.jpg?auto=webp&s=4d17b8578783fc6d7e952a0341ab93ff5e560ce9",
+    "hash": "53307a6c86",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAJBAAAQQBAwMFAAAAAAAAAAAAAQIDBAUhAAYRMUGxMzZxcvD/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABsRAAICAwEAAAAAAAAAAAAAAAECABIREyFB/9oADAMBAAIRAxEAPwAqTthuYyxGejoQ20jCHU4cIGVfj31XX7OTW0s+zo6xpb0iI40CUHoSQQBng9weMYOt/Xeo19D5GhKj3Ntf4meDoKVOPJbtDoQV7P/Z",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/Q9dxBivmjGgz9I9_TtA6M_9DqRvxJnwqGixOpZ_YB14.jpg",
+    "url": "https://external-preview.redd.it/ydrorNER7La0WWxn0Kpc6jFq-CszV0CRMp9sSDWGKgc.jpg?width=640&crop=smart&auto=webp&s=9927e90f409b035c01582270e2a4e7a8a609a7ef",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "ratio": 0.9,
+    "ups": 20,
+    "value": 20
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "End of campaign display piece. W.I.P",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/75cdmg/end_of_campaign_display_piece_wip/"
+}

@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_3gy1csgq",
+    "name": "CSM_Ereden"
+  },
+  "date": {
+    "day": 1627084800,
+    "full": 1627114054,
+    "month": 1625097600,
+    "week": 1626566400
+  },
+  "id": "t3_oqlsze",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "filesize": 72434,
+    "fullUrl": "https://external-preview.redd.it/he96SipL9vKtzQTTbPSPcE9Zx2sO0oxXRs0UamW_U2I.jpg?auto=webp&s=b4cba85cfa73762be18036a655c6ef7c5d57bb5e",
+    "hash": "4956b92e8f",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgcI/8QAJRAAAgEDAwIHAAAAAAAAAAAAAQIDBAURABJBBiEHFTFRYXGR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAbEQACAwADAAAAAAAAAAAAAAABAgADEhETIf/aAAwDAQACEQMRAD8AjvS0lZb5WFPQwVbS7TIZIRIEBOMDP3k86WVtnjqrIfMVp3dmPamXaUXjavHfg+uhdsnd6hIZArIz4JKjP6Nab8O+kbVBS0VxeJ6iqCjYZm3Kh9wMYz86G0og0R7KqO0nKtwJ/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/-lTgnzLU2lIiStipbMYQufR0LirGG8vcc7iAlXuKLbY.jpg",
+    "url": "https://external-preview.redd.it/he96SipL9vKtzQTTbPSPcE9Zx2sO0oxXRs0UamW_U2I.jpg?width=640&crop=smart&auto=webp&s=5b580c49a3e440e290a509a51bc58315aee3ac77",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 8,
+    "value": 8
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Progress on the exterior city",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/oqlsze/progress_on_the_exterior_city/"
+}

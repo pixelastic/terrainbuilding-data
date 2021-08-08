@@ -1,0 +1,39 @@
+{
+  "author": {
+    "name": "[deleted]"
+  },
+  "date": {
+    "day": 1569369600,
+    "full": 1569430243,
+    "month": 1567296000,
+    "week": 1569110400
+  },
+  "id": "t3_d960qv",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 50792,
+    "fullUrl": "https://external-preview.redd.it/id6u5NoET9lue5_f8K9tdKWMzUIJYXz65qc-KPve_OM.jpg?auto=webp&s=4b3abeaca4fee09a9e920569e97c7b295914712e",
+    "hash": "11ba674160",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQI/8QAIxAAAQQCAQMFAAAAAAAAAAAAAQIDBAUAESEGEyIUQVFSgf/EABUBAQEAAAAAAAAAAAAAAAAAAAIE/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAECESH/2gAMAwEAAhEDEQA/ACnSM25u1k21xdtkgqT2JI8QPsCOPzEPopsizjNwru2QpKwtTMxZUVaG06QBo86OvjZ1mfkdQWzTiXmZzzboBSFIIGhv2yyuurOXctzZc+S/Kb8kuuOEq2nkc4KWTwoio1Jyf//Z",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/jvhOFBvZM7uBiKgrn5F-O-c2m7jJOP3lE9UnAcFJvl8.jpg",
+    "url": "https://external-preview.redd.it/id6u5NoET9lue5_f8K9tdKWMzUIJYXz65qc-KPve_OM.jpg?width=640&crop=smart&auto=webp&s=29c4fc67b27247e01035f8bfecd0e9e533e85a94",
+    "width": 640
+  },
+  "score": {
+    "comments": 17,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 525,
+    "value": 525
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Learning my new tools with a simple project!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/d960qv/learning_my_new_tools_with_a_simple_project/"
+}

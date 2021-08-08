@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_5aw88f1k",
+    "name": "Financial_Ad_4778"
+  },
+  "date": {
+    "day": 1603843200,
+    "full": 1603913978,
+    "month": 1601510400,
+    "week": 1603584000
+  },
+  "id": "t3_jjur40",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "filesize": 34623,
+    "fullUrl": "https://external-preview.redd.it/-JM30x_lb9SWpY0f92yky0MJ6RIIgTQYiiigM0AefpU.jpg?auto=webp&s=68a5123387c12895ff55060092014e428093f6f1",
+    "hash": "3e2bb24574",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMFB//EAB8QAAICAgIDAQAAAAAAAAAAAAECAwQAEQUhEjFhcf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAHBEAAQQDAQAAAAAAAAAAAAAAEQASIXEBAgMj/9oADAMBAAIRAxEAPwDIuEr2rUcc6SooeTxCsTsDeix+dYfNVrUFdp3kRgkhRlXewN6DfhynSiRfQxtmGMjtctjXqS6KR8wGza//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/lVWfVaSS4RnYx2J7eaaqXz2_5p7D1imBKyLo2fbpOps.jpg",
+    "url": "https://external-preview.redd.it/-JM30x_lb9SWpY0f92yky0MJ6RIIgTQYiiigM0AefpU.jpg?width=640&crop=smart&auto=webp&s=39fba036a99e250b0638184baed7e2451a5fc508",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 20,
+    "value": 20
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Crafted Houses for ROSD",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/jjur40/crafted_houses_for_rosd/"
+}

@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_4lwb5yfn",
+    "name": "SmallDarkWorlds"
+  },
+  "date": {
+    "day": 1597622400,
+    "full": 1597675817,
+    "month": 1596240000,
+    "week": 1597536000
+  },
+  "id": "t3_ibfj8w",
+  "misc": {
+    "postHint": "hosted:video"
+  },
+  "picture": {
+    "filesize": 47270,
+    "fullUrl": "https://external-preview.redd.it/VeFlGyfvx8otn5ODU32TUx3jDbOIjCghyDlqozpPpLU.png?format=pjpg&auto=webp&s=f5a6949de8e8d67939682b238da6e3bc67314681",
+    "hash": "07d4d36f01",
+    "height": 640,
+    "lqip": "data:image/png;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAJhAAAgIBAgQHAQAAAAAAAAAAAQIDBBEABQYhIkEHCBIUFWFxUf/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAaEQACAgMAAAAAAAAAAAAAAAABAwAhAhEy/9oADAMBAAIRAxEAPwDQuILdnbL9af5RK9SwHjKSV42CEJnIZmU8yP6dRa+9WrW8NBJcWSt7UToVrKgk6iuQwZuXf70V8wUF+1DSYzQnaUBJj9PWH7nP2MY/NFPDleJRPBcZy2yxqKzGyR0xjJCx9+WfzRWZ6oRS1noip//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/MpOwx7gHIZEzVU1op8vRhCOvJjzCftLFMe_mvAelkjc.jpg",
+    "url": "https://external-preview.redd.it/VeFlGyfvx8otn5ODU32TUx3jDbOIjCghyDlqozpPpLU.png?width=640&crop=smart&format=pjpg&auto=webp&s=975febab122cd9fa2aa508b9080af692ec12d21a",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 232,
+    "value": 232
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Torri Gate, Samurai Themed WIP, beginning stages",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ibfj8w/torri_gate_samurai_themed_wip_beginning_stages/"
+}

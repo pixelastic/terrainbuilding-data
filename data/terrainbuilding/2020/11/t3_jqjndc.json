@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_givzu",
+    "name": "Cptnsquid"
+  },
+  "date": {
+    "day": 1604793600,
+    "full": 1604869807,
+    "month": 1604188800,
+    "week": 1604793600
+  },
+  "id": "t3_jqjndc",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 48695,
+    "fullUrl": "https://external-preview.redd.it/37ctKu5iR5_U5LMlx1Sxk_M80AJPi9_q32CIYbaTk6g.jpg?auto=webp&s=44134e85ff5305ec297863d7cb12bcb9868fb946",
+    "hash": "a162ef79c7",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABwT/xAAjEAACAgICAgEFAAAAAAAAAAABAgMEBREAEgYhUSIxQYGR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAZEQEAAgMAAAAAAAAAAAAAAAABACEREiL/2gAMAwEAAhEDEQA/AA7HQXMXj8hUyFORXuhJk7KTIioSewHwd63y5cjksVUo2popBjpY4Y1dSDv25PU7+x97+dcQfNMdEnjSZMM5tR1ECE60oKaIHrev3wzWzZyODxlC1ZmepG0rJF2+lSqkqQPxrZ/vBlUqV51uf//Z",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/3bfO4frT7ZprKF7n1l_zBEUGbvXR5jY749nXvnCxvC0.jpg",
+    "url": "https://external-preview.redd.it/37ctKu5iR5_U5LMlx1Sxk_M80AJPi9_q32CIYbaTk6g.jpg?width=640&crop=smart&auto=webp&s=1ccec82320c1adb19169ddb137dfb90408a64065",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 0.94,
+    "ups": 15,
+    "value": 15
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Got a chance to build with Ettinstone magnetic dungeon tiles!!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/jqjndc/got_a_chance_to_build_with_ettinstone_magnetic/"
+}

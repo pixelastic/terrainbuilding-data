@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_ll4n2",
+    "name": "Rengald"
+  },
+  "date": {
+    "day": 1482883200,
+    "full": 1482936273,
+    "month": 1480550400,
+    "week": 1482624000
+  },
+  "id": "t3_5kqjh1",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 243610,
+    "fullUrl": "https://preview.redd.it/041enjs8lb6y.png?auto=webp&s=f5defc230c2604873a1e337aefd90429a5f5608f",
+    "hash": "7839cef88e",
+    "height": 196,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAFCAIAAADDivseAAAACXBIWXMAAAsTAAALEwEAmpwYAAABAElEQVQImQH1AAr/AApEcSZlmXSXta+xr42NncCwtLfFx391aZBsWJt7aKF+bIRkVmZORWBKQFxGPFdANQBTJjaKS2eWXXiSfIFhaWtncoB2gIJhVESLVUGUZlGRZlSHW0p3UUJvRzlzV0pyWk8AYlJXfWBnjFxldl1ZcHRzZV1vXVpvZkg+qGhRwpyMupiKoHlqkWZXh1lKhllIg19QAGRwUml9TGhzSWpvQnRnUHxkT1peNWxQLK96a8aonNW6r9O5rcuwo72gk4tOPn4+LAA/VxJPTTRbXjtjeTBddC5ccCxkfjqEaUiaUTuaVkKlaVe0hHXKq5/AnpGTUT2MSzgrmGhnXGBiNQAAAABJRU5ErkJggg==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/tUUk4Rx9jiGhzhDv86Gh6jMswfXO_0Uq6Mu0eYyg-tw.jpg",
+    "url": "https://preview.redd.it/041enjs8lb6y.png?width=640&crop=smart&auto=webp&s=2a3d65b52e0d9d890c4c9519167e9ef64fdde3c6",
+    "width": 640
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "ratio": 0.91,
+    "ups": 16,
+    "value": 16
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Question About Fences...",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/5kqjh1/question_about_fences/"
+}

@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_8s9jtxz0",
+    "name": "SacredValkyrie"
+  },
+  "date": {
+    "day": 1605484800,
+    "full": 1605556046,
+    "month": 1604188800,
+    "week": 1605398400
+  },
+  "id": "t3_jvdmjv",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 83260,
+    "fullUrl": "https://preview.redd.it/b3pg188xonz51.jpg?auto=webp&s=67e76211e26133be53f04a08968c1a901e5536f1",
+    "hash": "299f9d02ca",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFBv/EACYQAAEDAgUDBQAAAAAAAAAAAAECAwUEEQAGEyFhEjJBBxQxUXH/xAAVAQEBAAAAAAAAAAAAAAAAAAACBP/EABoRAAEFAQAAAAAAAAAAAAAAAAEAAgMRIRP/2gAMAwEAAhEDEQA/AEZdmYtx1blU3VSi3VdXutUNJQUp7FEpsFE9ZG5FvzBD59rY5l9phgVDKn3HGyty5QkntB8gffOM01BzLWXUSlfXU8dSrGu0jTOoNu4ADa4584u+nUXlOSy02/LyJTWaikrQ47plPxYAeRbe/PGJZ6frcKUcfMU7Qv/Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/zMw4EDL2-DJFvi1ROgUwin0AV4ger17J5-H6RP649Hs.jpg",
+    "url": "https://preview.redd.it/b3pg188xonz51.jpg?width=640&crop=smart&auto=webp&s=841002152e3fdd5a3994dae3193d95bd1acf34c7",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.92,
+    "ups": 27,
+    "value": 27
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Working on a big base, C&C appreciated",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/jvdmjv/working_on_a_big_base_cc_appreciated/"
+}

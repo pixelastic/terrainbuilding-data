@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_4geou",
+    "name": "angeredtsuzuki"
+  },
+  "date": {
+    "day": 1537401600,
+    "full": 1537478700,
+    "month": 1535760000,
+    "week": 1537056000
+  },
+  "id": "t3_9hj5kv",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 41977,
+    "fullUrl": "https://external-preview.redd.it/hGTiSoRjWTZR8_kn5-V9NZfUOomQFp-d5J5t_h7yvtI.jpg?auto=webp&s=10aa2c1cb43844349661d12634bf137b26ee5c0f",
+    "hash": "0733327fb9",
+    "height": 381,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAKABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQEH/8QAJhAAAQMDAwIHAAAAAAAAAAAAAQIDBAARIQYSEwVBFBUiI1Ox8f/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAaEQEAAgMBAAAAAAAAAAAAAAADAQIAESEx/9oADAMBAAIRAxEAPwAjX2neovSonA+29HhOBx2KtZspOMEA5/aI8A5E1gwuLGZaiq9sojJUEBZFybHv2rStVIT53JXtTv4D6rZwk2q9KZa3sHiRfnTnaPiSfugguksMRyuKY9HVJ9tn/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/sIOKX7Mvk3rzHsod8spFRjVZMQXoPIipCxrc5fUtZvU.jpg",
+    "url": "https://external-preview.redd.it/hGTiSoRjWTZR8_kn5-V9NZfUOomQFp-d5J5t_h7yvtI.jpg?width=640&crop=smart&auto=webp&s=1389a5e1b51f1c116c6cd02f15d627ed4100ce66",
+    "width": 640
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "ratio": 0.91,
+    "ups": 59,
+    "value": 59
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Working on a new terrain piece! Very WIP right now.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/9hj5kv/working_on_a_new_terrain_piece_very_wip_right_now/"
+}

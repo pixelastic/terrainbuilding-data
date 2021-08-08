@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_35q3a60w",
+    "name": "blackbarrt"
+  },
+  "date": {
+    "day": 1594425600,
+    "full": 1594474479,
+    "month": 1593561600,
+    "week": 1593907200
+  },
+  "id": "t3_hpa2cm",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 77971,
+    "fullUrl": "https://preview.redd.it/5eiog57qd8a51.jpg?auto=webp&s=54c44f8d714151cbf94c6b58a33953c24d808ca8",
+    "hash": "e0e642e761",
+    "height": 280,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUG/8QAIhAAAQMDAwUAAAAAAAAAAAAAAQIDIQAEEQUxQRITFSJR/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAZEQACAwEAAAAAAAAAAAAAAAAAAQIRIRL/2gAMAwEAAhEDEQA/AMMwdPRbuMXDaH2MKHug9ZBAEn7G9UG/CX7Smuw4grAnABERtiRxxSlSowy7Epda2f/Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/awL06NubkaeVqHL63pO4Btb7VGGx-avo_SW6f3JYB7s.jpg",
+    "url": "https://preview.redd.it/5eiog57qd8a51.jpg?width=640&crop=smart&auto=webp&s=f2747c0037440dfe838febbf3836d09623839264",
+    "width": 640
+  },
+  "score": {
+    "comments": 26,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 600,
+    "value": 600
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Inside the maze, dwarf regiments cleverly use their banners for communication.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/hpa2cm/inside_the_maze_dwarf_regiments_cleverly_use/"
+}

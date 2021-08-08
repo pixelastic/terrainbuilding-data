@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_1itpa",
+    "name": "Naedlus"
+  },
+  "date": {
+    "day": 1620172800,
+    "full": 1620184468,
+    "month": 1619827200,
+    "week": 1619913600
+  },
+  "id": "t3_n55xop",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 67223,
+    "fullUrl": "https://preview.redd.it/ek76bk9my7x61.jpg?auto=webp&s=6fa8f91eac3b7f39b3635184fcc0aa7cff84e225",
+    "hash": "0250d9eba8",
+    "height": 454,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAH/xAAhEAABAwQCAwEAAAAAAAAAAAABAgMRAAQFEiFhBhNBFP/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAbEQEBAAEFAAAAAAAAAAAAAAACAQADERIiMf/aAAwDAQACEQMRAD8AI/l3SD7XnxuYT+hM+sAagz0J46FFtlG/vmWW1NpLghfGsRySmPsfJq+UWjDeUvENt6pSswEkiKLgLVlGWKkpMgEiVExx3R6hQXO3riklzae5/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/sKChOH9h5_bSBfg0v0Qs6gwKY8en_aN2Gy_hSIT7rqI.jpg",
+    "url": "https://preview.redd.it/ek76bk9my7x61.jpg?width=640&crop=smart&auto=webp&s=8a7da53d3bac52da4b032ec3df8980d953dd0cf3",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 81,
+    "value": 81
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Sometimes... the funnest part is working out \"just the right misspellings\"",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/n55xop/sometimes_the_funnest_part_is_working_out_just/"
+}

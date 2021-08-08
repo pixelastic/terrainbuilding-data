@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_mmgf9i7",
+    "name": "Claxell"
+  },
+  "date": {
+    "day": 1593561600,
+    "full": 1593613739,
+    "month": 1593561600,
+    "week": 1593302400
+  },
+  "id": "t3_hjb966",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 42969,
+    "fullUrl": "https://preview.redd.it/ofdxwg9v99851.jpg?auto=webp&s=55ddbef287f10b36a9927dec2ebd2a8152270bcd",
+    "hash": "045d74dfeb",
+    "height": 289,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAX/xAAhEAEAAQQCAQUAAAAAAAAAAAABAgADBBETIQUGFBUiQf/EABUBAQEAAAAAAAAAAAAAAAAAAAQG/8QAGBEBAQEBAQAAAAAAAAAAAAAAAQIAAxH/2gAMAwEAAhEDEQA/AJ/p7wEbsbGRkZE55C/YFIBvbEOvw1urN/3uPcl8djcdyAseWZKNzSKJ31pNUpUtxXwrIuld/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/r7ZMGbPmHCogBzfpv84C_3vdhO5QYObgpatvdqz0HKA.jpg",
+    "url": "https://preview.redd.it/ofdxwg9v99851.jpg?width=640&crop=smart&auto=webp&s=13d81129ef4bad1f27c9e0b9e4817c8f493999f5",
+    "width": 640
+  },
+  "score": {
+    "comments": 13,
+    "downs": 0,
+    "ratio": 0.91,
+    "ups": 20,
+    "value": 20
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Ok, so I have been thinking about making a terrain-board using big square tiles, such as these below, although I have no idea what people make them from. What materials & techniques do you suggest? (Picture below was found on google, no clue about the original creator)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/hjb966/ok_so_i_have_been_thinking_about_making_a/"
+}

@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_4vv0fs2u",
+    "name": "Brik79"
+  },
+  "date": {
+    "day": 1579478400,
+    "full": 1579487272,
+    "month": 1577836800,
+    "week": 1579392000
+  },
+  "id": "t3_er6jxn",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 66434,
+    "fullUrl": "https://preview.redd.it/2y5zy021hub41.jpg?auto=webp&s=3750cefb22954977a3da8c0a6c0bc2e56708a339",
+    "hash": "87ee7bdc85",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGB//EACQQAAAFAwMFAQAAAAAAAAAAAAECAwQFAAYhESJBEjM0c8GB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAaEQEAAgMBAAAAAAAAAAAAAAABAAIDEhNB/9oADAMBAAIRAxEAPwBgve0sVZSNRkTtCHRMIqlNuzjbnGn2ibIuGUbuG7aSdrvYpPQpFVjibrIOBAREdwBnjistuTzR/asYzuNvR8p7Gykj6tcdX2f/2Q==",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/YxLwdH78fK8XlxXH9kzCz06ud-1ELQGPNFKzX25FQo4.jpg",
+    "url": "https://preview.redd.it/2y5zy021hub41.jpg?width=640&crop=smart&auto=webp&s=1add1ce0798f58538fbde8e0b6a94f07f7e7af7c",
+    "width": 640
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 444,
+    "value": 444
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First time building - Ruined foundation of small cottage.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/er6jxn/first_time_building_ruined_foundation_of_small/"
+}

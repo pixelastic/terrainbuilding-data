@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_5e1ct",
+    "name": "Ralltir"
+  },
+  "date": {
+    "day": 1594598400,
+    "full": 1594672130,
+    "month": 1593561600,
+    "week": 1594512000
+  },
+  "id": "t3_hqn3ih",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 113235,
+    "fullUrl": "https://preview.redd.it/l0n9dldcpoa51.jpg?auto=webp&s=7fb47b1a2bd31fbdba0610ed9b6c904ecdf4c66e",
+    "hash": "59e9cfbe57",
+    "height": 668,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA8DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUG/8QAJhAAAQMCBQMFAAAAAAAAAAAAAQIDBAURAAYSITETFFEWMkFh8P/EABQBAQAAAAAAAAAAAAAAAAAAAAX/xAAaEQACAwEBAAAAAAAAAAAAAAABAgADBBIR/9oADAMBAAIRAxEAPwCVTo+XaTm6NFm0SgvU0nS+X0pWpHPwRsfbzgs1FKlZtkpiZcprVMdcV2yewRYoAttYeQTbCvTMp1x3VJX1DcNvk76SdwfP7fG0pMVMGC2zqcf0Ekk8kk3v9YLfStaAA9RBM7WP6RzP/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/amheviw8YseNSaMxFRXkPscIOrN1Onp-6DCsdI6HqZU.jpg",
+    "url": "https://preview.redd.it/l0n9dldcpoa51.jpg?width=640&crop=smart&auto=webp&s=f6aca7113488e335321b90467df31a3a1dca8c13",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.93,
+    "ups": 35,
+    "value": 35
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Interactive Dungeon Pieces",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/hqn3ih/interactive_dungeon_pieces/"
+}

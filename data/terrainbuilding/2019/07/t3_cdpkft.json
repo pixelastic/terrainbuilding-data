@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_16ycovb",
+    "name": "tiny_architect"
+  },
+  "date": {
+    "day": 1563235200,
+    "full": 1563235464,
+    "month": 1561939200,
+    "week": 1563062400
+  },
+  "id": "t3_cdpkft",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 115335,
+    "fullUrl": "https://preview.redd.it/54h2o7h24ka31.jpg?auto=webp&s=8e052ecb71f1125817ada1acea07339a5b9feb15",
+    "hash": "ad1e62fe4b",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAX/xAAnEAACAgAEBQQDAAAAAAAAAAABAwIEAAURIQYSEyMyMUFRUmGB8P/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAWEQEBAQAAAAAAAAAAAAAAAAAAESH/2gAMAwEAAhEDEQA/AKF65eZmtmCLZHI50NQ2YPmdDsf79YKG34qrNOZPfJFpZMRYnEzHUiCfLcb+hwIUL7s5ztkOFbLmqDCsKsWIc/f0129tJE6AYq10Ir3MjEuCc3Zbtui2xJll/TT3eUS0kD9SSD+PnB3SP//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/1GYITXyemCwv_92FBGCNquzErWmyY5lCp3657TPfMgA.jpg",
+    "url": "https://preview.redd.it/54h2o7h24ka31.jpg?width=640&crop=smart&auto=webp&s=ac2037dd5c3b50e6a23a7d90cb625d0dfc88f4eb",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 369,
+    "value": 369
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "End of a battle",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/cdpkft/end_of_a_battle/"
+}

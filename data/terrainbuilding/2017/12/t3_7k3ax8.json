@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_ib9ia",
+    "name": "Legionforce"
+  },
+  "date": {
+    "day": 1513296000,
+    "full": 1513378543,
+    "month": 1512086400,
+    "week": 1512864000
+  },
+  "id": "t3_7k3ax8",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 21939,
+    "fullUrl": "https://preview.redd.it/ui5hwtxo16401.jpg?auto=webp&s=c86091cd4f6662bf3908176b26ffcc25421e9c10",
+    "hash": "c88161890a",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQFBv/EACUQAAEEAgEBCQAAAAAAAAAAAAECAwQRAAUhBhITMTIzN3F0sf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAFhEBAQEAAAAAAAAAAAAAAAAAABFB/9oADAMBAAIRAxEAPwCv1DNkuy5+kgBoyXNYqTHbBHeOuhflF8VQF3yLvnG9fN2rvWjUSSlKEvRBIfSGz2UBKAAhKvCy6tZNc0gYMX3AjfTc/Rm3Hpq+RkUNr//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/9CJ_YA6LacvLq-fLWlMrZmVD8dwxAf-oHQEDBrftfnw.jpg",
+    "url": "https://preview.redd.it/ui5hwtxo16401.jpg?width=640&crop=smart&auto=webp&s=1948eec87829617729c89e3d3c79c6dc6b92157a",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 29,
+    "value": 29
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Quick and Dirty Foamcore Stalagmites",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/7k3ax8/quick_and_dirty_foamcore_stalagmites/"
+}

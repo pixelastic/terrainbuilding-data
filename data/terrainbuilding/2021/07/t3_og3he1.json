@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_8q907cda",
+    "name": "burk_design"
+  },
+  "date": {
+    "day": 1625702400,
+    "full": 1625735102,
+    "month": 1625097600,
+    "week": 1625356800
+  },
+  "id": "t3_og3he1",
+  "misc": {
+    "postHint": "rich:video"
+  },
+  "picture": {
+    "filesize": 26969,
+    "fullUrl": "https://external-preview.redd.it/ULYV1swaNBnYkwAOMo20lrDLL4S1ruTSo5nFiqTja9A.jpg?auto=webp&s=d82e02088e9f03f50c12de6368f025524b756577",
+    "hash": "74407b67bc",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAJhAAAQEFBwUAAAAAAAAAAAAAAQIAAwQHEgUGETVBUXMIEyKx0f/EABUBAQEAAAAAAAAAAAAAAAAAAAUG/8QAHhEAAgEDBQAAAAAAAAAAAAAAAQIDAAQREzFBscH/2gAMAwEAAhEDEQA/AE0kbVgXMtrqQYQ7fv4upwopV5OqStRJG2A21aV1GiERc2NDrDu0b6VBs+klm1hcf1kU/cotDiHsMpanUR88L5Uze4hnjAG7Duv/2Q==",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/thvZ1-MNoSp7AawvN78HHyt2sVt1c_aGDZg_faXxFn4.jpg",
+    "url": "https://external-preview.redd.it/ULYV1swaNBnYkwAOMo20lrDLL4S1ruTSo5nFiqTja9A.jpg?width=640&crop=smart&auto=webp&s=6cae6e9574160c09f335ab40c6b29918ec6a8c17",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 3,
+    "value": 3
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "ROUND ABOUT - a very unfinished finished short.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/og3he1/round_about_a_very_unfinished_finished_short/"
+}

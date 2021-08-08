@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_3dhi1",
+    "name": "kagius"
+  },
+  "date": {
+    "day": 1590192000,
+    "full": 1590265871,
+    "month": 1588291200,
+    "week": 1589673600
+  },
+  "id": "t3_gpc21m",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 76330,
+    "fullUrl": "https://preview.redd.it/diwqe74brk051.jpg?auto=webp&s=e874db286ec8db1474f98bbaa782a88ca7cffbeb",
+    "hash": "d09803a189",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEB//EAB8QAAICAgEFAAAAAAAAAAAAAAECAxEABGEFITFBUf/EABUBAQEAAAAAAAAAAAAAAAAAAAAC/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8Awbp8C7O2scsqxx92Zz6AF3ibDQJsSDWAaJWIViKLD7WQufHOAYk0TfOSP//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/RuCrugyojFNSPfvQd-y2iprVfNmRB_3GCuQWa64ZdCE.jpg",
+    "url": "https://preview.redd.it/diwqe74brk051.jpg?width=640&crop=smart&auto=webp&s=2d8ca7963cd98ecd782791b7e21ccaac49935c20",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "ratio": 0.94,
+    "ups": 13,
+    "value": 13
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Experimenting with sprue stretching to make mini metalwork (video in comments)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/gpc21m/experimenting_with_sprue_stretching_to_make_mini/"
+}

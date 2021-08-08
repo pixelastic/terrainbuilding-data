@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_4miib",
+    "name": "WhosTheBossk"
+  },
+  "date": {
+    "day": 1538524800,
+    "full": 1538600784,
+    "month": 1538352000,
+    "week": 1538265600
+  },
+  "id": "t3_9l5cwy",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 83150,
+    "fullUrl": "https://preview.redd.it/7aqt1syjc1q11.jpg?auto=webp&s=92a713eb7c8876a5f752af5515f060391eaba983",
+    "hash": "416610d1d6",
+    "height": 1138,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwQG/8QAJRAAAgIBAgQHAAAAAAAAAAAAAQIDBAUAEQYHEyEWMUFCUlRh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABcRAAMBAAAAAAAAAAAAAAAAAAABAlH/2gAMAwEAAhEDEQA/ALqWAjq57EZG209iONVsJKkKqJAykgkAdlAJPn221p/GHCv3otEnDPN+Gvy8tYrNVpLGUgqmrSnT1UqVUuSfaDt+jbQx12+R0VGidYf/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/4nAa7gkkZYQ1ZzkJ-NSOJ3ecBauh29YsKrBaNFYQNoY.jpg",
+    "url": "https://preview.redd.it/7aqt1syjc1q11.jpg?width=640&crop=smart&auto=webp&s=9a24a41828e534f52c558ca910666373233844f4",
+    "width": 640
+  },
+  "score": {
+    "comments": 13,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 113,
+    "value": 113
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Work in progress mansion, next is stairs and painting",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/9l5cwy/work_in_progress_mansion_next_is_stairs_and/"
+}

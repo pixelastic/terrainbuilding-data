@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_4vli9sib",
+    "name": "dmr2833"
+  },
+  "date": {
+    "day": 1584230400,
+    "full": 1584311727,
+    "month": 1583020800,
+    "week": 1584230400
+  },
+  "id": "t3_fj9yyr",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 85325,
+    "fullUrl": "https://preview.redd.it/1vu886qnywm41.jpg?auto=webp&s=eb2c6d8e1dbd7b9e30a030f11adaa65c13ad5ad8",
+    "hash": "4ccc1cc26a",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABwT/xAAiEAACAgICAgIDAAAAAAAAAAABAgMEBRESIQAUBlEiQbH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABkRAQACAwAAAAAAAAAAAAAAAAEAERIhMf/aAAwDAQACEQMRAD8Aih+XzPmaFWpClbdlYxaewVUgnjs96Xr++IeUgxEuQnaWhBePLQk9tIlAHXFRyGwPv99+A65+a9Ur08itevUhHH2EiBPSqPyI7PQHinJh2pQVI5bWOdmrxuGdXUsCo0dAfWvJlx0EcL6z/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/Bnr0V5WySwtPNG3bKqOZ8f18S9LKmIkqv1YxCcgvRBY.jpg",
+    "url": "https://preview.redd.it/1vu886qnywm41.jpg?width=640&crop=smart&auto=webp&s=2413375d40134382c1fa88e2b5f1d83fc89de0b6",
+    "width": 640
+  },
+  "score": {
+    "comments": 9,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 189,
+    "value": 189
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Bell tower interior ruins nearly done.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/fj9yyr/bell_tower_interior_ruins_nearly_done/"
+}

@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_11026qth",
+    "name": "ccordeiro30"
+  },
+  "date": {
+    "day": 1595635200,
+    "full": 1595637756,
+    "month": 1593561600,
+    "week": 1595116800
+  },
+  "id": "t3_hxdj8b",
+  "misc": {
+    "postHint": "hosted:video"
+  },
+  "picture": {
+    "filesize": 106409,
+    "fullUrl": "https://external-preview.redd.it/AfANF50A5HWFFA_KUqJzIHSSfQuee47j8uvGZ4ePj_0.png?format=pjpg&auto=webp&s=3df0c24c542dc65afdbc4bb76bc6b16f153bfb8b",
+    "hash": "559febd120",
+    "height": 1138,
+    "lqip": "data:image/png;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQf/xAAnEAACAQMBBgcAAAAAAAAAAAABAgMABAURBhMUIVFWMWGToaPR0//EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAECEf/aAAwDAQACEQMRAD8AmIxdzkkRJ4pWsnKyAgkyc9A7KC2mpPseVMbrGdg4P5/3pTYjgn2fa3bJq84tnlkVmIeEDx06AdfOg+EwncNx6y/VBPCtU6es/9k=",
+    "thumbnailUrl": "spoiler",
+    "url": "https://external-preview.redd.it/AfANF50A5HWFFA_KUqJzIHSSfQuee47j8uvGZ4ePj_0.png?width=640&crop=smart&format=pjpg&auto=webp&s=bf8f1b99d3cfd151e9719cac7e847064a5bb9638",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 18,
+    "value": 18
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Curse of strahd final table",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/hxdj8b/curse_of_strahd_final_table/"
+}

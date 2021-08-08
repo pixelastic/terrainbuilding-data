@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_mo71c",
+    "name": "Zeoinx"
+  },
+  "date": {
+    "day": 1625443200,
+    "full": 1625520931,
+    "month": 1625097600,
+    "week": 1625356800
+  },
+  "id": "t3_oegwzz",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 21906,
+    "fullUrl": "https://external-preview.redd.it/8yyeX3KbsF1UHUvi1MUwhS8AIbiWS86wPecD9iNH324.jpg?auto=webp&s=0d9202aab74e82e8aef7c1267c5511f7ae125cc5",
+    "hash": "8f92a9ba1a",
+    "height": 355,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMFBv/EACMQAAAFAwMFAAAAAAAAAAAAAAECAwQRAAUGEzNBISIxYXH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABgRAAIDAAAAAAAAAAAAAAAAAAABAgMh/9oADAMBAAIRAxEAPwDa5EW6t8cnG2zZ1cimIAFc9QEk9w8SMe6FNsqraEDXNqik9EgapSRAG58VVa7Q/aW/26i56EUf/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/km10o9enTcfWrmVqGqD7-YcYjb4ilnAkel_swD0pc3k.jpg",
+    "url": "https://external-preview.redd.it/8yyeX3KbsF1UHUvi1MUwhS8AIbiWS86wPecD9iNH324.jpg?width=640&crop=smart&auto=webp&s=391d558742d132685206326034b8850bc1f2606f",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "ratio": 0.93,
+    "ups": 13,
+    "value": 13
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Camera Help - What camera can focus on small details like this?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/oegwzz/camera_help_what_camera_can_focus_on_small/"
+}

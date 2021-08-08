@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_agyui",
+    "name": "SirWittyName"
+  },
+  "date": {
+    "day": 1555113600,
+    "full": 1555164904,
+    "month": 1554076800,
+    "week": 1554595200
+  },
+  "id": "t3_bcqvzq",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 89732,
+    "fullUrl": "https://preview.redd.it/dbv27k9nh1s21.jpg?auto=webp&s=83352efa598302939092af56287a892af6ba407e",
+    "hash": "dc5ba6583b",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgEF/8QAJRAAAQMCBQQDAAAAAAAAAAAAAQIDBAARBRIhMUEGFCIjMoGx/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAZEQADAAMAAAAAAAAAAAAAAAAAAQIDMUH/2gAMAwEAAhEDEQA/ACcbrLHJkpIdxyYVELukPEXuNf2q1ImvEOl+RnAPsW6QbbWGu1G4TSWnUtIvlIGvI4reCj3zMRPi1mAJT8jcHn6qTkuntj4mVw//2Q==",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/kewWZLyO-zZZXWajavdRN7BTlCLdGLabA2K67Zbkj90.jpg",
+    "url": "https://preview.redd.it/dbv27k9nh1s21.jpg?width=640&crop=smart&auto=webp&s=c732e867eaa82c3b0703160a0851b6b236aceb3e",
+    "width": 640
+  },
+  "score": {
+    "comments": 13,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 458,
+    "value": 458
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Ready for War",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/bcqvzq/ready_for_war/"
+}

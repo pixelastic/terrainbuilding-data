@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_yg2d7",
+    "name": "Kelantropo"
+  },
+  "date": {
+    "day": 1611273600,
+    "full": 1611354145,
+    "month": 1609459200,
+    "week": 1610841600
+  },
+  "id": "t3_l2ym1q",
+  "misc": {
+    "postHint": "hosted:video"
+  },
+  "picture": {
+    "filesize": 104950,
+    "fullUrl": "https://external-preview.redd.it/TDa7QNYD0yGHr4h-mwWJkSEMGmW9SCMPFXxzEfqEt4g.png?format=pjpg&auto=webp&s=ddc71c9527bb53ed0b8eae8895b3570f23d7be20",
+    "hash": "dcbca37477",
+    "height": 1138,
+    "lqip": "data:image/png;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQAH/8QAJxAAAQIEBAYDAAAAAAAAAAAAAQIDAAQFEQYUFyEHEyJVk9ExMkH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABgRAQEAAwAAAAAAAAAAAAAAAAEAAxIx/9oADAMBAAIRAxEAPwBWT4e4cqDqucJh15KACM2q6U/gsPgQnpthntyfIr3GQ0eeqtKZn5oZuWcYQ2LocCDdSx9jbr2vtvFqViXvDvhR6gaVTKnG/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/QERdkCGqRa13H27popV-P2DjsLRvWho3Pd5pNpxLh7I.jpg",
+    "url": "https://external-preview.redd.it/TDa7QNYD0yGHr4h-mwWJkSEMGmW9SCMPFXxzEfqEt4g.png?width=640&crop=smart&format=pjpg&auto=webp&s=29ae01443f777365ec5a4e424011ab84360da0c6",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 0.95,
+    "ups": 33,
+    "value": 33
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Trying to exploit the Kill Team movement rules with some new warcry terrain that ai was given for Christmas. Did I overdo it?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/l2ym1q/trying_to_exploit_the_kill_team_movement_rules/"
+}

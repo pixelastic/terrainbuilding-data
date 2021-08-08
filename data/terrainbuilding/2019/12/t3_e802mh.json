@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_2fpqgu",
+    "name": "ovaltein"
+  },
+  "date": {
+    "day": 1575763200,
+    "full": 1575841756,
+    "month": 1575158400,
+    "week": 1575763200
+  },
+  "id": "t3_e802mh",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 89813,
+    "fullUrl": "https://preview.redd.it/z6g55bt1dh341.jpg?auto=webp&s=bba2aaa5045e5bd85927abc169c51825aec292fc",
+    "hash": "2d780e894e",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQIG/8QAIhAAAQQCAgEFAAAAAAAAAAAAAQIDBBEFIQAGURIxQXGB/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABgRAQADAQAAAAAAAAAAAAAAAAEAAhFh/9oADAMBAAIRAxEAPwBHK9kdwsg4yTHZclOC0LU+aa8WPknxev3mi687LmYpqRAyUWM24SVtPIUVIXdEWNHlz+uYzIFbsiHHXJKi4HFA36iKs1V619DiOCjrx2NbilLKAi6DRJGzd7359+GWV1jWBOz/2Q==",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/Y872SaKgHeIwmUJpaph85estU2PvGQ1JeircqjF8di0.jpg",
+    "url": "https://preview.redd.it/z6g55bt1dh341.jpg?width=640&crop=smart&auto=webp&s=d9af8b6a53f6fb65ac2900c633fa4bcdb89942d2",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 124,
+    "value": 124
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My first building, BMC style farmhouse",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/e802mh/my_first_building_bmc_style_farmhouse/"
+}

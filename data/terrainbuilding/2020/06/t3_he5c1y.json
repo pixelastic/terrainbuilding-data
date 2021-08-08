@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_15h6n5",
+    "name": "Huskarlar"
+  },
+  "date": {
+    "day": 1592870400,
+    "full": 1592875976,
+    "month": 1590969600,
+    "week": 1592697600
+  },
+  "id": "t3_he5c1y",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 85068,
+    "fullUrl": "https://preview.redd.it/fogl1y2kck651.jpg?auto=webp&s=f6d0ef3148d624972cfb9e8645aa418df74e72ae",
+    "hash": "089f96f1b8",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGB//EACMQAAEFAAICAQUAAAAAAAAAAAECAwQFEQATEiEVIzFRYZH/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAGhEAAgMBAQAAAAAAAAAAAAAAAQIAETEDIf/aAAwDAQACEQMRAD8ATyHFUsz42ysGXGK99S0LCQO3vSSUDCcAI+x9jhzceot5cCvdrI7jshx7zd7FYhAI60kbnkff85oNnXwozan2YcZLjrgC/pjFAk7vKBFZXQWRIjVsJEhS064GUhW7m7+f3w/oCzFr0VEQnmz/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/SlJkBQBvT8-mUp-r5tG8zZ-8w0YxBrvqdf86GUZv_Vo.jpg",
+    "url": "https://preview.redd.it/fogl1y2kck651.jpg?width=640&crop=smart&auto=webp&s=2dcebc7e627665a7f0ee9c6e2dd78bdd65df0abe",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 0.86,
+    "ups": 22,
+    "value": 22
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I improved and based some very cheap eBay trees. Any tips for getting the foam to stop flaking off?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/he5c1y/i_improved_and_based_some_very_cheap_ebay_trees/"
+}

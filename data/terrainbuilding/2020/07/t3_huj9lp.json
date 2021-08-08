@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_2v8y8h6g",
+    "name": "saucermenstudios"
+  },
+  "date": {
+    "day": 1595203200,
+    "full": 1595242574,
+    "month": 1593561600,
+    "week": 1595116800
+  },
+  "id": "t3_huj9lp",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "filesize": 60833,
+    "fullUrl": "https://external-preview.redd.it/8T8LerQY9ZjFM0yAQ8DAsZGT4QzI7Ew2UazSB8RT1FM.jpg?auto=webp&s=a239db925a58a2573aa9345ec3eaecda8255d4ba",
+    "hash": "4665c6351d",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUH/8QAIxAAAQMDAwUBAAAAAAAAAAAAAQIDBAAFERIxYQYhIkFRQv/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAHhEAAQMEAwAAAAAAAAAAAAAAAQACAxITIVFBQsH/2gAMAwEAAhEDEQA/AMshOTUzktpaDrTi0pzpDigM7gYzkcfKuXm3RYynnGL8ZUuSC46kggEA98n8Hgj1vSekIzYSt3HmlWgcCnde2SG/aETdKm5aXUILrZwVJOeyvu3up7vTaUwOrEgdgcb9X//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/D_lx-hRhYE9bglhnaiots2yetJjo8kFVLouOIvYuKoE.jpg",
+    "url": "https://external-preview.redd.it/8T8LerQY9ZjFM0yAQ8DAsZGT4QzI7Ew2UazSB8RT1FM.jpg?width=640&crop=smart&auto=webp&s=81c4ff6353233408b7714ac3207d064fb4398d42",
+    "width": 640
+  },
+  "score": {
+    "comments": 10,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 266,
+    "value": 266
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "3D printing + transparent pla = lasers!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/huj9lp/3d_printing_transparent_pla_lasers/"
+}

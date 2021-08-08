@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_336aw21p",
+    "name": "Nerostix"
+  },
+  "date": {
+    "day": 1568764800,
+    "full": 1568829245,
+    "month": 1567296000,
+    "week": 1568505600
+  },
+  "id": "t3_d61heg",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 110334,
+    "fullUrl": "https://preview.redd.it/gt4ks6ka5en31.jpg?auto=webp&s=06eb33a43385baf9954956552507f92a4de8fc5d",
+    "hash": "63a8eaebd6",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFB//EACQQAAIBBAEDBQEAAAAAAAAAAAECBAMFBhEAFSExBxITFFGh/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABoRAAICAwAAAAAAAAAAAAAAAAABAgMREmH/2gAMAwEAAhEDEQA/AJtm9PZ0+0w6iworU61CnUNdhoj3KCe3ntzRbjhlji4tIjU7VADpFbdT4FLbCE73rfnZ4/juR48uO2ul1eIHpxKKsj1VXRCKCCN/zhb7k1k6HO+vcoru0aoqoJCdyVIA1v8ATw2eiJ2bJH//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/CJod6-SzoqK5tTz0UI_t89xq_3d5nS_EagIT-JVsSFo.jpg",
+    "url": "https://preview.redd.it/gt4ks6ka5en31.jpg?width=640&crop=smart&auto=webp&s=ad37303d67f3c0239760e9b38f84c40824578912",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 42,
+    "value": 42
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Small test piece I made. Clay, cardboard, and plaster.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/d61heg/small_test_piece_i_made_clay_cardboard_and_plaster/"
+}

@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_x7ei3",
+    "name": "Jorbenstein"
+  },
+  "date": {
+    "day": 1535241600,
+    "full": 1535311730,
+    "month": 1533081600,
+    "week": 1535241600
+  },
+  "id": "t3_9ai8gi",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "filesize": 42517,
+    "fullUrl": "https://external-preview.redd.it/mXXlmJTV7OJLNoAlX_rPF2UPfu25cyM7RgLQ1o-wIv4.jpg?auto=webp&s=019524f6ce867a2fcbb1b72e8b7d03f1171787b0",
+    "hash": "3d0cd369b2",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAJRAAAQMDAgYDAAAAAAAAAAAAAQIEEQADBiExBxIyNEFxUZGh/8QAFAEBAAAAAAAAAAAAAAAAAAAABf/EABsRAAIBBQAAAAAAAAAAAAAAAAARAwEFEhQx/9oADAMBAAIRAxEAPwCRY4Zll5xBY20eSta0A8067k/dKsuG2SgosuLzcotky50m6mdBtMx8/tbI36j7NAZR2avdA1uEzTGNSLHh/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/Z7ywdmeuJMl8Fn_aX_xB15-nc6yHQxBnYWv-fYWzHlE.jpg",
+    "url": "https://external-preview.redd.it/mXXlmJTV7OJLNoAlX_rPF2UPfu25cyM7RgLQ1o-wIv4.jpg?width=640&crop=smart&auto=webp&s=b84ca7aff315559c81c39aaede82123cb676a631",
+    "width": 640
+  },
+  "score": {
+    "comments": 14,
+    "downs": 0,
+    "ratio": 0.82,
+    "ups": 7,
+    "value": 7
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP scratch built buildings for 28mm sci-fi - C&C please",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/9ai8gi/wip_scratch_built_buildings_for_28mm_scifi_cc/"
+}

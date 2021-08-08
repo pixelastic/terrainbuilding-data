@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_4lttfk6y",
+    "name": "quidamcorvus"
+  },
+  "date": {
+    "day": 1594857600,
+    "full": 1594883553,
+    "month": 1593561600,
+    "week": 1594512000
+  },
+  "id": "t3_hs54cq",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 80733,
+    "fullUrl": "https://preview.redd.it/6dhgg5h466b51.jpg?auto=webp&s=b98bdf3b65371fa593ae408e46e152e96d48c80e",
+    "hash": "2bbcddb797",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQII/8QAIRAAAQMEAwADAAAAAAAAAAAAAQIDBAUREjEABiETIkH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAGBEAAwEBAAAAAAAAAAAAAAAAABESIhP/2gAMAwEAAhEDEQA/AM6KnTZVW+Az5ADj5QFKeVZN1b3xPskwtdkbRAdeaaUW1YIkKUkEka94jTaFEM5l+amYy5c5ILSrZ5q+xNtDw2HKqdGTU6tANMS89KKs3lO2QMRirR1+i2/NcO9IXnimf//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/Fm_HD8cUDK8-GWnXM-IXLMYNSaXjoqcGTlow-iH98MU.jpg",
+    "url": "https://preview.redd.it/6dhgg5h466b51.jpg?width=640&crop=smart&auto=webp&s=ce5c6ad3a993011fc966b45a07fbd94be774bfd3",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 95,
+    "value": 95
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Monument of the Grimnir the Fearless.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/hs54cq/monument_of_the_grimnir_the_fearless/"
+}

@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_1xf4pssa",
+    "name": "NorthwesternGuy"
+  },
+  "date": {
+    "day": 1562889600,
+    "full": 1562959426,
+    "month": 1561939200,
+    "week": 1562457600
+  },
+  "id": "t3_ccfdj2",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 83294,
+    "fullUrl": "https://preview.redd.it/8b8f9639bx931.jpg?auto=webp&s=1e0cf1c0420afa46008436f458e1b8ca0d06295c",
+    "hash": "1a78aa82d9",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgX/xAAlEAACAgEDAgcBAAAAAAAAAAABAgMEEQAFBjFhEhMUISJBQlH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAGREAAwADAAAAAAAAAAAAAAAAAAEhAhEx/9oADAMBAAIRAxEAPwArwHYrPH1221akWf1KF4VWMjy89fFn+Z0urbM24R3ZKlqWDdHiVTKSS4ZTkkHP66dtT47MrQ18ucI+FH0NKuLX52kdCV+cZBbHuO40V10d5RSI/9k=",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/e_oN8EZKk2tbRHxKycURdx-Gxqme97HgRZWbTaTiG24.jpg",
+    "url": "https://preview.redd.it/8b8f9639bx931.jpg?width=640&crop=smart&auto=webp&s=4130cafb33ebb47280e954cb5fac2f0a604b4374",
+    "width": 640
+  },
+  "score": {
+    "comments": 25,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 421,
+    "value": 421
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Final Batch of Ork Towers!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ccfdj2/final_batch_of_ork_towers/"
+}

@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_12sxumhk",
+    "name": "mrfebruus"
+  },
+  "date": {
+    "day": 1550534400,
+    "full": 1550599975,
+    "month": 1548979200,
+    "week": 1550361600
+  },
+  "id": "t3_asdf80",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 50920,
+    "fullUrl": "https://preview.redd.it/05qnykg2gkh21.jpg?auto=webp&s=00f7e497c3fe0ccb3a3fb5696e008fd0fbf7ee0b",
+    "hash": "57a3f94c6b",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgEH/8QAKxAAAQMDAQMNAAAAAAAAAAAAAQIDBAAFERIGByETFBcxMzRBcXOBsbLB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQP/xAAaEQACAgMAAAAAAAAAAAAAAAABAgASESFh/9oADAMBAAIRAxEAPwAPBkR0MBSXEFIbK0jxJHHH570luOzVj6L2L1DuCJE92Lzkp0oWlbihnkkgDXqBOnOc5HVjhWebPdoz5D4FTdt3Od6zv0NNa7EkjZYg8n//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/3aDHDGaYM5_PI0UmJJ55YT1z53AGC-GhuWFFghUOXKs.jpg",
+    "url": "https://preview.redd.it/05qnykg2gkh21.jpg?width=640&crop=smart&auto=webp&s=99da5cdbc1c40da935a1b82b000077c9acc6f0e4",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 0.92,
+    "ups": 24,
+    "value": 24
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I made a tutorial video about gap-filling and texture building on MDF terrain. Link in the comments!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/asdf80/i_made_a_tutorial_video_about_gapfilling_and/"
+}

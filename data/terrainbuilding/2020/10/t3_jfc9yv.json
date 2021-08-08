@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_7kt80in0",
+    "name": "thayarealltaken"
+  },
+  "date": {
+    "day": 1603238400,
+    "full": 1603285032,
+    "month": 1601510400,
+    "week": 1602979200
+  },
+  "id": "t3_jfc9yv",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 87323,
+    "fullUrl": "https://preview.redd.it/riota7u04gu51.jpg?auto=webp&s=4eed2489ea6d405f5f60e03ce39a6ea44b60d50f",
+    "hash": "6e1399b1eb",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMFBv/EACMQAAEEAQMEAwAAAAAAAAAAAAECAwQRBQASIQYTMUEiUoH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABoRAQACAwEAAAAAAAAAAAAAAAEAEQIDEzH/2gAMAwEAAhEDEQA/AMx1ZFyuNyEZxmY5Hfba7YSyN+48gEEAUaNE+dVsZl8u3HeQmTGTFW0hUgSopcbWpF/MD7AG/APuxWmrDsrPKL0l4mRt7h4FgXQHHAF1x+3outu9FiOIYlSENOjYttKgEkV4qvepfRKGIdSrlfs//9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/TuqzwPQnzqwRmIcIcMl4pEWzqj6-lx1Z-7x86iLWwWY.jpg",
+    "url": "https://preview.redd.it/riota7u04gu51.jpg?width=640&crop=smart&auto=webp&s=3bef3f4bf91274a9192fedfe4eaacf8726a1b5e0",
+    "width": 640
+  },
+  "score": {
+    "comments": 28,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 155,
+    "value": 155
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "How to balance playability with realism?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/jfc9yv/how_to_balance_playability_with_realism/"
+}

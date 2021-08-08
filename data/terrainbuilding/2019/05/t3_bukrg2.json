@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_kiocr",
+    "name": "xenward"
+  },
+  "date": {
+    "day": 1559088000,
+    "full": 1559166680,
+    "month": 1556668800,
+    "week": 1558828800
+  },
+  "id": "t3_bukrg2",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 53933,
+    "fullUrl": "https://preview.redd.it/yksnetli18131.jpg?auto=webp&s=78f956031f10f7d9ce436e1c16fe1ea75b894c31",
+    "hash": "e1df061e32",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGB//EACQQAAEDAwQBBQAAAAAAAAAAAAECAxEABBIFBiExFCNBUXGx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQT/xAAcEQABAwUAAAAAAAAAAAAAAAABAAIRBBIhIzH/2gAMAwEAAhEDEQA/ADG9zaRZWjOF0FJQlDJQUyvKOPvgD5iam9b31pN6rxFWuQDiYLpCMSD2I5kVm+9rl+2LKWHlthySoJPvEfkUk0i1bV668luT2ozUwBjqXVuq6Mr/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/TLCCaqvuFQO48ywzYy6ABWHT8djNslmyn58-SMgZH_Y.jpg",
+    "url": "https://preview.redd.it/yksnetli18131.jpg?width=640&crop=smart&auto=webp&s=b6206c3297e25f4bb727a3320e30732ffd7d2a5a",
+    "width": 640
+  },
+  "score": {
+    "comments": 25,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 91,
+    "value": 91
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Anyone else get hung up on painting?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/bukrg2/anyone_else_get_hung_up_on_painting/"
+}

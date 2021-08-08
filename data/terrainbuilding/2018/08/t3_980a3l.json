@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_e9nx3",
+    "name": "Syphron"
+  },
+  "date": {
+    "day": 1534464000,
+    "full": 1534490981,
+    "month": 1533081600,
+    "week": 1534032000
+  },
+  "id": "t3_980a3l",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 41988,
+    "fullUrl": "https://preview.redd.it/77fnvi9zvlg11.jpg?auto=webp&s=87151a8d10236352ad98bb2b6ebffc060b5259fc",
+    "hash": "94237aac18",
+    "height": 311,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAIABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQG/8QAIhAAAQMDAwUAAAAAAAAAAAAAAQIDBAARIQUGMRITFCKh/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAZEQADAQEBAAAAAAAAAAAAAAABAgMAERL/2gAMAwEAAhEDEQA/AJ9a2dr0WKjsxIpDjgClRAXHUIGTkgAX4wL85rObjjOM6Y0zNjvtFTySt59m/jdQIHqRZWc5J+0pU2VWcjuck19Df//Z",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/Kk-veO6TRy4cGZnCxXD5AT_9gNG-WTW25eNw-3dnEN4.jpg",
+    "url": "https://preview.redd.it/77fnvi9zvlg11.jpg?width=640&crop=smart&auto=webp&s=fac167182a3cd564af24c0a88e123a6bbdeb778a",
+    "width": 640
+  },
+  "score": {
+    "comments": 35,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 188,
+    "value": 188
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Cheating with a 3d printer, but loving it.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/980a3l/cheating_with_a_3d_printer_but_loving_it/"
+}

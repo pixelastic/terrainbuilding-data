@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_21cxxjmo",
+    "name": "Papi3rschnitz3l"
+  },
+  "date": {
+    "day": 1617062400,
+    "full": 1617104224,
+    "month": 1614556800,
+    "week": 1616889600
+  },
+  "id": "t3_mgdy6o",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 49408,
+    "fullUrl": "https://preview.redd.it/2wviyzbfj5q61.jpg?auto=webp&s=3679b54708b8a6584ded550d46d2007668681986",
+    "hash": "85e4d4f71f",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgf/xAAlEAACAQMDAgcAAAAAAAAAAAABAgMEBREABiExcRI0NXORsbL/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGBEAAgMAAAAAAAAAAAAAAAAAAAIBAyH/2gAMAwEAAhEDEQA/AGFNcJ7larbUF1hYoWzImSgIBU9eDjjtopueKhVZJr1uq2QTQhmpiknhkDk46DPAA+dD90ejxeyv0NSCp843Zf1oCNNmsJsRYw//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/vtastsQSHXlHG0WxkAWu5jYURNAYULiforTny1SSYzY.jpg",
+    "url": "https://preview.redd.it/2wviyzbfj5q61.jpg?width=640&crop=smart&auto=webp&s=3d649a5f69cfa4a947b9c693d473b27e2353ea55",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 100,
+    "value": 100
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Testing the prototypes of my Dark Age fortress builder papercraft terrain",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/mgdy6o/testing_the_prototypes_of_my_dark_age_fortress/"
+}

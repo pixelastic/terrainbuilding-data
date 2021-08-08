@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_f3ddv",
+    "name": "Eevika"
+  },
+  "date": {
+    "day": 1600560000,
+    "full": 1600623183,
+    "month": 1598918400,
+    "week": 1600560000
+  },
+  "id": "t3_iwi6xg",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 56750,
+    "fullUrl": "https://preview.redd.it/60edtbkz8co51.jpg?auto=webp&s=417ffbdf440e5249cb4f36fa7337d89db99eb0b6",
+    "hash": "db823d3733",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQH/8QAJhAAAQMDAwIHAAAAAAAAAAAAAQIDBAAFESExQQYSExQjUWGRwf/EABQBAQAAAAAAAAAAAAAAAAAAAAL/xAAYEQACAwAAAAAAAAAAAAAAAAAREgACIf/aAAwDAQACEQMRAD8AysWKB1NepMwQE2SLHbCVRYgJ7yAMqBVtnPGdqgmWDyxUGC85HToXVowE+2SNOKSsbrktlMpxa0vt6JUlR0wCP0/dK9z1wYg22ZJkOw/HHplw4yopyfnfmitmJyJqqBs//9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/76M7AYDWFUtkKVLNA18h43TzPC-k-T9aJPft71oKdUg.jpg",
+    "url": "https://preview.redd.it/60edtbkz8co51.jpg?width=640&crop=smart&auto=webp&s=605b881a36ed364991e55dba0d75cd2d46836136",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 55,
+    "value": 55
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First time trying to build a house from scratch. Made this start today.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/iwi6xg/first_time_trying_to_build_a_house_from_scratch/"
+}

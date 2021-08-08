@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_113x3p",
+    "name": "Marcus_Machiavelli"
+  },
+  "date": {
+    "day": 1622851200,
+    "full": 1622862996,
+    "month": 1622505600,
+    "week": 1622332800
+  },
+  "id": "t3_nsmf4q",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 103929,
+    "fullUrl": "https://preview.redd.it/fj95bs5d7d371.jpg?auto=webp&s=69595887fab3f10bbe422cedcef2730d1947b70b",
+    "hash": "6b5c328723",
+    "height": 478,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGB//EACMQAAIBAwMFAQEAAAAAAAAAAAECAwQFEQAGIRITMUFhcfH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAGBEBAQEBAQAAAAAAAAAAAAAAAQIAAxH/2gAMAwEAAhEDEQA/ACNz2o7bNHaYlkqLdGHk7AzIMA5LFc8nHP4NI6WqS9SXOgpagU7dxVUxqrIwx6xgADA4H3WmbmttNWTGaVCs0JMkckbFWU9B8EcjPjj1qAtlQ01vjqWSMSues9KBQPWOP790ExNyiZOsg+O//9k=",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/tMG3-QVatrAEMDI_qDChZHS95E4r_IVBCjYU5A4moH4.jpg",
+    "url": "https://preview.redd.it/fj95bs5d7d371.jpg?width=640&crop=smart&auto=webp&s=7f0e74bf3955bd6763137e76c408eb06ce2ff458",
+    "width": 640
+  },
+  "score": {
+    "comments": 72,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 1483,
+    "value": 1483
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Some nice people asked for a picture of my castle",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/nsmf4q/some_nice_people_asked_for_a_picture_of_my_castle/"
+}

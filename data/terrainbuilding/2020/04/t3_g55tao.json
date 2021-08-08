@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_14p8jz",
+    "name": "DeusMechanicus"
+  },
+  "date": {
+    "day": 1587427200,
+    "full": 1587432407,
+    "month": 1585699200,
+    "week": 1587254400
+  },
+  "id": "t3_g55tao",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 113977,
+    "fullUrl": "https://preview.redd.it/9x0q0cy0q2u41.jpg?auto=webp&s=5ad76f44cdfa8dd5b12a5db854d0abec30a2e7cf",
+    "hash": "eddca89238",
+    "height": 931,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQGCP/EACMQAAIBAwMEAwAAAAAAAAAAAAECAwQFEQAxQRITIUIicaH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABgRAAIDAAAAAAAAAAAAAAAAAAAREhMh/9oADAMBAAIRAxEAPwDOdLYTDWQi4dYgZQxKIx5GRtv9aXu1E8Nwljp45BEoXABz6jP7q2jr2q3aJql4eyWdJti0YHxjBPjJPsdEFc6Qoq2ilwAMmSIMxPJJ5ydRsWjif//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/G_wHWm0Im4u-tQt6Y1pZppN15QBCldxs5o7cDqmd3No.jpg",
+    "url": "https://preview.redd.it/9x0q0cy0q2u41.jpg?width=640&crop=smart&auto=webp&s=c7f2951634d9c2b84d9ff1173a1bf632c5b28105",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 0.89,
+    "ups": 19,
+    "value": 19
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "More work on the ruins",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/g55tao/more_work_on_the_ruins/"
+}

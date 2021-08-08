@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_1vzqf4fk",
+    "name": "insaniakUTC"
+  },
+  "date": {
+    "day": 1539561600,
+    "full": 1539633434,
+    "month": 1538352000,
+    "week": 1539475200
+  },
+  "id": "t3_9og6gk",
+  "misc": {
+    "postHint": "self"
+  },
+  "picture": {
+    "filesize": 16680,
+    "fullUrl": "https://external-preview.redd.it/jb8iOVt47H4q3RIrq2lTNUZJ1nHsujNZMRjBPRlVZCQ.jpg?auto=webp&s=289c60ec1f4eedc713fd14cf73bf3b5ec7d8dcbd",
+    "hash": "fce67c06c2",
+    "height": 228,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAGABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQH/8QAHxAAAgICAgMBAAAAAAAAAAAAAQIDBQAEBxEGEkFC/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABoRAAICAwAAAAAAAAAAAAAAAAABAgMEMVL/2gAMAwEAAhEDEQA/AMY8c5Etqq019hhDsiNgSksSn3UfknrvKL7ka7tLnd2Z5Vj13cmKCFFRY1+AdD4MYxXoWOXf2z//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/B19dwfFZY13r-3IQUN7o8hdTHCgd_arbQpHxtAqVeNA.jpg",
+    "url": "https://external-preview.redd.it/jb8iOVt47H4q3RIrq2lTNUZJ1nHsujNZMRjBPRlVZCQ.jpg?width=640&crop=smart&auto=webp&s=27cb2713e61847fa5fa4d86ae4351547c9d347e0",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 0.84,
+    "ups": 12,
+    "value": 12
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A few quick and easy terrain detailing tips using the Maelstrom's Edge terrain sprue",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/9og6gk/a_few_quick_and_easy_terrain_detailing_tips_using/"
+}

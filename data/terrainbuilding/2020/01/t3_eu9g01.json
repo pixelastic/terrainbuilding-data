@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_7lt0q",
+    "name": "Comradepatrick"
+  },
+  "date": {
+    "day": 1579996800,
+    "full": 1580058732,
+    "month": 1577836800,
+    "week": 1579996800
+  },
+  "id": "t3_eu9g01",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 62520,
+    "fullUrl": "https://preview.redd.it/yfk0o5abo5d41.jpg?auto=webp&s=401a38daf9062e76247ee800402733530cb37acc",
+    "hash": "6e3951f0b0",
+    "height": 443,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQH/8QAIBAAAgEFAQADAQAAAAAAAAAAAQIDBAUREiEABkGB4f/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAYEQADAQEAAAAAAAAAAAAAAAABAhEAA//aAAwDAQACEQMRAD8Az+z22gkhZLus0VU8qiJFbViM9BU/zyqX4faamiNRSNUUsxfAhLDAGxHNjkgD78hultpGjlnaENLHjRiSde55++tt0UawxuqKHbpOPA/NywhyhxJN/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/UHwd8FMvM1tTGeEkR3XsJGwj0N6f8131AWe5_HvYjKw.jpg",
+    "url": "https://preview.redd.it/yfk0o5abo5d41.jpg?width=640&crop=smart&auto=webp&s=2fde346f5404e1de64396d23725dcaf692bbf01d",
+    "width": 640
+  },
+  "score": {
+    "comments": 13,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 308,
+    "value": 308
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Stalker-inspired ruin for Zona Alfa",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/eu9g01/stalkerinspired_ruin_for_zona_alfa/"
+}

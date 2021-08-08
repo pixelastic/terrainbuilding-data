@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_2aih1elz",
+    "name": "IEatCheeseOften"
+  },
+  "date": {
+    "day": 1586044800,
+    "full": 1586048221,
+    "month": 1585699200,
+    "week": 1586044800
+  },
+  "id": "t3_fv4yuw",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 108529,
+    "fullUrl": "https://preview.redd.it/6bg27dl4ewq41.jpg?auto=webp&s=5a764b25fede97d3880d695432e60ce26e008367",
+    "hash": "188ddc2c17",
+    "height": 1226,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAgDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQG/8QAIxAAAQMCBQUAAAAAAAAAAAAAAQIDBAARBQYTIUESIjFhgf/EABQBAQAAAAAAAAAAAAAAAAAAAAX/xAAaEQACAwEBAAAAAAAAAAAAAAABIQACAxFx/9oADAMBAAIRAxEAPwDQZ5THXOYiHVdmPIWG0hXa30puLj3a32lS54wOZLzFHmw3FaBcQX7KA2TYcnxbfk0ofeoRD6H7GcDZgrhU/9k=",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/xYJFqECU0r5bek6_eeEb2nJZmnGbyq59npsP7hhjw84.jpg",
+    "url": "https://preview.redd.it/6bg27dl4ewq41.jpg?width=640&crop=smart&auto=webp&s=a064d573668e1e75e2a540e5217a4154328740b9",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.91,
+    "ups": 40,
+    "value": 40
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Man I'm loving the shading on this one.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/fv4yuw/man_im_loving_the_shading_on_this_one/"
+}

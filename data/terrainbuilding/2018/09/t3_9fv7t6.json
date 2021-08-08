@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_1uziybn0",
+    "name": "GenericUserBot5000"
+  },
+  "date": {
+    "day": 1536883200,
+    "full": 1536954720,
+    "month": 1535760000,
+    "week": 1536451200
+  },
+  "id": "t3_9fv7t6",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "filesize": 55237,
+    "fullUrl": "https://external-preview.redd.it/fPq8Phm2N3OJiOeJTfq0ffzSA0FAkynA07PxNRhS-Xg.jpg?auto=webp&s=5d988a301a285b37eaa49584d0e8e6e5caa63d77",
+    "hash": "d2239cd6c2",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwUGCP/EACcQAAEDAwMBCQAAAAAAAAAAAAECAwQFESEABhIxExUjQUJRYXGB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAZEQACAwEAAAAAAAAAAAAAAAAAAgEDETH/2gAMAwEAAhEDEQA/AIeTMaoj8qBUo1qg7EWGgnitCboUAonqDcE9MY0kpTG4KkyX6QyqXBHhPgKQTfik+q5H2PfWraVtmjK7eqGnRu8ONi+UAqPl1PxjQdwRmWopXHZZYLWUhlpKBfGSALH91MtucEldP//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/Se2_3UNwpt5cTXa-WC9hycR3tIqZaaUMk_Ye8rgHHgs.jpg",
+    "url": "https://external-preview.redd.it/fPq8Phm2N3OJiOeJTfq0ffzSA0FAkynA07PxNRhS-Xg.jpg?width=640&crop=smart&auto=webp&s=2e8ff6e6661601d6c28e7fd7df4807d61f2ffe9c",
+    "width": 640
+  },
+  "score": {
+    "comments": 14,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 62,
+    "value": 62
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My first attempt at weathering on a homemade building c&c appreciated.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/9fv7t6/my_first_attempt_at_weathering_on_a_homemade/"
+}

@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_uibgr",
+    "name": "Lazersk"
+  },
+  "date": {
+    "day": 1548892800,
+    "full": 1548976402,
+    "month": 1546300800,
+    "week": 1548547200
+  },
+  "id": "t3_alvkdm",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "filesize": 93807,
+    "fullUrl": "https://external-preview.redd.it/rU-vMi8Lt0lTU9P4sG17mt9CDHOicgFGFo-moIZzhnQ.jpg?auto=webp&s=74d0c15f851eb945644b4ba284e836e708767239",
+    "hash": "dfd2a44cab",
+    "height": 1137,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQI/8QAJhAAAQMDAwIHAAAAAAAAAAAAAQIDEQAEBRITIQaSFBUxUVRWsf/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAYEQEAAwEAAAAAAAAAAAAAAAABAAIREv/aAAwDAQACEQMRAD8AZZTKvNdU4u1tnFC3dU3rUmCAdRnmfb9p94+y+Qx3isuuZRpTT7Ld1cbyuG3W1jbBUICiJ5iJk+lR+Y5D7Fa96aJVMwiuRdtP/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/ev03hgUrVbJ0A_wvjxEUFGMrl9HSuzwZTErjrIv0BoM.jpg",
+    "url": "https://external-preview.redd.it/rU-vMi8Lt0lTU9P4sG17mt9CDHOicgFGFo-moIZzhnQ.jpg?width=640&crop=smart&auto=webp&s=65f4571d176f16a81eab4631af922ce6767cb96b",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 0.92,
+    "ups": 20,
+    "value": 20
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A Dice Tower That I Just Finished Up.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/alvkdm/a_dice_tower_that_i_just_finished_up/"
+}

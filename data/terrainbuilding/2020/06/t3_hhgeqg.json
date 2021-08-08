@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_nmhmh",
+    "name": "FailFailWin"
+  },
+  "date": {
+    "day": 1593302400,
+    "full": 1593358444,
+    "month": 1590969600,
+    "week": 1593302400
+  },
+  "id": "t3_hhgeqg",
+  "misc": {
+    "postHint": "hosted:video"
+  },
+  "picture": {
+    "filesize": 57317,
+    "fullUrl": "https://external-preview.redd.it/JVhuXHZQpKROE6Lc6wePnKXcf3ADcCnEPCzofl8FYIM.png?format=pjpg&auto=webp&s=072d17b2dcc9e24c9151f06406a93cf6606a3829",
+    "hash": "3bc2e3b290",
+    "height": 360,
+    "lqip": "data:image/png;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQF/8QAJRAAAQMCBAcBAAAAAAAAAAAAAQIDBAAFERIhcwYTMTU2UcGy/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgT/xAAWEQEBAQAAAAAAAAAAAAAAAAAAEUH/2gAMAwEAAhEDEQA/AMO/XWRDmQEsNOrbUrMsAa6qy/TVMjjadaLk1CtDcFQKzzy+wHSkjDDD0OtPL73NzZR+RQeD5ddtn6mgomP/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/xO8GtyfEoBy8HyuIaSxpLi3J5xxhMRC4CeCJmnka1eo.jpg",
+    "url": "https://external-preview.redd.it/JVhuXHZQpKROE6Lc6wePnKXcf3ADcCnEPCzofl8FYIM.png?width=640&crop=smart&format=pjpg&auto=webp&s=413ed75ba3e7ca90290a8adaff2b8ed2c56d5de9",
+    "width": 640
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "ratio": 0.93,
+    "ups": 31,
+    "value": 31
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I made a tutorial for some modular portals/murals/archways/walls with swappable inserts - full tutorial link with more examples in comments!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/hhgeqg/i_made_a_tutorial_for_some_modular/"
+}

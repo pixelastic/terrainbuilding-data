@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_4lttfk6y",
+    "name": "quidamcorvus"
+  },
+  "date": {
+    "day": 1595376000,
+    "full": 1595406892,
+    "month": 1593561600,
+    "week": 1595116800
+  },
+  "id": "t3_hvq4e0",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 90399,
+    "fullUrl": "https://preview.redd.it/jwaesfo9edc51.jpg?auto=webp&s=f37bcaad07ff7401970e9b2336da1573e3629c59",
+    "hash": "dcb1fbbf2c",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUH/8QAJBAAAgIBAwMFAQAAAAAAAAAAAQIDBBEABVESITETFCJBUmH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAGREAAgMBAAAAAAAAAAAAAAAAABIBETEh/9oADAMBAAIRAxEAPwDANkaW/u1tZrcvSgZsPIxB+YHP1nPbQrMlunuCV2tzORIAHWRsOMjuM6vVYUpWfdPDaMryPlBXP6zk9vB/vB0iyE3DeoHggsTNPJ6LRGDoyBjBAHgEc8aF5bOCpFaf/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/KQ10tf5LJ1srpDc4C9PZoapJW843aj0TWRiEGHsc2JE.jpg",
+    "url": "https://preview.redd.it/jwaesfo9edc51.jpg?width=640&crop=smart&auto=webp&s=42ec70959038f08c5af7b87d103b880b7fc778ca",
+    "width": 640
+  },
+  "score": {
+    "comments": 12,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 396,
+    "value": 396
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My last project: The monument of Felix Jaeger & Gotrek Gurnisson.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/hvq4e0/my_last_project_the_monument_of_felix_jaeger/"
+}

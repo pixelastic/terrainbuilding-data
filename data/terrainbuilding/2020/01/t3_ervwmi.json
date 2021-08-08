@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_ludpvnb",
+    "name": "OwlbearAteMyHomework"
+  },
+  "date": {
+    "day": 1579564800,
+    "full": 1579619507,
+    "month": 1577836800,
+    "week": 1579392000
+  },
+  "id": "t3_ervwmi",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 44306,
+    "fullUrl": "https://preview.redd.it/zvb8fdw9e5c41.jpg?auto=webp&s=e7a61df452e33514272310a3d18dbe3b0d2075e0",
+    "hash": "c4257a4d45",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAIxAAAQMDAgcAAAAAAAAAAAAAAgEDEQAEEgU0EyEiQXGx8P/EABUBAQEAAAAAAAAAAAAAAAAAAAQG/8QAHBEAAgEFAQAAAAAAAAAAAAAAARECAAMhMXGB/9oADAMBAAIRAxEAPwAa2E+CYtkiZQuBFCFzqw7V5toCJBRYnpLJJo7RN+55T3Wm1jah92p2i6gRajK0YkBjLy+bS8r/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/r7gW1gimnLJLze02eG1Ub7kASHamyuq3rnxJUbSKDfQ.jpg",
+    "url": "https://preview.redd.it/zvb8fdw9e5c41.jpg?width=640&crop=smart&auto=webp&s=1b8675adb2c0ed36a411ab0785e1964188a2eecc",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 0.93,
+    "ups": 25,
+    "value": 25
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Quick and dirty attempt at creating a mud texture",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ervwmi/quick_and_dirty_attempt_at_creating_a_mud_texture/"
+}

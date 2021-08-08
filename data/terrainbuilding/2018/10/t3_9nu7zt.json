@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_t25cx",
+    "name": "Snikkelbaars"
+  },
+  "date": {
+    "day": 1539388800,
+    "full": 1539441641,
+    "month": 1538352000,
+    "week": 1538870400
+  },
+  "id": "t3_9nu7zt",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 47441,
+    "fullUrl": "https://preview.redd.it/oanykppusyr11.jpg?auto=webp&s=4c55d0e4c7b653a68ea2c9040859e7dcd22643f1",
+    "hash": "67fbff9b1a",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAIxAAAgEDBAEFAAAAAAAAAAAAAQIDBAYRAAUSITEHE2GBwf/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAbEQABBAMAAAAAAAAAAAAAAAASAAECAwQUIf/aAAwDAQACEQMRAD8AzPpbbuwS25DVb9JI1RUSSFBHIwKopxjA+fzV97WPQzbfWbjb1c3tQAyGlnU+ACWAc95wCcEfejLQLQOI4WKx8eXEeM6XuEsaJgzu4K9hmJBz560J8moQeHUzXsImmv/Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/DrE6Yq0geHStvS6mGRtNETJnh8JsP87pDXkGn2mmqsA.jpg",
+    "url": "https://preview.redd.it/oanykppusyr11.jpg?width=640&crop=smart&auto=webp&s=fedc400776d572ad27c07d2f5a701ab62599a3bd",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 0.87,
+    "ups": 18,
+    "value": 18
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Partially broken down building, first time testing technique",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/9nu7zt/wip_partially_broken_down_building_first_time/"
+}

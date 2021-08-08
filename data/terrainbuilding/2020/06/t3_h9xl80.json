@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_5nzz3ymv",
+    "name": "BDubminiatures"
+  },
+  "date": {
+    "day": 1592265600,
+    "full": 1592285891,
+    "month": 1590969600,
+    "week": 1592092800
+  },
+  "id": "t3_h9xl80",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 114655,
+    "fullUrl": "https://preview.redd.it/hgzy8aoll7551.jpg?auto=webp&s=bbe78786477c6630f979345d996819d1adbf8728",
+    "hash": "2e8ba2dc3f",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEB//EACcQAAICAAQEBwEAAAAAAAAAAAECAwQABREhEhMxYQYUMlFScpHx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAYEQEAAwEAAAAAAAAAAAAAAAASAAFBEf/aAAwDAQACEQMRAD8AyHwqnnI6dV69RnsyFVeaQLpv1Y9QB32wzMpWp2jVWrCliKfkuFkB42120Hx79MVVs1yirGhRZWaLUIUh4SdfVv8A3BDnmWEcuKtYlkdNCWRWPHr9h7jcfmJqSWR7J5s//9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/k7WAKnQIpKFX2m0vjyL2i81OAWmVDCLf_SwyrHp8YfA.jpg",
+    "url": "https://preview.redd.it/hgzy8aoll7551.jpg?width=640&crop=smart&auto=webp&s=ec542a1e86e7d54999920f4ad98688d094d3464f",
+    "width": 640
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "ratio": 0.94,
+    "ups": 24,
+    "value": 24
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First time working with with LED - made a dungeon campfire - waiting on modpodge to dry",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/h9xl80/wip_first_time_working_with_with_led_made_a/"
+}

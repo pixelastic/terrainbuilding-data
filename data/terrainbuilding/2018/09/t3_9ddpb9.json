@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_3di40",
+    "name": "captain_plan_it"
+  },
+  "date": {
+    "day": 1536192000,
+    "full": 1536199947,
+    "month": 1535760000,
+    "week": 1535846400
+  },
+  "id": "t3_9ddpb9",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 81693,
+    "fullUrl": "https://preview.redd.it/pvwb7s9k1jk11.jpg?auto=webp&s=1d9eff39a3246a6917b4662b1b4f4be013d5a0fd",
+    "hash": "1d817762c7",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwUG/8QAIxAAAgICAQIHAAAAAAAAAAAAAQIDBAURABIhBgcTMaGx0f/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAXEQEBAQEAAAAAAAAAAAAAAAABABEx/9oADAMBAAIRAxEAPwCbQ8zbdfF5/E2a01qWyshrzyEx+irxgKnYE73vX3zJ3PG9+zjcfhRVNbHxAPpkPVI+iGcliTok/HbiQKb+acWZJGDL1PtierY773wsnXiVC6RqpjUIoHtrX4OH03khEv/Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/puxs3PD4sRMOl3t4-zfWtWkzMV6foe5XfHcpOd0qj2w.jpg",
+    "url": "https://preview.redd.it/pvwb7s9k1jk11.jpg?width=640&crop=smart&auto=webp&s=3f92f2348944758de4dd6494b34c6af11a22a97c",
+    "width": 640
+  },
+  "score": {
+    "comments": 30,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 107,
+    "value": 107
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Working on the new terrain designs. Such a great feeling to see it all come together.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/9ddpb9/working_on_the_new_terrain_designs_such_a_great/"
+}

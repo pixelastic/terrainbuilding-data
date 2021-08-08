@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_2c0tu3n",
+    "name": "Nylffn"
+  },
+  "date": {
+    "day": 1580169600,
+    "full": 1580249850,
+    "month": 1577836800,
+    "week": 1579996800
+  },
+  "id": "t3_evcphu",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 62920,
+    "fullUrl": "https://preview.redd.it/lo3wjiulgld41.jpg?auto=webp&s=9c2241fc2c76dfa733ac3b76d7a59e4a1189b5aa",
+    "hash": "18585cb0ff",
+    "height": 1138,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwYH/8QAKRAAAgEDAgENAAAAAAAAAAAAAQIDAAQFBhEHEhMUFhchMVFSVJShov/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAcEQABAwUAAAAAAAAAAAAAAAABAAIREiJBkcH/2gAMAwEAAhEDEQA/AKLO8RtL2OSlsMnJMZLdgxfopeMOO8bHzB+6DtS096Mp8JqwzNaow8+ReZJZpw7F3XmkILHxAbkg7UvXKz9i34opqwEsMZNx1B6v/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/bRO00hSAuSZy7Mdn7yYUgZzIa4RyRd7DvZgWH2rszEE.jpg",
+    "url": "https://preview.redd.it/lo3wjiulgld41.jpg?width=640&crop=smart&auto=webp&s=f431fcd68edbb6e7ea8d345b592534a4ff31ec86",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 0.87,
+    "ups": 18,
+    "value": 18
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I only found one tutorial on how to make braziers, but I think it was a pretty good one. Link in comments",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/evcphu/i_only_found_one_tutorial_on_how_to_make_braziers/"
+}

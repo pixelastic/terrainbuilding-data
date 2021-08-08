@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_98f6h",
+    "name": "Retr1buti0n"
+  },
+  "date": {
+    "day": 1623888000,
+    "full": 1623968746,
+    "month": 1622505600,
+    "week": 1623542400
+  },
+  "id": "t3_o29nba",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "filesize": 52801,
+    "fullUrl": "https://external-preview.redd.it/_OJQNxZB6UWoqtHoobv8lGlu5FJgzamUM-6DFcb14KY.jpg?auto=webp&s=141b97a011637f300acedea72ae864d54f5ccae6",
+    "hash": "cb8a700547",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGB//EACMQAAEDBAEEAwAAAAAAAAAAAAECAxEABAUhBjFBc7FGUWH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABkRAAIDAQAAAAAAAAAAAAAAAAABAhEhQf/aAAwDAQACEQMRAD8AfWOAcyizfLKG33EhBDDJkgfZidT3/aKHDQu2uHMet9jJ7cYfQFICoG0LJEbEQT3FV/xew8KfVZvyDoryD0KmlVahdfT/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/-LJubj0kOc6yXNbERpVl6KQNFP633tNJrkr-5Xkjyqg.jpg",
+    "url": "https://external-preview.redd.it/_OJQNxZB6UWoqtHoobv8lGlu5FJgzamUM-6DFcb14KY.jpg?width=640&crop=smart&auto=webp&s=95349f2712fe8b04cf06e670316c3f1b3a310e28",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.95,
+    "ups": 27,
+    "value": 27
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Magnetic 3x3 Tiles built using buckyball magnets",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/o29nba/magnetic_3x3_tiles_built_using_buckyball_magnets/"
+}

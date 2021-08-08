@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_3dhi1",
+    "name": "kagius"
+  },
+  "date": {
+    "day": 1610409600,
+    "full": 1610471359,
+    "month": 1609459200,
+    "week": 1610236800
+  },
+  "id": "t3_kvvrsq",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 31363,
+    "fullUrl": "https://preview.redd.it/5aloefyloxa61.jpg?auto=webp&s=b41f8dfdd1374d9da8f3f68f44d36cc3eaa29993",
+    "hash": "4c7ef68699",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwUGCP/EACQQAAEEAAUEAwAAAAAAAAAAAAECAwQRAAUGBxQSEyFBMWGB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAWEQEBAQAAAAAAAAAAAAAAAAAAESH/2gAMAwEAAhEDEQA/AMqhJPwCcUmpMu4mmtMyRESzymHV90Ci9ThFk+6Nj8w62xOkm25r2q4XMfbUnsNrniOgijdjpPUb+6wTczOMkzNsDLoEGK4laeOI0hTpbao2g0kJq/Ps+cS7B//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/DEId0ve9oKyhx77jKAD-GirsvykuQ4Bi6nlwXOFKQ5A.jpg",
+    "url": "https://preview.redd.it/5aloefyloxa61.jpg?width=640&crop=smart&auto=webp&s=a7a70a2ec8589e2624cea2a5a2a0e081fed54046",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.87,
+    "ups": 18,
+    "value": 18
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Made some cardboard components for a project I'm working on (video in comments)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/kvvrsq/made_some_cardboard_components_for_a_project_im/"
+}

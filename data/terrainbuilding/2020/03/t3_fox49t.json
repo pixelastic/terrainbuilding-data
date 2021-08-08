@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_4dbfexn3",
+    "name": "Dr4mis"
+  },
+  "date": {
+    "day": 1585094400,
+    "full": 1585166607,
+    "month": 1583020800,
+    "week": 1584835200
+  },
+  "id": "t3_fox49t",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 64234,
+    "fullUrl": "https://preview.redd.it/8wdaqconkvo41.jpg?auto=webp&s=309ca270555370d44c49513ddf3d45d398eb4c61",
+    "hash": "7f8deac38f",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGB//EACIQAAIBBAICAwEAAAAAAAAAAAECAwQFESEABjFBEiJxof/EABUBAQEAAAAAAAAAAAAAAAAAAAMF/8QAGxEAAgEFAAAAAAAAAAAAAAAAATEAAgMRE4H/2gAMAwEAAhEDEQA/AB71faS6VTw1M1ZcUiYM6xSCOFHMgUH4jA0d/meJe9d0e4QQRpCqSRKcASZIznO/fj+8z7simhuFXTQuxjjldPt5IB1nkwtQ8s6lsb0QPeuEMKUtRtEEVJdn/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/OmPKLuHPyYJrmju_1a97VYsm1Fx3OhQDgFHepnr-Hhg.jpg",
+    "url": "https://preview.redd.it/8wdaqconkvo41.jpg?width=640&crop=smart&auto=webp&s=fa1aa78da02b4e7ea53e97ec70fe8ad868c5ae43",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 126,
+    "value": 126
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Bronze Statues from Harry Potter chess game!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/fox49t/bronze_statues_from_harry_potter_chess_game/"
+}

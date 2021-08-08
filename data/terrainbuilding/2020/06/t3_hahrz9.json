@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_4tgldwk7",
+    "name": "The-Hate-Engine"
+  },
+  "date": {
+    "day": 1592352000,
+    "full": 1592359164,
+    "month": 1590969600,
+    "week": 1592092800
+  },
+  "id": "t3_hahrz9",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "filesize": 92330,
+    "fullUrl": "https://external-preview.redd.it/KTVr3dfrTID23k6-O8NSkvF1vpzI3SL-64Z38tUGiI4.jpg?auto=webp&s=47ec568d1a9e1fe8633257151a1eb8ab2b74e15d",
+    "hash": "a8e4d7011d",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAJBAAAgIBBAEEAwAAAAAAAAAAAQIDBBEABQYhEhMxQUJRkcH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABgRAAMBAQAAAAAAAAAAAAAAAAECEQAD/9oADAMBAAIRAxEAPwDHq3GK1zid3ehQlgLXUqV1DlkXK+Rzns5/XR0I3G7isRJEwPwJZo0YD8YLaoubWuUvt1qvv8liTytiTMhK4ZVI6UAADv2wNC8Y27ZbFGR94eQWPVIXxP1wP7nVH6ByTMUoEbf/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/RU0nx2twoKRKjqNGpIgh0ozxgvf7hj-nL-G_6YjbtHA.jpg",
+    "url": "https://external-preview.redd.it/KTVr3dfrTID23k6-O8NSkvF1vpzI3SL-64Z38tUGiI4.jpg?width=640&crop=smart&auto=webp&s=c0653f17d05f1ac251fde9b50e8ff63f2ac127e2",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 0.74,
+    "ups": 7,
+    "value": 7
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "After some initial experiments, I went plating crazy. The Space Cannon has ammo.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/hahrz9/after_some_initial_experiments_i_went_plating/"
+}

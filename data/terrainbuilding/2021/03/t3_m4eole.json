@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_2ubk6sbw",
+    "name": "PlvisEresley"
+  },
+  "date": {
+    "day": 1615593600,
+    "full": 1615667416,
+    "month": 1614556800,
+    "week": 1615075200
+  },
+  "id": "t3_m4eole",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 112286,
+    "fullUrl": "https://preview.redd.it/uotgs4v5vum61.jpg?auto=webp&s=693a4a19f5ca62bc0f986170cb8b78cc0f242204",
+    "hash": "ed3d107502",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAIRAAAgIBBAMBAQAAAAAAAAAAAQIDBBEABRIxBiFBIoH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAERAiH/2gAMAwEAAhEDEQA/AMv2yBJd3u1Iaqzo7fpgrFgwbAAx6I77+6X7dvHjNPb69WaKpVswKY5xNQWVnkDHLci4yOh181S8j2503681d7RijT1FXwq8+QIz9/Wc/wAOi2717ku4SzqkoWbjIBBSMqe1GcNwOfeT390HulBzmXUf/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/lrqJoGSlDn9AdTwKRGGdhFXBhHHm9ApTE2BV4c3X3GM.jpg",
+    "url": "https://preview.redd.it/uotgs4v5vum61.jpg?width=640&crop=smart&auto=webp&s=9936ab0160583b91018c54cf014144135bd0625d",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 0.9,
+    "ups": 8,
+    "value": 8
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP Stalingrad Terrain",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/m4eole/wip_stalingrad_terrain/"
+}

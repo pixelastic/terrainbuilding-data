@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_3ritq",
+    "name": "PERECil"
+  },
+  "date": {
+    "day": 1531872000,
+    "full": 1531913399,
+    "month": 1530403200,
+    "week": 1531612800
+  },
+  "id": "t3_8zuo10",
+  "misc": {
+    "postHint": "self"
+  },
+  "picture": {
+    "filesize": 137248,
+    "fullUrl": "https://external-preview.redd.it/AG4h3Mnusmc27REzIDLdL8_zZ2KpH1S5YdpjJQm-Tlw.jpg?auto=webp&s=e3d088718a828df621ba46ba134716660d68c015",
+    "hash": "443aca5b42",
+    "height": 1138,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFBv/EACYQAAEDBAEBCQAAAAAAAAAAAAECAwUABAYRElQTFSEiUXGRodH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABkRAAIDAQAAAAAAAAAAAAAAAAARAQISIf/aAAwDAQACEQMRAD8AVyCabE7IuLjWV8nNKeb8il6GvSidkx0jvwKpYzYY5mEI29HSFxbyTaQbu2KgspJHiRyG+O96IPvWj7kt+pc+vyhV2yzc15J//9k=",
+    "thumbnailUrl": "self",
+    "url": "https://external-preview.redd.it/AG4h3Mnusmc27REzIDLdL8_zZ2KpH1S5YdpjJQm-Tlw.jpg?width=640&crop=smart&auto=webp&s=779bacaca30ccf02b74765bfa99a657cf37b6515",
+    "width": 640
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "ratio": 0.87,
+    "ups": 15,
+    "value": 15
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Need advice on modular terrain tile",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/8zuo10/need_advice_on_modular_terrain_tile/"
+}

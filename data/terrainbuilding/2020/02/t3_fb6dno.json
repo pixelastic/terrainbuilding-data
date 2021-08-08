@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_maxdx",
+    "name": "dpceee"
+  },
+  "date": {
+    "day": 1582934400,
+    "full": 1582945956,
+    "month": 1580515200,
+    "week": 1582416000
+  },
+  "id": "t3_fb6dno",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 129580,
+    "fullUrl": "https://preview.redd.it/i5rm0mfi5sj41.jpg?auto=webp&s=bdcf4c6e1fe152eeb810dbd2d1a5098e779cbb85",
+    "hash": "fffd86eccd",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQIG/8QAIxAAAgEDBAIDAQAAAAAAAAAAAQIRAwQFABIhMQdhBhMUQf/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAXEQADAQAAAAAAAAAAAAAAAAAAATER/9oADAMBAAIRAxEAPwA1fDvx5UanbXV69QFQ+9+OeyeBx11Ee9Ra+IqjUylP8JWk31hnrOC0f2I41v8AL4u8x9Ss7NUuaOzeHmCQBAVhMnb3xM6QxeLsc1j6F5cXVzuYFQLeqAoAJEExyfei2itah//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/RCP3HG97qZTU5boXAZNkEFNIVk1mFNitrpNqSt7OjCc.jpg",
+    "url": "https://preview.redd.it/i5rm0mfi5sj41.jpg?width=640&crop=smart&auto=webp&s=c5af031a25c17b6e7127e4b97785f38247d5a7e6",
+    "width": 640
+  },
+  "score": {
+    "comments": 13,
+    "downs": 0,
+    "ratio": 0.89,
+    "ups": 25,
+    "value": 25
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I'm committing this to dry now. I am hoping for some feedback. It's in what I intend to be the final stages. What do y'all think?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/fb6dno/im_committing_this_to_dry_now_i_am_hoping_for/"
+}

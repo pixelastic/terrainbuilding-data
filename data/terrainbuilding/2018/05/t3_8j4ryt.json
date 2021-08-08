@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_83581",
+    "name": "EccentricOwl"
+  },
+  "date": {
+    "day": 1526169600,
+    "full": 1526227364,
+    "month": 1525132800,
+    "week": 1526169600
+  },
+  "id": "t3_8j4ryt",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 105063,
+    "fullUrl": "https://preview.redd.it/5866fpv0cnx01.jpg?auto=webp&s=b5c30e7d98f337bb1c5333120fc0e76445632324",
+    "hash": "31d5252660",
+    "height": 1102,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAKBAAAQMCAwcFAAAAAAAAAAAAAQIDBAAFBhEWEhMhIjFBklNUYWJx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAaEQEAAgMBAAAAAAAAAAAAAAABAAIDITFh/9oADAMBAAIRAxEAPwCxRiZuVerMzbHwYUmallTqeZKwELKkj5zSOPYGk9RJ9JryNA4ws0fChsgtMV+LCt0gPlwqKkNo3LpcO0TmT1JP2H5WS6/a9pI8zUNqprGexRTrP//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/czK2kWpyFZMwxW32j5qtsShiFrp9Fy3OTau_qsvUuds.jpg",
+    "url": "https://preview.redd.it/5866fpv0cnx01.jpg?width=640&crop=smart&auto=webp&s=975889c0ec7fab581b37e39341baf98b1f35a864",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 86,
+    "value": 86
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Clock tower from TTCombat",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/8j4ryt/clock_tower_from_ttcombat/"
+}

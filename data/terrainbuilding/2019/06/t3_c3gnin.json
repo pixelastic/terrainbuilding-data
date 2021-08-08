@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_13bcf0",
+    "name": "daltonoreo"
+  },
+  "date": {
+    "day": 1561075200,
+    "full": 1561152134,
+    "month": 1559347200,
+    "week": 1560643200
+  },
+  "id": "t3_c3gnin",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 31239,
+    "fullUrl": "https://preview.redd.it/0hjv9ija1s531.jpg?auto=webp&s=9ac21ada060774921376f496cdc6364cf585b1dd",
+    "hash": "4471a9d437",
+    "height": 303,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAIABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQF/8QAIRAAAQMEAgMBAAAAAAAAAAAAAQIDBAAREiEFBhMxQVH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABsRAAIBBQAAAAAAAAAAAAAAAAECAAMEETEy/9oADAMBAAIRAxEAPwCSNwfJo7AzGcjYFDiAuZHaVign6AdH3Y/lb3YoXJp7FBbiLmBoJI8yY2TbeRIuTfZGr31SlT7is7dHMaiKNCf/2Q==",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/TOCvGNdPEGkBcUMHQME4MTCmUgzMdRjPybP9Xb-k2v8.jpg",
+    "url": "https://preview.redd.it/0hjv9ija1s531.jpg?width=640&crop=smart&auto=webp&s=8b8a02f33ca7ee28dd2dd29008b5450e678f0ea8",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 0.95,
+    "ups": 19,
+    "value": 19
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Foam Cannon (still needs touching up and ignition fuze)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/c3gnin/foam_cannon_still_needs_touching_up_and_ignition/"
+}

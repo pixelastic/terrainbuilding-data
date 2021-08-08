@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_55jhmg23",
+    "name": "Miniocalypse"
+  },
+  "date": {
+    "day": 1587600000,
+    "full": 1587656993,
+    "month": 1585699200,
+    "week": 1587254400
+  },
+  "id": "t3_g6p2zq",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 67913,
+    "fullUrl": "https://preview.redd.it/yqwfa3ou9lu41.jpg?auto=webp&s=b4d20c8b237fe1a5433235911424989079655775",
+    "hash": "086d4b677b",
+    "height": 567,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAOABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQF/8QAJRAAAQIGAQMFAAAAAAAAAAAAAQIDAAQFERIhBgcxkRMiQVFh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAYEQADAQEAAAAAAAAAAAAAAAAAAREhMf/aAAwDAQACEQMRAD8AR/qZUWZXIL9VrZFmU7t+2ieu1xlcvJP1KcdmTUU5zTTmkBYAWnAX0AFefEZ54FyhkITQ+QMS8ilNktOJUSCTdXb7gpvpnNrpTbNSqDS1s5OZtZe5RJN97GrDv8CJ0neQa4f/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/XmbsxTOqJnsb3-EYkpjBB5ZiFUXC_PXQZaoGWlESlTM.jpg",
+    "url": "https://preview.redd.it/yqwfa3ou9lu41.jpg?width=640&crop=smart&auto=webp&s=68bf02ed8b44466ffe228dc5e485bc11b86c5c02",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 0.83,
+    "ups": 39,
+    "value": 39
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Nuclear ☢️ Powered Radio 📻 Tower",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/g6p2zq/nuclear_powered_radio_tower/"
+}

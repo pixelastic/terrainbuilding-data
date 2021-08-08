@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_8uucu",
+    "name": "baudbard"
+  },
+  "date": {
+    "day": 1489622400,
+    "full": 1489700177,
+    "month": 1488326400,
+    "week": 1489276800
+  },
+  "id": "t3_5zthpp",
+  "misc": {
+    "postHint": "self"
+  },
+  "picture": {
+    "filesize": 73387,
+    "fullUrl": "https://external-preview.redd.it/WK4gVNXsFIeq15KV6TUgJSz20alNtuw2SVvNfCcAqvk.jpg?auto=webp&s=bccf147d0b86de60040f797112710a384e91856c",
+    "hash": "37fd9e9868",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgIF/8QAJBAAAgICAQQBBQAAAAAAAAAAAQIDBAURAAYhIjESQUJhgZH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABwRAAEEAwEAAAAAAAAAAAAAAAEAAhESAyJRof/aAAwDAQACEQMRAD8AOYbq660mWfI25hWtojVCsu1CiUMPmdnyChgO2/ryMxlb92CalTttVViWedy0UZTtoOw7fbrf95g4uhUodLnLxVomsLvSMPD3+NE/sngi71Jlr81qOe24iA8I4wEWMetKB67EjhuCY4o43PfsIr6v/9k=",
+    "thumbnailUrl": "self",
+    "url": "https://external-preview.redd.it/WK4gVNXsFIeq15KV6TUgJSz20alNtuw2SVvNfCcAqvk.jpg?width=640&crop=smart&auto=webp&s=082ef22e8f8b1b1c564c0d21d96338683b0bfcf3",
+    "width": 640
+  },
+  "score": {
+    "comments": 17,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 16,
+    "value": 16
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Starship Combat",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/5zthpp/starship_combat/"
+}

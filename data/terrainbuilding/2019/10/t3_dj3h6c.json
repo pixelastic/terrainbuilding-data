@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_t1mhm2",
+    "name": "Anomard"
+  },
+  "date": {
+    "day": 1571270400,
+    "full": 1571301514,
+    "month": 1569888000,
+    "week": 1570924800
+  },
+  "id": "t3_dj3h6c",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 59387,
+    "fullUrl": "https://preview.redd.it/m1dtp11n90t31.jpg?auto=webp&s=940a565dd30f3857803fb173567b9ee6ecf2f882",
+    "hash": "5a3d2eb440",
+    "height": 380,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAKABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUG/8QAIhAAAgIBAwUBAQAAAAAAAAAAAQIDBBEABRIGBxMhURQx/8QAFAEBAAAAAAAAAAAAAAAAAAAABf/EABkRAQEAAwEAAAAAAAAAAAAAAAEDABESMf/aAAwDAQACEQMRAD8AU9KFepKkM2FSzP5fKVZ5HrqucMR/GUK3v4QNSod8rT35a1P9NfaXeSxJMYivOJQMccZGRk5z8A9a13aV2m6R2p5WLu9PDMxyWBUgg/dA3mGKr2ptitGkIdoSwjULyJb3nGjp16mqYgy1QN+5/9k=",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/SQMbP4Zr-XVUlErKIzI3nR_p3xuJ8beBONwO0KwDOo0.jpg",
+    "url": "https://preview.redd.it/m1dtp11n90t31.jpg?width=640&crop=smart&auto=webp&s=6a8044fcf7914d46cb6faceeac8d13239ff7a3bc",
+    "width": 640
+  },
+  "score": {
+    "comments": 45,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 513,
+    "value": 513
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I was really against 3d printing terrain but seeing results like this make me change my mind.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/dj3h6c/i_was_really_against_3d_printing_terrain_but/"
+}

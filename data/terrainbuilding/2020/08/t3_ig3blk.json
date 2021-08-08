@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_3tezl107",
+    "name": "Wyoming-Wind"
+  },
+  "date": {
+    "day": 1598313600,
+    "full": 1598321968,
+    "month": 1596240000,
+    "week": 1598140800
+  },
+  "id": "t3_ig3blk",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 57643,
+    "fullUrl": "https://preview.redd.it/h5aj2oma62j51.jpg?auto=webp&s=e834707ff53843119e0d336c8f72fd74d2595703",
+    "hash": "296c6aacfe",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwUGB//EACEQAAICAQQCAwAAAAAAAAAAAAECAwQRAAUSEwZxFSHR/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAeEQABAwQDAAAAAAAAAAAAAAABAAIDBRExoRIhgf/aAAwDAQACEQMRAD8ArZ96ir3Vr8WcleQZTketMfkqyheyxEhIzhpADrDNm8zpbdDDX7akioxfmZ1BOfv80ObdqFueWw89QNI5YgTrgEn3qFBTJHSvErgGjBuO9pAqMgJPAnzGl//Z",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/cFrdcgH99O4n_ZSpZo5jk6yNFZ4u3sduesetkIXOIN8.jpg",
+    "url": "https://preview.redd.it/h5aj2oma62j51.jpg?width=640&crop=smart&auto=webp&s=4c6214a976db3ac13eb751168cb0e921f2e76bac",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.89,
+    "ups": 7,
+    "value": 7
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First time using FDM printer, is there a way to have it print more cleanly? Using Kingroon KP3 with default settings.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ig3blk/first_time_using_fdm_printer_is_there_a_way_to/"
+}

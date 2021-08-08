@@ -1,0 +1,39 @@
+{
+  "author": {
+    "name": "[deleted]"
+  },
+  "date": {
+    "day": 1604448000,
+    "full": 1604467126,
+    "month": 1604188800,
+    "week": 1604188800
+  },
+  "id": "t3_jnqtw1",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 72648,
+    "fullUrl": "https://preview.redd.it/uqpk8m40r5x51.jpg?auto=webp&s=023391882ee9874ad8563f73979f23a241084c72",
+    "hash": "0dd05242f1",
+    "height": 849,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUG/8QAJRAAAQMDAwMFAAAAAAAAAAAAAQIDBAURIQAGEhMiQRQxUWGx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAaEQACAwEBAAAAAAAAAAAAAAABAgADESEy/9oADAMBAAIRAxEAPwDJ7xqDb25Kq8mTMl8XOKXXFB0kBCQOSxbN7jUd5xkOHv5+blNv3SadLmyHKlEgux4zUWC71EkkesQleUixzjuz8H60d+pS6q+5KmGap9RspTBaSkiwtgoJGLD38aotqgBSdMLVN6zk/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/nLtgBxLcJLjgptwJYXw6OV-B8JuMLoPJBvR3UBH1iPE.jpg",
+    "url": "https://preview.redd.it/uqpk8m40r5x51.jpg?width=640&crop=smart&auto=webp&s=37b62e2ad90a36ec2b7629cf8c4c144e9c3735bf",
+    "width": 640
+  },
+  "score": {
+    "comments": 18,
+    "downs": 0,
+    "ratio": 0.85,
+    "ups": 25,
+    "value": 25
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "1st pre-made terrain build. How do I fix the gap between the floor and wall?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/jnqtw1/1st_premade_terrain_build_how_do_i_fix_the_gap/"
+}

@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_hoawo8l",
+    "name": "Lazarus-TRM"
+  },
+  "date": {
+    "day": 1555113600,
+    "full": 1555192550,
+    "month": 1554076800,
+    "week": 1554595200
+  },
+  "id": "t3_bcvrek",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 62980,
+    "fullUrl": "https://preview.redd.it/uj2zuw4es3s21.jpg?auto=webp&s=a4348518a8aa15e1b6d9822665dfb255d6d1d776",
+    "hash": "3c68ff2b3e",
+    "height": 475,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgEE/8QAJhAAAQMDAwIHAAAAAAAAAAAAAQIDBAUREgAGITFBBxMUMpGxwf/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAZEQACAwEAAAAAAAAAAAAAAAABEQACMRL/2gAMAwEAAhEDEQA/AK3vCJVWpjXoESvJxLqApKioKSfaFiwIt0v+6zVGvpp9IkRm5CWG4EdaQW1i4OAtdFrZAngAjn40A8NIzC5kyMtlCky3EFxfOQtfhJ7dToNU5C39xTHV45vPuOKIHfM/WjkFp5EiwFels//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/bo_SfRyExBjUkZAhhEuynqBeSizdD2w8RZpIaEAlrOI.jpg",
+    "url": "https://preview.redd.it/uj2zuw4es3s21.jpg?width=640&crop=smart&auto=webp&s=f222c7ec0ef656b1cc4fefe6a51a1eaf5b4bbbb3",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 55,
+    "value": 55
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Three story tavern in progress, bandits for scale!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/bcvrek/three_story_tavern_in_progress_bandits_for_scale/"
+}

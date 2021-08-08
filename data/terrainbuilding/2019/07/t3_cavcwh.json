@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_wk6sa",
+    "name": "kylel999"
+  },
+  "date": {
+    "day": 1562630400,
+    "full": 1562642952,
+    "month": 1561939200,
+    "week": 1562457600
+  },
+  "id": "t3_cavcwh",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 60097,
+    "fullUrl": "https://preview.redd.it/z4ss9r5767931.jpg?auto=webp&s=4d12a7080804c376bba6191c7c618f25c7a19fe0",
+    "hash": "35a750119a",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQQFBv/EACIQAAICAQEJAAAAAAAAAAAAAAECAAMhBAURIjNBU3Fykf/EABUBAQEAAAAAAAAAAAAAAAAAAAIF/8QAGBEBAAMBAAAAAAAAAAAAAAAAAQACAxH/2gAMAwEAAhEDEQA/AM8de9DKam4hjOYw22rDSu5aTZ1Ugr9kHu+YauZV7SNoOmrZYa2R5P/Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/Xvu-alpLg1x49XPAOdEGOYltB7LzKhT8BiShShg0JlI.jpg",
+    "url": "https://preview.redd.it/z4ss9r5767931.jpg?width=640&crop=smart&auto=webp&s=517b7ac1f704953717ecd77d32d8082df6810ea3",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 55,
+    "value": 55
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Continuing to experiment with static grass and coarse turf",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/cavcwh/continuing_to_experiment_with_static_grass_and/"
+}

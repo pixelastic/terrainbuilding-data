@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_u4qzm",
+    "name": "tjkopena"
+  },
+  "date": {
+    "day": 1497312000,
+    "full": 1497349970,
+    "month": 1496275200,
+    "week": 1497139200
+  },
+  "id": "t3_6gz183",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "filesize": 59807,
+    "fullUrl": "https://external-preview.redd.it/vZS9uzsk88LakZ-efSD845A4TNQqEMe-iH7kXBYWJpI.jpg?auto=webp&s=9340826469a3962f8ef030305452de766ebfcea5",
+    "hash": "6e0cb912ec",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUG/8QAJBAAAgAFAwQDAAAAAAAAAAAAAQIDBAURIQASFAYiMUETUaH/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAGxEBAAIDAQEAAAAAAAAAAAAAAQIRAAMEscH/2gAMAwEAAhEDEQA/ANrL9UVqHV2luTMLIpKgCaaKqAOF7mJa97n2RjVmndW1lYUJZefh1QntLmWGPouV8Xz4/NG4sF4XwbNsOIArbDa4OLaJCp8rTXfhQhCZgA7Am7WwLn3jGitHbFJQbs+4j06WSTKBPM//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/b3B4OiDCd_A2NC_F1Cswjn1UAPJ6O5cU0chi7GQ3bYY.jpg",
+    "url": "https://external-preview.redd.it/vZS9uzsk88LakZ-efSD845A4TNQqEMe-iH7kXBYWJpI.jpg?width=640&crop=smart&auto=webp&s=6981f4327c4dd22c7622c88a9899e2444a38aa6b",
+    "width": 640
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "ratio": 0.94,
+    "ups": 26,
+    "value": 26
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Derelict Depot: Construction",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/6gz183/derelict_depot_construction/"
+}

@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_5c8v8zc9",
+    "name": "MandalorianSidekick"
+  },
+  "date": {
+    "day": 1600992000,
+    "full": 1601051615,
+    "month": 1598918400,
+    "week": 1600560000
+  },
+  "id": "t3_izmrd7",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 92684,
+    "fullUrl": "https://preview.redd.it/bcurs6psmbp51.jpg?auto=webp&s=22e644e23e906ba7d993ff5738896c51d9135e51",
+    "hash": "5d32d6090b",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQH/8QAIhAAAgICAgICAwAAAAAAAAAAAQIDBAURADEGIRJBFCJh/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAYEQEAAwEAAAAAAAAAAAAAAAABAAIRIf/aAAwDAQACEQMRAD8Am8n8ghTOU8TFVsZOlVDsSZ/1ifeg2z0O/wC8Cz9/D2ajzWcMyzEKVcyll0W+PvXsdd65slzD0ZZpmWAQtM23MJKbPW9D1vX3wDEYqnQoyfjQIHkcq7sPkzAH7Y+zyfXiMbZUyf/Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/qXJOTjNWo8-u2FsBABidjyRn2t96ea-9-HfWQs4wroo.jpg",
+    "url": "https://preview.redd.it/bcurs6psmbp51.jpg?width=640&crop=smart&auto=webp&s=0924957797075f291a6d0b8db0b715d5371e4dd4",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 99,
+    "value": 99
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Scratch Terrain I made for forest fights",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/izmrd7/scratch_terrain_i_made_for_forest_fights/"
+}

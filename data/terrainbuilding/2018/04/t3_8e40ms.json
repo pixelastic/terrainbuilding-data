@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_17u26ic9",
+    "name": "Patagos81"
+  },
+  "date": {
+    "day": 1524355200,
+    "full": 1524411784,
+    "month": 1522540800,
+    "week": 1524355200
+  },
+  "id": "t3_8e40ms",
+  "misc": {
+    "postHint": "self"
+  },
+  "picture": {
+    "filesize": 76017,
+    "fullUrl": "https://external-preview.redd.it/HL03UHEtU0e_QRG2-pdIZMlg0w_0ldYZnCGbKFnLZfM.jpg?auto=webp&s=017747a99fcb624529ffc7ecc06ae0dcd74d60f1",
+    "hash": "6e2bcbe011",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAIxAAAQQBAwQDAAAAAAAAAAAAAQIDBBEABQYhEiIxQTJRsf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAFxEBAQEBAAAAAAAAAAAAAAAAAREAIv/aAAwDAQACEQMRAD8APd3uyqQY0eE+641bdqASOoevfFfuL6Hr8zUVRBL0hltpl5DvU8jkUb7bFgGhfnI4hCYxCUpHg2B9nNBtNCTFfkuAOvMfBSxdcXkgvJkiFu//2Q==",
+    "thumbnailUrl": "self",
+    "url": "https://external-preview.redd.it/HL03UHEtU0e_QRG2-pdIZMlg0w_0ldYZnCGbKFnLZfM.jpg?width=640&crop=smart&auto=webp&s=6cd8970333e60a8f660158f3824bc44dc19737eb",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 0.87,
+    "ups": 11,
+    "value": 11
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "New ruins",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/8e40ms/new_ruins/"
+}

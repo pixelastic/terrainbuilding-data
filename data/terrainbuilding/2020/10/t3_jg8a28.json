@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_86rdrnt8",
+    "name": "MS-Paints"
+  },
+  "date": {
+    "day": 1603324800,
+    "full": 1603399775,
+    "month": 1601510400,
+    "week": 1602979200
+  },
+  "id": "t3_jg8a28",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 77175,
+    "fullUrl": "https://preview.redd.it/h6u49b90gpu51.jpg?auto=webp&s=ca7ff017d933f8a034a33d1b3db5475b8cc03bc7",
+    "hash": "700a0d1168",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAX/xAAlEAAABQIEBwAAAAAAAAAAAAABAgMFEQAEBxIhNCJBYXJ0kcL/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAHhEAAQQBBQAAAAAAAAAAAAAAAQACAwQxESNRcYH/2gAMAwEAAhEDEQA/ADMTm9Wl+Brq0uocMy4gRPNCgREjqASARxR0pru8OKgKAiUiSZS5hk8Gj3M6cqvk36naWpWI29tvF+ho6nOZpAHDOqVq7ZIbyM9+L//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/Qbui19DLK4-ILAhccr4u7fm4h3BdOXy8xq_9-S8ANUI.jpg",
+    "url": "https://preview.redd.it/h6u49b90gpu51.jpg?width=640&crop=smart&auto=webp&s=477a207d4f43d3bf99a4d36a6865f8d1210715c4",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.84,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Tropical Coastal Diorama Tutorial (let me know if it's helpful at all and I'd love to know your techniques) https://www.youtube.com/watch?v=aSDnSxu8ulk",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/jg8a28/tropical_coastal_diorama_tutorial_let_me_know_if/"
+}

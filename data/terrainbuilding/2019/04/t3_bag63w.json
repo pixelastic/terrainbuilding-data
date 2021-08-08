@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_2z8rvezl",
+    "name": "notPues"
+  },
+  "date": {
+    "day": 1554595200,
+    "full": 1554643288,
+    "month": 1554076800,
+    "week": 1554595200
+  },
+  "id": "t3_bag63w",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 50126,
+    "fullUrl": "https://preview.redd.it/ldg8ptm4fuq21.jpg?auto=webp&s=57cab9c0d48df806140485d63991dc96176545d1",
+    "hash": "3948f06f54",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgf/xAApEAABAwEFBwUAAAAAAAAAAAABAgMEAAUREyFhCBIVMTQ1QVFyc7LC/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABoRAAEFAQAAAAAAAAAAAAAAAAABAgMREiH/2gAMAwEAAhEDEQA/AFfGmYapUWY+pFsskpwJxKGQQdOemedEZVrBFoynpbkFTTbePIQ2pTQSEkC5oXnfWSoAC4ep80q2je9RPhH6qAudTI96PvQrFl2rER18P//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/zPvaUIUr8HgH3hIWr8voeNo3QsKBrDTgqBQz_B044Kc.jpg",
+    "url": "https://preview.redd.it/ldg8ptm4fuq21.jpg?width=640&crop=smart&auto=webp&s=0da10eed1e23ad1ef64d20e6e8dccacabba406f2",
+    "width": 640
+  },
+  "score": {
+    "comments": 9,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 94,
+    "value": 94
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My second piece, your opinions?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/bag63w/my_second_piece_your_opinions/"
+}

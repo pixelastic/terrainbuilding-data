@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_99yop",
+    "name": "stidf"
+  },
+  "date": {
+    "day": 1395360000,
+    "full": 1395441721,
+    "month": 1393632000,
+    "week": 1394928000
+  },
+  "id": "t3_2118uv",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "filesize": 93093,
+    "fullUrl": "https://external-preview.redd.it/99v0wrOvpzv-hvxJWi3WwSgmXTklGRm_dSoFyEPw-5M.jpg?auto=webp&s=8cc7ad773015abbec6621a5efd6b787ed9d9104a",
+    "hash": "1b11634143",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgf/xAAjEAADAAECBQUAAAAAAAAAAAABAgMRAAQFBhIhMRMWQVGx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAX/xAAaEQACAgMAAAAAAAAAAAAAAAAAAQIDBBES/9oADAMBAAIRAxEAPwARytxP3DuLR2s2kqSmzOFJZepwDhQO/wA/umnNO9jOQi6bBCCqzKIZkqMlvPc4HR2+86g/AHpHmD0Z1oq3HS5Rypx5wCMabR4ftmBvRGpaYLK9HZyCACPJOpGTRVFaHTbP/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/bKeecttS0RROrKPw1WQ8dNRENd9u03_0131nS-zkVmg.jpg",
+    "url": "https://external-preview.redd.it/99v0wrOvpzv-hvxJWi3WwSgmXTklGRm_dSoFyEPw-5M.jpg?width=640&crop=smart&auto=webp&s=f8d59f80275eeac501bfaf17e37f1c56cef83b34",
+    "width": 640
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "ratio": 0.85,
+    "ups": 19,
+    "value": 19
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Monuments and Ruins (X-post Warhammer)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/2118uv/monuments_and_ruins_xpost_warhammer/"
+}

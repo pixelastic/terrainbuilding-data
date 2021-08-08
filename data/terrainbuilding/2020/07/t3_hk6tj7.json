@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_fobiw",
+    "name": "queergeek1991"
+  },
+  "date": {
+    "day": 1593648000,
+    "full": 1593728399,
+    "month": 1593561600,
+    "week": 1593302400
+  },
+  "id": "t3_hk6tj7",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 65812,
+    "fullUrl": "https://preview.redd.it/4z9tshj8ri851.jpg?auto=webp&s=388d658e7acefe522616595e237d77016825a6d3",
+    "hash": "bbbd978a07",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgUG/8QAIRAAAgIBBAIDAAAAAAAAAAAAAQMCEQQABSExBkESE0L/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABgRAAMBAQAAAAAAAAAAAAAAAAABERMx/9oADAMBAAIRAxEAPwA7t57mJ8rx0sctuG+NSjLkLl3E/ADsEA3fvSz/ADfLG7VLclHGKyoxLxYZx2si6vnvo0Dqe7EUAHVbAOCfWshukYrzZNjEfYf1XOpucUQ6vp//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/n1hTSZDiqAyuc6JISnCT2vZ6xp3hWNsF0ZXp16I0Pos.jpg",
+    "url": "https://preview.redd.it/4z9tshj8ri851.jpg?width=640&crop=smart&auto=webp&s=939ef261f999e264cb199e8803a2fd0e6f7280c3",
+    "width": 640
+  },
+  "score": {
+    "comments": 26,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 321,
+    "value": 321
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Tried this project from Black Magic Craft. How’d I do?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/hk6tj7/tried_this_project_from_black_magic_craft_howd_i/"
+}

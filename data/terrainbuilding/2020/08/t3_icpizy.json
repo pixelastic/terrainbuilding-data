@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_1ksilhuc",
+    "name": "Tobiticus"
+  },
+  "date": {
+    "day": 1597795200,
+    "full": 1597850028,
+    "month": 1596240000,
+    "week": 1597536000
+  },
+  "id": "t3_icpizy",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 105964,
+    "fullUrl": "https://preview.redd.it/cbv9r86z6zh51.jpg?auto=webp&s=f9d92b781158356e542e9210596b7eafed263bff",
+    "hash": "9238b713f5",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAACAQH/8QAKBAAAgECBQIGAwAAAAAAAAAAAQIDBREABAYSIQcxExQiIyRBUWFy/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAZEQACAwEAAAAAAAAAAAAAAAAAAQIREjH/2gAMAwEAAhEDEQA/AIqTrjUNFzb+drk8OQdpTCsaq/hRhjsBUC/b83/eNq6cZg6l0hkqxVPkZnNb3MgjC3G4gXA4vxg0SysKucpNSJvbMiBdsgEiqx9YP8g3+uL4SnSWR16eUZFECBY2AD3vbexBHHaxxGcF2x6tJH//2Q==",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/b21JmrAGXXvytUijczEkZV0F5kL2XHd7LZ6RnRLLWz8.jpg",
+    "url": "https://preview.redd.it/cbv9r86z6zh51.jpg?width=640&crop=smart&auto=webp&s=be84b72b8dfb123bbc4d79926a0935c3f3fa9121",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 137,
+    "value": 137
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "This is a “Dream Dungeon” for D&D I built with students in a high school modeling elective I taught 2 years ago. It’s seen lots of play and has become a school favorite.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/icpizy/this_is_a_dream_dungeon_for_dd_i_built_with/"
+}

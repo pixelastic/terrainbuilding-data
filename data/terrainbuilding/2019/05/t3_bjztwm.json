@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_4geou",
+    "name": "angeredtsuzuki"
+  },
+  "date": {
+    "day": 1556755200,
+    "full": 1556829540,
+    "month": 1556668800,
+    "week": 1556409600
+  },
+  "id": "t3_bjztwm",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 69990,
+    "fullUrl": "https://external-preview.redd.it/5YhXXdgdjU1DnwsvKKVintXy7t93_44Nfjl_BpvQmRw.jpg?auto=webp&s=7d001c0925a961fb654d327d58e1f992bf8d0b60",
+    "hash": "877ea9580d",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAb/xAAiEAACAQMEAgMAAAAAAAAAAAABAgMEBREAEiExBkFhgZH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAHREAAQIHAAAAAAAAAAAAAAAAIQABAgMFERITMf/aAAwDAQACEQMRAD8ARar5eaC4PT2mCiV9pxUSxksyjsZz8+gNR/l1bPJT1lRLXiluJfK00Tsm4g8lxu5yOvrT7tieJkkQYyORkH9GpWfbFG6RoqpggAeudHoPQmnVJ2gtiV//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/VonkrT3X0UW5ys3L6U3_-LsF2zhaDS3ucOCsAn-bT0I.jpg",
+    "url": "https://external-preview.redd.it/5YhXXdgdjU1DnwsvKKVintXy7t93_44Nfjl_BpvQmRw.jpg?width=640&crop=smart&auto=webp&s=31928576ec9a84b4f4672c647a23db6d0544bfdd",
+    "width": 640
+  },
+  "score": {
+    "comments": 10,
+    "downs": 0,
+    "ratio": 0.96,
+    "ups": 18,
+    "value": 18
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Some WIP terrain using xps bricks.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/bjztwm/some_wip_terrain_using_xps_bricks/"
+}

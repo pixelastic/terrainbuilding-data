@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_16sit83h",
+    "name": "Ejspinn"
+  },
+  "date": {
+    "day": 1524096000,
+    "full": 1524171086,
+    "month": 1522540800,
+    "week": 1523750400
+  },
+  "id": "t3_8di1j6",
+  "misc": {
+    "postHint": "self"
+  },
+  "picture": {
+    "filesize": 57477,
+    "fullUrl": "https://external-preview.redd.it/ZHGKcXxUkeQE_MDJ9SN9ZHyy2p7WCT3TOEs014gyMvA.jpg?auto=webp&s=8d0ad0803413af470b829bbad1186a8219fe8e40",
+    "hash": "f67ad3bd5a",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgf/xAAkEAACAgEDAgcAAAAAAAAAAAABAgMEBQAGERNBBxUhMlGBwf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAESMf/aAAwDAQACEQMRAD8AWeIO78pt+hkpLVuzH1LANVmQMAvdAfrv86EYHfWdu5DFveuievYDidDGQkPPtJbv+HVs3/VhmuNEyAIQOQBoH5XTD9QQKGHpyNSlDWn/2Q==",
+    "thumbnailUrl": "self",
+    "url": "https://external-preview.redd.it/ZHGKcXxUkeQE_MDJ9SN9ZHyy2p7WCT3TOEs014gyMvA.jpg?width=640&crop=smart&auto=webp&s=ee6458abfa33913a8ab63a30c057cf7ef10aaa2f",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 0.93,
+    "ups": 27,
+    "value": 27
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Just a Dumpster",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/8di1j6/just_a_dumpster/"
+}

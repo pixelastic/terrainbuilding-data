@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_e19gm",
+    "name": "violens"
+  },
+  "date": {
+    "day": 1548806400,
+    "full": 1548846860,
+    "month": 1546300800,
+    "week": 1548547200
+  },
+  "id": "t3_albp57",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 114017,
+    "fullUrl": "https://external-preview.redd.it/Mc8XItRdCVCBrzSuFx-PXTW0lLsX5IO0TZ2EL56tBgY.jpg?auto=webp&s=521db87eda9a06d63440d9a2402ec9fa7003a6b5",
+    "hash": "95b37b8fc2",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFB//EACQQAAICAQQBBAMAAAAAAAAAAAECAwQRAAUGIUESEzFhcYGR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAYEQADAQEAAAAAAAAAAAAAAAAAAQIRUf/aAAwDAQACEQMRAD8AYl5var7rJLcpLDEhVZYcl3RQeycdDrPnRZubX7Nuyds26rLUWQrGxgkZivyPVhgA2CMjUzfeH2NmMpjR7iksVaIYKnI7Kgd+Pr8a1bi20tx7YqtRkRrTr71lioy0rdn+dD9aC4ilzKWn/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/bXv3q6jxS64ZRN7YBMNUYn3K8WvqfSVaawANrGcrz4c.jpg",
+    "url": "https://external-preview.redd.it/Mc8XItRdCVCBrzSuFx-PXTW0lLsX5IO0TZ2EL56tBgY.jpg?width=640&crop=smart&auto=webp&s=c5b49c551d82ae4abd48591744a7ca261caa7d9c",
+    "width": 640
+  },
+  "score": {
+    "comments": 32,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 401,
+    "value": 401
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "$20 of insulation foam goes a long way.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/albp57/20_of_insulation_foam_goes_a_long_way/"
+}

@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_9f6na",
+    "name": "Travispsilo"
+  },
+  "date": {
+    "day": 1547251200,
+    "full": 1547304537,
+    "month": 1546300800,
+    "week": 1546732800
+  },
+  "id": "t3_af804r",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "filesize": 86605,
+    "fullUrl": "https://external-preview.redd.it/r2qm1qsnFqQiHmuLjrWIGeZd46dygILqeYWjyGYahLk.jpg?auto=webp&s=a68f93f23fbf4d425f397a5cefc2a039feb535d8",
+    "hash": "fcd82adbf8",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABQYHCP/EACQQAAIBAwMDBQAAAAAAAAAAAAEDAgQFEQAGEiExQRUigbHR/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABcRAQEBAQAAAAAAAAAAAAAAAAERAAL/2gAMAwEAAhEDEQA/AC+/9wCivFGmgbRFSQHzEmciwnIA6EcQO+fJOmOwXD1O2KqpArlLIMRLPbUD29cqSdouNPWsLF0jwqJ5+9sM4Eh5wSPrWhNsmD7DQvoFRdSNVGapxmOsSOn58aOI1yjykN//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/ch1Unc1k3NDWdyMQ_wO5ZEFaegGB0vOiKuzt0bzjHIE.jpg",
+    "url": "https://external-preview.redd.it/r2qm1qsnFqQiHmuLjrWIGeZd46dygILqeYWjyGYahLk.jpg?width=640&crop=smart&auto=webp&s=b7d12ae0c478f67d660806f0a0761de498db2da3",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 0.95,
+    "ups": 53,
+    "value": 53
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Scratch Built Watchtower",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/af804r/scratch_built_watchtower/"
+}

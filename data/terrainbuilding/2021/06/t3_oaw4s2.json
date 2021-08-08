@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_arlj5ieu",
+    "name": "WeltenbauerClub"
+  },
+  "date": {
+    "day": 1625011200,
+    "full": 1625055518,
+    "month": 1622505600,
+    "week": 1624752000
+  },
+  "id": "t3_oaw4s2",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 48495,
+    "fullUrl": "https://preview.redd.it/x8jmuh1vae871.jpg?auto=webp&s=263d585872af79ff5b8f28d2e84d21774f0a0eb3",
+    "hash": "19603ccd1c",
+    "height": 427,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABwX/xAAjEAACAQIGAgMAAAAAAAAAAAABAgQDEQAFBxMhUQYxEkGB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAaEQEAAgMBAAAAAAAAAAAAAAABABECBCJR/9oADAMBAAIRAxEAPwC/pJ53H8wyaSZe3TlxGVahThWDemt9dYNtRNPWk0s78mlZ+gVV3tg0xuO5BVRccckLa3Z6uTVAct1HqxIDPHjNKWkaaMQChIup7GEzM6CHbDfJwHcAVGLgc82v6/MS57LyJZVxDVEy9Gf/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/bPdzA5_3lFLly2WW7hrD2urIWVJYAbzP24Thdj56wFo.jpg",
+    "url": "https://preview.redd.it/x8jmuh1vae871.jpg?width=640&crop=smart&auto=webp&s=e4fac375f2f12bd0fb2f742b165d77e1be93e912",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 99,
+    "value": 99
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Playing with Minis and taking some Fotos 😅",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/oaw4s2/playing_with_minis_and_taking_some_fotos/"
+}

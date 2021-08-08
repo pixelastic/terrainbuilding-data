@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_jc1s3nm",
+    "name": "foisty-moisty"
+  },
+  "date": {
+    "day": 1613520000,
+    "full": 1613588468,
+    "month": 1612137600,
+    "week": 1613260800
+  },
+  "id": "t3_lm1vog",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 48023,
+    "fullUrl": "https://preview.redd.it/q699xmkf53i61.jpg?auto=webp&s=88bacf76f7871027940794117728143d0cebdcf7",
+    "hash": "d1b24e6efa",
+    "height": 479,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQH/8QAJRAAAQQABAYDAAAAAAAAAAAAAQIDBBEABQYhBxIUIzFBImFx/8QAFAEBAAAAAAAAAAAAAAAAAAAABf/EABcRAAMBAAAAAAAAAAAAAAAAAAABAhH/2gAMAwEAAhEDEQA/AJ9XPQmdQvRIyESm4/bW5JUp0qWB8trAobDx6wWUT2IssNyI8RuDItt4Mt8tc3hZF7lJo/l40fLuF2nZHcd65TirUpXUqtRO5Jwea8M8hYy+S8hU3nS2tQt/awDXr6wS4nBBxWn/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/Xu3rMIKNHuevJCxH-dGaUJwEnTcB3pNN_3GqfIOt2is.jpg",
+    "url": "https://preview.redd.it/q699xmkf53i61.jpg?width=640&crop=smart&auto=webp&s=29ba0196919fee39c092a0191966f4904567d9cc",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 11,
+    "value": 11
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Ground form and cover done on the KT board",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/lm1vog/ground_form_and_cover_done_on_the_kt_board/"
+}

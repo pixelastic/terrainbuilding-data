@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_10bjw9",
+    "name": "sFAMINE"
+  },
+  "date": {
+    "day": 1548806400,
+    "full": 1548840898,
+    "month": 1546300800,
+    "week": 1548547200
+  },
+  "id": "t3_alb3a9",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 111854,
+    "fullUrl": "https://preview.redd.it/7rm1e8bo5jd21.jpg?auto=webp&s=e7d2409fa35b1b2fd3d1a8c66e52ed55504933bd",
+    "hash": "83fe9a6e26",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFB//EACMQAAICAQMDBQAAAAAAAAAAAAECAxEEABIhBTFBExQigbH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGREAAwADAAAAAAAAAAAAAAAAAAECAxEx/9oADAMBAAIRAxEAPwDP5oJWlYx5Eksl7mdW5egOwJ/QPFXo2LFkS9RM2ROfRioHncVUgfLihYNDteq4gijTJyljX3E2ZTvXNAMRpmLp2NmiR5413qVCsoArlh99vOh1S60LWKdn/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/Ku1qqNvIbQda5hlqg016B9dXwe1l7LdCS4Ct0xonIOI.jpg",
+    "url": "https://preview.redd.it/7rm1e8bo5jd21.jpg?width=640&crop=smart&auto=webp&s=2af5fa36f9d124633c7a29dcf453213332ed3886",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 0.95,
+    "ups": 61,
+    "value": 61
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Jungle Ruins and Tau",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/alb3a9/jungle_ruins_and_tau/"
+}

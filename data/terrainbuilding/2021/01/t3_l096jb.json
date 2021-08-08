@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_610u26xu",
+    "name": "dchap006"
+  },
+  "date": {
+    "day": 1611014400,
+    "full": 1611020467,
+    "month": 1609459200,
+    "week": 1610841600
+  },
+  "id": "t3_l096jb",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 79864,
+    "fullUrl": "https://preview.redd.it/a57030ke17c61.jpg?auto=webp&s=a53da36ffde382c6a63102aae27f0e3ce8e66316",
+    "hash": "aad0fdc8a1",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQIG/8QAJBAAAQMCBgIDAAAAAAAAAAAAAQIDBAARBQYSEyFBI1ExMnH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABwRAQABBAMAAAAAAAAAAAAAAAEAAwURFCGR0f/aAAwDAQACEQMRAD8ArNOe8RzDh8ePOjSYimFlJksR1K3iF6hpBNgm3F/VZ4ZnkTVS2sNmxYLbTBQFFO3bg/VVzcnn4HdGPl9toNIlyQ2lOkJDnXr8otOHRUpHhBsOyaLVXlZM3ikOAej2f//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/v7Mj34njLlC0itxgCHoSsXBKHkOjnNiyf6ZJSVpZRNw.jpg",
+    "url": "https://preview.redd.it/a57030ke17c61.jpg?width=640&crop=smart&auto=webp&s=dddb848cf6d9f5d4f1fd9e466b4041430a08fd0b",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 102,
+    "value": 102
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First attempt at terrain building. Took a long time. I’m happy with the results, but I’m looking forward to refining my techniques to shave time off builds. Learned a lot.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/l096jb/first_attempt_at_terrain_building_took_a_long/"
+}

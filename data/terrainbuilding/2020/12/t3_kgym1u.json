@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_4dfbkh4i",
+    "name": "raging_brain"
+  },
+  "date": {
+    "day": 1608422400,
+    "full": 1608486963,
+    "month": 1606780800,
+    "week": 1608422400
+  },
+  "id": "t3_kgym1u",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 48365,
+    "fullUrl": "https://preview.redd.it/kcpj3pl1sd661.jpg?auto=webp&s=bf695f8a5d8895a8772bfda5bd9a3c2dd3a848cb",
+    "hash": "dc84cee49b",
+    "height": 436,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgYHCP/EACQQAAEEAQMDBQAAAAAAAAAAAAECAwQRBQAhQRIxYQYTFCI0/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABgRAAIDAAAAAAAAAAAAAAAAAAABAhIh/9oADAMBAAIRAxEAPwAp+H9NpjpkRJeXwFH9MFXzIXBsg/dHO1iq1n5+F1+9JLodpSldZTstF7KI4vVXyMl7HvznYLq2HGyUpUg1Qvt5HjSrlpr78SS+soS7IZp4ttpbDm6e4SADoyjR4JcrrT//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/wDICwgwZtuT_qhE7ZMuAhsWS0PyS-UqzsQAyfUtJYao.jpg",
+    "url": "https://preview.redd.it/kcpj3pl1sd661.jpg?width=640&crop=smart&auto=webp&s=beb49906ac1971b38ae1ffd436c353958387b99b",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 19,
+    "value": 19
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I asked the community for improvement ideas for some too plain terrain. While planning how to implement the \"building\" ones, I applied the first \"painting\" related quick fixes. Wanted to share and say \"Thank you all\"",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/kgym1u/i_asked_the_community_for_improvement_ideas_for/"
+}

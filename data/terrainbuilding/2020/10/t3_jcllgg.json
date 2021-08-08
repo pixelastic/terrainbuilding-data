@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_17j9l0",
+    "name": "mproteau"
+  },
+  "date": {
+    "day": 1602892800,
+    "full": 1602894714,
+    "month": 1601510400,
+    "week": 1602374400
+  },
+  "id": "t3_jcllgg",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 67788,
+    "fullUrl": "https://preview.redd.it/pqfli66fvjt51.jpg?auto=webp&s=abd3e79b6367d35762fa378cefc061ad059a69f5",
+    "hash": "41c53d545c",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgME/8QAIRAAAgICAQQDAAAAAAAAAAAAAQIDBQQRAAYSIVETMUH/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAGhEAAgIDAAAAAAAAAAAAAAAAAAIBEhMxQf/aAAwDAQACEQMRAD8ANUVlmVHx2FRYYWNPECYYmcAsdHxrfr3yc17nR5DSTZCazJOxmgkVmAYfZAJ1zBX1uJMe+SFS3j842ren61kDjGRXA2GUaI4fLqvBbBaNn//Z",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/YlJGbn-JU4as5fsh1bsQ7vHGg7qCdBCLri9qNG9ZOO8.jpg",
+    "url": "https://preview.redd.it/pqfli66fvjt51.jpg?width=640&crop=smart&auto=webp&s=ca23d0179f3c6c86bf09ee121f4ae7f043e5f200",
+    "width": 640
+  },
+  "score": {
+    "comments": 25,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 550,
+    "value": 550
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Getting into making papercraft props",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/jcllgg/getting_into_making_papercraft_props/"
+}

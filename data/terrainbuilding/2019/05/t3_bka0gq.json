@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_ficz6",
+    "name": "drlloyd2"
+  },
+  "date": {
+    "day": 1556841600,
+    "full": 1556898704,
+    "month": 1556668800,
+    "week": 1556409600
+  },
+  "id": "t3_bka0gq",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 53325,
+    "fullUrl": "https://preview.redd.it/0w6iw6tjp0w21.jpg?auto=webp&s=9434a8f17733c7b43f581e47985bc8da9ef8ac46",
+    "hash": "c56ffb0325",
+    "height": 323,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAIABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAYH/8QAIBAAAgICAQUBAAAAAAAAAAAAAQIDBAARBQcTISIxYv/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQAhUf/aAAwDAQACEQMRAD8AzzpJws1lr18O1t0i7tuOOYmVodgOQN+50TofSdjLnnql24jcZLCnIW3pHsCRBAqQyIQjDwPZP18O/OMZM9nNb//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/UcqzIsIGKQLVigcKFMJmUCZDlQ6h2riMQ10Q1yF1Qzs.jpg",
+    "url": "https://preview.redd.it/0w6iw6tjp0w21.jpg?width=640&crop=smart&auto=webp&s=322ef9711693f9e20aa14e5d8a94d474a01963bd",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 145,
+    "value": 145
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Greatly improved my cave scatter with mushrooms",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/bka0gq/greatly_improved_my_cave_scatter_with_mushrooms/"
+}

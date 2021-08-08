@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_azy2wa",
+    "name": "OsWisp"
+  },
+  "date": {
+    "day": 1585526400,
+    "full": 1585585527,
+    "month": 1583020800,
+    "week": 1585440000
+  },
+  "id": "t3_frtwlb",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 62107,
+    "fullUrl": "https://preview.redd.it/6ggk5m992up41.jpg?auto=webp&s=51ece6f8c950b22e0002f5ff814a880701f8844e",
+    "hash": "64f9779f81",
+    "height": 434,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQT/xAAjEAABAwQBBAMAAAAAAAAAAAABAgMFAAQRISIGEiMxJEFh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgX/xAAZEQACAwEAAAAAAAAAAAAAAAAAEQECAyH/2gAMAwEAAhEDEQA/ADYudnTbOl+WlAknxhJQDjGhrQzRUrOTjAdU7PXCUIQVoDrhWcDX5nZFWH5N0lx4krXyUoHBzj3r7ofqAlq5uOwnSyOXLQPrdT51sgPjP//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/TNgpL06b516ncnan5GGm1YeBVHQculjRErXj2eqesFc.jpg",
+    "url": "https://preview.redd.it/6ggk5m992up41.jpg?width=640&crop=smart&auto=webp&s=8c42115d541a31ee8f626e3d4ec95f7d5bceb495",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.93,
+    "ups": 49,
+    "value": 49
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "All this free time means only one thing...designing new 3D printable models, and the time to paint them!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/frtwlb/all_this_free_time_means_only_one_thingdesigning/"
+}

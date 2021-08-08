@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_gbsuruk",
+    "name": "theCamelCaseBandit"
+  },
+  "date": {
+    "day": 1571875200,
+    "full": 1571954122,
+    "month": 1569888000,
+    "week": 1571529600
+  },
+  "id": "t3_dmnimd",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 71495,
+    "fullUrl": "https://preview.redd.it/ym101sb59ku31.jpg?auto=webp&s=5fd341ba79e0edd20276dc1330e123cdf8ee420a",
+    "hash": "3df2fe5846",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAb/xAAkEAACAAQGAgMAAAAAAAAAAAABAgMEBREABhIUITFBcRMiI//EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGBEAAgMAAAAAAAAAAAAAAAAAAAERMTL/2gAMAwEAAhEDEQA/ACZcUZbfRTV2gdSph2Lq9+7gn1yMIzDGqNVhTMtKvCTcsf2JMN0TzYjz2MIqUuN3Es7/AFUADjjn1iSrM3MwYy/HMRQAwAGrrnBzRROT/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/5pkPL-d4dQSG0E5w0VgyZHBBJIHHSYpMJrJiaCNeXPg.jpg",
+    "url": "https://preview.redd.it/ym101sb59ku31.jpg?width=640&crop=smart&auto=webp&s=0ec8aa5898b9a9db98394a3b189b602e6ceee79b",
+    "width": 640
+  },
+  "score": {
+    "comments": 13,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 467,
+    "value": 467
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Old timey/fantasy doodads",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/dmnimd/old_timeyfantasy_doodads/"
+}

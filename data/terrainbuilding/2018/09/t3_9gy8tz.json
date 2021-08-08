@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_sf5o7",
+    "name": "Dorianneccucci"
+  },
+  "date": {
+    "day": 1537228800,
+    "full": 1537301034,
+    "month": 1535760000,
+    "week": 1537056000
+  },
+  "id": "t3_9gy8tz",
+  "misc": {
+    "postHint": "self"
+  },
+  "picture": {
+    "filesize": 150262,
+    "fullUrl": "https://external-preview.redd.it/Qs42TJ4g7Wtfx20Yy1EmwhFBO5iFsAOdHXKFBseR5sI.jpg?auto=webp&s=25f522df995f4cf8940aadc99bcd20e39dd1839b",
+    "hash": "1312ccba27",
+    "height": 1138,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMGB//EACUQAAEDAwMDBQAAAAAAAAAAAAECAwQABRESE5EGBxUxQVJTkv/EABUBAQEAAAAAAAAAAAAAAAAAAAIE/8QAGhEAAgIDAAAAAAAAAAAAAAAAAAECAxVBQv/aAAwDAQACEQMRAD8AfYe5Mx3qKPBvjLaG5De3qISFIUMkHCc5BwRxV3vI+hziskmWSM9cGZikDcaGlJzgce/rQ8ez8Ufmp1FrYMjXLk//2Q==",
+    "thumbnailUrl": "self",
+    "url": "https://external-preview.redd.it/Qs42TJ4g7Wtfx20Yy1EmwhFBO5iFsAOdHXKFBseR5sI.jpg?width=640&crop=smart&auto=webp&s=884a14cd9464ee8399b6ec10d5e94459beec2d8a",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 0.78,
+    "ups": 7,
+    "value": 7
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Witch House. How to base?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/9gy8tz/witch_house_how_to_base/"
+}

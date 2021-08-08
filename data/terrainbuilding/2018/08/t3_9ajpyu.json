@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_kpdic",
+    "name": "davekindofgetsit"
+  },
+  "date": {
+    "day": 1535241600,
+    "full": 1535323521,
+    "month": 1533081600,
+    "week": 1535241600
+  },
+  "id": "t3_9ajpyu",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 38793,
+    "fullUrl": "https://preview.redd.it/99575poknii11.jpg?auto=webp&s=2889b5591bf5bc79be2395adb04db49bb1bbad0b",
+    "hash": "d79374d870",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQQFBv/EACcQAAIBAwMBCQEAAAAAAAAAAAECAwQFEQAGIbIHCBUxNTZBUXF0/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABsRAAEFAQEAAAAAAAAAAAAAAAMAAQIREhMx/9oADAMBAAIRAxEAPwDDbdqtxbj3LGbn4m6VgLrNM7ERRk5BUn6zgYxweNPXCrqNkXuKmuVfVCRqYMGpo1mCKxwVYMVzyvwc8+ej3fvUbn+QdJ1O7aveh/mHW2iELonOvGSYxptL/9k=",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/I3U4132VPjwtUMXY0KauQbumOWNKc_wimH-mMY-Z5X8.jpg",
+    "url": "https://preview.redd.it/99575poknii11.jpg?width=640&crop=smart&auto=webp&s=68d0608e0f9b8a33af199171d174cf9abe5e281b",
+    "width": 640
+  },
+  "score": {
+    "comments": 10,
+    "downs": 0,
+    "ratio": 0.94,
+    "ups": 15,
+    "value": 15
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I'm lost on a mineral planet, AMA (table build update. Pics in comments.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/9ajpyu/im_lost_on_a_mineral_planet_ama_table_build/"
+}

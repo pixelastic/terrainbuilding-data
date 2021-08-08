@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_rymf3",
+    "name": "nebulonb"
+  },
+  "date": {
+    "day": 1529625600,
+    "full": 1529683874,
+    "month": 1527811200,
+    "week": 1529193600
+  },
+  "id": "t3_8t2jrg",
+  "misc": {
+    "postHint": "hosted:video"
+  },
+  "picture": {
+    "filesize": 78229,
+    "fullUrl": "https://external-preview.redd.it/u4thmu_H9p-4sb2JP5nFsys26bnfzh_3EmiUZtDjpd0.png?format=pjpg&auto=webp&s=8a5fa685bb5c77681f42552ec2a4bb1e5892813e",
+    "hash": "a3110631a4",
+    "height": 1138,
+    "lqip": "data:image/png;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQMH/8QAJBAAAQIEBQUAAAAAAAAAAAAAAQIDAAQREgUTFDFRIUFTktH/xAAVAQEBAAAAAAAAAAAAAAAAAAACBv/EAB0RAAEEAgMAAAAAAAAAAAAAAAIAAQQxAxIiQWH/2gAMAwEAAhEDEQA/AMglkoew55WdLtOIWQkrU7fsCCLTb3oK8QVrn/I97n7E5LGVMSkw0FO2uVokPFCUkilSBv0g/VHhuKV50VuTjfiGIDEi2rpf/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/Mbn0E_2Au1KjRX1ej2juhhywbbPQXW1_8qTVzbyVLNU.jpg",
+    "url": "https://external-preview.redd.it/u4thmu_H9p-4sb2JP5nFsys26bnfzh_3EmiUZtDjpd0.png?width=640&crop=smart&format=pjpg&auto=webp&s=1906e2817b7c7724d235a27a9d0741100545fa6c",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 0.9,
+    "ups": 21,
+    "value": 21
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "And the tabletop hobbyist said \"Let there be light\" and there was light.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/8t2jrg/and_the_tabletop_hobbyist_said_let_there_be_light/"
+}

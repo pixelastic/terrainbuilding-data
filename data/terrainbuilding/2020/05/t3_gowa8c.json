@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_274a4lx",
+    "name": "killerfursphere"
+  },
+  "date": {
+    "day": 1590192000,
+    "full": 1590197760,
+    "month": 1588291200,
+    "week": 1589673600
+  },
+  "id": "t3_gowa8c",
+  "misc": {
+    "postHint": "self"
+  },
+  "picture": {
+    "filesize": 88420,
+    "fullUrl": "https://external-preview.redd.it/ZF_0U8wwUpACMo6JVh5JPZTIuPamsYxiVhz2tY9ZHAU.jpg?auto=webp&s=bc532702c6010b4252ed68d32165fe61a3274d67",
+    "hash": "478a62179b",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQGB//EACYQAAEEAQIEBwAAAAAAAAAAAAECAwQRBQAGEhMUgQcVISJBUVL/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAGBEBAAMBAAAAAAAAAAAAAAAAAQACURH/2gAMAwEAAhEDEQA/AKrPbvlxYrjr2QiJioPCksJS/wCpNAFVjvV6zuT55mlid1UhttwWjlMe1Sfsd70/kvEXZ8zMCc5KkIHGHemMYcuwnh/N186M7v7CFdILqEgUEiMsAdq0XmxBbGf/2Q==",
+    "thumbnailUrl": "self",
+    "url": "https://external-preview.redd.it/ZF_0U8wwUpACMo6JVh5JPZTIuPamsYxiVhz2tY9ZHAU.jpg?width=640&crop=smart&auto=webp&s=cac043c16d3106980b1c56419dad9958e760dd27",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.9,
+    "ups": 7,
+    "value": 7
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First post. Learning terrain building, and flocking specificlly, with a modular road set.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/gowa8c/first_post_learning_terrain_building_and_flocking/"
+}

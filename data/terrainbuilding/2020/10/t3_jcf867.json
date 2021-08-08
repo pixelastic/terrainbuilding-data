@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_4lnz3",
+    "name": "LexSenthur"
+  },
+  "date": {
+    "day": 1602806400,
+    "full": 1602872608,
+    "month": 1601510400,
+    "week": 1602374400
+  },
+  "id": "t3_jcf867",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "filesize": 74431,
+    "fullUrl": "https://external-preview.redd.it/l6YYxzZuz0KwF3sXmhjNFyIRVhSPp7p8ViPdC9wldzI.jpg?auto=webp&s=0cf804ed0710bcaff7008286ff9fe6078314e069",
+    "hash": "ad4ecc167b",
+    "height": 529,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAANABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwYH/8QAJRAAAgIBBAEDBQAAAAAAAAAAAQIDBBEABQYhEhQiMUFRcYGR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgT/xAAZEQADAAMAAAAAAAAAAAAAAAAAAREFEyH/2gAMAwEAAhEDEQA/AM/HJLtZopoY71ZoyJO4Qp8wCMZI7XH002y8osHd03nfbduwImI9OYG964PiQwwgCtjr86vN+2Gtejiid5EAkyCh7+D99PT4/UXj9jaGaR68qOCznJBbJz+jj+aeqEKyCfYf/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/68ePthRstxiekMWPuDg3dR6QkDrElvv_3B_NjVGZWzE.jpg",
+    "url": "https://external-preview.redd.it/l6YYxzZuz0KwF3sXmhjNFyIRVhSPp7p8ViPdC9wldzI.jpg?width=640&crop=smart&auto=webp&s=c3857b206960a3342d8ad608dd75f15209ec25cd",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 18,
+    "value": 18
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Guard tower with playable interior",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/jcf867/guard_tower_with_playable_interior/"
+}

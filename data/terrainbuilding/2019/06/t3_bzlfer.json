@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_1xf4pssa",
+    "name": "NorthwesternGuy"
+  },
+  "date": {
+    "day": 1560297600,
+    "full": 1560305656,
+    "month": 1559347200,
+    "week": 1560038400
+  },
+  "id": "t3_bzlfer",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 66190,
+    "fullUrl": "https://preview.redd.it/uznduj4a4u331.jpg?auto=webp&s=ce49383cfbf13b267e9f178332bf25aded4ba67c",
+    "hash": "36b9e1352f",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQGB//EACEQAAIBBAEFAQAAAAAAAAAAAAECAwAEBhEFEhQhQZEi/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAaEQABBQEAAAAAAAAAAAAAAAABAAMREkEi/9oADAMBAAIRAxEAPwDJcAxZbrm4ZrqISQ25EjRMPEnoD7TuV4o/CTJc8f3EVtLvoWVgxA2dCqvHJHs9tbsULgA+9/aPKbia5hVJ5C6L+gNAaNED/MaqBYN5xf/Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/1eDS9_ERDjdpZQ9fxbJ4li9CPrabUugfW_z3NWLMZQA.jpg",
+    "url": "https://preview.redd.it/uznduj4a4u331.jpg?width=640&crop=smart&auto=webp&s=94ee27c4ee562dfffb74c8373075f8345df9f923",
+    "width": 640
+  },
+  "score": {
+    "comments": 10,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 210,
+    "value": 210
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Rocky Spires made out of Pink Foam scraps",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/bzlfer/rocky_spires_made_out_of_pink_foam_scraps/"
+}

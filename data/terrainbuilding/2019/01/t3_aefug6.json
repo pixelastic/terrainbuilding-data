@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_15zwdl",
+    "name": "MasterHeebs"
+  },
+  "date": {
+    "day": 1547078400,
+    "full": 1547097438,
+    "month": 1546300800,
+    "week": 1546732800
+  },
+  "id": "t3_aefug6",
+  "misc": {
+    "postHint": "hosted:video"
+  },
+  "picture": {
+    "filesize": 147872,
+    "fullUrl": "https://external-preview.redd.it/JRI49HOyKFPHV3Xu-1gqb_0gCgO9jCn6Tmrqt1ofhWw.png?format=pjpg&auto=webp&s=5623d65bf65f2472550c33ce4622632c46cb7cf4",
+    "hash": "7a8a972a06",
+    "height": 1138,
+    "lqip": "data:image/png;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQH/8QAKRAAAAQEBAUFAAAAAAAAAAAAAQIEBQADERIGExYxBxQhVWEykpPS4f/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAYEQEBAQEBAAAAAAAAAAAAAAACAQARUf/aAAwDAQACEQMRAD8AH8SHxzMrBSyvsyWmkBkTAFQUBzLh6CWtfG0CNRYv73O9wfWN9YW5kXIDuE9E3c9aU69MSWFhREfXaatwedq1iXSGG+3tPx/sDNJnLlJK3zf/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/cGzhd8Px0NWK_rfUeoyqxfpRTbYE-sIi6AOgk6CBbdU.jpg",
+    "url": "https://external-preview.redd.it/JRI49HOyKFPHV3Xu-1gqb_0gCgO9jCn6Tmrqt1ofhWw.png?width=640&crop=smart&format=pjpg&auto=webp&s=bb63a2c36646bb2f70f269d0b42c364396ea2bf6",
+    "width": 640
+  },
+  "score": {
+    "comments": 32,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 204,
+    "value": 204
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My 1st attempt at motorized, interactive terrain! Open to CC. I’m a teacher who uses table tops to teach grade 8 science.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/aefug6/my_1st_attempt_at_motorized_interactive_terrain/"
+}

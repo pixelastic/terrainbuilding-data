@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_15k36d",
+    "name": "GoblinFoundry"
+  },
+  "date": {
+    "day": 1498176000,
+    "full": 1498246387,
+    "month": 1496275200,
+    "week": 1497744000
+  },
+  "id": "t3_6j3hx1",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 66957,
+    "fullUrl": "https://preview.redd.it/axwk4mf76g5z.jpg?auto=webp&s=b35feed857696a79a1a1a595b8efaf83dd9704a5",
+    "hash": "b966ae720c",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgL/xAAoEAABAwEGBgMBAAAAAAAAAAABAgMFBAAGERIhIgcTFDFBcRUjUWH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGREAAgMBAAAAAAAAAAAAAAAAAAERYfAC/9oADAMBAAIRAxEAPwAjGxlyF8I23HY6LVN/FuOqqFVP3c/fl25u+idP72semxCDg5RUjFEgSTTLVUazI1mWtbhzIzDeQMx08ADW13ofgHxw/aNJFmnDSOtDRQgq2NghxSSCPPf892PVKoBmPvi10kcKwvITH4LWrlpxwVy92p942MnOsS+Y1H//2Q==",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/PV149thdAwdmXU7v44QY0DHNpd2YykKN0ctkaKuYP88.jpg",
+    "url": "https://preview.redd.it/axwk4mf76g5z.jpg?width=640&crop=smart&auto=webp&s=4507bc9a872912eb41947d153001bda1b75bd92d",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 0.95,
+    "ups": 51,
+    "value": 51
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Modular terrain walls. Finally happy with the arrow slit design.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/6j3hx1/oc_op_modular_terrain_walls_finally_happy_with/"
+}

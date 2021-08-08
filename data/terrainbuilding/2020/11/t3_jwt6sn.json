@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_54npylo4",
+    "name": "Comrade59"
+  },
+  "date": {
+    "day": 1605744000,
+    "full": 1605749305,
+    "month": 1604188800,
+    "week": 1605398400
+  },
+  "id": "t3_jwt6sn",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 129079,
+    "fullUrl": "https://preview.redd.it/enz7qfzkn3061.jpg?auto=webp&s=63816e32a61683413e1292b87f15f5fc604d732e",
+    "hash": "98c6e8485b",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQIEBv/EACMQAAIBAwMEAwAAAAAAAAAAAAECEQQFEgADBhMhIjEHQfD/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABkRAAIDAQAAAAAAAAAAAAAAAAABAxESQf/aAAwDAQACEQMRAD8AjvN13N7jbUYAFxuLJSmpetdn82lnKzAlch6iIGmqPleu4/07e1ps1V00EN0ymA7gLEfQGsnv8cqKmozRi4wA8t3EAD9776NVxyWQHIkIJM+9Q6XRJJ6VI//Z",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/hOyrzrrxOLNxy2NQh4fBL6wpwehRmjcV-U0N9zFxFG0.jpg",
+    "url": "https://preview.redd.it/enz7qfzkn3061.jpg?width=640&crop=smart&auto=webp&s=52950eec287020723cac0189bb4067cbff2278f0",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.95,
+    "ups": 19,
+    "value": 19
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "The Legendary Hammer Of Mjørbïr",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/jwt6sn/wip_the_legendary_hammer_of_mjørbïr/"
+}

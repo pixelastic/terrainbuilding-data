@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_5sylhkhz",
+    "name": "NashOfAllTrade"
+  },
+  "date": {
+    "day": 1585267200,
+    "full": 1585298960,
+    "month": 1583020800,
+    "week": 1584835200
+  },
+  "id": "t3_fptl5z",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 66462,
+    "fullUrl": "https://preview.redd.it/b0w95mqvh6p41.jpg?auto=webp&s=5f88ea5e59ba4b6b092cbb9948bee9ed8c06d54c",
+    "hash": "a6fb9c4a97",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwUGB//EACMQAAEEAQMEAwAAAAAAAAAAAAECAwQRBQAGEhMhMVEUI0H/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAGBEBAAMBAAAAAAAAAAAAAAAAAQACEVH/2gAMAwEAAhEDEQA/AMyRhp/wlycdDnPPsdMSOg3aQlQHK+1jzWkiMPNcedYdSUutoKk8kmld6oHt71Rba3DPdhvxwtDTaUAfWKJA9n90XduSlRkM49ty2CkHkoArurvl50TZEr2OGmk//9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/WIjQgaabuAlyviOcutjkE0OYbSPohjGzHAinL8sGPuU.jpg",
+    "url": "https://preview.redd.it/b0w95mqvh6p41.jpg?width=640&crop=smart&auto=webp&s=7187652fa0633f0bb4301295130559c45ee7e149",
+    "width": 640
+  },
+  "score": {
+    "comments": 13,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 667,
+    "value": 667
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "COVID-19 has skewed values in every world...",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/fptl5z/covid19_has_skewed_values_in_every_world/"
+}

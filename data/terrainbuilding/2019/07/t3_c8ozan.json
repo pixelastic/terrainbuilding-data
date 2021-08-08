@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_3984ro16",
+    "name": "PlatypusScotsman"
+  },
+  "date": {
+    "day": 1562112000,
+    "full": 1562165343,
+    "month": 1561939200,
+    "week": 1561852800
+  },
+  "id": "t3_c8ozan",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 51909,
+    "fullUrl": "https://preview.redd.it/dfj8fd63q3831.jpg?auto=webp&s=c5bf1387c17b59ee601cdfdb46fb4710c7819926",
+    "hash": "1f8abd0a7c",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMGB//EACEQAAICAQQCAwAAAAAAAAAAAAIDAQQRAAYSIQUxQXGB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAZEQACAwEAAAAAAAAAAAAAAAAAEQECEiH/2gAMAwEAAhEDEQA/AMJ2ttRPlqRWrT54FMiAIKOYzHc8s/nWjujbNDxFRL1WyEpjAqaPIml84x0MfeplDGIZDEsNbI9EJYnTbVuxbKCtONpDnEnOZ71GL7b4LhH/2Q==",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/VS-YRdJfBwlHUFP-0IRVI_ILd6YRiOGmHpFZFd2Fyz0.jpg",
+    "url": "https://preview.redd.it/dfj8fd63q3831.jpg?width=640&crop=smart&auto=webp&s=2163f4eef3e11c905c34c40ca7408df2ef181189",
+    "width": 640
+  },
+  "score": {
+    "comments": 11,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 94,
+    "value": 94
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Sticks and Stones. Scatter terrain tutorial. Video link in the comments. Hope you enjoy. C&C welcome.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/c8ozan/sticks_and_stones_scatter_terrain_tutorial_video/"
+}

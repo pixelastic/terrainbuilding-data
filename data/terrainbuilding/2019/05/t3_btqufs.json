@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_1vzqf4fk",
+    "name": "insaniakUTC"
+  },
+  "date": {
+    "day": 1558915200,
+    "full": 1558988449,
+    "month": 1556668800,
+    "week": 1558828800
+  },
+  "id": "t3_btqufs",
+  "misc": {
+    "postHint": "self"
+  },
+  "picture": {
+    "filesize": 65032,
+    "fullUrl": "https://external-preview.redd.it/9vp2pVqSrzq3_GrE-vf0jX_OhYHNhU8oj9q4r-vc2VU.jpg?auto=webp&s=3b7690cb401e166e41298f18290a70bdd475e6f0",
+    "hash": "4692d4a2c2",
+    "height": 457,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAJBAAAgEDAwMFAAAAAAAAAAAAAQIDBAURABIxBiFBBxQjJFH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABgRAQADAQAAAAAAAAAAAAAAAAEAAhEh/9oADAMBAAIRAxEAPwBJ03d7JYayyXC77WjuMLrubbIsL8g7RluAQSR2znVT1NTp2js0V0gr6H3UsgEaQyp84IOQAvOOxzjzg+NZDefq3Zp6cmKZSpV1OCpLYOPznRWjnkqK8NMQ7NVOpYgZxvI51DZOxcyf/9k=",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/nSMGJ0PL04XBCuLj7HtDlH2tK8PpLtq9cFlnEvMjFv0.jpg",
+    "url": "https://external-preview.redd.it/9vp2pVqSrzq3_GrE-vf0jX_OhYHNhU8oj9q4r-vc2VU.jpg?width=640&crop=smart&auto=webp&s=51fd64de4000788bba413f83b0c26d8ddb51342b",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 0.93,
+    "ups": 18,
+    "value": 18
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "MDF Sensor Dish, with some minor modifications because, well, me...",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/btqufs/mdf_sensor_dish_with_some_minor_modifications/"
+}

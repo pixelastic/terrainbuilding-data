@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_11lc7e",
+    "name": "SpoliatorX"
+  },
+  "date": {
+    "day": 1605312000,
+    "full": 1605351851,
+    "month": 1604188800,
+    "week": 1604793600
+  },
+  "id": "t3_ju0cb8",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 75152,
+    "fullUrl": "https://preview.redd.it/6jq7ojgqt6z51.jpg?auto=webp&s=80960c2d7b352fb842d6ceb57b8f0fbf30dd3bcd",
+    "hash": "16f9f2dbfe",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAjEAACAgEDAwUAAAAAAAAAAAABAgMEEQAFBiExURIUImGh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAaEQEAAwADAAAAAAAAAAAAAAABAAIREyEx/9oADAMBAAIRAxEAPwAbfansdrSOxutlacRkhiKMTnJwSep746aEm4a7bTVtS2LCWZQSIzIshUDsS2emRggferflFCBtuo1mUmKStGzecsoY/p1QcYoQGqyOC/zUepjk4woxnxjQ2tYQMzZJVeS3b4T/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/5pav1nMzBepwVIZcNDWkhoR6DbiGZf-FGwbtyhrdV_M.jpg",
+    "url": "https://preview.redd.it/6jq7ojgqt6z51.jpg?width=640&crop=smart&auto=webp&s=b24a1575d609cc2418d9b7dc3fa5a4a88c2fe09d",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 8,
+    "value": 8
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP: how should I roof this shack?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ju0cb8/wip_how_should_i_roof_this_shack/"
+}

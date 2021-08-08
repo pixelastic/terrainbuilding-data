@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_2pvn7onm",
+    "name": "Hominishostilis"
+  },
+  "date": {
+    "day": 1559260800,
+    "full": 1559330473,
+    "month": 1556668800,
+    "week": 1558828800
+  },
+  "id": "t3_bvbq5r",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 177859,
+    "fullUrl": "https://preview.redd.it/t2hkup5kkl131.jpg?auto=webp&s=155d087e2b27580acbfb5490f59fcf14efaacab0",
+    "hash": "d52292a4de",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwUH/8QAJRAAAgEDAwIHAAAAAAAAAAAAAQIRAwQSAAUhYZEGFCIxQVGh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQX/xAAZEQACAwEAAAAAAAAAAAAAAAABAgAREgP/2gAMAwEAAhEDEQA/AHZrrbrusqtnaABWKQJMcGOOO/z96dqbVArK9HkSclx7S37rPbrxI3nKuLMl1TqYVy4IZCDB9EAifbVNLvbrhc6lWhwSFBaYE9T11M2/NckR0Uqxc//Z",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/WQEpfz5N_f01JML7ra45CMKwfmad6THkHL1Gq4HT798.jpg",
+    "url": "https://preview.redd.it/t2hkup5kkl131.jpg?width=640&crop=smart&auto=webp&s=e8a055efc686e2550232c92d9542dad824073096",
+    "width": 640
+  },
+  "score": {
+    "comments": 16,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 365,
+    "value": 365
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Knocking out the details now ...",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/bvbq5r/knocking_out_the_details_now/"
+}

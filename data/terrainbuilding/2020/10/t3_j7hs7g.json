@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_kqcei",
+    "name": "Pipoxo"
+  },
+  "date": {
+    "day": 1602115200,
+    "full": 1602179337,
+    "month": 1601510400,
+    "week": 1601769600
+  },
+  "id": "t3_j7hs7g",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 54397,
+    "fullUrl": "https://preview.redd.it/08oxdce8swr51.jpg?auto=webp&s=3f48c3aea025a89df9bba6f3815cc0af8015cc36",
+    "hash": "90911bcbc1",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgMF/8QAJxAAAQMDAwEJAAAAAAAAAAAAAQIDBAUGEQASITEHExUiIyVRYaH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQAxEv/aAAwDAQACEQMRAD8AvetURaLLcVqKpyRKjKW05v2hKgduMY/dNuzrwi5KMXILkglgpbcS43jYopBwPkdefrSGp23R6yfdKdHlKACQpafMB14I5Gtm1bNoltqWujxCwqSB3nqKUDjnoTxoXTklDb//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/JkE89Cj4xeMo4gNf-C0T0OYGdLQ6JAWIbWCHa7_KQJE.jpg",
+    "url": "https://preview.redd.it/08oxdce8swr51.jpg?width=640&crop=smart&auto=webp&s=f9196b5287a048169cbbed4b80f6798ce334914b",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 0.89,
+    "ups": 28,
+    "value": 28
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Anyone else tried ceramics for terrains before?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/j7hs7g/anyone_else_tried_ceramics_for_terrains_before/"
+}

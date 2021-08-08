@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_wzy0k",
+    "name": "TheGorgonaut"
+  },
+  "date": {
+    "day": 1585872000,
+    "full": 1585952910,
+    "month": 1585699200,
+    "week": 1585440000
+  },
+  "id": "t3_fuhz4j",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "filesize": 145296,
+    "fullUrl": "https://external-preview.redd.it/8DuJMQ3vUMZN-ufN3Z_lihTzZDR0FzVgQ8PCWS6slyQ.jpg?auto=webp&s=6d9f0e2bf5ae1eb5bd78d83a5bf93aab4b2d2192",
+    "hash": "2d23c0161a",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQME/8QAJBAAAgEDAwQDAQAAAAAAAAAAAQIDBAURABMhBhIiQTFRYZH/xAAVAQEBAAAAAAAAAAAAAAAAAAABA//EABwRAAICAgMAAAAAAAAAAAAAAAEDACECBBIiMf/aAAwDAQACEQMRAD8Ap0xfBeb3XigkkJm2wVJABCx4I/rNz+DSrVK0EskcNbLN3t3s+znyI5A5+BjGtNktoKJU0YjeTdVWiikUMi8+TewM+vrQnUFLDaLi1PUNCzsokGIkOAfXI0sTz7ZCzKJ2Sqh4J//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/sJtLrI6Ec_6JGDq-9MwK4YT11RJ3oExbjb4YOQ02X_g.jpg",
+    "url": "https://external-preview.redd.it/8DuJMQ3vUMZN-ufN3Z_lihTzZDR0FzVgQ8PCWS6slyQ.jpg?width=640&crop=smart&auto=webp&s=512cc0d2f114de167c6056471a2e3d0a500a0aa8",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 0.88,
+    "ups": 25,
+    "value": 25
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First time trying to make a building. I went a bit overboard and spent two days designing and building this tower prototype.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/fuhz4j/first_time_trying_to_make_a_building_i_went_a_bit/"
+}

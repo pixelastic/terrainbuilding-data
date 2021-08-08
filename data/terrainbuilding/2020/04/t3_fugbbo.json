@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_2tvr6x4q",
+    "name": "Dented-Armor"
+  },
+  "date": {
+    "day": 1585872000,
+    "full": 1585947361,
+    "month": 1585699200,
+    "week": 1585440000
+  },
+  "id": "t3_fugbbo",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 82139,
+    "fullUrl": "https://preview.redd.it/cxa5c17g1oq41.jpg?auto=webp&s=fd16fda0e96bc41bb886c8c4b93261e1be2f5a68",
+    "hash": "1a56465a42",
+    "height": 822,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAACAQH/8QAJxAAAQMCBAUFAAAAAAAAAAAAAQIDBQQRAAYhQQcSExQxIlFygcH/xAAVAQEBAAAAAAAAAAAAAAAAAAABA//EABoRAAICAwAAAAAAAAAAAAAAAAACAQMRITH/2gAMAwEAAhEDEQA/AL5ziPVUCoJiiru1pI9mnCLoIStxDaQvnO6T6k2+/bCJgJiinYxutjX2n2VaEtrCglW6bjcYC85JTdPmGmiqzpud2hjlbFldNSiLWUN9LW8a42eFyfnyOoywzmJ2Kb5yRTsPhSfloB5/MTRHjoNdXiNn/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/pqPXB2lbIcLOCpGbD7HBAHwVcUmZ3nYrFgQ97dpJeNA.jpg",
+    "url": "https://preview.redd.it/cxa5c17g1oq41.jpg?width=640&crop=smart&auto=webp&s=a5518ca291aa57772f45f793aa5fcb37a09346c5",
+    "width": 640
+  },
+  "score": {
+    "comments": 25,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 528,
+    "value": 528
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Another ongoing project. For this one, my idea is of a lofty manor perched on a stone tower. I’m trying to implement more fantasy elements with this one; quirky roof lines, parasitic outer attachments to the main structure, and eventually dual chimneys. A few more pics on Instagram @dentedarmor",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/fugbbo/another_ongoing_project_for_this_one_my_idea_is/"
+}

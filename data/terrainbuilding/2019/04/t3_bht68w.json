@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_av1dg",
+    "name": "Itsonlytheis"
+  },
+  "date": {
+    "day": 1556236800,
+    "full": 1556322910,
+    "month": 1554076800,
+    "week": 1555804800
+  },
+  "id": "t3_bht68w",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "filesize": 110513,
+    "fullUrl": "https://external-preview.redd.it/CfedTPVFG52nLQ6QWx7i06SsCKFu_NmZeKkEU4dAcfc.jpg?auto=webp&s=ac6b332d1fe25f31b4047b13d37110286d4824e7",
+    "hash": "eaf05dd4be",
+    "height": 1138,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAnEAABAwIEBQUAAAAAAAAAAAABAwQFAAIREhchBgciMVRBYZKT0f/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAZEQEAAgMAAAAAAAAAAAAAAAABAAIDBFH/2gAMAwEAAhEDEQA/AJ+ah1oniePhWyKTtVzZh04g5t+2/tS+ns/4yX2H8qFacxmYmoqQWDsLME7k7brCDcSQQL8x9dzT+sqvmu/lR765ZA4RZlaz/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/SAkMv3W217H6PmbXgHmGdNMfeOjl7zlI20wFGRU0xug.jpg",
+    "url": "https://external-preview.redd.it/CfedTPVFG52nLQ6QWx7i06SsCKFu_NmZeKkEU4dAcfc.jpg?width=640&crop=smart&auto=webp&s=833625405dbfb3d36cb57965e186a75a13edf36e",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 0.9,
+    "ups": 31,
+    "value": 31
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Tower I have been working on.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/bht68w/tower_i_have_been_working_on/"
+}

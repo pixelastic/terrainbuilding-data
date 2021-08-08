@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_4s1rk2fb",
+    "name": "changobongo1"
+  },
+  "date": {
+    "day": 1601337600,
+    "full": 1601408163,
+    "month": 1598918400,
+    "week": 1601164800
+  },
+  "id": "t3_j26hl4",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 100368,
+    "fullUrl": "https://preview.redd.it/jnpfrpy435q51.jpg?auto=webp&s=d985b94987ab36a79027eaf1405593ffb80abc9c",
+    "hash": "620504589a",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQF/8QAJBAAAQIFBAIDAAAAAAAAAAAAAQIDAAQFERIGEyExQVFDcYH/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAGhEAAgIDAAAAAAAAAAAAAAAAAREAAgMhMf/aAAwDAQACEQMRAD8Ay9Hyqn9AIWjPYly8EDklbainPLxe4NgPF4PUSryVLlFyrsihZS4ogl8jg+oQ6Tr79P0VR2JZhLjy1EnLkbYWcv09CJJlmll5W60xnf4VYpA7AsfQsPuARfRETxo1PHP/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/CaKI4bcapqbrQMrG9yipSzS0yRDePvx6GnU7NiT7X5U.jpg",
+    "url": "https://preview.redd.it/jnpfrpy435q51.jpg?width=640&crop=smart&auto=webp&s=1a7fc2e00e867399ceb65f45d47bb1fe37d6cbcc",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 0.95,
+    "ups": 15,
+    "value": 15
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A bit of dry brushing to make it pop",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/j26hl4/a_bit_of_dry_brushing_to_make_it_pop/"
+}

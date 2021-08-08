@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_62qgm",
+    "name": "atombomb1945"
+  },
+  "date": {
+    "day": 1558396800,
+    "full": 1558462975,
+    "month": 1556668800,
+    "week": 1558224000
+  },
+  "id": "t3_brdx34",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 48467,
+    "fullUrl": "https://preview.redd.it/vevqji38wlz21.jpg?auto=webp&s=5b321f25330b1d28abb554b5fca8451f9270811a",
+    "hash": "847ad7b5ee",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwUG/8QAJhAAAgECBAUFAAAAAAAAAAAAAQIEAwUABxEhBhIxNHETUnSywf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGhEAAgIDAAAAAAAAAAAAAAAAAAIBIQMSUf/aAAwDAQACEQMRAD8Av555k1rO8e1x3DLJRD6O6klgSGc+3poo664H7BFbjKpPj3+5y6b0FNWKJHM9M7kso12BJO3nQYQszOy4f+PG+740GavYL4pfmDjuy7pq0pw//9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/L0GT136Q5heXNZhDxzb8b76i9ii1B7sAlYLKXdUOs9o.jpg",
+    "url": "https://preview.redd.it/vevqji38wlz21.jpg?width=640&crop=smart&auto=webp&s=03460e0a10fdc9f18239d1dae467541382cb1387",
+    "width": 640
+  },
+  "score": {
+    "comments": 10,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 129,
+    "value": 129
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Built this just to test Stucco and painting wood. C&C welcomed.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/brdx34/built_this_just_to_test_stucco_and_painting_wood/"
+}

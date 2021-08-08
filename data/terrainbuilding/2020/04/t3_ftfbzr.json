@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_5pou8a68",
+    "name": "Valley_Skye"
+  },
+  "date": {
+    "day": 1585785600,
+    "full": 1585799320,
+    "month": 1585699200,
+    "week": 1585440000
+  },
+  "id": "t3_ftfbzr",
+  "misc": {
+    "postHint": "hosted:video"
+  },
+  "picture": {
+    "filesize": 67112,
+    "fullUrl": "https://external-preview.redd.it/HtN3y_WI-HzKGZ7O3uYB8W9qkGDxEWVkZOKZUYLyTlc.png?format=pjpg&auto=webp&s=607f6f3874d3bf6b879df18c140b6be9c5600739",
+    "hash": "78d044dd0d",
+    "height": 640,
+    "lqip": "data:image/png;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAJhAAAQMCBQQDAQAAAAAAAAAAAQIDBAURAAYSITEHFEFRUmGh8f/EABQBAQAAAAAAAAAAAAAAAAAAAAL/xAAYEQEBAQEBAAAAAAAAAAAAAAABEQACMf/aAAwDAQACEQMRAD8Af1TqBIdJRl6IHGm91vyLgKF+AnYi/v8AMQKr1IS6hSXaVJbVvezqTx/MDKpOey7laNW6s0FxaiFORe2ToJOtQLSrbJ9g/E28YzyLnJp+jT36yh/uipRjtR0Jtp8FSib8/XHvAHmVfc2rDf/Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/qRM23Myw486Pq2aVwRU7Ne_0XQxRopyLL-GAdQDaROk.jpg",
+    "url": "https://external-preview.redd.it/HtN3y_WI-HzKGZ7O3uYB8W9qkGDxEWVkZOKZUYLyTlc.png?width=640&crop=smart&format=pjpg&auto=webp&s=fa636601dcc6e33fdcfaae756f89601ec3234ee0",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.89,
+    "ups": 18,
+    "value": 18
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Tower Bridge? Starting paint, still have a bit of build to go WIP",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ftfbzr/tower_bridge_starting_paint_still_have_a_bit_of/"
+}

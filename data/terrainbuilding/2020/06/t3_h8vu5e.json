@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_uqalt",
+    "name": "Frank_Steine"
+  },
+  "date": {
+    "day": 1592092800,
+    "full": 1592148519,
+    "month": 1590969600,
+    "week": 1592092800
+  },
+  "id": "t3_h8vu5e",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 92496,
+    "fullUrl": "https://preview.redd.it/5s6nrkne9w451.jpg?auto=webp&s=2e885c89abb0ac43a3060f07b3bef5636b31f55f",
+    "hash": "48d882b9e9",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAJBAAAQMDAwQDAAAAAAAAAAAAAQIDBAUREgAGQSEiMVEHE6H/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABsRAQACAgMAAAAAAAAAAAAAAAEAMQIDBBHw/9oADAMBAAIRAxEAPwAn5B3HuqpSGFt1VIaZWfrbi5NgHzcgdcr8jRlPRVDUHW58lx55wJUlaMie7kk9b3v+aqttQW5VKmZqWkx2ULQQR5UVXvcH0NaTRKPDhRm1ttZOWCgpzuKTbj1qUcNyDW9VfiGy1ltz/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/FG1l_w5nK4PZ4YPs4lZiJS0vUrxfSP8vVbuezh6qzDY.jpg",
+    "url": "https://preview.redd.it/5s6nrkne9w451.jpg?width=640&crop=smart&auto=webp&s=eefadc4415967837dce32cb48c283bb311ed2d9b",
+    "width": 640
+  },
+  "score": {
+    "comments": 15,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 258,
+    "value": 258
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Tried some new techniques",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/h8vu5e/tried_some_new_techniques/"
+}

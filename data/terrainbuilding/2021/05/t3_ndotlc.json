@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_8vqw2",
+    "name": "bHawk4000"
+  },
+  "date": {
+    "day": 1621123200,
+    "full": 1621173239,
+    "month": 1619827200,
+    "week": 1621123200
+  },
+  "id": "t3_ndotlc",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "filesize": 37552,
+    "fullUrl": "https://external-preview.redd.it/Dqb1Jw8LIQJUumuMPqTqcCGTedBQCKDbiXRxmTRfXUA.jpg?auto=webp&s=2aec5054cc26cc0756ae39544be8f5c4ef5ab3ba",
+    "hash": "d13d31a40b",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwUG/8QAJxAAAQMDAgQHAAAAAAAAAAAAAQIDBAAFESExEhMVNDZCUXFzscH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABkRAQACAwAAAAAAAAAAAAAAAAEAAgMRIf/aAAwDAQACEQMRAD8APrFAZS1En9RSygulhxtQSVcJGSddxpjfetVeIdsjuRpFplNGYklJ5ZGCkeYpxoSfSjl3w8PkT9iqEfuYfv8AtCjtFlslSpyf/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/lfKUffZBtS3u0ofV4kB0erZRA7xlT_bz_AylJ5_U4bk.jpg",
+    "url": "https://external-preview.redd.it/Dqb1Jw8LIQJUumuMPqTqcCGTedBQCKDbiXRxmTRfXUA.jpg?width=640&crop=smart&auto=webp&s=9af30c006d5f396a53d779f79063a3aeb54df5de",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 0.88,
+    "ups": 11,
+    "value": 11
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My first sci-fi building. Still adding details and covering any mistakes. Help me with your C&C",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ndotlc/wip_my_first_scifi_building_still_adding_details/"
+}

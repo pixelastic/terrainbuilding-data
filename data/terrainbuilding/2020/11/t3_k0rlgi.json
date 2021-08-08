@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_1l30vlh1",
+    "name": "SpaceDruss"
+  },
+  "date": {
+    "day": 1606262400,
+    "full": 1606308569,
+    "month": 1604188800,
+    "week": 1606003200
+  },
+  "id": "t3_k0rlgi",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 33298,
+    "fullUrl": "https://preview.redd.it/ym1pw5giud161.jpg?auto=webp&s=bf9c9695be89d90dd0250a68302d151ebecbe567",
+    "hash": "f040deb65c",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFB//EACIQAAAGAQMFAAAAAAAAAAAAAAECAwQFEQAhMXESNEHC8P/EABQBAQAAAAAAAAAAAAAAAAAAAAL/xAAaEQACAgMAAAAAAAAAAAAAAAAAAQMSERMi/9oADAMBAAIRAxEAPwDD410lISzh04L1GUUMoIGGqs1765Lm0kxeKiiFUOvOFiti8e2KSndG+8ji1qlhOTPJ/9k=",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/UIhUApHc5J55bDL6EiS6P9HGLOdyHFgi8gQnE5Nm0S0.jpg",
+    "url": "https://preview.redd.it/ym1pw5giud161.jpg?width=640&crop=smart&auto=webp&s=166afcb0450b80facfa89ba10b8318c7a85955b7",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 38,
+    "value": 38
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Scratch built abandoned building. First time using a printed brick pattern for the walls and I'm really pleased with the result and time saved. Video in the comments.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/k0rlgi/scratch_built_abandoned_building_first_time_using/"
+}

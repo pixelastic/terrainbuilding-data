@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_7t3h9",
+    "name": "HectorZeroni"
+  },
+  "date": {
+    "day": 1590883200,
+    "full": 1590935265,
+    "month": 1588291200,
+    "week": 1590883200
+  },
+  "id": "t3_gu02cx",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 65612,
+    "fullUrl": "https://preview.redd.it/9m337rgt14251.jpg?auto=webp&s=404fc368a6c3909ab7fd5fbde46af6765686cc85",
+    "hash": "919fd72fc4",
+    "height": 320,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAIABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQF/8QAIBAAAgIBBAMBAAAAAAAAAAAAAQQCAwAFESExEhNBUf/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAbEQACAgMBAAAAAAAAAAAAAAABAgADESExUf/aAAwDAQACEQMRAD8Ar1KvUHlEW22TWzZXt6aapRiNweSBz0fuZL7N2nBFm9y9muNgtmCPCUojuJPY4H6N9sYwBtfHfY6utS2xP//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/206KD4jaDgCjrN2F8BWMi22g9aU5mqq3CKddobFdkKM.jpg",
+    "url": "https://preview.redd.it/9m337rgt14251.jpg?width=640&crop=smart&auto=webp&s=12cf2859694b9e4d88ee1fd92acd6530d92f61dd",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.95,
+    "ups": 71,
+    "value": 71
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Sith temple WIP",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/gu02cx/sith_temple_wip/"
+}

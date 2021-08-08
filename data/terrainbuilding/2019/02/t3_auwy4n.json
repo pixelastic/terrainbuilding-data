@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_859j6",
+    "name": "Wernerio"
+  },
+  "date": {
+    "day": 1551139200,
+    "full": 1551168505,
+    "month": 1548979200,
+    "week": 1550966400
+  },
+  "id": "t3_auwy4n",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "filesize": 64845,
+    "fullUrl": "https://external-preview.redd.it/6PcwFAfZ44kbRxPXztRSg9UsZNoez6v8SdnFJyB-oc8.jpg?auto=webp&s=798d664cf1c07a249d5b91ad8ea047e2eca15649",
+    "hash": "6c3698edc4",
+    "height": 336,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAIABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUG/8QAIBAAAgEEAgMBAAAAAAAAAAAAAQIDAAQFIQYREjFBUf/EABUBAQEAAAAAAAAAAAAAAAAAAAUG/8QAGxEBAAEFAQAAAAAAAAAAAAAAAQIAAxESIQT/2gAMAwEAAhEDEQA/AMhwvOLbcGxNrAqJJEwaTxQduzMTv910Kr5vCYnOWVs2TSKISaFyoCFCobZIH30aUqe9EdJLFw5aasO0Qe8r/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/aW6f_2rnTcn0IdtB_iDFnXUF3F8sI-VidgMhL8WkRTQ.jpg",
+    "url": "https://external-preview.redd.it/6PcwFAfZ44kbRxPXztRSg9UsZNoez6v8SdnFJyB-oc8.jpg?width=640&crop=smart&auto=webp&s=57f563395770833b78e3ca28ee2c816a6e92b99e",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.91,
+    "ups": 22,
+    "value": 22
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Domus project - WIP gallery",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/auwy4n/domus_project_wip_gallery/"
+}

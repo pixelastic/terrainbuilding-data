@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_69p0qqok",
+    "name": "TeaDM"
+  },
+  "date": {
+    "day": 1625011200,
+    "full": 1625051178,
+    "month": 1622505600,
+    "week": 1624752000
+  },
+  "id": "t3_oav0hj",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 137318,
+    "fullUrl": "https://preview.redd.it/n33bscjyxd871.jpg?auto=webp&s=a0bdcb6deb68966892f03389e966f4bb417ace24",
+    "hash": "71088f839c",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQf/xAAlEAABAwMEAQUBAAAAAAAAAAABAgMEBRESAAYTQTEUFiEjYcH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABoRAAIDAQEAAAAAAAAAAAAAAAECAAMhETH/2gAMAwEAAhEDEQA/AA6Mr3BN5aa21IYBDXCApHKvI4pJJJBIHR60vQ25NCalR4tGEtp2Qp/P1SkAFQF0jzkARYHvU2o1akwZiGokYvKcebcQ2hRSck3sE4/NySPH91YKTueXt2GmHXN8MUScv7lQG4vPxBQFsilJAUbXx6v+6i6CwcbyJLyuqNn/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/xh3KXUoAxBPHeFNYJnrvtTztumOkU3NJqqUcHWPbPyU.jpg",
+    "url": "https://preview.redd.it/n33bscjyxd871.jpg?width=640&crop=smart&auto=webp&s=bbe072706ad9b84e56a98b60850816196c594052",
+    "width": 640
+  },
+  "score": {
+    "comments": 10,
+    "downs": 0,
+    "ratio": 0.96,
+    "ups": 80,
+    "value": 80
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Update: thanks to some tips from Reddit it’s here I added some yellow peach to the windows and a brown wash. Then added the metal. Now can I start adding the water texture? Also, any other tips to improve the house? (3D printed)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/oav0hj/update_thanks_to_some_tips_from_reddit_its_here_i/"
+}

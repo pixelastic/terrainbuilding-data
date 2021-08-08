@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_rzzbt",
+    "name": "CanadianGoof"
+  },
+  "date": {
+    "day": 1609113600,
+    "full": 1609144858,
+    "month": 1606780800,
+    "week": 1609027200
+  },
+  "id": "t3_klmqt8",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 81757,
+    "fullUrl": "https://preview.redd.it/8mcue5ra4w761.jpg?auto=webp&s=775a492f30af568b8b00311aace63b775bd648b7",
+    "hash": "4555b54876",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAlEAABBAAFAwUAAAAAAAAAAAABAgMEEQAFEhMhBjFRBxRBYaH/xAAVAQEBAAAAAAAAAAAAAAAAAAACBP/EABsRAAEEAwAAAAAAAAAAAAAAAAIAAQMSBAUx/9oADAMBAAIRAxEAPwAybPyptyc3lyBqltjcXppsnwE0KNgG/Jwvl83MZHTkqVCGuQy0UbaGwSeO2kk2boHk/QwC+r3s+TIkAF0lQsCuAaA/Bi99MW0NSENtoSELaWsp7i+D84Q451uTqMtpGUzQgL9X/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/PDSQnU36pWx9_buaA8GUTs5UpDt1dYjbcujNhfpZNOo.jpg",
+    "url": "https://preview.redd.it/8mcue5ra4w761.jpg?width=640&crop=smart&auto=webp&s=3887253acd9915f5ce49688182e89d0e3899d14e",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.96,
+    "ups": 41,
+    "value": 41
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First Try Painting Terrain! Stone Ruins",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/klmqt8/first_try_painting_terrain_stone_ruins/"
+}

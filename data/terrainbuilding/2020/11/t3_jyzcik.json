@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_hz22i",
+    "name": "Cymion"
+  },
+  "date": {
+    "day": 1606003200,
+    "full": 1606065607,
+    "month": 1604188800,
+    "week": 1606003200
+  },
+  "id": "t3_jyzcik",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "filesize": 142276,
+    "fullUrl": "https://external-preview.redd.it/z1JlCdb95e4_w-mPwsGJ0I4Yuge8g6960xe901XK5As.jpg?auto=webp&s=aac9a05eecbdf6895d6a98da762bf958baf14b51",
+    "hash": "d202dbd353",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQMG/8QAJhAAAQMDAwIHAAAAAAAAAAAAAQIDBAAFERITITGRB0FCUWGBof/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGhEAAgIDAAAAAAAAAAAAAAAAAAEDEQQhMf/aAAwDAQACEQMRAD8ARtL9ytURDcCLDeUUlKS8TuIB9OrzGcdulVSzdpKQ5NZjh3phleAB+5PzWXl3+FEkPTZbC404R9tpL7p0rGeQABwR7mhJnieqK9soZakBAA3EpWQfvjPar1kLtgKFXs//2Q==",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/AmR5ilCS-_5YvFhklkRmPjwsvllkKfMPAVJWCIc9Kq4.jpg",
+    "url": "https://external-preview.redd.it/z1JlCdb95e4_w-mPwsGJ0I4Yuge8g6960xe901XK5As.jpg?width=640&crop=smart&auto=webp&s=6d58b667855060915f11cefbb551de15652df39b",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Frozen Bases Tutorial",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/jyzcik/frozen_bases_tutorial/"
+}

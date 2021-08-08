@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_553wp7",
+    "name": "ned_poreyra"
+  },
+  "date": {
+    "day": 1564531200,
+    "full": 1564580330,
+    "month": 1561939200,
+    "week": 1564272000
+  },
+  "id": "t3_ck8mmf",
+  "misc": {
+    "postHint": "self"
+  },
+  "picture": {
+    "filesize": 63178,
+    "fullUrl": "https://external-preview.redd.it/IPM8qvhSpNup3UL6SQLN9Tbd8YQStb8AJJmjQGVrP9Q.jpg?auto=webp&s=870866ff3ca0a9dcf4609a98050a09ea48f404fc",
+    "hash": "979c8e65ca",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAIhAAAgEDBAMBAQAAAAAAAAAAAQIDBAURAAYSMSEiQXGR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgT/xAAaEQEAAgMBAAAAAAAAAAAAAAABAAIREhQh/9oADAMBAAIRAxEAPwAkJKKG2F3mld1p5Kh2hPNUwcLHgA+xPk+QADpBTbcS9WXlYY3qKpo1kVzIMfMgnoff5rKdk0EN1vaQVRkEbKS4jbjzx8OOxq9f9x11plmttnENvpR6kUycWb9bvTcgBIOim2rX3E//2Q==",
+    "thumbnailUrl": "self",
+    "url": "https://external-preview.redd.it/IPM8qvhSpNup3UL6SQLN9Tbd8YQStb8AJJmjQGVrP9Q.jpg?width=640&crop=smart&auto=webp&s=3ff7bdac861154f91d20214f9248be85c859dced",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.88,
+    "ups": 6,
+    "value": 6
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Filler/spackle doesn't hold to XPS foam",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ck8mmf/fillerspackle_doesnt_hold_to_xps_foam/"
+}

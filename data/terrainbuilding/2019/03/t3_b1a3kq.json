@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_16tn3d",
+    "name": "Oneredman11"
+  },
+  "date": {
+    "day": 1552608000,
+    "full": 1552621917,
+    "month": 1551398400,
+    "week": 1552176000
+  },
+  "id": "t3_b1a3kq",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 60997,
+    "fullUrl": "https://preview.redd.it/bpa5xwxjg7m21.jpg?auto=webp&s=56a873ee28e5fa305d6c617f01db7ec5cfa89c0f",
+    "hash": "5a4621bdd1",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwYI/8QAIxAAAgECBgIDAAAAAAAAAAAAAQIDBAUABhESIVEHEyIxcf/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAHBEAAQMFAAAAAAAAAAAAAAAAAQACEQMEFTFB/9oADAMBAAIRAxEAPwCx8kZ6ksubLfEZJUSm2SFVPxkDnRt3PXHP7hds9agpNQQQWJB7GM1+UkrKnO1trqe3yTwhYvYUQlSyufs96aDCnR5kqTAGCCPcS2115GJuQpQDO0wWjzxf/9k=",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/56RZQ9Gx6uxoJFpLbk9IlS6JbPeeqecydJcBYLePZ28.jpg",
+    "url": "https://preview.redd.it/bpa5xwxjg7m21.jpg?width=640&crop=smart&auto=webp&s=982dd9f9b98b9cd460d0973557b5df222bd973d4",
+    "width": 640
+  },
+  "score": {
+    "comments": 9,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 204,
+    "value": 204
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Wizard Tower",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/b1a3kq/wizard_tower/"
+}

@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_16ivzp",
+    "name": "Nattybug"
+  },
+  "date": {
+    "day": 1554508800,
+    "full": 1554580939,
+    "month": 1554076800,
+    "week": 1553990400
+  },
+  "id": "t3_ba8as8",
+  "misc": {
+    "postHint": "hosted:video"
+  },
+  "picture": {
+    "filesize": 89257,
+    "fullUrl": "https://external-preview.redd.it/_5A4gNzBt_gdb4n4tgTvrvLOYQiO-CwIldals9TWc1k.png?format=pjpg&auto=webp&s=608d0e87bff9380aba3903946dde31015df0c40e",
+    "hash": "25634f0d35",
+    "height": 1138,
+    "lqip": "data:image/png;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAqEAAABAIHCQEAAAAAAAAAAAABAgMFABEEBhMVITFhBxIXQVFTk5TR0//EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAaEQEAAQUAAAAAAAAAAAAAAAABAAIREiEi/9oADAMBAAIRAxEAPwCLbquvKVGWSUXohDonst0VdeQgGWMIcP6yd5r90vyHE3upNAbbldyGNZzBVBJCYEPOecwx1zgm9dmHR48pv0gL1sjcqC4z/9k=",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/5OoJJrhUm3bl0rDlNsecoprLV6IAWWceeZgVulryw_4.jpg",
+    "url": "https://external-preview.redd.it/_5A4gNzBt_gdb4n4tgTvrvLOYQiO-CwIldals9TWc1k.png?width=640&crop=smart&format=pjpg&auto=webp&s=58c1547be817728d0331c03be4e427ba4e6f237f",
+    "width": 640
+  },
+  "score": {
+    "comments": 30,
+    "downs": 0,
+    "ratio": 0.92,
+    "ups": 225,
+    "value": 225
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I had an idea for an easier way to make basic dungeon tiles the other day using just the proxxon for cutting. Lightly and quickly touching the foam to the wire creates a defined line.Here's the video of how I did it. Details can be added after, of course.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ba8as8/i_had_an_idea_for_an_easier_way_to_make_basic/"
+}

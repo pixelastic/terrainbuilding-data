@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_4d7by83w",
+    "name": "megasignit"
+  },
+  "date": {
+    "day": 1586217600,
+    "full": 1586294175,
+    "month": 1585699200,
+    "week": 1586044800
+  },
+  "id": "t3_fwsw1r",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 46755,
+    "fullUrl": "https://preview.redd.it/pqurlmrhpgr41.jpg?auto=webp&s=b41e6330e1e7be6b8549070a7e493b707c2df234",
+    "hash": "364b6db818",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwQI/8QAIxAAAgIABgEFAAAAAAAAAAAAAQMCBAAFESFBURIGBxMiMv/EABQBAQAAAAAAAAAAAAAAAAAAAAL/xAAZEQACAwEAAAAAAAAAAAAAAAABAgADETH/2gAMAwEAAhEDEQA/AM6uyltaZ+ZcxDyMRMxIB06POK1UkeA1G+F71f7mULC0wzWlUL1rDFqgsMj9vzuNokDcjTnvBZezZOZXXWa9WCFzltBUdIjbgcd4NTluiG+kqcU7P//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/PNODk2UJHse2PIgLaLpGiyeGk_glWfTEUli8Erkl3So.jpg",
+    "url": "https://preview.redd.it/pqurlmrhpgr41.jpg?width=640&crop=smart&auto=webp&s=b44dbf061667cd3154fbc44d7c12619c4849563e",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 0.92,
+    "ups": 45,
+    "value": 45
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "The scheme for a lot of pipe work I’ll be doing - any further tips for oxidisation?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/fwsw1r/the_scheme_for_a_lot_of_pipe_work_ill_be_doing/"
+}

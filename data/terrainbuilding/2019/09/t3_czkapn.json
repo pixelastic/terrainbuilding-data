@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_3l1nzjo6",
+    "name": "Moldek"
+  },
+  "date": {
+    "day": 1567555200,
+    "full": 1567600685,
+    "month": 1567296000,
+    "week": 1567296000
+  },
+  "id": "t3_czkapn",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 86274,
+    "fullUrl": "https://preview.redd.it/1amlqfh5okk31.jpg?auto=webp&s=da4a966ea453a4549a8ee31ddf2ec5937531c54e",
+    "hash": "322f50e778",
+    "height": 739,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA4DASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQUGB//EACUQAAIBAgUEAwEAAAAAAAAAAAECAwQFABESITEGExRhIlFxwf/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAYEQACAwAAAAAAAAAAAAAAAAABIQACEv/aAAwDAQACEQMRAD8AFBZafpjpatrbZTPdbmzo/e8YyL8WGYC8nfV/cadZaqesmkWeDxyEDqiMyEqScs8jzwD7xIXaGup6KVI5ahYe4ZY0hJGlzlnt9bE/pOHFltkk9JTzvTSI+giRVkILMSNzv64wEX2wXGGmQwp//9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/Jdg0FtO-6LodRynvFhuoE-dkQW2YHZ8qPz5qkLBNDRk.jpg",
+    "url": "https://preview.redd.it/1amlqfh5okk31.jpg?width=640&crop=smart&auto=webp&s=c0e264f487b93f6b81fcb02b97933f5bb0cb2eb5",
+    "width": 640
+  },
+  "score": {
+    "comments": 13,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 151,
+    "value": 151
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Progress on my scratch-built planks",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/czkapn/progress_on_my_scratchbuilt_planks/"
+}

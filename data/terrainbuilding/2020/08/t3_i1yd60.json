@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_11zezq",
+    "name": "Danwoll"
+  },
+  "date": {
+    "day": 1596240000,
+    "full": 1596311289,
+    "month": 1596240000,
+    "week": 1595721600
+  },
+  "id": "t3_i1yd60",
+  "misc": {
+    "postHint": "self"
+  },
+  "picture": {
+    "filesize": 66068,
+    "fullUrl": "https://external-preview.redd.it/KxLbYN6UCKip_0JJfcvpydH9cFC9bPGGPX8DtgOvpr4.jpg?auto=webp&s=bc226d9680afa750c3f0c091e52e7a871c264b32",
+    "hash": "a1c9b9c955",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwYHCP/EACQQAAIBAwIGAwAAAAAAAAAAAAECBAMFEQAhBgcSFDFRE0Fh/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABkRAAIDAQAAAAAAAAAAAAAAAAABAhIhUf/aAAwDAQACEQMRAD8ALwN2HDcS6Vq1OTcaM342KM6h+pMgg9WNs+PWqBb+ZFnSLS7qlVhBWOEdkbA+iSpOBvjWPZV1mTpXVIrMd8YGw8+tMLkoilNj+aOu4I5Lh//Z",
+    "thumbnailUrl": "self",
+    "url": "https://external-preview.redd.it/KxLbYN6UCKip_0JJfcvpydH9cFC9bPGGPX8DtgOvpr4.jpg?width=640&crop=smart&auto=webp&s=cd789b2c17c57734365bad94dee073995e3ce90c",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Need some advice on materials and whatnot",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/i1yd60/need_some_advice_on_materials_and_whatnot/"
+}

@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_591l017f",
+    "name": "ronBSM"
+  },
+  "date": {
+    "day": 1589673600,
+    "full": 1589757263,
+    "month": 1588291200,
+    "week": 1589673600
+  },
+  "id": "t3_glpp09",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 119675,
+    "fullUrl": "https://preview.redd.it/uw9ssj81rez41.jpg?auto=webp&s=001dba55270f30565518836b437674e20e7a35bc",
+    "hash": "f75a31599e",
+    "height": 960,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFAABAAAAAAAAAAAAAAAAAAAABv/EACMQAAEDBAICAwEAAAAAAAAAAAECAwQFERIhAAYHMRMiUZH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABwRAAIABwAAAAAAAAAAAAAAAAABAhESEyEiMf/aAAwDAQACEQMRAD8AaecaVL7FJbhU6Q46+6pKm4QlBvNSTtOF/sbC+zwg1E8gU9pMQR+2AMjACNHybsPWJy3xH3ugVWjRVtizCUjMPxm1hCtmySu2iAB/eAWa7Wy0j4GJRbAsC0+sJNvdt/vBca1lwpQoso//2Q==",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/4ecxqy0m8QEUb--4r5Mj3IBP6Z9Ug0Q5_S8tgBlN4n0.jpg",
+    "url": "https://preview.redd.it/uw9ssj81rez41.jpg?width=640&crop=smart&auto=webp&s=7b993b06402eb94c4b394019af8a0fa8f6f440f6",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 6,
+    "value": 6
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Next ZM tile on the way....",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/glpp09/next_zm_tile_on_the_way/"
+}

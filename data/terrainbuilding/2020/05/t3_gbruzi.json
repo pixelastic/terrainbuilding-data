@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_1jyqbsu",
+    "name": "Gariun-duanda"
+  },
+  "date": {
+    "day": 1588291200,
+    "full": 1588371992,
+    "month": 1588291200,
+    "week": 1587859200
+  },
+  "id": "t3_gbruzi",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 130625,
+    "fullUrl": "https://preview.redd.it/9dy6r9nwb8w41.jpg?auto=webp&s=7eba001d922e65aa04fbb99fab1bf65e708b2f55",
+    "hash": "622a2077d1",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABwX/xAAjEAABAwMDBQEAAAAAAAAAAAABAgMEBRESAAYhMUFRYXET/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABkRAQACAwAAAAAAAAAAAAAAAAEAEQIhMf/aAAwDAQACEQMRAD8AgyqDEj7dLbzbDrjeSF/qCFkC9su4PrQxI2/MmOqehshLR7OuJSQfQNjbxp+3aITFRm0yLJcQw2+oBxSAVcHnLz9+aHavKiGpSC1PawysLDLpx1HzQSnXYsUqmf/Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/ueVawpI-cbCgMHJJTUclTefShdoyAcZtKY-kYQHDD3s.jpg",
+    "url": "https://preview.redd.it/9dy6r9nwb8w41.jpg?width=640&crop=smart&auto=webp&s=bbdce560ec6cdc3c7b5ccf5caff8ce97bcdaccd6",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 76,
+    "value": 76
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Dice Tower that I built for my group this past week",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/gbruzi/dice_tower_that_i_built_for_my_group_this_past/"
+}

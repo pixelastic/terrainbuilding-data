@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_19okqqmg",
+    "name": "nemu_cincocinco"
+  },
+  "date": {
+    "day": 1586736000,
+    "full": 1586776401,
+    "month": 1585699200,
+    "week": 1586649600
+  },
+  "id": "t3_g0gzbs",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 75507,
+    "fullUrl": "https://preview.redd.it/irottut8jks41.jpg?auto=webp&s=968797c78f8f42b6a2bf5e13a62c55d9a313d683",
+    "hash": "1e597f22ba",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAIxAAAgIBAwQDAQAAAAAAAAAAAgMBBBEABSEGEiJRBxQxcf/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAZEQACAwEAAAAAAAAAAAAAAAAAAgEDEVH/2gAMAwEAAhEDEQA/AIyui9svNRXo1CKvXgIEmEMs5/ZmYx6xjRPefjBQIbY2+0CShpANZjMlER/Y1qVpP1L1tFdjVrEuzxLE49caPdRlNem5gcl2QXlzzjQUtnNgSydP/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/R8Zz3pzNLceNggjfzmrpgZLsrXIzoCFU-vDE7duIbhs.jpg",
+    "url": "https://preview.redd.it/irottut8jks41.jpg?width=640&crop=smart&auto=webp&s=eedd67782bd2ca6f234b9a43f69ff9f4ff1ce052",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 0.95,
+    "ups": 19,
+    "value": 19
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Combination of Papercraft, Foamcore and some 3D-Prints on UDT",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/g0gzbs/combination_of_papercraft_foamcore_and_some/"
+}

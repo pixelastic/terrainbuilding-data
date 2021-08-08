@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_codz6",
+    "name": "sonicadept"
+  },
+  "date": {
+    "day": 1441411200,
+    "full": 1441468037,
+    "month": 1441065600,
+    "week": 1440892800
+  },
+  "id": "t3_3jr662",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "filesize": 93229,
+    "fullUrl": "https://external-preview.redd.it/fFTkoJ61EPj3DB4OY2uNfMD1cw5GiA-NyTJrKYPGMgg.jpg?auto=webp&s=d5a2ddd3519def9f5f01d0146402f7aa25991045",
+    "hash": "122631a2a8",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABwX/xAAnEAABAwMCBAcAAAAAAAAAAAABAgMEBREhAAYHEjFBEyIjJEJhcf/EABQBAQAAAAAAAAAAAAAAAAAAAAL/xAAZEQADAQEBAAAAAAAAAAAAAAABAgMAERL/2gAMAwEAAhEDEQA/ADikQllUlrctNZmOtvIQ46sl1Q5wCkAkhXyGb99IcPhymJHQKbHimO55/cJPPfoe5xjH1qDF2tuKZWKndtRTLS2sy3nAElQscgZBFhi2lKHv6h0xkU96d4siL6TymW7p5x1Gf3QDTKD3kJsassx3f//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/-gBCvHmbsT1DpeOfGaqJS4x_xUmFjPCFDHqbfF9p3do.jpg",
+    "url": "https://external-preview.redd.it/fFTkoJ61EPj3DB4OY2uNfMD1cw5GiA-NyTJrKYPGMgg.jpg?width=640&crop=smart&auto=webp&s=5ecdcb2b29c8b8c66d704a2a5f62573a8ca5d6f1",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 22,
+    "value": 22
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Small update and a WIP nurge-lish monolith",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/3jr662/small_update_and_a_wip_nurgelish_monolith/"
+}

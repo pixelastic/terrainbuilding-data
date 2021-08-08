@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_3l234r8o",
+    "name": "adamsjoe330"
+  },
+  "date": {
+    "day": 1594166400,
+    "full": 1594248859,
+    "month": 1593561600,
+    "week": 1593907200
+  },
+  "id": "t3_hnrims",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 78837,
+    "fullUrl": "https://preview.redd.it/lf5daypuqp951.jpg?auto=webp&s=9000d95c7d424718592b972e26b59e74282d931a",
+    "hash": "676aaba852",
+    "height": 1138,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgX/xAAlEAABAgQEBwAAAAAAAAAAAAABAgQAAwURBiFU0RIUFzFhkZP/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAGREAAwADAAAAAAAAAAAAAAAAAAEiETGB/9oADAMBAAIRAxEAPwB48xA8rlbZnCz+WinNrF8lwhMviBXbIr8XGUMeZY6pv9U7wLnYFoQpz9rKnPEJeBImKM4KIsoKFgRYdoldOqJrHntG0FSGhreOH//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/GXR83w61ZHoJxPaNX4pA40q7SAV7Gg8FFfEf-nAm97E.jpg",
+    "url": "https://preview.redd.it/lf5daypuqp951.jpg?width=640&crop=smart&auto=webp&s=60e101cc36e01c5fd4c9a4176006edf27b2e1577",
+    "width": 640
+  },
+  "score": {
+    "comments": 11,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 26,
+    "value": 26
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Playing around with lava tiles, I'm not 100% happy with the results but it's a work in progress. Wondering some thoughts and other techniques used.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/hnrims/playing_around_with_lava_tiles_im_not_100_happy/"
+}

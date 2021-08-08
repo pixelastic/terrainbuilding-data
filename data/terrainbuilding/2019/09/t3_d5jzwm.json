@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_kjcrt",
+    "name": "HeavilyBearded"
+  },
+  "date": {
+    "day": 1568678400,
+    "full": 1568740352,
+    "month": 1567296000,
+    "week": 1568505600
+  },
+  "id": "t3_d5jzwm",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 87919,
+    "fullUrl": "https://preview.redd.it/sfylzvqys6n31.jpg?auto=webp&s=8412c5d4d8341fa08a569758c03ec832e58e9031",
+    "hash": "5b7628f494",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEBv/EACYQAAEEAAQFBQAAAAAAAAAAAAECAwQFAAYRIQcxQVGREiIzYXH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABoRAQADAAMAAAAAAAAAAAAAAAEAAhESIcH/2gAMAwEAAhEDEQA/ANvd8QjS3iq9qpU6hhZD6luaK9I6pAG3ca88Jr+J0axzDHq5NW8yJjwbiuoVrt3WP3TlirNeQG7uwXa1MtMOev5EOIKm3COu24PkfWByLktWXZj9haykSZuqkspQPagE7q15kkeN8T42E7jLUFM3yf/Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/Iz2psmaQZAV5onmvJ-xdnMvcqunjr25BqyCXWyitP4c.jpg",
+    "url": "https://preview.redd.it/sfylzvqys6n31.jpg?width=640&crop=smart&auto=webp&s=19a228bb6607fa42fe1681156b9f7d41ecc5c528",
+    "width": 640
+  },
+  "score": {
+    "comments": 10,
+    "downs": 0,
+    "ratio": 0.91,
+    "ups": 31,
+    "value": 31
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Spent some time this morning playing with basing material and here's the result:",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/d5jzwm/spent_some_time_this_morning_playing_with_basing/"
+}

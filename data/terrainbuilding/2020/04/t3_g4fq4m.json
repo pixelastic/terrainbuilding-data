@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_4miib",
+    "name": "WhosTheBossk"
+  },
+  "date": {
+    "day": 1587254400,
+    "full": 1587331347,
+    "month": 1585699200,
+    "week": 1587254400
+  },
+  "id": "t3_g4fq4m",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 123235,
+    "fullUrl": "https://preview.redd.it/vdrurswidut41.jpg?auto=webp&s=f18a2284e0a39fd4225faa455bda3c3ac36582c4",
+    "hash": "53ac72c75e",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgMF/8QAIhAAAgEDBAIDAAAAAAAAAAAAAQMCBAURAAYSURMhQVJx/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABgRAAMBAQAAAAAAAAAAAAAAAAABEQMC/9oADAMBAAIRAxEAPwCN32vQ3ux0yq9k3x5RakycEyaZ9AD6nr4HejKdp2ClVCEbnc1mQ5SjFcZAE/oB0q2lbF32zoq2yHMzkvKeQEvEeII6zHGsXe1rrn3kCjrqRa1KisisWybCRk5yD7HvQ5ctuD6NSn//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/ks18o4JVoI25izFTDhm718t9wyCikAZyy9WqNnpDDxU.jpg",
+    "url": "https://preview.redd.it/vdrurswidut41.jpg?width=640&crop=smart&auto=webp&s=d89c00ad338f28bf2b6f93c4df80c7f8776042f7",
+    "width": 640
+  },
+  "score": {
+    "comments": 37,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 1329,
+    "value": 1329
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "In progress tech slums",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/g4fq4m/in_progress_tech_slums/"
+}

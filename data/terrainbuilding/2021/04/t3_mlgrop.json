@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_e6u9fr",
+    "name": "abscnth"
+  },
+  "date": {
+    "day": 1617667200,
+    "full": 1617729594,
+    "month": 1617235200,
+    "week": 1617494400
+  },
+  "id": "t3_mlgrop",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 64146,
+    "fullUrl": "https://preview.redd.it/3a7ossrs6lr61.jpg?auto=webp&s=80c64547a204f08cb631e088867bd68510bf28ad",
+    "hash": "e6eece31f5",
+    "height": 400,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAKABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQIG/8QAIRAAAgIBBAIDAAAAAAAAAAAAAQIDBBEABRIhBnETQYH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABgRAQADAQAAAAAAAAAAAAAAAAEAAhES/9oADAMBAAIRAxEAPwC/Noqe/wDg9SxT4yslmMRohIdmDEMoP0cE+wP3R9KvBvewy7O8VShJW5WUYQn5WK5yc5BIPY9Y1gNkdiWjLExhuQUnoHGM49daR2qeV7lpXldlCvgFiQO9JuSuRsT/2Q==",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/PwNnzY-7NhCsdqrJxyJeehBRGNH4Nko1fyEK9fuHcJ0.jpg",
+    "url": "https://preview.redd.it/3a7ossrs6lr61.jpg?width=640&crop=smart&auto=webp&s=f51a8acfa702bd1ff464818707361ac8981aeb52",
+    "width": 640
+  },
+  "score": {
+    "comments": 41,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 168,
+    "value": 168
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "EVA Foam - Not just for cosplayers! This is why I love using it in my terrain builds and is a cheap, highly versatile alternative to XPS",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/mlgrop/eva_foam_not_just_for_cosplayers_this_is_why_i/"
+}

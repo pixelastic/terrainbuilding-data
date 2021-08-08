@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_fjddx",
+    "name": "CornOnTheCobbSalad"
+  },
+  "date": {
+    "day": 1489363200,
+    "full": 1489382622,
+    "month": 1488326400,
+    "week": 1489276800
+  },
+  "id": "t3_5z3c66",
+  "misc": {
+    "postHint": "self"
+  },
+  "picture": {
+    "filesize": 47562,
+    "fullUrl": "https://external-preview.redd.it/zCqdhGjjWSq4hBpKtZwGioEJg8XwPOaAY40_TQK3FQ8.jpg?auto=webp&s=1e191b583376bee839b259a56fe7fb113827ccfb",
+    "hash": "072ee0494f",
+    "height": 448,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAIRAAAgICAgIDAQAAAAAAAAAAAQIDBAURAAYxURIhQWH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABgRAQADAQAAAAAAAAAAAAAAAAEAAhEx/9oADAMBAAIRAxEAPwDQe19uko2JadKCUTIwBnK7HsgA+eFdbyN6fIQlshKZ5JkDQK+1K/uwR63yyzGGoWPlPLX3M2yWDsNkL9eDwrqFCtWymRaGIKyhFBJJIBGz5/vETJDWy9n/2Q==",
+    "thumbnailUrl": "self",
+    "url": "https://external-preview.redd.it/zCqdhGjjWSq4hBpKtZwGioEJg8XwPOaAY40_TQK3FQ8.jpg?width=640&crop=smart&auto=webp&s=c3ff0f2c4372171ba791bdfd4032f81a4d34d5e8",
+    "width": 640
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 8,
+    "value": 8
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "How should I go about implementing a basalt rock column design?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/5z3c66/how_should_i_go_about_implementing_a_basalt_rock/"
+}

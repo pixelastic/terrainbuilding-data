@@ -1,0 +1,39 @@
+{
+  "author": {
+    "name": "[deleted]"
+  },
+  "date": {
+    "day": 1440979200,
+    "full": 1441042405,
+    "month": 1438387200,
+    "week": 1440892800
+  },
+  "id": "t3_3j3xya",
+  "misc": {
+    "postHint": "self"
+  },
+  "picture": {
+    "filesize": 53339,
+    "fullUrl": "https://external-preview.redd.it/0_eaGVwH_OQ_V8hQXviwe2wshLufdx-HI5wwWo4svJg.jpg?auto=webp&s=12e70962491fc8b1326dcc3d6d8e3953b8e648f0",
+    "hash": "e2271a7c4d",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwMF/8QAKBAAAQQABAMJAAAAAAAAAAAAAQIDBBEABSExBhITFDM1UWFyc7HB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAbEQABBQEBAAAAAAAAAAAAAAABAAIDESETMf/aAAwDAQACEQMRAD8AwI3Ck1vqtvFSm1PqlI5FEJbBO51o7DT0xLM8ky6XD7O5Nc6hCiEFFJu9rGhJ3s+VXhAkeHy/iH7g1477uJ7GvvEeRft+ImeRhppzV//Z",
+    "thumbnailUrl": "self",
+    "url": "https://external-preview.redd.it/0_eaGVwH_OQ_V8hQXviwe2wshLufdx-HI5wwWo4svJg.jpg?width=640&crop=smart&auto=webp&s=cbe659907c8cd1f09ad85743143229b0b2426d1a",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 0.86,
+    "ups": 13,
+    "value": 13
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "We, (me and my group), are new to this",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/3j3xya/we_me_and_my_group_are_new_to_this/"
+}

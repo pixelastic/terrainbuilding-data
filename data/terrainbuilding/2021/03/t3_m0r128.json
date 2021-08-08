@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_54lyq",
+    "name": "Izlude"
+  },
+  "date": {
+    "day": 1615161600,
+    "full": 1615240000,
+    "month": 1614556800,
+    "week": 1615075200
+  },
+  "id": "t3_m0r128",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 95484,
+    "fullUrl": "https://preview.redd.it/pnev1uaakvl61.jpg?auto=webp&s=29a009f2886667fbc436fbb0d937ab2fb00734b4",
+    "hash": "896fd6b729",
+    "height": 1138,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAJRAAAQMDAwMFAAAAAAAAAAAAAQIDBAAFBhESIRUWMUFUVZGS/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAWEQADAAAAAAAAAAAAAAAAAAAAAhH/2gAMAwEAAhEDEQA/AL7CYVuuGHWSTIhxnXyykqcU2NxG468+aQ6VbfatfRrOMcys2jGbVBbjJccjJAUpTugUNSeAAT6jzSHfL/x5/RojlVT/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/8XZkvzuzWnu9wjbKTGlVLz6EeVpvPGl2jk4reMNy3rE.jpg",
+    "url": "https://preview.redd.it/pnev1uaakvl61.jpg?width=640&crop=smart&auto=webp&s=4be09635061efc4906b09afbe718e7b3ae9b3eb7",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.95,
+    "ups": 24,
+    "value": 24
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Working on making a custom circle jig for proxxon hotwire cutters. I'll be uploading the EPS file of the design once perfected. For free. No need to pay $25+ for something you can make with cardboard and a tac. Or a lazer cutter and plywood, in my case.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/m0r128/working_on_making_a_custom_circle_jig_for_proxxon/"
+}

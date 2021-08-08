@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_8j0qlf9p",
+    "name": "stellarartisan"
+  },
+  "date": {
+    "day": 1603238400,
+    "full": 1603285115,
+    "month": 1601510400,
+    "week": 1602979200
+  },
+  "id": "t3_jfcapt",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 96817,
+    "fullUrl": "https://preview.redd.it/dl3ffz3p2gu51.jpg?auto=webp&s=a8e7be37b88e776005dbcf671a161f95706932f4",
+    "hash": "a820ac96cc",
+    "height": 615,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAPABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwUGB//EACIQAAIBAwUBAAMAAAAAAAAAAAECAwQFEQAGEiFBEwcxof/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAbEQABBAMAAAAAAAAAAAAAAAACAAEDExESIf/aAAwDAQACEQMRAD8Asdq/m83O+rQV1rp1gKlzU0kzPxUKWY8CM4AHZ69Pmhz7voq7bl3SGshrDPexLTBWOHh+0RDL12vf91hG0rrNZbwbmkUFZ8oJVeDBTKyIUyT7jl+tM9sVlVbrC89JJEwo5kqJIXQ8lH0Qgqc4K5Rcjo9e6PKVbZJIgjvLUH6v/9k=",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/-u4PDezaPxMA23JvktZg2DVpqNNgXHSIj5h1beleeA8.jpg",
+    "url": "https://preview.redd.it/dl3ffz3p2gu51.jpg?width=640&crop=smart&auto=webp&s=2257ccc08b90d1da08a2784d4d6725f23b9ff337",
+    "width": 640
+  },
+  "score": {
+    "comments": 30,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 891,
+    "value": 891
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A few final touches on my forge diorama, I think it's done!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/jfcapt/a_few_final_touches_on_my_forge_diorama_i_think/"
+}

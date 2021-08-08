@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_15h6n5",
+    "name": "Huskarlar"
+  },
+  "date": {
+    "day": 1585958400,
+    "full": 1585975062,
+    "month": 1585699200,
+    "week": 1585440000
+  },
+  "id": "t3_fungpi",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 47926,
+    "fullUrl": "https://preview.redd.it/zza1jinlcqq41.jpg?auto=webp&s=992b4e1960e21881938b6e518259cb375487c5e7",
+    "hash": "bc543d9241",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQF/8QAIxAAAQQBAwQDAAAAAAAAAAAAAQIDBAURAAYSITFBYRNxkf/EABQBAQAAAAAAAAAAAAAAAAAAAAX/xAAcEQACAgIDAAAAAAAAAAAAAAACAwABEiExodH/2gAMAwEAAhEDEQA/ABMqpgyNwKarocZDHAvLjx1nCW0g5PIknONX3GyGmm4yq4OEIUQfmyUk+lAdSPI96zpyGqezhIgsoQqSS24515lPbGc6S31nLjv1raXipBjuucVdsgLPj6H5ohpO0dHx3HFISVWGHs//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/X7b_f6O4Egv0jJo-mY0aE5QQdgnB8Aq5aG3dYkF-I1A.jpg",
+    "url": "https://preview.redd.it/zza1jinlcqq41.jpg?width=640&crop=smart&auto=webp&s=7d3bc8cbcaf011b482a011fba04bd8169369b0d5",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 18,
+    "value": 18
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I scratch built my first building. It's very humble.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/fungpi/i_scratch_built_my_first_building_its_very_humble/"
+}

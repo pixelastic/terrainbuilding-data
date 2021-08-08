@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_2t2yba5o",
+    "name": "front4242"
+  },
+  "date": {
+    "day": 1612396800,
+    "full": 1612446868,
+    "month": 1612137600,
+    "week": 1612051200
+  },
+  "id": "t3_lcg428",
+  "misc": {
+    "postHint": "hosted:video"
+  },
+  "picture": {
+    "filesize": 61064,
+    "fullUrl": "https://external-preview.redd.it/Yx_HkREFfsBkoqOshNakJ13ye7WjcgV46kIhX36-H-g.png?format=pjpg&auto=webp&s=f3fe640a5fc4de1174546b6c4a1e0d9e090c9940",
+    "hash": "ac0d641c4b",
+    "height": 361,
+    "lqip": "data:image/png;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAEFCP/EAB0QAAAGAwEAAAAAAAAAAAAAAAABAgMEEQUxcRP/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABYRAAMAAAAAAAAAAAAAAAAAAAARIf/aAAwDAQACEQMRAD8Az7imYhtEa6voeVZiJbPzq+iVE0QJmgnCSp//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/K7xu2C244QNYR8U6FjHdi6D5mvpPLE5vOl3rQB9No2k.jpg",
+    "url": "https://external-preview.redd.it/Yx_HkREFfsBkoqOshNakJ13ye7WjcgV46kIhX36-H-g.png?width=640&crop=smart&format=pjpg&auto=webp&s=b5a3fb09cfb0910941cbde0461c5280d888907a9",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 0.89,
+    "ups": 27,
+    "value": 27
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Cyberpunk modular MDF tower vid!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/lcg428/cyberpunk_modular_mdf_tower_vid/"
+}

@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_dhz1b",
+    "name": "Ninkvltist"
+  },
+  "date": {
+    "day": 1609459200,
+    "full": 1609506459,
+    "month": 1609459200,
+    "week": 1609027200
+  },
+  "id": "t3_kob0v8",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 322588,
+    "fullUrl": "https://preview.redd.it/vl99etp0zp861.jpg?auto=webp&s=47c046678a6533b50b24d1f4b858ca7e9ca8ab94",
+    "hash": "d4b1b07a9e",
+    "height": 2128,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAUDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQG/8QAIxAAAQMDAgcAAAAAAAAAAAAAAQIDBAARMQUSEyEiQXGB8P/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERMf/aAAwDAQACEQMRAD8Az2oRmCzHWyzHIWN10FR7JzceT7pUD8h+S01wHZCggWJUlIGBjp+5UqJXBT//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/q2FvqAeh2e0dj3WIH6kK5UDKH23G9RnT2aXuX-Sd1fM.jpg",
+    "url": "https://preview.redd.it/vl99etp0zp861.jpg?width=640&crop=smart&auto=webp&s=341ace201e78b43dad7911f60c8211026af5c26c",
+    "width": 640
+  },
+  "score": {
+    "comments": 27,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 889,
+    "value": 889
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Magnetic Modular Ruins",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/kob0v8/magnetic_modular_ruins/"
+}

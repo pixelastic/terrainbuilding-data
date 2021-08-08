@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_781ie",
+    "name": "drakeAndrews"
+  },
+  "date": {
+    "day": 1441497600,
+    "full": 1441576378,
+    "month": 1441065600,
+    "week": 1441497600
+  },
+  "id": "t3_3jwgq4",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 64250,
+    "fullUrl": "https://external-preview.redd.it/gWaLylXLVT-l7fL_4vRWFbXHEegbfk_Vmii-zqdlEdo.jpg?auto=webp&s=1c7c8ad45396d8745e3d3f159ec925f5be6bdbae",
+    "hash": "8d4d533f21",
+    "height": 475,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgf/xAAkEAABBAEDBAMBAAAAAAAAAAABAgMEEQUABiESEzFRMkFxsf/EABQBAQAAAAAAAAAAAAAAAAAAAAX/xAAbEQACAQUAAAAAAAAAAAAAAAAAEQECAwQhMf/aAAwDAQACEQMRAD8AK7n3PkJkfHpnRA/i0lRAKEgqJ4sKo1xfFaKbgzMzOHoYXPZgxVAskvX23R8VEgCqF/frV63LAizcE+JDKFBtslPHgevzRzbuMhw8QFR2EJ7nUkirAF+Pz+6KjJ1wXqsOWz//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/o5LBPnysKckWhP6FR9yJJicWWRRboUIgeculQWWxihw.jpg",
+    "url": "https://external-preview.redd.it/gWaLylXLVT-l7fL_4vRWFbXHEegbfk_Vmii-zqdlEdo.jpg?width=640&crop=smart&auto=webp&s=f8fb3657234e04121a902da9cb00f7a3264a4201",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 47,
+    "value": 47
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Small Abandoned Building",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/3jwgq4/small_abandoned_building/"
+}

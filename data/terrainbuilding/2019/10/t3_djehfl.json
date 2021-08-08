@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_tunql",
+    "name": "the_largest_rodent"
+  },
+  "date": {
+    "day": 1571270400,
+    "full": 1571354105,
+    "month": 1569888000,
+    "week": 1570924800
+  },
+  "id": "t3_djehfl",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 77494,
+    "fullUrl": "https://preview.redd.it/6xm2s9xzo6t31.jpg?auto=webp&s=177582bb2ac383e728ba8a9924f6fb80cc36d1ae",
+    "hash": "f8885d19f7",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUH/8QAJRAAAQMEAAUFAAAAAAAAAAAAAQIDBAAFESEGBxIiURMUYYGh/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABgRAAIDAAAAAAAAAAAAAAAAAAARIkFC/9oADAMBAAIRAxEAPwBty5nSZEl6LaUN26GVBPungSobGyBoaH0Pmo175gcQqbZZcld7QV3IUQF5VnGQd4GN+KzKfxNMt8JhuK1FSFKJWVNlZUfJyTSI96futqjLltMdSHDj00lP4DQMqhakz//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/TYerzloBL7ITpclln53BhCOQRL-rFu_R8EaO929j4Xs.jpg",
+    "url": "https://preview.redd.it/6xm2s9xzo6t31.jpg?width=640&crop=smart&auto=webp&s=724dba34eaa1df10349e01b181daf2a99ce67eae",
+    "width": 640
+  },
+  "score": {
+    "comments": 15,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 503,
+    "value": 503
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "3D printed and painted magnetized tiles from Dragonlock on a painted metal sheet. This was a fun encounter to build! C&C always welcome :)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/djehfl/3d_printed_and_painted_magnetized_tiles_from/"
+}

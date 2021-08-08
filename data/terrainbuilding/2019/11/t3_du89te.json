@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_sjek9",
+    "name": "ethhackwannabe"
+  },
+  "date": {
+    "day": 1573344000,
+    "full": 1573369353,
+    "month": 1572566400,
+    "week": 1573344000
+  },
+  "id": "t3_du89te",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 103311,
+    "fullUrl": "https://preview.redd.it/ddt6gp3d5tx31.jpg?auto=webp&s=e0294f20ae89ec739e542e6a0b85e1299f95ca47",
+    "hash": "8ed5ab2ba1",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQL/xAAlEAABAwQBAwUBAAAAAAAAAAABAgMEBQYRIQASIjETFDJRcYH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABoRAQADAAMAAAAAAAAAAAAAAAEAAgNBccH/2gAMAwEAAhEDEQA/AHblcZgVaswpE0tz3HHC0pU4lKVKUSMlOQj++BxSx4lUqdZjBuuIeLK23VNNzXSQ31EgEaBBAVs/Q1vgl1UuuG/ai8i33HGJDjhR0rkBBCT8+ztBIzrGSd/s2+uU1d0ec3b9cZ9WYhlIc92S2grA6lZJSQPOcDWeTzVbCexrmFUeep//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/jS_cPO1IAeE3r3eTPOtGLuVXufK9fcrFKAQ9OCBusrM.jpg",
+    "url": "https://preview.redd.it/ddt6gp3d5tx31.jpg?width=640&crop=smart&auto=webp&s=86f9b56141ceb133235234463cf9080463946140",
+    "width": 640
+  },
+  "score": {
+    "comments": 16,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 193,
+    "value": 193
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP on tavern interior ground floor - the wood floor is laid (stained with Georgian medium oak from Wilko) - should I leave as is or add a wash over it? Furniture is from mantic terrain crate that I got for my birthday :)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/du89te/wip_on_tavern_interior_ground_floor_the_wood/"
+}

@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_50eqj5g9",
+    "name": "FatBoiShin"
+  },
+  "date": {
+    "day": 1581465600,
+    "full": 1581516042,
+    "month": 1580515200,
+    "week": 1581206400
+  },
+  "id": "t3_f2rml0",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 93356,
+    "fullUrl": "https://preview.redd.it/58cakekn1ig41.jpg?auto=webp&s=27fdbe4afb96ca37da3c2ce68068b67a21d17d20",
+    "hash": "fa3e099e55",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAkEAABAwQCAAcAAAAAAAAAAAABAgMEBRESIQATBgciMWFxsf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGhEBAAIDAQAAAAAAAAAAAAAAAQAxAgMSIv/aAAwDAQACEQMRAD8AE8y6VEieMnm6oX2JK47PRHYBfDRINgV63om4+r8QmzJVEbZpMuSwqdUI6XHVORwtQS4nFJByTkoDdiNG9r8jpLDr6ajL7A663ZDacQU4k+q/z+cQcTMqT1AKXEuNPNIioX15kBC8RY3172vrQG+TOxTloiGIei2f/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/NqDtRgkVzCIZNd6m2IvJINF-rvUqsmx2RO5MgnXV8lQ.jpg",
+    "url": "https://preview.redd.it/58cakekn1ig41.jpg?width=640&crop=smart&auto=webp&s=033e77cc7a21670dfe575ef29c0ec31683fb1be5",
+    "width": 640
+  },
+  "score": {
+    "comments": 24,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 611,
+    "value": 611
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Amateur here, showing off the process",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/f2rml0/amateur_here_showing_off_the_process/"
+}

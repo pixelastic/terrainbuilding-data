@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_16e365",
+    "name": "scottmichaelkimball"
+  },
+  "date": {
+    "day": 1534809600,
+    "full": 1534880076,
+    "month": 1533081600,
+    "week": 1534636800
+  },
+  "id": "t3_9968xq",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 52053,
+    "fullUrl": "https://preview.redd.it/d5szhl4p0ih11.jpg?auto=webp&s=46e63571b921c5b1c5aa8a346dd2c496799056b8",
+    "hash": "bda655f95d",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAX/xAAmEAABAwIEBgMAAAAAAAAAAAABAgMEAAUGERMhBxI0NVJygaHB/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oADAMBAAIRAxEAPwBuL71iCaqUZciU1GbWtR5yrSSBmdsvr4qtwvxJdBdbezcHJTUJBUlxCQrSzKTvuPI1auvbJHr+02F0zfrRYS//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/o0qHnzffStKiL75ngEtukiISbL2pRK7ECfRvh53CXcw.jpg",
+    "url": "https://preview.redd.it/d5szhl4p0ih11.jpg?width=640&crop=smart&auto=webp&s=d7972518f2a851498f664a381550119c4798aab8",
+    "width": 640
+  },
+  "score": {
+    "comments": 11,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 20,
+    "value": 20
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "The beginning of a dungeon type ancient forest wall.. Looking for input! Specifically best ways to add dirt texture to lower portions of wall and floor. Not too dirty, though. Thank you!!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/9968xq/the_beginning_of_a_dungeon_type_ancient_forest/"
+}

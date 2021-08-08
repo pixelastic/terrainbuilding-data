@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_2k7orv",
+    "name": "thestonecuttersguild"
+  },
+  "date": {
+    "day": 1595289600,
+    "full": 1595372999,
+    "month": 1593561600,
+    "week": 1595116800
+  },
+  "id": "t3_hvi583",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 121542,
+    "fullUrl": "https://preview.redd.it/8eoeedjflac51.jpg?auto=webp&s=93cf9db2d01d52a03d486708dc9de9c37984f5ae",
+    "hash": "2128f1e311",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAIxAAAgIBAwMFAAAAAAAAAAAAAQIDBBEAIUEFBjESExSRof/EABUBAQEAAAAAAAAAAAAAAAAAAAED/8QAGBEBAQEBAQAAAAAAAAAAAAAAAQIAERL/2gAMAwEAAhEDEQA/AFKciS91dP8AcKLGsxJJ4Azv9DUka9IrtKJPhszyNJ6pArEgnIO58EYOjb8ViK/H5R2nCgg4O7gfo1pbUcZsOWrw5PLQqSeNS9ySGe00pv/Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/CtwCVfWtxWzx2UDuQkQu41I7UFAPPbRroJ32l-EM8kA.jpg",
+    "url": "https://preview.redd.it/8eoeedjflac51.jpg?width=640&crop=smart&auto=webp&s=5a5feec9159d0cbc7c40e9e8a819f036cbeaed0a",
+    "width": 640
+  },
+  "score": {
+    "comments": 9,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 148,
+    "value": 148
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Closer look at wall details/ brick work.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/hvi583/closer_look_at_wall_details_brick_work/"
+}

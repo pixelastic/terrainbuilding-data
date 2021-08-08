@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_7ibcgtmk",
+    "name": "Kaerith_Panda"
+  },
+  "date": {
+    "day": 1613001600,
+    "full": 1613032863,
+    "month": 1612137600,
+    "week": 1612656000
+  },
+  "id": "t3_lhghlh",
+  "misc": {
+    "postHint": "self"
+  },
+  "picture": {
+    "filesize": 16683,
+    "fullUrl": "https://external-preview.redd.it/jMHctcRQCEWiqQtO8Fm5H9AFyAhxl2zImz4An1sC2SA.jpg?auto=webp&s=fa475913fc58291cc33a877ad47838cba3453055",
+    "hash": "84088f0a34",
+    "height": 228,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAGABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQH/8QAHxAAAgICAgMBAAAAAAAAAAAAAQIDBQAEBxEGEkFC/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABoRAAICAwAAAAAAAAAAAAAAAAABAgMEMVL/2gAMAwEAAhEDEQA/AMY8c5Etqq019hhDsiNgSksSn3UfknrvKL7ka7tLnd2Z5Vj13cmKCFFRYl+AdD4MYxXoWOXf2z//2Q==",
+    "thumbnailUrl": "self",
+    "url": "https://external-preview.redd.it/jMHctcRQCEWiqQtO8Fm5H9AFyAhxl2zImz4An1sC2SA.jpg?width=640&crop=smart&auto=webp&s=3ee083e975079e811498c42ab8e6a1d18edf1761",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 6,
+    "value": 6
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Other Terrain Sprues?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/lhghlh/other_terrain_sprues/"
+}

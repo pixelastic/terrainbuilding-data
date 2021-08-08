@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_jez7c",
+    "name": "clgoodson"
+  },
+  "date": {
+    "day": 1593043200,
+    "full": 1593116763,
+    "month": 1590969600,
+    "week": 1592697600
+  },
+  "id": "t3_hftgpy",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 194073,
+    "fullUrl": "https://preview.redd.it/rog76r5j84751.jpg?auto=webp&s=212fb7bb45213003bf9b43460fe6b2f90e5cacdb",
+    "hash": "6ce6ffa973",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQF/8QAJRAAAgIBAwEJAAAAAAAAAAAAAQIDEQQAEiExBQYTFBUiQmGx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEv/aAAwDAQACEQMRAD8AW53e1/Vl25T+AzAbGrYvIvmvvmzxrah7aieMGbHqT5Uwr90LMcqmohgmONbLSrZvoK1diKio3mMmN5S1kpB7RwOBR6DUaOX/2Q==",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/hbxPWpudBb5cS409NNabN9RIXs5CkapFbBIfJ-ztu90.jpg",
+    "url": "https://preview.redd.it/rog76r5j84751.jpg?width=640&crop=smart&auto=webp&s=a4f31cdecaf50b00cd83f9ac709af2ac1ece83b6",
+    "width": 640
+  },
+  "score": {
+    "comments": 27,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 1094,
+    "value": 1094
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Trying a new terrain medium while on vacation.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/hftgpy/trying_a_new_terrain_medium_while_on_vacation/"
+}

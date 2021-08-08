@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_mewtk",
+    "name": "oldercloud"
+  },
+  "date": {
+    "day": 1562457600,
+    "full": 1562526358,
+    "month": 1561939200,
+    "week": 1562457600
+  },
+  "id": "t3_caajtd",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 86167,
+    "fullUrl": "https://preview.redd.it/uhaa4gjkjx831.jpg?auto=webp&s=80efa272b3d4ac520b013c19e0126971c0bfe803",
+    "hash": "e85b8edce0",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAL/xAAhEAABBAEEAwEAAAAAAAAAAAABAgMEEQUABhIhMVFhkf/EABUBAQEAAAAAAAAAAAAAAAAAAAAC/8QAGhEAAgIDAAAAAAAAAAAAAAAAAgMAEgEh4f/aAAwDAQACEQMRAD8AJIyGOLS48NrHMyKUkORmeh0aoeR70WDLVEEhyDMjGY4AER3GglSgDfEq7ok/fJrVZWKzjt2uNMI5JK1UVkkp6SOq+GtC2bjI+ekS4mR5raUHXFUqiSFEj8OjMApVx7IWRtZUtz//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/L1DUd_bjtTz5aFtRvsfb7DmYugDdkKqwChgNxgvPlrE.jpg",
+    "url": "https://preview.redd.it/uhaa4gjkjx831.jpg?width=640&crop=smart&auto=webp&s=a513ed65fa90dc4ced632af3ebf374cd8efecd90",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 23,
+    "value": 23
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Some New UDT ideas",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/caajtd/some_new_udt_ideas/"
+}

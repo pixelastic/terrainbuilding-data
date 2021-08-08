@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_44vku",
+    "name": "red_rock"
+  },
+  "date": {
+    "day": 1478217600,
+    "full": 1478260810,
+    "month": 1477958400,
+    "week": 1477785600
+  },
+  "id": "t3_5b34q5",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "filesize": 53756,
+    "fullUrl": "https://external-preview.redd.it/8x1phP7Kda7qTdg1WWjzs61Arz0dD964kR7A0s6bPnA.jpg?auto=webp&s=cb62b318616ae6d5a143055810277ef935539f4c",
+    "hash": "61a6f5dac2",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAJxAAAQMCBQIHAAAAAAAAAAAAAQIDBAURAAYSIWEHQRMVIiMxMnH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABgRAQADAQAAAAAAAAAAAAAAAAEAAhEx/9oADAMBAAIRAxEAPwCZp9HOcapIi0CiylRWVEPOvDSkLHpUhSyrvbg2/MJ5l6a5lRS1EQFOqUEgMRHA4lNrD6k3G29+BjcozbVJbebp7LTCPcUQgW1EEbnnfAM/MU/yFmTqR4rkhxs7G1h8d8TlkdI16mcn/9k=",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/xQQj22ZYUTEIrjGnxzWBVqWbGFM5SVMUOzmzQHiWHE8.jpg",
+    "url": "https://external-preview.redd.it/8x1phP7Kda7qTdg1WWjzs61Arz0dD964kR7A0s6bPnA.jpg?width=640&crop=smart&auto=webp&s=c0b5f6447ee05c4a8f2f1f8a8743e89e8ec97634",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 38,
+    "value": 38
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "4Ground - City of Mordanburg - Part 1",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/5b34q5/4ground_city_of_mordanburg_part_1/"
+}

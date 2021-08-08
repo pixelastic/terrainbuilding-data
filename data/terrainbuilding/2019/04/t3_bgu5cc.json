@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_1erx8im4",
+    "name": "devilmanotis"
+  },
+  "date": {
+    "day": 1556064000,
+    "full": 1556109813,
+    "month": 1554076800,
+    "week": 1555804800
+  },
+  "id": "t3_bgu5cc",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 152990,
+    "fullUrl": "https://preview.redd.it/xagc7zsvj7u21.jpg?auto=webp&s=539cfadec9dd5fe89a47a9002ee25e61be2d10db",
+    "hash": "34c306c4a7",
+    "height": 1138,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABwb/xAAqEAAABAMECwEAAAAAAAAAAAABAgMEAAYRBRMxUQcSFhchMkFTVpPRlf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQIAMf/aAAwDAQACEQMRAD8AJZVk0zu6VfKHQRVOUhldcgJpgJgCtRyAajlDxui0VeYqfqt/kS83Sda1m2aDNmKijO4FOpScvTjljiMGGyLrtJ+1L7E24O5E07//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/PIAvTSYet5ufEO2ShYZMuZAKJGW61fnt78oH9LwKYtc.jpg",
+    "url": "https://preview.redd.it/xagc7zsvj7u21.jpg?width=640&crop=smart&auto=webp&s=ad096b901dccf0d6a03fbcbcc220515aef417adf",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 0.96,
+    "ups": 89,
+    "value": 89
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Mausoleum for a cemetery im building",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/bgu5cc/mausoleum_for_a_cemetery_im_building/"
+}

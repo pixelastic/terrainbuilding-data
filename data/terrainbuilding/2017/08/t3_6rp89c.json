@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_93bmnar",
+    "name": "PieceBringer_of_ODT"
+  },
+  "date": {
+    "day": 1501891200,
+    "full": 1501899579,
+    "month": 1501545600,
+    "week": 1501372800
+  },
+  "id": "t3_6rp89c",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 46256,
+    "fullUrl": "https://preview.redd.it/y7rh0coxwtdz.jpg?auto=webp&s=febdd441c71edb554746d9c71721f22a489ff9f4",
+    "hash": "f4ed707d27",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQGB//EACEQAAICAQQCAwAAAAAAAAAAAAECAxEEAAUGMRIhE0FR/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABcRAAMBAAAAAAAAAAAAAAAAAAABAhL/2gAMAwEAAhEDEQA/AIje+HbmI8mOONZkkYFGiW2sGxf5fR1oPC4cjBwpDuIhllySkj47oGVCorr6N2b9d6dI+ZFMhJ9aKF8EYgklgLJOhV0PiWf/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/pg2gLBBxTQGdZX32t0Jnp-n1X5OcbWRwr_6Hvs7GyvU.jpg",
+    "url": "https://preview.redd.it/y7rh0coxwtdz.jpg?width=640&crop=smart&auto=webp&s=4f3584cbf80566c1491952daae7bf95d970685f2",
+    "width": 640
+  },
+  "score": {
+    "comments": 12,
+    "downs": 0,
+    "ratio": 0.94,
+    "ups": 25,
+    "value": 25
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Been working on a 3d printed dungeon!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/6rp89c/been_working_on_a_3d_printed_dungeon/"
+}

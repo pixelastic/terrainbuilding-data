@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_859j6",
+    "name": "Wernerio"
+  },
+  "date": {
+    "day": 1518393600,
+    "full": 1518435764,
+    "month": 1517443200,
+    "week": 1518307200
+  },
+  "id": "t3_7x06o7",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "filesize": 53772,
+    "fullUrl": "https://external-preview.redd.it/6NRKYUO0Z-X--X4ds8KTqT1irOu1e-MhAi0YttHcQ7o.jpg?auto=webp&s=0c44a44f6158660f3ef35a2ceca798c765c1c49f",
+    "hash": "9432fd3541",
+    "height": 336,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAIABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAT/xAAhEAACAQQCAgMAAAAAAAAAAAACAwEABAUhERIGcSIjMf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAYEQEAAwEAAAAAAAAAAAAAAAABAAIDEv/aAAwDAQACEQMRAD8AkyvmGdAXoxspx7ltD7BGJK7CddCKY+MxxPrW6oxviB3KrnI2agWN1BOY5jexsPjQkP5PUo4j3NKUO60oNYmR0oz/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/P62Wqh_c1hEyh1mnPKOiSCqCGGaijPYK5WGL2BNTbRI.jpg",
+    "url": "https://external-preview.redd.it/6NRKYUO0Z-X--X4ds8KTqT1irOu1e-MhAi0YttHcQ7o.jpg?width=640&crop=smart&auto=webp&s=1bdea3c9f9317c023b9fae1a94f1b5b0e1c96917",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.91,
+    "ups": 37,
+    "value": 37
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Domus project 101: Stone corbels and brick arches",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/7x06o7/domus_project_101_stone_corbels_and_brick_arches/"
+}

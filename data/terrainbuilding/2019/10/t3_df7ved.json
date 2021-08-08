@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_m6ch6vm",
+    "name": "biddaddyjones"
+  },
+  "date": {
+    "day": 1570492800,
+    "full": 1570575304,
+    "month": 1569888000,
+    "week": 1570320000
+  },
+  "id": "t3_df7ved",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 58955,
+    "fullUrl": "https://preview.redd.it/xk3rz1x7der31.jpg?auto=webp&s=b90cd0f99043e9037c2fb2e95aa9bfca028840a8",
+    "hash": "f075b09bbb",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgf/xAAmEAABAgUDAwUAAAAAAAAAAAABAgQDBQYREgAhMRNBUSJDcpKh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAYEQADAQEAAAAAAAAAAAAAAAAAAQIRIf/aAAwDAQACEQMRAD8AndHuHLR2l1AcuIabmEjoKUtaUZXKudhfz5O2n6K5mDV83Yx3SHcsU4DUoinEdQhKQoKBy9NhxYA9tRx1VM2kLklm5y+aQD9k2P7pvT83dVKxzmSkE4kWwEQc39zLvvqLq5YsT4f/2Q==",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/JOWcvQwwvi8D6zL-nrfuuFPekrLhUgtnVNbmAAMT6T4.jpg",
+    "url": "https://preview.redd.it/xk3rz1x7der31.jpg?width=640&crop=smart&auto=webp&s=d1d06217c4cf4f01ef780a3202c19e83f70e4ee6",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 0.88,
+    "ups": 12,
+    "value": 12
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Just finished our first piece.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/df7ved/just_finished_our_first_piece/"
+}

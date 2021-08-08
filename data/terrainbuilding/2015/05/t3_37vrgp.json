@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_fe09c",
+    "name": "AndrewPaskiewicz"
+  },
+  "date": {
+    "day": 1432944000,
+    "full": 1433017490,
+    "month": 1430438400,
+    "week": 1432425600
+  },
+  "id": "t3_37vrgp",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "filesize": 49867,
+    "fullUrl": "https://external-preview.redd.it/3i2RnehRSXXPnKs97GYzfjvDwxnCFBqE9K-WHVhM8NQ.jpg?auto=webp&s=c9ae7eed7b3c5717c18bd1888992f0d3029ef50f",
+    "hash": "e64c57ddf4",
+    "height": 427,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAJBAAAQIFAgcAAAAAAAAAAAAAAQIRAAMEEjEGQQUTFCEjcYH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABgRAAIDAAAAAAAAAAAAAAAAAAADAhFB/9oADAMBAAIRAxEAPwDDab6efRJmVEtN6gWUpfZFuxD/AHEW6ioKSfTeJUhJLOm/LhwwgLhuAWD+odQBy8bRUuADGZR//9k=",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/IK--_7Z6cYfCN6sIxrZGmkODBgEQdaAKouSJROMPFL8.jpg",
+    "url": "https://external-preview.redd.it/3i2RnehRSXXPnKs97GYzfjvDwxnCFBqE9K-WHVhM8NQ.jpg?width=640&crop=smart&auto=webp&s=4d8d4094abfe269c955b28cd0f8d8923fffb60a1",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 0.79,
+    "ups": 13,
+    "value": 13
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP New poly molding experiments...",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/37vrgp/wip_new_poly_molding_experiments/"
+}

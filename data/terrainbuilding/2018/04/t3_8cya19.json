@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_fkyo3",
+    "name": "mikebozo"
+  },
+  "date": {
+    "day": 1523923200,
+    "full": 1523985664,
+    "month": 1522540800,
+    "week": 1523750400
+  },
+  "id": "t3_8cya19",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 109960,
+    "fullUrl": "https://preview.redd.it/64awa4pz4is01.jpg?auto=webp&s=4617f4750809164510ed830d484d493961db4bb6",
+    "hash": "40aadd5a34",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQF/8QAIxAAAgIBBAEFAQAAAAAAAAAAAQIDEQQABRIhQSIjYXGB8f/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAZEQEAAwEBAAAAAAAAAAAAAAACAAEDEUH/2gAMAwEAAhEDEQA/AI4N9bFjhjbMkeFBxLNJTs58ALXd+PrSLaN4STJxjnQQzOW5LBIOdrfXR+Ov5oFl467YPYZnNs1y0xsGxrV26d5R6+JKgODXdsO/zRqyC8i9Cyu3c//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/sUxQ_u1ONx5igR-vfnWjUqL476W-8pOuZ8GwDwinDPM.jpg",
+    "url": "https://preview.redd.it/64awa4pz4is01.jpg?width=640&crop=smart&auto=webp&s=6f7bb4edba315a95bc4d4c0a8acc3fcf46bb0b8c",
+    "width": 640
+  },
+  "score": {
+    "comments": 23,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 172,
+    "value": 172
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My custom Shadespire boards. I was trying to do a mud effect around the hexes. Do you think that's enough ? Or could I do something to make it more convincing ?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/8cya19/my_custom_shadespire_boards_i_was_trying_to_do_a/"
+}

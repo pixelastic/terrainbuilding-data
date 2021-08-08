@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_qidb6",
+    "name": "M0rqu1ng4"
+  },
+  "date": {
+    "day": 1601337600,
+    "full": 1601418253,
+    "month": 1598918400,
+    "week": 1601164800
+  },
+  "id": "t3_j29npr",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 34746,
+    "fullUrl": "https://preview.redd.it/qbu16iizw5q51.jpg?auto=webp&s=ab289cb4a4fc03de6fd9ef5f9d7cc9eedf1aa09d",
+    "hash": "2c2ad0bb39",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgAH/8QAIRAAAgICAQUBAQAAAAAAAAAAAQIDEQQFAAYSEyFxFYH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAFxEBAQEBAAAAAAAAAAAAAAAAEQIAAf/aAAwDAQACEQMRAD8AtFk4qyJF5oxISAF7hd/OPddkQlRGHQtfbQIJvmWz6R5MmDY6ZoUzlcu/kb0/qgfdgVxX0x09gQZP6OwjhTYl++4ZiB9aqBN/ziZqkMO+SLv/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/YOs_NdVWKHldwMFRhh-5rOGFhdDTBs9O1us3vmVas9M.jpg",
+    "url": "https://preview.redd.it/qbu16iizw5q51.jpg?width=640&crop=smart&auto=webp&s=571cd76ee0cf738a59d41563ad753de3cf1d8339",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.95,
+    "ups": 58,
+    "value": 58
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP Scatter Terrain - Glue Gun Stick crystals",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/j29npr/wip_scatter_terrain_glue_gun_stick_crystals/"
+}

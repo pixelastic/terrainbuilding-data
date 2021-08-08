@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_14tgpm",
+    "name": "canadarugby"
+  },
+  "date": {
+    "day": 1558396800,
+    "full": 1558421425,
+    "month": 1556668800,
+    "week": 1558224000
+  },
+  "id": "t3_br74bv",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "filesize": 80080,
+    "fullUrl": "https://external-preview.redd.it/a7kvmozLO4s0Kgzvoz_t_dNntI3NVP_CcL5iIx3Xj-k.jpg?auto=webp&s=0deeb43ca4d9f705b6715ffc23a169f7936f6cb6",
+    "hash": "e122f3575a",
+    "height": 469,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQMG/8QAJRAAAgECBQQDAQAAAAAAAAAAAQIDESEABAUGQRIUMVETI0Jh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAf/EABcRAAMBAAAAAAAAAAAAAAAAAAABEUH/2gAMAwEAAhEDEQA/AM3tXbaapkcssqRRhk6mlXoLGtSBep8D1bB+7NDy66dmu0o7JCXDxxfFQAeSP0D7HOEdqalPkFjzGWCK8UI4NHFrNe4tiOt6pJN3UCwwxQKD9adVLqeSSefFafzAlo0//9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/UVeFJmtzTEmn28Fcple5URCTC7d5eUjtLyKlXQX41eU.jpg",
+    "url": "https://external-preview.redd.it/a7kvmozLO4s0Kgzvoz_t_dNntI3NVP_CcL5iIx3Xj-k.jpg?width=640&crop=smart&auto=webp&s=ced9c1e381c378374b4a6ba4f72dfd49cfba4911",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "ratio": 0.89,
+    "ups": 19,
+    "value": 19
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Battle of Rogue's Falls",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/br74bv/battle_of_rogues_falls/"
+}

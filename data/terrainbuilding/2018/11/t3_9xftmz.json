@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_156gqcz9",
+    "name": "NXSmiggy"
+  },
+  "date": {
+    "day": 1542240000,
+    "full": 1542319547,
+    "month": 1541030400,
+    "week": 1541894400
+  },
+  "id": "t3_9xftmz",
+  "misc": {
+    "postHint": "self"
+  },
+  "picture": {
+    "filesize": 42276,
+    "fullUrl": "https://external-preview.redd.it/2BaV8KdDlNeBVteOhzScq6mLScoBVgiSCdk0i-60YDc.jpg?auto=webp&s=4a7fcc350a95a8a5f7c9970286cf40aa40d3a425",
+    "hash": "59e8347c76",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQf/xAAiEAACAgICAQUBAAAAAAAAAAABAgMEESEABQYSExQiQYH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAFhEBAQEAAAAAAAAAAAAAAAAAAgAR/9oADAMBAAIRAxEAPwAk1KvefAihrdPUmRmYJ7LASDA0Tn85PvNEh6/y28LlVZImhjUmAFYww0T+60Rjgnc9najsUWSUqwU4YHBH94XfnselkNiRoyW+rYI2STjI1k74YOStbf/Z",
+    "thumbnailUrl": "self",
+    "url": "https://external-preview.redd.it/2BaV8KdDlNeBVteOhzScq6mLScoBVgiSCdk0i-60YDc.jpg?width=640&crop=smart&auto=webp&s=18cebfdd87ec3ea81ce2604f26d5307056a92bf8",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Warlayer 3d printed terrain",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/9xftmz/warlayer_3d_printed_terrain/"
+}

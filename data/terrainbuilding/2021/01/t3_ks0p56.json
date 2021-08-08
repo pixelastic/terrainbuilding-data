@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_1edpb8lk",
+    "name": "billboardben2113"
+  },
+  "date": {
+    "day": 1609977600,
+    "full": 1609977645,
+    "month": 1609459200,
+    "week": 1609632000
+  },
+  "id": "t3_ks0p56",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 74055,
+    "fullUrl": "https://preview.redd.it/td47yyhlws961.jpg?auto=webp&s=640a41232204796189b8e5e2ecef1de79ada50b8",
+    "hash": "1982ffa3dd",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGB//EACMQAAIBAwQCAwEAAAAAAAAAAAECAwQFEQAGIUESMQcyYXH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABwRAAICAgMAAAAAAAAAAAAAAAIDAAExQQQRof/aAAwDAQACEQMRAD8AhtqUNyqrRLcoZVkWFsGmbKl19ean0cHr3xrQdu7eoTbqB9xVlbbLqxkJKKrL4t9RznPC9HvGk3wFQperxXx3GWeWNYSAnmQAWDAn+/ujdwRpbLlNaKdc0sTqQzklyS+OW/OsaOOu2M6LHu8S2DYhRDuf/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/N6Emr8gzJqoT-TH0vpPIUg7kSkquHJZZGz-nQ2vgvMs.jpg",
+    "url": "https://preview.redd.it/td47yyhlws961.jpg?width=640&crop=smart&auto=webp&s=d4631457f94eeeade7da3380933e28b2944d92cb",
+    "width": 640
+  },
+  "score": {
+    "comments": 38,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 972,
+    "value": 972
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Test piece for an upcoming jungle terrain set",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ks0p56/test_piece_for_an_upcoming_jungle_terrain_set/"
+}

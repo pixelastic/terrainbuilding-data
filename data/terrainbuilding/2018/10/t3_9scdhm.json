@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_859j6",
+    "name": "Wernerio"
+  },
+  "date": {
+    "day": 1540771200,
+    "full": 1540813846,
+    "month": 1538352000,
+    "week": 1540684800
+  },
+  "id": "t3_9scdhm",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "filesize": 63226,
+    "fullUrl": "https://external-preview.redd.it/92zNjVnALq68Y9uBDhKsywTsEgsnWWNb2VpVJ2Tufpk.jpg?auto=webp&s=596d0317b371a2462c1db575b9f451244f05d7c1",
+    "hash": "e23d02edf4",
+    "height": 336,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAIABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQF/8QAIRAAAgEEAQUBAAAAAAAAAAAAAQIDAAQFETEGEhQhQZH/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAGxEAAgIDAQAAAAAAAAAAAAAAAgMAAQUSIcH/2gAMAwEAAhEDEQA/AJsvaWtzFIsgkMACxxq3oqq77dfpJ1yTWTB0Ja5fCeXarAIVDyLOJCZGPAVhrgN9pShcZW5FtFc8wkKC1875P//Z",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/SjoDtxz6htRQryw2eJEFOUm1wu4Z9c-S180OPbIF174.jpg",
+    "url": "https://external-preview.redd.it/92zNjVnALq68Y9uBDhKsywTsEgsnWWNb2VpVJ2Tufpk.jpg?width=640&crop=smart&auto=webp&s=f9d6abc5e5694c7c89bb562b995049adffc2fa1c",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 0.87,
+    "ups": 11,
+    "value": 11
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Domus project 105: Mezzanine wooden frame - the flooring",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/9scdhm/domus_project_105_mezzanine_wooden_frame_the/"
+}

@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_l47ik",
+    "name": "flankbonus"
+  },
+  "date": {
+    "day": 1622592000,
+    "full": 1622641246,
+    "month": 1622505600,
+    "week": 1622332800
+  },
+  "id": "t3_nqm1n7",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 74188,
+    "fullUrl": "https://external-preview.redd.it/laRHXzTZ0_XkhO-zGRMHLBCTw8v_UiQgSCcqKb0pIPY.jpg?auto=webp&s=1744f6fb647eb43183970afdf0c408e5adbc2272",
+    "hash": "5c04010c60",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQEG/8QAIRAAAgEDBQEBAQAAAAAAAAAAAQIDBAURAAYSITFBFVH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABcRAQEBAQAAAAAAAAAAAAAAAAEAEQL/2gAMAwEAAhEDEQA/ANpc3qLD+aaipntVW0rxyLjnE7/Hb4FKj3r3UuO41rtsPRCZKmESiNkj5qA/RyXOSPRgDo+ab3jEvQYc1jiOA3ecf0+6J25aluTimaqqKeMwrOxgKhnbJGCSp61PO1NmBt//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/Q4bvmc9yzfc8PxIxTKvuXsaX_Uy2J9zhmlm1fRjOL3A.jpg",
+    "url": "https://external-preview.redd.it/laRHXzTZ0_XkhO-zGRMHLBCTw8v_UiQgSCcqKb0pIPY.jpg?width=640&crop=smart&auto=webp&s=ae6602756b8d5e69e975be626e288a524866d882",
+    "width": 640
+  },
+  "score": {
+    "comments": 21,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 596,
+    "value": 596
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Modular magnetic sewers",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/nqm1n7/modular_magnetic_sewers/"
+}

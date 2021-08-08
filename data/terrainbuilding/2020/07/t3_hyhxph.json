@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_5x6lcv2n",
+    "name": "Marc0sRibeiro"
+  },
+  "date": {
+    "day": 1595808000,
+    "full": 1595809036,
+    "month": 1593561600,
+    "week": 1595721600
+  },
+  "id": "t3_hyhxph",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 47092,
+    "fullUrl": "https://preview.redd.it/nk9agj82mad51.jpg?auto=webp&s=410130c8e6640afb107276ad71cf52bdcf4d60a8",
+    "hash": "220d505b1f",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgME/8QAIhAAAQMDBAMBAAAAAAAAAAAAAQIDBAAFERIhMXITFDWx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAbEQABBAMAAAAAAAAAAAAAAAARAAECAxITI//aAAwDAQACEQMRAD8AAuXqXGTJVCcX7C0ttnDh8pQDnSVHkjAxtWqzXWY5epIdlOPoLSVpQ6ADq2GnOwJAFHZP0E9RUHeFdk/hoXtMsQqo0c9hX//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/yez6vaB2OlIJ7a1g5a2XO4N7WjsKD33cym5BuLUjEKY.jpg",
+    "url": "https://preview.redd.it/nk9agj82mad51.jpg?width=640&crop=smart&auto=webp&s=1bd81289386739b1d7b2ff887d21a03b04d9d7bd",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 109,
+    "value": 109
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Getting better at this building stuff.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/hyhxph/getting_better_at_this_building_stuff/"
+}

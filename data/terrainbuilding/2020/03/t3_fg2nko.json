@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_of3ip",
+    "name": "L1A1"
+  },
+  "date": {
+    "day": 1583712000,
+    "full": 1583790868,
+    "month": 1583020800,
+    "week": 1583625600
+  },
+  "id": "t3_fg2nko",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 87552,
+    "fullUrl": "https://preview.redd.it/wkj7wyaqxpl41.jpg?auto=webp&s=d01496b82a1d766ef39afe9fe901220096083bb2",
+    "hash": "a1985bce88",
+    "height": 490,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQF/8QAJRAAAgECBQMFAAAAAAAAAAAAAQIDBBEABRITIQYxUQdxgaHw/8QAFQEBAQAAAAAAAAAAAAAAAAAABQb/xAAbEQABBAMAAAAAAAAAAAAAAAABAAIDEQQSIf/aAAwDAQACEQMRAD8ARZl1/LUxQ7m5QRIjSvtEhpBdQO/PFybfPFsG5/UaqGQyQRMtQ8bygSsdTAFjpv5tf6xXmmS0uawqaoykxm66W7HzjEraSFaZnK6mJ0X7WA9vxxKnPc+LY3aVEIbwL//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/OhxFiMSsZgH7_HwWtCSPNrK9Iq4ojep5a78cJrm8vkg.jpg",
+    "url": "https://preview.redd.it/wkj7wyaqxpl41.jpg?width=640&crop=smart&auto=webp&s=022603dde24888aa7a217b502c1c3d6201c429f8",
+    "width": 640
+  },
+  "score": {
+    "comments": 15,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 253,
+    "value": 253
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "(WFB) Leopold's Rare Book Emporium",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/fg2nko/wfb_leopolds_rare_book_emporium/"
+}

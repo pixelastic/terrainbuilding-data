@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_ficz6",
+    "name": "drlloyd2"
+  },
+  "date": {
+    "day": 1581724800,
+    "full": 1581792594,
+    "month": 1580515200,
+    "week": 1581206400
+  },
+  "id": "t3_f4dqef",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "filesize": 129179,
+    "fullUrl": "https://external-preview.redd.it/zg9BPUh950z0syP94AozHtWU2Q54QAwCrTojMh6nBZY.jpg?auto=webp&s=2d5a9c590634ce2529776f7e0f06542402918742",
+    "hash": "85b466ed0a",
+    "height": 601,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAPABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQME/8QAJBAAAgIBAwIHAAAAAAAAAAAAAQIDBBEABTESIRMiJEFRYbH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAERQQL/2gAMAwEAAhEDEQA/AMG43rNI+NDO6JNgykv0qid8nJ4xqViM2lPqjbUFZUkY9sYyP08aQ3ba9wo0ZW60vo6lGjSJYzwTyT9HRtg3DEkdeZYlaPzoYxmNBz3Hv8YOhqejR84f/9k=",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/KKLi6OLsjze6oTrB33zkqrbvvkWi5My7fc41Dfkwrx4.jpg",
+    "url": "https://external-preview.redd.it/zg9BPUh950z0syP94AozHtWU2Q54QAwCrTojMh6nBZY.jpg?width=640&crop=smart&auto=webp&s=cebc23a3c6e1719e0850c20edf58eceab0981917",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 0.87,
+    "ups": 31,
+    "value": 31
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "BMC-style \"stackers\" revised - now with corners",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/f4dqef/bmcstyle_stackers_revised_now_with_corners/"
+}

@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_36gjvdco",
+    "name": "MasaMestredMasmorra"
+  },
+  "date": {
+    "day": 1571788800,
+    "full": 1571839181,
+    "month": 1569888000,
+    "week": 1571529600
+  },
+  "id": "t3_dlzpsk",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 50600,
+    "fullUrl": "https://preview.redd.it/powcohr6rau31.jpg?auto=webp&s=1ae545ed0f5b26c69ef0f60b4d83b6bef193045f",
+    "hash": "417b4924a8",
+    "height": 340,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBf/EACUQAAECBAQHAAAAAAAAAAAAAAECAwAFETEEByFxBhIjMkNRwf/EABQBAQAAAAAAAAAAAAAAAAAAAAX/xAAaEQACAgMAAAAAAAAAAAAAAAAAAQIEFDFB/9oADAMBAAIRAxEAPwDHczA4kcxSXGA+UJX00CvKSPYFNN4slGZ05XMG6qU+rUFspSluhBuBqaXvcCCT9h3HyFteTaDshvgo6sVHZ//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/IVDPLrKxy6mOgHK8WPiXZm0bRtVs_eogm5tHKz1mgDg.jpg",
+    "url": "https://preview.redd.it/powcohr6rau31.jpg?width=640&crop=smart&auto=webp&s=33043a090fa11e4ec1f39f3db84dc2c65a1dad29",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 48,
+    "value": 48
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First Ever Terrain. Next will try some more modular ruins in the same style.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/dlzpsk/first_ever_terrain_next_will_try_some_more/"
+}

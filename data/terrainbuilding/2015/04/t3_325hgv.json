@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_79qzy",
+    "name": "csp_kris"
+  },
+  "date": {
+    "day": 1428624000,
+    "full": 1428693224,
+    "month": 1427846400,
+    "week": 1428192000
+  },
+  "id": "t3_325hgv",
+  "misc": {
+    "postHint": "self"
+  },
+  "picture": {
+    "filesize": 123959,
+    "fullUrl": "https://external-preview.redd.it/AkGFw50RIWYqas7f9i2EjMXto1iCIRzecbjc7I_SezA.jpg?auto=webp&s=c10d02ed5f4f437af6e3e309a9375e477bdf238b",
+    "hash": "5895c6d5f1",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAIhAAAgEDBAIDAAAAAAAAAAAAAQIDAAQRBRIhQSJRMXGB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgX/xAAbEQABBAMAAAAAAAAAAAAAAAABAAIDEQQTMf/aAAwDAQACEQMRAD8AO0ywuNirJBDI+ACoVT8flIrHYGBzNZwNtBOEJU/XB91Do64vNzMzBgfEngc9eq1iWMLxliDkDPVFhLlPyptdUOhf/9k=",
+    "thumbnailUrl": "self",
+    "url": "https://external-preview.redd.it/AkGFw50RIWYqas7f9i2EjMXto1iCIRzecbjc7I_SezA.jpg?width=640&crop=smart&auto=webp&s=5274f7a3f2aaba1307cbe6113e1c87d27e030095",
+    "width": 640
+  },
+  "score": {
+    "comments": 16,
+    "downs": 0,
+    "ratio": 0.94,
+    "ups": 21,
+    "value": 21
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Making chainlink fences & barbed wire",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/325hgv/making_chainlink_fences_barbed_wire/"
+}

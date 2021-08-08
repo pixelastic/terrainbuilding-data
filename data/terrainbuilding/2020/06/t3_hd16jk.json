@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_14me76",
+    "name": "Oatstar"
+  },
+  "date": {
+    "day": 1592697600,
+    "full": 1592716136,
+    "month": 1590969600,
+    "week": 1592697600
+  },
+  "id": "t3_hd16jk",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 53951,
+    "fullUrl": "https://preview.redd.it/jm5rd4l457651.jpg?auto=webp&s=a39e35940e70b82245861505cb11a9835065a18f",
+    "hash": "aa5b7077b4",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwMI/8QAJRAAAQIEBAcAAAAAAAAAAAAAAQIDAAQFBhESMWEHEyEiNEJy/8QAFQEBAQAAAAAAAAAAAAAAAAAABQb/xAAeEQABAwQDAAAAAAAAAAAAAAADAAECBAUREjFxof/aAAwDAQACEQMRAD8AnatPctykNtXLTDMTQBVy3pUEd25B06jHaDzi3VHDOyaaUy7T2A0rOiXSUJJzakJAGMbNqvtB3d3gzHzE8S6SAVn1y/eEqOkjUD149X//2Q==",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/jpZyligHQyQkaPfKRo0PHVXfMd16_PprPjSlGPYdbC0.jpg",
+    "url": "https://preview.redd.it/jm5rd4l457651.jpg?width=640&crop=smart&auto=webp&s=122d78543f6147f9086e6571958bfe52c63db986",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.94,
+    "ups": 50,
+    "value": 50
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Weathered plaster-/brick wall. Tutorial in comments",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/hd16jk/weathered_plasterbrick_wall_tutorial_in_comments/"
+}

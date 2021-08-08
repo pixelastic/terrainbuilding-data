@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_69zlh",
+    "name": "fr5o"
+  },
+  "date": {
+    "day": 1563667200,
+    "full": 1563749229,
+    "month": 1561939200,
+    "week": 1563667200
+  },
+  "id": "t3_cg57f5",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 74735,
+    "fullUrl": "https://preview.redd.it/pye5pdosjqb31.jpg?auto=webp&s=bf6e50a844511c5c568962ffc5426a9cc9c0e179",
+    "hash": "bbca311386",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFBv/EACUQAAEDAwMDBQAAAAAAAAAAAAECAwQABRESIUEGEzEyUYHB0f/EABUBAQEAAAAAAAAAAAAAAAAAAAIE/8QAGxEAAgEFAAAAAAAAAAAAAAAAAQIAAxESMaH/2gAMAwEAAhEDEQA/AJdmtcV5cxCHtMWS7qDIc4zsk44/KRuvT8WCh5y2yz38+hxxJCvnjesRb7NBJYeUwlSlALIPjOPajSrXGbjSH0NgKUhRKdKcDGCMbbeOPupSxOzGtFg18uT/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/uqWhj4Pzo7gcUvPEtI5oGbADI9nYM69ptWa5MdUuDuM.jpg",
+    "url": "https://preview.redd.it/pye5pdosjqb31.jpg?width=640&crop=smart&auto=webp&s=1c6e4a185fa240c2b376c6d31c3cddda09e8ab32",
+    "width": 640
+  },
+  "score": {
+    "comments": 11,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 56,
+    "value": 56
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Another update on the board. Bridge and road put in. Ran out of foliage to do on the close side of the road. Still need to figure out water, anyone have tips?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/cg57f5/another_update_on_the_board_bridge_and_road_put/"
+}

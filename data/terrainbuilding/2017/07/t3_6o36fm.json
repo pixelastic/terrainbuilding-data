@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_8v6w3",
+    "name": "Londave"
+  },
+  "date": {
+    "day": 1500336000,
+    "full": 1500406765,
+    "month": 1498867200,
+    "week": 1500163200
+  },
+  "id": "t3_6o36fm",
+  "misc": {
+    "postHint": "self"
+  },
+  "picture": {
+    "filesize": 37345,
+    "fullUrl": "https://external-preview.redd.it/lVQFo6vujaTydgJkcd4qSnaLP1HxfjATRZDWgJ4LHcI.jpg?auto=webp&s=909bc7273ed7885c6ca6d16e593b12152b1b29a3",
+    "hash": "e4aea5a369",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAJBAAAQMDAwQDAAAAAAAAAAAAAgEDBAAGERMxNAUSIUFRcXL/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABkRAAMAAwAAAAAAAAAAAAAAAAABEQISIf/aAAwDAQACEQMRAD8Au3Rf5wpUc+myYYudq6gK2ORLO/n5Ss3ue9pspjQN5gMkRirbaCqEu6pj2tFb85g/VFm+QP5oseopq1kP/9k=",
+    "thumbnailUrl": "self",
+    "url": "https://external-preview.redd.it/lVQFo6vujaTydgJkcd4qSnaLP1HxfjATRZDWgJ4LHcI.jpg?width=640&crop=smart&auto=webp&s=f737bd31fca7ed786b75491e925196fff49db642",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 0.81,
+    "ups": 11,
+    "value": 11
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Help Needed with building",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/6o36fm/help_needed_with_building_cc/"
+}

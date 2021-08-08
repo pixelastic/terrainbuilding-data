@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_1oie84ds",
+    "name": "momento358mori"
+  },
+  "date": {
+    "day": 1602720000,
+    "full": 1602799755,
+    "month": 1601510400,
+    "week": 1602374400
+  },
+  "id": "t3_jbxfo9",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 50262,
+    "fullUrl": "https://preview.redd.it/3byi6n021ct51.jpg?auto=webp&s=0ad931ca06be790983a40d75525bd8018bb24885",
+    "hash": "105664c9e4",
+    "height": 217,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAFABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMF/8QAIRAAAQMDBAMAAAAAAAAAAAAAAgEDBAARIQUGEzESIkH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAA//EABcRAQEBAQAAAAAAAAAAAAAAAAIAAVH/2gAMAwEAAhEDEQA/ANLbizNS23pU+VOd5nmOU0D1G/j8S+OqvKjyThvkMxUcYBOMiBFRCt3bGM9UpUwcia7f/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/CskGszkj089d3TQeAThf8q7W9RtuIUgMCFg1oTw6RxE.jpg",
+    "url": "https://preview.redd.it/3byi6n021ct51.jpg?width=640&crop=smart&auto=webp&s=ddc08a27767aa46154748462baff04c052b7f290",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 83,
+    "value": 83
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Second level of my modular city block terrain done.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/jbxfo9/second_level_of_my_modular_city_block_terrain_done/"
+}

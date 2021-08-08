@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_rfcob",
+    "name": "Ferninja"
+  },
+  "date": {
+    "day": 1571702400,
+    "full": 1571782279,
+    "month": 1569888000,
+    "week": 1571529600
+  },
+  "id": "t3_dlpfld",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 144651,
+    "fullUrl": "https://preview.redd.it/mbkk8w5226u31.jpg?auto=webp&s=ac596cd095f54c4a1258c0bd0ae930f960b517d3",
+    "hash": "13525ff458",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgMF/8QAJRAAAQIFBAIDAQAAAAAAAAAAAQIDBAUGERIAEyExUWEyQYGx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAZEQACAwEAAAAAAAAAAAAAAAABEQACEiL/2gAMAwEAAhEDEQA/AJ0HTAgZg8/BvqMmjoezzT7A3lHnEdWIAPZ5PjTuJpOmYwtrfYAcQgIKmiGs7dFQSm17cX9DRKjq3lk4bZxiQzEjjbWn5G3ST59Hn+60Ksj52zNtmVRLDTLbaAoLbyOZGR+/YH5oWS6EpuzYKn//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/t8M2yVi-yWDyfEMUJLkOf5V0K4e1SNjfx9119vRknIo.jpg",
+    "url": "https://preview.redd.it/mbkk8w5226u31.jpg?width=640&crop=smart&auto=webp&s=2e54a4b2d2adce9b6188a088570b597db23583f0",
+    "width": 640
+  },
+  "score": {
+    "comments": 9,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 341,
+    "value": 341
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My first attempt at tiles. Jungle tiles via BMC tutorial. Thoughts?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/dlpfld/my_first_attempt_at_tiles_jungle_tiles_via_bmc/"
+}

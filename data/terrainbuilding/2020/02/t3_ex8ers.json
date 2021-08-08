@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_2kxcq",
+    "name": "Hideous"
+  },
+  "date": {
+    "day": 1580515200,
+    "full": 1580573966,
+    "month": 1580515200,
+    "week": 1579996800
+  },
+  "id": "t3_ex8ers",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "filesize": 98858,
+    "fullUrl": "https://external-preview.redd.it/P8UfTi5faewHlLhFEegGTDNaYcTlavEBP0swX4tc-wE.jpg?auto=webp&s=a1b4c9f7f702e511c1d9c0abae8954907916ccbb",
+    "hash": "4559097396",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAf/xAAmEAABBAEDAwQDAAAAAAAAAAABAgMEBREABiETIjEHEhQyQnGR/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABgRAAMBAQAAAAAAAAAAAAAAAAABAiER/9oADAMBAAIRAxEAPwC71e437OLY4j/HMZKiwpL6V9UBJ8gfXBGCNTjZm9ri7u5US2kt10ZxoOtqThxZUSO0LV+JGSONFmVFrFtp8XbVDbdCblEhLy/YeMjlau0I5JGOefOgtei9sUJcLlVDZQEhmE2XHA1zn7n9n+6CabWjVxPD/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/Cca0gPnNf7ubsHf-N0-NpYVr8E-sb-1giEggsD7chGs.jpg",
+    "url": "https://external-preview.redd.it/P8UfTi5faewHlLhFEegGTDNaYcTlavEBP0swX4tc-wE.jpg?width=640&crop=smart&auto=webp&s=3ec7c70e45fa62e5ba200c66c301c57bb35d71fd",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.91,
+    "ups": 8,
+    "value": 8
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A well-decorated dice tower counts as terrain, right?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ex8ers/a_welldecorated_dice_tower_counts_as_terrain_right/"
+}

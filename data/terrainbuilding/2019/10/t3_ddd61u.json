@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_1o11j1s0",
+    "name": "jikle-jack"
+  },
+  "date": {
+    "day": 1570147200,
+    "full": 1570221555,
+    "month": 1569888000,
+    "week": 1569715200
+  },
+  "id": "t3_ddd61u",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 70335,
+    "fullUrl": "https://preview.redd.it/97eysvxb5lq31.jpg?auto=webp&s=a0ed56877ab4c89dfab0ba4ab6052e0b3af6bddf",
+    "hash": "426b2beb28",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAIF/8QAIRAAAgIBBAIDAAAAAAAAAAAAAQIDBBEABRIhQVEGEyL/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAGREAAgMBAAAAAAAAAAAAAAAAAAECAxES/9oADAMBAAIRAxEAPwBVz5PTsVdzia5asPJLxiiUMMKHJB5HAAx171O0XjPRjM3KKQAIVc9n1g+c6BFQr0abWYUzKwPb/oDvwNb+17fXM5Ei/ZiYupfsqQMdaAcumsGnVkT/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/rYH77KKnyTBR3m5z8ZjNj-PcPFCuL9osSYejoFHHpkQ.jpg",
+    "url": "https://preview.redd.it/97eysvxb5lq31.jpg?width=640&crop=smart&auto=webp&s=bce025fea07ada3c87da43b95e65fd52e5bb8aa8",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 67,
+    "value": 67
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Azyrite ruins kitbash WIP",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ddd61u/azyrite_ruins_kitbash_wip/"
+}

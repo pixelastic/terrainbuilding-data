@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_tppqs",
+    "name": "epicamytime"
+  },
+  "date": {
+    "day": 1573257600,
+    "full": 1573325038,
+    "month": 1572566400,
+    "week": 1572739200
+  },
+  "id": "t3_dtzwcg",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "filesize": 73938,
+    "fullUrl": "https://external-preview.redd.it/-EZscEEHN7kO7zVRDzHuRQzgU_GeKG9zrQ6FDOuQuUA.jpg?auto=webp&s=f141fbec9c0013227fe7d35cbeed33ec6b372a44",
+    "hash": "781a88fb87",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAjEAABBAEEAQUAAAAAAAAAAAABAgMEEQUABhIhYQcxQZGh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwX/xAAeEQACAQMFAAAAAAAAAAAAAAABAxEAAgRxgcHR8P/aAAwDAQACEQMRAD8AJ2C8cFj5zcuZImFZQ8w5IKkICh0riCQOx8EgmtW0vcs1yAXMa0pyYvtK3AktgCrAFnzZ8jQ2E25iclGZZnRA8ge3Jxdj91SZL0+wkWDcYSmgBYSHiQPu9Tl5djTAkbDunclqLZMH2nNf/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/WdMmPH7EGU4y3BOhrX_rxyJAY_XT7Fsq12ebo5eNPBs.jpg",
+    "url": "https://external-preview.redd.it/-EZscEEHN7kO7zVRDzHuRQzgU_GeKG9zrQ6FDOuQuUA.jpg?width=640&crop=smart&auto=webp&s=d8e5a1dc556a81a2af641aad1e3bfe73200ca5ed",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 0.93,
+    "ups": 27,
+    "value": 27
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "For those asking, here is my progress so far on a playable Trollskull Manor.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/dtzwcg/for_those_asking_here_is_my_progress_so_far_on_a/"
+}

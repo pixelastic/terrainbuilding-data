@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_17u26ic9",
+    "name": "Patagos81"
+  },
+  "date": {
+    "day": 1527897600,
+    "full": 1527950856,
+    "month": 1527811200,
+    "week": 1527379200
+  },
+  "id": "t3_8o0yo7",
+  "misc": {
+    "postHint": "self"
+  },
+  "picture": {
+    "filesize": 89262,
+    "fullUrl": "https://external-preview.redd.it/F8A2VYARxUO_5UfiWbBn-ZXupgRr7_lHlmvLx1wwCbY.jpg?auto=webp&s=ce09a5a564e8e8308c387827ed356d39d607caa1",
+    "hash": "3eef1da0a8",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQT/xAAlEAABAwIGAQUAAAAAAAAAAAABAgMEBREABhIhMUFhExQjUXH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGxEBAAEFAQAAAAAAAAAAAAAAAQACAxETUfD/2gAMAwEAAhEDEQA/AJaxUGqdIXLpDvsJEZtta22nLhCtBCwm/wBE8efGE5U92rzvhkRUT5kUeqVKKHFFIG9uzY7ju18IZspUNUaqyksNtyI7TS0uJSLq3Oyriyhv3gnJDbVWRJqsplsTCdIU2NITYcgcA/mCl1fdIrVSKIYn/9k=",
+    "thumbnailUrl": "self",
+    "url": "https://external-preview.redd.it/F8A2VYARxUO_5UfiWbBn-ZXupgRr7_lHlmvLx1wwCbY.jpg?width=640&crop=smart&auto=webp&s=659ac54e401ca704a50d074e5fe035c7fb8a3fcb",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.9,
+    "ups": 17,
+    "value": 17
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My new terrain - arcane stone",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/8o0yo7/my_new_terrain_arcane_stone/"
+}

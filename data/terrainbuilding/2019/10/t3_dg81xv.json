@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_m50nrfd",
+    "name": "valmv88"
+  },
+  "date": {
+    "day": 1570752000,
+    "full": 1570757895,
+    "month": 1569888000,
+    "week": 1570320000
+  },
+  "id": "t3_dg81xv",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 38317,
+    "fullUrl": "https://preview.redd.it/2zn1zn95gtr31.jpg?auto=webp&s=dc876ab2c70d23a8c5bed1ff356ee46502bcfa1a",
+    "hash": "e90f662ddf",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQIH/8QAIxAAAQMDAwUBAAAAAAAAAAAAAQIDEQAEIQYSNAUxYXKxc//EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAXEQADAQAAAAAAAAAAAAAAAAAAASEC/9oADAMBAAIRAxEAPwDGNRssXFuy+9dhO8SljOFqBJWfGYq9GXiLEOrN6pKNixGwkyUxIPaM0h0Pgufkr7QTfEX6H5QJQXTp/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/lN13MPT3J5pewaB10qLlB6TWu3bcg2dNV1W_vxLcNVI.jpg",
+    "url": "https://preview.redd.it/2zn1zn95gtr31.jpg?width=640&crop=smart&auto=webp&s=ddaf5f47580142e174764ea9f86d955a600c3a7a",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 97,
+    "value": 97
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First ever Tudor style house",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/dg81xv/first_ever_tudor_style_house/"
+}

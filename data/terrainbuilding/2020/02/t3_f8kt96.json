@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_2pvdcb1t",
+    "name": "yazzieADAM"
+  },
+  "date": {
+    "day": 1582502400,
+    "full": 1582513721,
+    "month": 1580515200,
+    "week": 1582416000
+  },
+  "id": "t3_f8kt96",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 72102,
+    "fullUrl": "https://preview.redd.it/v68044w8gsi41.jpg?auto=webp&s=8d208931f1f3d2eafb5a9b28428e032d1d308adb",
+    "hash": "d5cf15d169",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAYI/8QAJBAAAQQBAwMFAAAAAAAAAAAAAQIDBAURABMhIjFBBhWBkbH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABcRAAMBAAAAAAAAAAAAAAAAAAABERL/2gAMAwEAAhEDEQA/AIewjrrbVyFPZiSZLLmC0Rutg9z3GCef3SaxIupjEatrYLM3kFDcdtoLwT5x3+daJXRVltFDdpDZlpWMndQCfsaTWekqOhbe9srmW9wdRVlRI46cnxqej5dP/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/-USw1W9A56OQrNDZH4WEgF2GW2uZL551YSm0g1K4FNg.jpg",
+    "url": "https://preview.redd.it/v68044w8gsi41.jpg?width=640&crop=smart&auto=webp&s=3afeda5a4d084ae228a8f062da2484035eb7756b",
+    "width": 640
+  },
+  "score": {
+    "comments": 11,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 182,
+    "value": 182
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "RUINS!!! Scatter terrain;)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/f8kt96/ruins_scatter_terrain/"
+}

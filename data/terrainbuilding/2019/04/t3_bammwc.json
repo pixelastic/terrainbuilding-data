@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_10zvtr",
+    "name": "Rattigan_IV"
+  },
+  "date": {
+    "day": 1554595200,
+    "full": 1554679869,
+    "month": 1554076800,
+    "week": 1554595200
+  },
+  "id": "t3_bammwc",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 65737,
+    "fullUrl": "https://preview.redd.it/njmgb3nxfxq21.jpg?auto=webp&s=984b3597417cf7ca5b711eeb95ededb9d7ac0a7b",
+    "hash": "67269e0fca",
+    "height": 311,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAIABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUG/8QAHhAAAQMFAQEAAAAAAAAAAAAAAQIDBAAFERIhQWH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQAxYf/aAAwDAQACEQMRAD8AzVokO3G4SZZSltTjq39grBTk54e4xnwVeu7cy1Liz48lw6ELaXsQUqB6NSASPvtKUAydv//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/91GSumuJ02MRoFdzhntVXHNr2PJ_AFMshaBovJVee3E.jpg",
+    "url": "https://preview.redd.it/njmgb3nxfxq21.jpg?width=640&crop=smart&auto=webp&s=f36e1e11c88101b1b2e651dda4b7e67cb9ca0b68",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.96,
+    "ups": 17,
+    "value": 17
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Low fieldstone walls scatter terrain for d&d",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/bammwc/low_fieldstone_walls_scatter_terrain_for_dd/"
+}

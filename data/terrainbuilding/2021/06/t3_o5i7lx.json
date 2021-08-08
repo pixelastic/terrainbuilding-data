@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_a9zg0",
+    "name": "Spock_42"
+  },
+  "date": {
+    "day": 1624320000,
+    "full": 1624350876,
+    "month": 1622505600,
+    "week": 1624147200
+  },
+  "id": "t3_o5i7lx",
+  "misc": {
+    "postHint": "self"
+  },
+  "picture": {
+    "filesize": 93303,
+    "fullUrl": "https://external-preview.redd.it/3B5c4hZXLwjAeGIF87Z8lXZK4-x9KXuypqsTIUsWSwU.jpg?auto=webp&s=fffe7097de7583bdcc619df52a9d11af9fbcb3da",
+    "hash": "f7b46bc50f",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwUG/8QAJRAAAgEDAwIHAAAAAAAAAAAAAQIEAwURABIhBjEHFBUWIkFh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAbEQABBAMAAAAAAAAAAAAAAAABAAIDEQQTIf/aAAwDAQACEQMRAD8AtP4bJdoFJrjeJ5NHc42qm3LAZ+JHbgYGj+6dMe2L5EtazK/p9RPNGW+EanV3MQpZQRglR3H3pWtnWsCdaw8ZZYpcbnaM5AH6VB1jOtbhFutyjVolSlXRFCs6uRyCx2YxxnI5OpR7G0Op5EjAwkUv/9k=",
+    "thumbnailUrl": "self",
+    "url": "https://external-preview.redd.it/3B5c4hZXLwjAeGIF87Z8lXZK4-x9KXuypqsTIUsWSwU.jpg?width=640&crop=smart&auto=webp&s=d1fcb1e1cbd1725844e3c68d85175f03a880de5b",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 2,
+    "value": 2
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Building a \"travel-size\" tile grid, and looking for some grouting advice",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/o5i7lx/wip_building_a_travelsize_tile_grid_and_looking/"
+}

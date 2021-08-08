@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_10bjw9",
+    "name": "sFAMINE"
+  },
+  "date": {
+    "day": 1625184000,
+    "full": 1625236435,
+    "month": 1625097600,
+    "week": 1624752000
+  },
+  "id": "t3_ocbc38",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 58476,
+    "fullUrl": "https://preview.redd.it/02511t3s8t871.jpg?auto=webp&s=e37eaa36642326b58f05973194e73943b034eb9c",
+    "hash": "e51b47f51e",
+    "height": 293,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUH/8QAIhAAAQMDAwUAAAAAAAAAAAAAAQIDEQAEEgUTIRQxQWGR/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABcRAAMBAAAAAAAAAAAAAAAAAAABAhH/2gAMAwEAAhEDEQA/AMnul6KX1XG2g3KH2dpwOOQnkDIoxxI8xE8fathqWjdG+xcll+7DyyXlMqiMYSlIjtxJJ9ClKBzoqrD/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/wd_7KBgMMZypffHEh0v2uGWXVPqw-Pd43kDPIz9kdmA.jpg",
+    "url": "https://preview.redd.it/02511t3s8t871.jpg?width=640&crop=smart&auto=webp&s=a8ca33612b0f8ea3ea2f32b9422055975a50427b",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 53,
+    "value": 53
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Birch Seed Leaves in Water Effects",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ocbc38/birch_seed_leaves_in_water_effects/"
+}

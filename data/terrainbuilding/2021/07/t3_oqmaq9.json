@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_55bfx",
+    "name": "St4pl3r"
+  },
+  "date": {
+    "day": 1627084800,
+    "full": 1627116592,
+    "month": 1625097600,
+    "week": 1626566400
+  },
+  "id": "t3_oqmaq9",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "filesize": 106075,
+    "fullUrl": "https://external-preview.redd.it/yhDpsvcR-XZB_f_TlWwq2HjSKCIDJnQ4NBwqcNsBweA.jpg?auto=webp&s=ad3bde1bf968abd1a1444c8879f963108f3a44e6",
+    "hash": "21fdc272d3",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQF/8QAIRAAAgICAgIDAQAAAAAAAAAAAQIDBAURACEiMQYSFWH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABgRAAMBAQAAAAAAAAAAAAAAAAECIQAR/9oADAMBAAIRAxEAPwDFvYSKTHZKiZLMsliEkmSVB9XAZwFUjobUDW9a74Wy2KEGYvQVhO0UcgUHRO/BSfX9PFGCgfLY2t+RdpSOYSHgW6GkjYow0SR323vXK8z8cyVi8ZVsIpZF2jtICh0OvHrk5CBZMvW7d//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/b2AdxlHtxq9SwoR4_FgqBlAtDUcFuE2ruZYcNdps2jw.jpg",
+    "url": "https://external-preview.redd.it/yhDpsvcR-XZB_f_TlWwq2HjSKCIDJnQ4NBwqcNsBweA.jpg?width=640&crop=smart&auto=webp&s=c98c97285da4f58b7efd7671eadc711481c689c5",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.95,
+    "ups": 14,
+    "value": 14
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP Ruin - inspired by Recon-01",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/oqmaq9/wip_ruin_inspired_by_recon01/"
+}

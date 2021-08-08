@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_6qgyynqq",
+    "name": "beware_thejabberwock"
+  },
+  "date": {
+    "day": 1602201600,
+    "full": 1602266158,
+    "month": 1601510400,
+    "week": 1601769600
+  },
+  "id": "t3_j83u6q",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 69417,
+    "fullUrl": "https://preview.redd.it/6ig1nl9ey3s51.jpg?auto=webp&s=e0fa4ef9aaee1f63d73a71a1daa4d4046c39e666",
+    "hash": "c42550f978",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQGB//EACMQAAIBAwMEAwAAAAAAAAAAAAECAwQFEQASIQYTMVFBcaH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABoRAAICAwAAAAAAAAAAAAAAAAECAAMEEfH/2gAMAwEAAhEDEQA/AJ68366SQmvo4pLfFCxKGIMoZTgcBvOPkj3pSp6gut+snYrKiSRYZiTMANz5HAYgc45x9nWn1VNBX06CrhjmUkNtdQwz750RIIoIdsKLGo8KgAH5qY+e7k7j66VQAdn/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/CB4T3pqEZYuQo5P_6gkkrCITRLeTtyaIqaE5tnb7JCo.jpg",
+    "url": "https://preview.redd.it/6ig1nl9ey3s51.jpg?width=640&crop=smart&auto=webp&s=3a4c150d913edc27f43d6264ea2764c88485a463",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 41,
+    "value": 41
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First lasercut house I've designed myself. Turned out okay. Next few I'll be using foam bricks to line the outside.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/j83u6q/first_lasercut_house_ive_designed_myself_turned/"
+}

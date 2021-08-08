@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_2ved0o41",
+    "name": "art_geez"
+  },
+  "date": {
+    "day": 1577577600,
+    "full": 1577578539,
+    "month": 1575158400,
+    "week": 1577577600
+  },
+  "id": "t3_egymfe",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 114598,
+    "fullUrl": "https://preview.redd.it/jkz4i29ftg741.jpg?auto=webp&s=832cfe58ecf6f2cc7faa810409f1a5268b1d0326",
+    "hash": "73e114d99f",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwMG/8QAIhAAAQMEAAcAAAAAAAAAAAAAAQIDBAAFESESEzJBobHR/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABgRAQADAQAAAAAAAAAAAAAAAAEAAjFB/9oADAMBAAIRAxEAPwCl/gsxZMmMsnmIWU67bo5eucVLhBSfH2tBfr+7JlOvqKVKcVxKVs53midyQC65knqPuibGkYryf//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/_sFwdpSggIcBXvlWvgVTnvQeG7vKrx_EQun-5jzo54E.jpg",
+    "url": "https://preview.redd.it/jkz4i29ftg741.jpg?width=640&crop=smart&auto=webp&s=aba5ed187c26bc734b031e20af86b21791320b46",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 22,
+    "value": 22
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My first piece of terrain I've ever built. I need a lot more practice but overall I'm happy with it.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/egymfe/my_first_piece_of_terrain_ive_ever_built_i_need_a/"
+}

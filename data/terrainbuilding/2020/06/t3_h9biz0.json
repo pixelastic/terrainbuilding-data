@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_3gywjabf",
+    "name": "burrito2077"
+  },
+  "date": {
+    "day": 1592179200,
+    "full": 1592206974,
+    "month": 1590969600,
+    "week": 1592092800
+  },
+  "id": "t3_h9biz0",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 98526,
+    "fullUrl": "https://preview.redd.it/afhp8l8a31551.jpg?auto=webp&s=ab58aba9cebeba9c418f3acae55c9173f2707f55",
+    "hash": "8824b81cb4",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgf/xAAjEAACAgEEAgIDAAAAAAAAAAABAgMRBAAFIVEGMRITFGGB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgT/xAAZEQADAAMAAAAAAAAAAAAAAAAAAQMCETH/2gAMAwEAAhEDEQA/AIzDgkLhKIZUl+1WZypFhiKv9dEd6Z/gbdAKeDKlz8iExtIzcIeOK91xd/zQ/wAXzp8nyPZ8aVrQZUKlhwxUMKBPQrjVR3jZMLE3okpJP8ldwJpGIWmHoAjvUGae+hnJ0P/Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/DLrWrutTWFi9xejZY9uO_Wco4Gf3xUpbvbL93dAuNXc.jpg",
+    "url": "https://preview.redd.it/afhp8l8a31551.jpg?width=640&crop=smart&auto=webp&s=bdde331ef08f6a9e5dba62dfc3d2ea5f9d2410a2",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 0.92,
+    "ups": 10,
+    "value": 10
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Anyone used these? How were they?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/h9biz0/anyone_used_these_how_were_they/"
+}

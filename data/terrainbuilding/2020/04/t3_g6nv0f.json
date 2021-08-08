@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_4uycxdn3",
+    "name": "Necromanticore2"
+  },
+  "date": {
+    "day": 1587600000,
+    "full": 1587652929,
+    "month": 1585699200,
+    "week": 1587254400
+  },
+  "id": "t3_g6nv0f",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 69890,
+    "fullUrl": "https://preview.redd.it/i5lslibqxku41.jpg?auto=webp&s=937bad0be310490c3c7052d222e336f063f36599",
+    "hash": "15fe902dc1",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQQFBv/EACQQAAEEAQQABwAAAAAAAAAAAAECAwQFEQAGEiEUIzFBUWFx/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABcRAQADAAAAAAAAAAAAAAAAAAAxQYH/2gAMAwEAAhEDEQA/ANtEr98yb50J8KxDS+eBefJSUZ66T36fONCq3LaSp8ttiqspcRmSpkyWGyUcgog9KIPXWotbG3vMulYihiOl4jz1BKSnl9ZJGPfTVROtpNzJbNZPXFRILYeSnGCDgnCiCR+aKoLr/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/b2XOeEX7cumUkA4vz0DquhwR5tJ_APhQLtClPC_-QdE.jpg",
+    "url": "https://preview.redd.it/i5lslibqxku41.jpg?width=640&crop=smart&auto=webp&s=70186b35c4506407d55182576eef0a484213fa29",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.75,
+    "ups": 6,
+    "value": 6
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Update :Top: before shading. Down: After shading",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/g6nv0f/update_top_before_shading_down_after_shading/"
+}

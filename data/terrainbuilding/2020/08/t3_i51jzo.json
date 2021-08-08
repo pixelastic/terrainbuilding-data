@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_4lttfk6y",
+    "name": "quidamcorvus"
+  },
+  "date": {
+    "day": 1596672000,
+    "full": 1596752234,
+    "month": 1596240000,
+    "week": 1596326400
+  },
+  "id": "t3_i51jzo",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 124031,
+    "fullUrl": "https://preview.redd.it/2f181xaoigf51.jpg?auto=webp&s=a26346092d8f82b31cc64b98531fff519be9ee22",
+    "hash": "5e12fe65ae",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUH/8QAIxAAAgIBBQABBQAAAAAAAAAAAQMCEQQABQYSMRMiQVFhkf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAEREgL/2gAMAwEAAhEDEQA/AM723hWA/au+3YDspuOyIZNket1VkHwiiT+9H5PxRK9r3FiYY8RExitYiOwIBsgj0kjweUdL4vyQ5BjjFAMrB+ZjPplVUK+1D+6o7llTZF7C/HWsKZCKgwAE9TZJ9/OotaFmc2H/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/Sv0w2VFhAI3c7T121Rfbr8pQOtQ5yaYhPYkwDPioOEg.jpg",
+    "url": "https://preview.redd.it/2f181xaoigf51.jpg?width=640&crop=smart&auto=webp&s=7354938776aba494d52c1c23f95b9692f984381d",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 41,
+    "value": 41
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "The inn, another model showing the building of the village of Teufelsberg to Warheim FS.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/i51jzo/the_inn_another_model_showing_the_building_of_the/"
+}

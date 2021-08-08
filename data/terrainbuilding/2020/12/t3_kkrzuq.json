@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_2vybqf2p",
+    "name": "Oxybulart"
+  },
+  "date": {
+    "day": 1608940800,
+    "full": 1609023845,
+    "month": 1606780800,
+    "week": 1608422400
+  },
+  "id": "t3_kkrzuq",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 108769,
+    "fullUrl": "https://preview.redd.it/k1m3xomg4m761.jpg?auto=webp&s=68648226b7409236ffc103b1b879ea5b592245d7",
+    "hash": "9036fa5fcf",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgEH/8QAJBAAAgEDBAEFAQAAAAAAAAAAAQMCBAYRAAUSIWEUIjEyQYH/xAAVAQEBAAAAAAAAAAAAAAAAAAACBP/EABsRAAICAwEAAAAAAAAAAAAAAAECAAMhMaHB/9oADAMBAAIRAxEAPwC27dG3SbOq4xWxk+RVCZGOuhjj8aWPuOmdIM9FT1HID3NXHkPH11he0Xcla1wdbu2NEAI81MK5nH6euz/dJ53nRviuUKRtNiOCszEsHwcnrTRUOwZDZbYBhx72f//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/CRLH_WD_O_oYJ4CRmPbv5bcKJeyVbIPNwzk181nuVho.jpg",
+    "url": "https://preview.redd.it/k1m3xomg4m761.jpg?width=640&crop=smart&auto=webp&s=d846de4ad7fde9affc7617ab5d419c11bb88bc39",
+    "width": 640
+  },
+  "score": {
+    "comments": 10,
+    "downs": 0,
+    "ratio": 0.92,
+    "ups": 30,
+    "value": 30
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Today, roof with foam",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/kkrzuq/today_roof_with_foam/"
+}

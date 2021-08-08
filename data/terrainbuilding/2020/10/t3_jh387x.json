@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_74p1jglc",
+    "name": "Ban_of_the_Valar"
+  },
+  "date": {
+    "day": 1603497600,
+    "full": 1603515931,
+    "month": 1601510400,
+    "week": 1602979200
+  },
+  "id": "t3_jh387x",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 69006,
+    "fullUrl": "https://preview.redd.it/ikvf159l6zu51.jpg?auto=webp&s=fc4b6078ce6c6097e2bd174fc24e6896dbfdda44",
+    "hash": "9c9781f3e8",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGB//EACYQAAIBAgMIAwAAAAAAAAAAAAECAwQFABESBgcTISIxQVEUI5H/xAAVAQEBAAAAAAAAAAAAAAAAAAADBf/EABoRAAICAwAAAAAAAAAAAAAAAAABAgMEIWH/2gAMAwEAAhEDEQA/AKar3hvS/WlnQe+JMxOeXbIDA1s3kNJdI46ujgFLJ06oCxaM+TzPUB5HLCe700C08DvCkkkkhQu/MgE9sabs3sJY/hQ1dTA9VIwB0zMNC5elUAfueJ2PdK2HRGtn/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/z2JZ0P1lKy9RN7FcRALom-Lj2PfnePgRio20TJL6Woo.jpg",
+    "url": "https://preview.redd.it/ikvf159l6zu51.jpg?width=640&crop=smart&auto=webp&s=62c68d8988807d36b2fcdfef104fa762b010f43f",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.93,
+    "ups": 20,
+    "value": 20
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Test piece for a commissioned river.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/jh387x/test_piece_for_a_commissioned_river/"
+}

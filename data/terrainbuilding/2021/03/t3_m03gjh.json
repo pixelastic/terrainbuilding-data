@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_124axn",
+    "name": "flyingthedonut"
+  },
+  "date": {
+    "day": 1615161600,
+    "full": 1615162922,
+    "month": 1614556800,
+    "week": 1615075200
+  },
+  "id": "t3_m03gjh",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 118027,
+    "fullUrl": "https://preview.redd.it/r19a6a5x6pl61.jpg?auto=webp&s=59023d90e9621084ec593e0fb260469e05f3b9eb",
+    "hash": "b7e2a33d40",
+    "height": 960,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAIhAAAQMFAAEFAAAAAAAAAAAAAgEDBAAFESExEgYTYXKR/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABkRAAIDAQAAAAAAAAAAAAAAAAASAQIxEf/aAAwDAQACEQMRAD8AFXD0tFg2q3sxlbdlOtu5N0FVFTaIn2THeLn4rPQsb7oIZOt5LexzTgp1xdtMSS+4TT8cDRwvbEkJF5r95uppA1I8XYkyKLBCiiPnjGuYVM9oW5okUbD/2Q==",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/VVuF-FaOQiP9FbWALhyzWR7ivzFm2bzfMHnw7qRUae0.jpg",
+    "url": "https://preview.redd.it/r19a6a5x6pl61.jpg?width=640&crop=smart&auto=webp&s=f1af59004067a78854acf4e9ebaffafa4aeb5be9",
+    "width": 640
+  },
+  "score": {
+    "comments": 58,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 1801,
+    "value": 1801
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "1:35 scratch built building. Many bricks were cast for this project.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/m03gjh/135_scratch_built_building_many_bricks_were_cast/"
+}

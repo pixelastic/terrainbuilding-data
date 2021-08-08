@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_rswn3",
+    "name": "BlueBeltTech"
+  },
+  "date": {
+    "day": 1523923200,
+    "full": 1524004455,
+    "month": 1522540800,
+    "week": 1523750400
+  },
+  "id": "t3_8d0pdf",
+  "misc": {
+    "postHint": "self"
+  },
+  "picture": {
+    "filesize": 63972,
+    "fullUrl": "https://external-preview.redd.it/HxdwY5pQgTgBI8CBgqXZZlzjbw0bBLnqgiLLnRpioX4.jpg?auto=webp&s=3c5295cd4e98346cdb871c63df880f9b1c7464be",
+    "hash": "d60eeb4613",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQH/8QAJBAAAgEDAwMFAAAAAAAAAAAAAQIEAwURAAYSBxMxISJRcYH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABsRAAEFAQEAAAAAAAAAAAAAAAEAAgQRIQMi/9oADAMBAAIRAxEAPwAW9Xe52C+yodGUG7b5BemGDKfUefvWjbG3BIuVlEyaGJVyuKRPuIIAwufnGo95WGDcEdpCN3FUlainDL+6b6OQqKbNoSuJaqC+OXgYJ1L5zPBcRoTXx6dQOL//2Q==",
+    "thumbnailUrl": "self",
+    "url": "https://external-preview.redd.it/HxdwY5pQgTgBI8CBgqXZZlzjbw0bBLnqgiLLnRpioX4.jpg?width=640&crop=smart&auto=webp&s=c38e77178f7ea18f274a045ec50d4b8669b17f63",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 0.75,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "What should I use to protect spackle on terrain?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/8d0pdf/what_should_i_use_to_protect_spackle_on_terrain/"
+}

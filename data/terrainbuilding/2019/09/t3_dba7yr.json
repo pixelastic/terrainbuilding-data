@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_71nqizx",
+    "name": "omgitsduane"
+  },
+  "date": {
+    "day": 1569801600,
+    "full": 1569843355,
+    "month": 1567296000,
+    "week": 1569715200
+  },
+  "id": "t3_dba7yr",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 67217,
+    "fullUrl": "https://preview.redd.it/v99ya24qwpp31.jpg?auto=webp&s=f6d62f4b8c4e18a340d4f524d7b4595af9b50dc9",
+    "hash": "e9375b57e5",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgf/xAAoEAABAwIFAQkAAAAAAAAAAAABAgMEBQYAERIhMUEHExQiIzJRYZH/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAERIUH/2gAMAwEAAhEDEQA/ADFu0KjVe3236wosU5C9LdRjvqZ8QcgNWgoOY29u2WXJOKJPsex23k923Uo4UkK0xXVlB+xzzgHS+0SzpNEYp9VgTX3Yr2pryghQUQCVZK36k8dMsTu4b7qdXrEmY6zIiJWr048Z5QbaQNkpA0/H6d+uDMsH1ps//9k=",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/KjGyHFRBckPsTeqeqfM1OgfqOvoU322pP2Mz9NgU4n0.jpg",
+    "url": "https://preview.redd.it/v99ya24qwpp31.jpg?width=640&crop=smart&auto=webp&s=9eb53a40344b6a8b7cfad0f414c9ee0677f569c6",
+    "width": 640
+  },
+  "score": {
+    "comments": 17,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 513,
+    "value": 513
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Making the portal for an infinity mirror daemon world.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/dba7yr/making_the_portal_for_an_infinity_mirror_daemon/"
+}

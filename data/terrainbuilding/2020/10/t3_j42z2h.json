@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_ficz6",
+    "name": "drlloyd2"
+  },
+  "date": {
+    "day": 1601596800,
+    "full": 1601672603,
+    "month": 1601510400,
+    "week": 1601164800
+  },
+  "id": "t3_j42z2h",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "filesize": 41084,
+    "fullUrl": "https://external-preview.redd.it/8L68ybgfMxO6Q3z4MDEQGx2L1uo_b0eqh-SC2uVom08.jpg?auto=webp&s=96375bad13a1c2b914b0c2efd1188ddc6adae74e",
+    "hash": "3f950204bf",
+    "height": 315,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAIABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQG/8QAIhAAAQMDAwUAAAAAAAAAAAAAAgEDBQAREgYhIgQHMVFh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAL/xAAYEQACAwAAAAAAAAAAAAAAAAAAAQISYf/aAAwDAQACEQMRAD8A1THcqFAm3EJojcARMMyRG7Xvyw38+kqLWOu4CUi5SOR8EYe6dwW3kIlJStxTDHa6/aUpUpTw/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/83unzrMGix98iIAzdwFxxK5vUE0tu-pkdEZn8FkG3eM.jpg",
+    "url": "https://external-preview.redd.it/8L68ybgfMxO6Q3z4MDEQGx2L1uo_b0eqh-SC2uVom08.jpg?width=640&crop=smart&auto=webp&s=6e87a7204bdc3b689f96b29d7ab38cd3c958bf97",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "The start of a modern city streets build that, er, ran into some roadblocks.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/j42z2h/the_start_of_a_modern_city_streets_build_that_er/"
+}

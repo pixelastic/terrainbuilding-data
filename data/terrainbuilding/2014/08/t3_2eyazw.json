@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_auzwj",
+    "name": "TheTerrainTutor"
+  },
+  "date": {
+    "day": 1409270400,
+    "full": 1409346268,
+    "month": 1406851200,
+    "week": 1408838400
+  },
+  "id": "t3_2eyazw",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 68272,
+    "fullUrl": "https://external-preview.redd.it/ISjKMsr_ktqNhaot-XpHfJrPWiKGPCuY5tpb5ZmvC54.jpg?auto=webp&s=ec98b586c6a810f60a73582e7b57aa18962d1a52",
+    "hash": "90b506486e",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwUG/8QAJBAAAQQBAwMFAAAAAAAAAAAAAQIDBAURABIhBjFRByJSYZH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABkRAAIDAQAAAAAAAAAAAAAAAAABAgMRMf/aAAwDAQACEQMRAD8ANuiaF1mdGs57TjAc3LZeIygk5IA8YB/dafqC9sTV7rGXJW4ysxmJBfBK045UUqGd2R2yMZP1o/q7ywo3i9XSFI+bSvc24PCkng6repr5TMgRGUIZjKjtyyhA7LWMnk841Jp6Gu5SjrXD/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/9ZsthwdnTOtKxCClowC_xF1_MaraAW5QBO9a1PQeHSA.jpg",
+    "url": "https://external-preview.redd.it/ISjKMsr_ktqNhaot-XpHfJrPWiKGPCuY5tpb5ZmvC54.jpg?width=640&crop=smart&auto=webp&s=9ad6ff2a396e8d7e255a7f73af62564571093126",
+    "width": 640
+  },
+  "score": {
+    "comments": 9,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 34,
+    "value": 34
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Foamboard build with filler texturing",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/2eyazw/foamboard_build_with_filler_texturing/"
+}

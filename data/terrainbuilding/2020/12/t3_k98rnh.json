@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_uggjh",
+    "name": "Yanarfal"
+  },
+  "date": {
+    "day": 1607385600,
+    "full": 1607449136,
+    "month": 1606780800,
+    "week": 1607212800
+  },
+  "id": "t3_k98rnh",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 79148,
+    "fullUrl": "https://preview.redd.it/ltcir9w120461.jpg?auto=webp&s=16e133fc7de820e7fc5a6f039e975127d3c7162d",
+    "hash": "a1d37bad87",
+    "height": 634,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQAB/8QAIhAAAQMEAgIDAAAAAAAAAAAAAQIDEQQFBhIAIRQxIiRB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAaEQADAQADAAAAAAAAAAAAAAABAgMABBHh/9oADAMBAAIRAxEAPwB/HaulYs/360U9xSgy0G9kuqgkdmSB1ETwPGs2uN0S2H7V4nz0SA6TPuTGo65mYtBxLS6KhDlRvEpQDsCR7P5yYx2iSw35LSG3EmSEmByKvFFGJzScyRQT35v/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/9C6OTlPoJAt7eegDRue1UOA-Q-0iJSNZ_0k2QBDmeMw.jpg",
+    "url": "https://preview.redd.it/ltcir9w120461.jpg?width=640&crop=smart&auto=webp&s=e54232a49e00c3ba628c781926a7f017af8a2165",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 113,
+    "value": 113
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Wayfinding: essential for survival in the Hive",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/k98rnh/wayfinding_essential_for_survival_in_the_hive/"
+}

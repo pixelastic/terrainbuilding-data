@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_1ci1aj2a",
+    "name": "theboardnerd"
+  },
+  "date": {
+    "day": 1574553600,
+    "full": 1574611311,
+    "month": 1572566400,
+    "week": 1574553600
+  },
+  "id": "t3_e109p6",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 37231,
+    "fullUrl": "https://preview.redd.it/i5cs3b6cqn041.jpg?auto=webp&s=041a26b369e0b5cac1d4b8fb947b03b1388445dd",
+    "hash": "529d843382",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgj/xAAmEAABAgUDAwUAAAAAAAAAAAABAgMABAUGIQcRMRIiczI3QrGz/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABkRAQEBAAMAAAAAAAAAAAAAAAECAAMRMf/aAAwDAQACEQMRAD8ANaX0C10Bo1sNJnZpACmJrpS2kk4Qc9ysDtOMcQ4vaxrUo9JmKwmlsMTbACmHGCptQc+HB2233PHAiedQ/Wz5FfcUO57eWn55b81wMF6tczlJm2A83//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/j98b3E6mLMD4Njfuu7Z-SiO4PBHbHdMJERTLZMATPaM.jpg",
+    "url": "https://preview.redd.it/i5cs3b6cqn041.jpg?width=640&crop=smart&auto=webp&s=23078c7a9bdd5860d0819263ad89f3a123a8b954",
+    "width": 640
+  },
+  "score": {
+    "comments": 20,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 648,
+    "value": 648
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Sunday dungeon crafting in progress. When it grows up, it will be a modular 3x3 dungeon. Rough outline now complete.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/e109p6/sunday_dungeon_crafting_in_progress_when_it_grows/"
+}

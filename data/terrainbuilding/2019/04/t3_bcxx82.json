@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_sn0j6",
+    "name": "Sponsored_content1"
+  },
+  "date": {
+    "day": 1555200000,
+    "full": 1555206428,
+    "month": 1554076800,
+    "week": 1555200000
+  },
+  "id": "t3_bcxx82",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 56698,
+    "fullUrl": "https://preview.redd.it/u1f5unmnx4s21.jpg?auto=webp&s=f9d5321f5381676d72b232c442c66431ba1514f4",
+    "hash": "201b41da0f",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgMH/8QAKRAAAQMDAQUJAAAAAAAAAAAAAQIDBAAFEQcGEiEiMRM0NkFRc3Wxsv/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAYEQEAAwEAAAAAAAAAAAAAAAABABESUf/aAAwDAQACEQMRAD8Arb7zcG48VmVhyRN3lomNxU9kAk8xCE+XADKjxJz0o9qlLvQ2bjsFl0R3AXnn0HdWUJySFoB5eqTj0FPtMO6J9s/qs11J8IOfLy/tdC2tHYgC1J//2Q==",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/fnLoH8OYPnk7Vtk1a9-QIX1YVQISyvE65CU4AgYgLG0.jpg",
+    "url": "https://preview.redd.it/u1f5unmnx4s21.jpg?width=640&crop=smart&auto=webp&s=e9f818adc142247edbbac91c83adcdcfd22bf6d4",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.88,
+    "ups": 13,
+    "value": 13
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP monastery, cemetery and tavern with minis for scale.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/bcxx82/wip_monastery_cemetery_and_tavern_with_minis_for/"
+}

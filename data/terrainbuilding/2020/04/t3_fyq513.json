@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_vfmoz",
+    "name": "Timewolf524"
+  },
+  "date": {
+    "day": 1586476800,
+    "full": 1586556820,
+    "month": 1585699200,
+    "week": 1586044800
+  },
+  "id": "t3_fyq513",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 41713,
+    "fullUrl": "https://preview.redd.it/ic3wqaxfe2s41.jpg?auto=webp&s=db242fc4df3b8b18fcfd1745bf6555dd010246e2",
+    "hash": "d0bcc18931",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAIxAAAQMCBgMBAAAAAAAAAAAAAQIDBAARBSE0QXKxExQxcf/EABQBAQAAAAAAAAAAAAAAAAAAAAX/xAAbEQEAAgIDAAAAAAAAAAAAAAABAgMAEQQSgf/aAAwDAQACEQMRAD8AJlwPZeixQCGGm03caSAtZtmVGx3G1qFei4VExlHilyUuJNlKQ58/cquI+hlcR3WXPayRzV3QjzbrYdZyX3GCiBYoa1n/2Q==",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/MbfxXqKMotfaype2BruauM6K0Fqp3bg1-Wp1_wsrv04.jpg",
+    "url": "https://preview.redd.it/ic3wqaxfe2s41.jpg?width=640&crop=smart&auto=webp&s=ec22c42e919c8c7f661d1944e6e8ca23f8a3c8c3",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.88,
+    "ups": 12,
+    "value": 12
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Test piece for low bugget and new techniques",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/fyq513/test_piece_for_low_bugget_and_new_techniques/"
+}

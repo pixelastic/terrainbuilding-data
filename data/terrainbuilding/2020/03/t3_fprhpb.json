@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_18tr58k5",
+    "name": "floydzilla40"
+  },
+  "date": {
+    "day": 1585267200,
+    "full": 1585287455,
+    "month": 1583020800,
+    "week": 1584835200
+  },
+  "id": "t3_fprhpb",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 132416,
+    "fullUrl": "https://preview.redd.it/7qv1cpzuj5p41.jpg?auto=webp&s=cfcf5374826ae87ba3b6a66e6057cec2e39bcec5",
+    "hash": "18096d1e0c",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgED/8QAJBAAAgECBAcBAAAAAAAAAAAAAQIEAxEABRIxBgcTFCFBgSL/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAGREAAwADAAAAAAAAAAAAAAAAAAERAgMS/9oADAMBAAIRAxEAPwDHnF1Ic3I6cSrPjRKsIIacis2tSrm4bzuAR8tixctntRV0kakb9KeudvW+CvMyTmMjih4suk69vUZI1MEjUDYAqPd7DDCHRj5XHSNmnavLADPUqtUu5I8kaRa17j4cEZXlDGlKun//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/iUPCdL7-HMT7Ieq-Xj51jEXGQGe28F4nhOrUoQ673Oc.jpg",
+    "url": "https://preview.redd.it/7qv1cpzuj5p41.jpg?width=640&crop=smart&auto=webp&s=db228ff2bcfc387cac6f91d805eccfe295fa5dce",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 54,
+    "value": 54
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Built a base for my dice tower. It’s my first attempt at flocking. It’s coming together. Any tips are appreciated.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/fprhpb/built_a_base_for_my_dice_tower_its_my_first/"
+}

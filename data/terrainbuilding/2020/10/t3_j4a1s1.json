@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_ajsxz",
+    "name": "Naeramarth"
+  },
+  "date": {
+    "day": 1601683200,
+    "full": 1601701345,
+    "month": 1601510400,
+    "week": 1601164800
+  },
+  "id": "t3_j4a1s1",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 33129,
+    "fullUrl": "https://preview.redd.it/159w4k9xatq51.jpg?auto=webp&s=de51617087b02b59d741789aa2ca14618389e92b",
+    "hash": "5e4a0b9a74",
+    "height": 373,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgAH/8QAJBAAAQMCBAcAAAAAAAAAAAAAAQIDBAAhBRESMQcTFiJRgZH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABoRAAICAwAAAAAAAAAAAAAAAAARAQIhIkH/2gAMAwEAAhEDEQA/AMhwZcFPDCaVxcMMnQsIcWw2pafJKz3as9hbLOiimovThdDbPPIsbWuPZO/2jtVJyWur6z//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/qHzI1h2W6WrA0mMNXLGTJWItDRsyxOyl6nDcQz4f0dM.jpg",
+    "url": "https://preview.redd.it/159w4k9xatq51.jpg?width=640&crop=smart&auto=webp&s=6ed993662fc20673f9affaeffef05efcf8213563",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 27,
+    "value": 27
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Too lazy to paint test schemes so instead I created these options for my custom plasma generator design, C&C welcome",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/j4a1s1/too_lazy_to_paint_test_schemes_so_instead_i/"
+}

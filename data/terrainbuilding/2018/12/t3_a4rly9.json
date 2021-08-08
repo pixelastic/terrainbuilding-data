@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_16etzl",
+    "name": "Unweededgarden"
+  },
+  "date": {
+    "day": 1544400000,
+    "full": 1544410314,
+    "month": 1543622400,
+    "week": 1544313600
+  },
+  "id": "t3_a4rly9",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "filesize": 50936,
+    "fullUrl": "https://external-preview.redd.it/NJC9L_9AOYYda9SbDC148jMf668SRcKTSkzgDy1rEsE.jpg?auto=webp&s=3951920e478ef795c96d0baaa172e19368e2239b",
+    "hash": "75d8d007af",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAJxAAAgEDAgMJAAAAAAAAAAAAAQIDBAURABIGIUEHExQxUWFxkcH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAFxEAAwEAAAAAAAAAAAAAAAAAAQIRAP/aAAwDAQACEQMRAD8AK2ngE+Mapqq6SJnyDHEee09M/PtqvdbbV26KR07uopY1yN5w6KBzJP7pTTNuijZgCWQE/Wsv7ZbtVLWR2hWAoniEsijILnPkT1A9NAoLGZjBW3//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/zeh7Lf63voNPk4vCjZKXKwqcFg99LuQwI4K7v2vtERM.jpg",
+    "url": "https://external-preview.redd.it/NJC9L_9AOYYda9SbDC148jMf668SRcKTSkzgDy1rEsE.jpg?width=640&crop=smart&auto=webp&s=e781b9c44fae35e68edf50ef02f1728bff473bf3",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 0.96,
+    "ups": 40,
+    "value": 40
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Karak Fjordhammer",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/a4rly9/karak_fjordhammer/"
+}

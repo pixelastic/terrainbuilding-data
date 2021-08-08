@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_953xw",
+    "name": "TheWilted"
+  },
+  "date": {
+    "day": 1587340800,
+    "full": 1587404826,
+    "month": 1585699200,
+    "week": 1587254400
+  },
+  "id": "t3_g4xify",
+  "misc": {
+    "postHint": "hosted:video"
+  },
+  "picture": {
+    "filesize": 55285,
+    "fullUrl": "https://external-preview.redd.it/LhZwyDlJiiwKeNdwCHU2hzIeZy_ei5q-WbOOEn_hoso.png?format=pjpg&auto=webp&s=7b1c2f0576686216c5da3d994fee712111978432",
+    "hash": "e61c4a760e",
+    "height": 360,
+    "lqip": "data:image/png;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwUGB//EACUQAAEDAwMDBQAAAAAAAAAAAAECAwUABBEGIVESEyIxQUSBsf/EABUBAQEAAAAAAAAAAAAAAAAAAAAF/8QAGxEAAgIDAQAAAAAAAAAAAAAAAQIAAwQRITH/2gAMAwEAAhEDEQA/AM5l7SQjpGyCrm+uC44Urd7ZSpwZ3KfXJ3O54zVvoGbmmNNykY0Cm1fc8FPdRKMjy6eeM8imWqvj/X5QYv2otSk9kq/OsVND2f/Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/Ayz9DgTCgeiXWWMReZYSYxBGhfS4itAWutkg-GhlwIo.jpg",
+    "url": "https://external-preview.redd.it/LhZwyDlJiiwKeNdwCHU2hzIeZy_ei5q-WbOOEn_hoso.png?width=640&crop=smart&format=pjpg&auto=webp&s=447e724c8527a91d36d2541f2e0dffcb7c47c325",
+    "width": 640
+  },
+  "score": {
+    "comments": 39,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 1334,
+    "value": 1334
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Flickering fire and smoke piles inspired from Black Magic Craft",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/g4xify/flickering_fire_and_smoke_piles_inspired_from/"
+}

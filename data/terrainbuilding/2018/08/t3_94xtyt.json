@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_6iff3",
+    "name": "kalidan"
+  },
+  "date": {
+    "day": 1533513600,
+    "full": 1533525743,
+    "month": 1533081600,
+    "week": 1533427200
+  },
+  "id": "t3_94xtyt",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 48063,
+    "fullUrl": "https://preview.redd.it/kuiqjhar5ee11.jpg?auto=webp&s=fd23634a2233b8ae9fa0180911e308f436b767d9",
+    "hash": "30e1b99aa5",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgQG/8QAJhAAAQMDAwIHAAAAAAAAAAAAAQIDBQQGEQASIRRBMVFSYXFywv/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAZEQADAAMAAAAAAAAAAAAAAAAAARESEzH/2gAMAwEAAhEDEQA/AMbKXi3cNw1lVItt0zTiw21tcA2NJ4QkDtgDtquBmmoaYppWLqE5pXcOb1cKBAyPqRkH5z20qGxYh5tayHgoY8NnkD6ffRNhxhqVN9TWhChyApA/OizqH1x9P//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/GrygXJDNyogcdi1nKVzRJX1QncWejui7AkH4bx_cEKo.jpg",
+    "url": "https://preview.redd.it/kuiqjhar5ee11.jpg?width=640&crop=smart&auto=webp&s=b69d672c478f6f8a69d3826c626d51d1da1079be",
+    "width": 640
+  },
+  "score": {
+    "comments": 11,
+    "downs": 0,
+    "ratio": 0.95,
+    "ups": 32,
+    "value": 32
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP dungeon tiles",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/94xtyt/wip_dungeon_tiles/"
+}

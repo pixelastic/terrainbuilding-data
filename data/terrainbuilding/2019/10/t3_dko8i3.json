@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_e1k80",
+    "name": "pmolmstr"
+  },
+  "date": {
+    "day": 1571529600,
+    "full": 1571598846,
+    "month": 1569888000,
+    "week": 1571529600
+  },
+  "id": "t3_dko8i3",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 104246,
+    "fullUrl": "https://preview.redd.it/rxi51b9qwqt31.jpg?auto=webp&s=9887a01efe4ee2dba527b275c237825459e7dd30",
+    "hash": "570e3a62c0",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgEE/8QAIxAAAQMDBAIDAAAAAAAAAAAAAQIDEQQFEgAGITEUQWFxof/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGBEBAAMBAAAAAAAAAAAAAAAAAQAREgL/2gAMAwEAAhEDEQA/AMVZvu8u3EB64eVTNOOLZKyApuZ+COuOog9am3d0VtHd2lBLbyFJUw0XFcpQTIGUejHM6HXaveZuwpUEYl0IyM5QTH1+aUXxhNqs9O/RlQdeeDJUecARMpHQOpr6ACOZ1c//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/Dm3rHneHWcimqruNN9UN2Qpxhwv4H6fJQYzPIVGe0xU.jpg",
+    "url": "https://preview.redd.it/rxi51b9qwqt31.jpg?width=640&crop=smart&auto=webp&s=0af3c338631596420ce85661b23f1fabf74c1b7f",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.93,
+    "ups": 30,
+    "value": 30
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First attempt at something like this. Models were included to hide my mistakes",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/dko8i3/first_attempt_at_something_like_this_models_were/"
+}

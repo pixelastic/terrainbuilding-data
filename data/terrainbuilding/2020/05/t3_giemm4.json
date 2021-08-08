@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_3h96sgmg",
+    "name": "breakingbad_habits"
+  },
+  "date": {
+    "day": 1589241600,
+    "full": 1589301106,
+    "month": 1588291200,
+    "week": 1589068800
+  },
+  "id": "t3_giemm4",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 37726,
+    "fullUrl": "https://preview.redd.it/ajwu1iihuby41.jpg?auto=webp&s=5807e9b65332d520a233d279c1ecd08dae78aee2",
+    "hash": "2de5edd493",
+    "height": 427,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFAABAAAAAAAAAAAAAAAAAAAABf/EACUQAAIBAwMCBwAAAAAAAAAAAAECAwQFEQAGIQcxEhUiQVJxkf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/8QAGREAAgMBAAAAAAAAAAAAAAAAAAECA0FR/9oADAMBAAIRAxEAPwByzdW6ingaBturKvZnlqgqIvyOVz+aEv3XCtkr4/JUscVMD6oTGXcj3y7Y574wNJUqJUSJFURpLGwIKyKGBHHcHQm+dk7ca3tUraoI5gM+KItHz9KQNEbFqKlW+n//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/tO1Yw19SPiswR5NVFlRduYpt6VJqXTOn-gvYtEg62Ac.jpg",
+    "url": "https://preview.redd.it/ajwu1iihuby41.jpg?width=640&crop=smart&auto=webp&s=a18decfcae5c93433af972db265a2fa174913449",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 0.91,
+    "ups": 78,
+    "value": 78
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Line of Sight blocking waves",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/giemm4/line_of_sight_blocking_waves/"
+}

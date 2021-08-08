@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_a5d9n",
+    "name": "Nippelritter"
+  },
+  "date": {
+    "day": 1621468800,
+    "full": 1621496936,
+    "month": 1619827200,
+    "week": 1621123200
+  },
+  "id": "t3_ngu201",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 112433,
+    "fullUrl": "https://external-preview.redd.it/1Bd2RXMAhIA3s25BBxxTjk7ez3_ejcdMUjklgLpUHoQ.jpg?auto=webp&s=005e7f2b9e2e338b9e83f912e28fbd9138df145c",
+    "hash": "01738e55cd",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFAABAAAAAAAAAAAAAAAAAAAABv/EACcQAAIBAgQEBwAAAAAAAAAAAAECAwQRAAYSIQVBUXETFCIjJFKB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQP/xAAYEQEBAAMAAAAAAAAAAAAAAAACAAERIv/aAAwDAQACEQMRAD8AU5Dh96aWby8pka6TxwxqXW32VQTuefTA7PNdPJx5lp2QCONVY6Rcnc77dCB+YTZRzRSyUdHQpE/xKJ2LKBZnBPpU89rHuTgnNSzVk0tRWGLxJJHYaHQDRqOm9ze+mwPbE0swT1u//9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/rtdHDyLmKCMEnn86Kxc6i19wEPcZ6QHGlYHKF7DaCtg.jpg",
+    "url": "https://external-preview.redd.it/1Bd2RXMAhIA3s25BBxxTjk7ez3_ejcdMUjklgLpUHoQ.jpg?width=640&crop=smart&auto=webp&s=b9d2a6736b1e2127db894adcacf607cba0d96f2c",
+    "width": 640
+  },
+  "score": {
+    "comments": 26,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 296,
+    "value": 296
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Massive score at the friendly neighborhood construction site!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ngu201/massive_score_at_the_friendly_neighborhood/"
+}

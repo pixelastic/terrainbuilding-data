@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_zpur1",
+    "name": "Ya-Dikobraz"
+  },
+  "date": {
+    "day": 1604880000,
+    "full": 1604946901,
+    "month": 1604188800,
+    "week": 1604793600
+  },
+  "id": "t3_jr3aug",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 75025,
+    "fullUrl": "https://preview.redd.it/mdnb4sjfd9y51.jpg?auto=webp&s=3a03d2f781ddda901de2ba1e561f548726aaa698",
+    "hash": "cadaba9391",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwUG/8QAIxAAAgEDBAEFAAAAAAAAAAAAAQIEAxEhAAUGUTFBYXGBkf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAIDARH/2gAMAwEAAhEDEQA/AATj0V6kaQDWRCy3IvkG3qP3OqEvikl9pqSqTqwRmfosiqCT8jOPbWZ2veJEWUrKlF2ta7L5H0dL/F97ky9okrUp0ArUirBVOQcd9anejJvR5zVj/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/pR2sgtLDsp2tNT0kV7TFRPp58ct6Uq3kPvPR7oJ7eYY.jpg",
+    "url": "https://preview.redd.it/mdnb4sjfd9y51.jpg?width=640&crop=smart&auto=webp&s=80d02d261a2b60a056143c8927539bb70da8e9c0",
+    "width": 640
+  },
+  "score": {
+    "comments": 22,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 71,
+    "value": 71
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My first terrain. I am not happy with it because I made so many mistakes. So critique, please.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/jr3aug/my_first_terrain_i_am_not_happy_with_it_because_i/"
+}

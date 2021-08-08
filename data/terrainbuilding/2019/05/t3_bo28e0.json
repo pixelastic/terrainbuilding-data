@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_ucvp8",
+    "name": "Siph_Horridus"
+  },
+  "date": {
+    "day": 1557705600,
+    "full": 1557746700,
+    "month": 1556668800,
+    "week": 1557619200
+  },
+  "id": "t3_bo28e0",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "filesize": 63892,
+    "fullUrl": "https://external-preview.redd.it/5C8IHVUoxvxUY52OwD5IoSeD7Kg9l2amhqqXx67uA9E.jpg?auto=webp&s=c112b751706a1be389fabd5d62a8aa0f46dafc73",
+    "hash": "5f054907c6",
+    "height": 336,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAIABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAb/xAAiEAABBAEDBQEAAAAAAAAAAAABAgMEEQAFBiESEzEyQYH/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAMRIQH/2gAMAwEAAhEDEQA/AJyfuSRD1Muw2SiIy979vqC+ByB4Bux+Zf7eGl64yZj78UMtOLZkIcCgq1AkfaANXjGGL3lFXbT/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/RWPw5uJV23iicfc1aQhOYiV5UwQ86y1t2XIxtgDz0wk.jpg",
+    "url": "https://external-preview.redd.it/5C8IHVUoxvxUY52OwD5IoSeD7Kg9l2amhqqXx67uA9E.jpg?width=640&crop=smart&auto=webp&s=dd49a6b278073cdd9244ac81ce4fd991c5e42d09",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.96,
+    "ups": 20,
+    "value": 20
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Citadel Scenery - Blastscape Ruins",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/bo28e0/citadel_scenery_blastscape_ruins/"
+}

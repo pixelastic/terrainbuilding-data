@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_3tu4iss8",
+    "name": "ATXminis"
+  },
+  "date": {
+    "day": 1594252800,
+    "full": 1594269237,
+    "month": 1593561600,
+    "week": 1593907200
+  },
+  "id": "t3_hnwqqc",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 92621,
+    "fullUrl": "https://preview.redd.it/1jyf9c2gfr951.jpg?auto=webp&s=a3228d46b832d1bbf75baa7d11e909b19db56fd2",
+    "hash": "3b3d9b0fe8",
+    "height": 430,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMF/8QAIxAAAQQABgIDAAAAAAAAAAAAAQIDBBEABQYSEyEUIkFR8P/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAaEQABBQEAAAAAAAAAAAAAAAABAAIDESET/9oADAMBAAIRAxEAPwBs7VeZLy9pbAlgFKlFCyn2UDQFnsC/kWMWh6hlurMZD0lCGwApl6g6Ls2mj792MYcaQ4MwkQlbXIoisuBt1AWArkIsbga6/dYPqadJysw/Bc4iS63e0EhKVCgCR1X3gvZ+G9SRCwkil//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/M34MTZaleuZmBI_LQ9-WPoy-dCWXwYjlBE3LKYvxaKY.jpg",
+    "url": "https://preview.redd.it/1jyf9c2gfr951.jpg?width=640&crop=smart&auto=webp&s=a0daa3a57a9aefe6393970cf4cfdc315f2f6e66a",
+    "width": 640
+  },
+  "score": {
+    "comments": 64,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 1180,
+    "value": 1180
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Well, it’s gotten worse... I got a green screen (album in comments)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/hnwqqc/well_its_gotten_worse_i_got_a_green_screen_album/"
+}

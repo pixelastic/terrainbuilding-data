@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_14okxu",
+    "name": "MrMonkeyfeet"
+  },
+  "date": {
+    "day": 1572998400,
+    "full": 1573079790,
+    "month": 1572566400,
+    "week": 1572739200
+  },
+  "id": "t3_dsnx0i",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 53756,
+    "fullUrl": "https://external-preview.redd.it/9dJRkT6HyIR_ufg5vmFHz14fnnNLo6puO4MU_KgDdrE.jpg?auto=webp&s=b0581ebe6dcb79d05b9879042608bafce7aeb158",
+    "hash": "4d8255fcfe",
+    "height": 746,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA4DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQH/8QAHhAAAgICAwEBAAAAAAAAAAAAAQIEEQADBRJBEyL/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABcRAAMBAAAAAAAAAAAAAAAAAAABESH/2gAMAwEAAhEDEQA/AMEjccRoR2dAzi1X05JL0VVCjjcdL0prZZB6dhSuwsA4U2Slgan+iiv3VWfcK3SH/9k=",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/mMoKtTT7AkYnNZatLWUbnLHfKeoiPp7T1AIa0UagmN4.jpg",
+    "url": "https://external-preview.redd.it/9dJRkT6HyIR_ufg5vmFHz14fnnNLo6puO4MU_KgDdrE.jpg?width=640&crop=smart&auto=webp&s=388229c2a4615fc791f1811643f350e358c52d68",
+    "width": 640
+  },
+  "score": {
+    "comments": 16,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 372,
+    "value": 372
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Jungle Plinth, more WIP",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/dsnx0i/jungle_plinth_more_wip/"
+}

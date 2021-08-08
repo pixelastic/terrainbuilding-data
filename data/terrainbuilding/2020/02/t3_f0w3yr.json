@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_12wv0fk",
+    "name": "Heygul"
+  },
+  "date": {
+    "day": 1581120000,
+    "full": 1581189040,
+    "month": 1580515200,
+    "week": 1580601600
+  },
+  "id": "t3_f0w3yr",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "filesize": 53776,
+    "fullUrl": "https://external-preview.redd.it/GwcSWtOT9755fLjwXK6axws6KipYZ9JNf2aAJzd_gUI.jpg?auto=webp&s=317503739957dc87cf6b4e02688357dfa65c85c7",
+    "hash": "dbb006cc9f",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAIhAAAgEDBAMBAQAAAAAAAAAAAQIDBBEhAAUGEhMxUSNh/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABcRAAMBAAAAAAAAAAAAAAAAAAABEQP/2gAMAwEAAhEDEQA/AMFxrjUVNWTPy4z0MXhKozwmUxscBmW4x7tnBsbYtpCTj/FNwmqFirql5aeL9TBCIUka+OiMScAZ+k+rav3Dc6ncIKWqqCvknUluosAva3QfFso/vvOi93hihd5YY0jaSMM3VQBe2hPWDlmpT//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/8Ykw7xkP2sRulZHiUdkKZqUSjcbcS8gNbQcjvIRGM-o.jpg",
+    "url": "https://external-preview.redd.it/GwcSWtOT9755fLjwXK6axws6KipYZ9JNf2aAJzd_gUI.jpg?width=640&crop=smart&auto=webp&s=e3a71d31f256bfad4150a14d053e3c0c405cb3de",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 12,
+    "value": 12
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A sci fi piece I'm working on",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/f0w3yr/a_sci_fi_piece_im_working_on/"
+}

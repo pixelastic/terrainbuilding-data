@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_ou4bfv7",
+    "name": "Lugzor"
+  },
+  "date": {
+    "day": 1579824000,
+    "full": 1579843326,
+    "month": 1577836800,
+    "week": 1579392000
+  },
+  "id": "t3_et5ugr",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 76665,
+    "fullUrl": "https://preview.redd.it/ac9c04osvnc41.jpg?auto=webp&s=265a630dfb35016359656471bac9679426a8589a",
+    "hash": "7e2645670e",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQH/8QAIxAAAQQBBAIDAQAAAAAAAAAAAQIDBBEFAAYSIRMxBzJRgf/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAYEQEAAwEAAAAAAAAAAAAAAAABAAIRMf/aAAwDAQACEQMRAD8Ag3PtbD4ydKxKJa33GHyjyOO+NP17PEWTVehoxiYcY5hqJj4zkmQwhUlwpVxAShVBQUe++VV+ge9NPnIt4bLqnxWGlvvtBxfkBI5XXVEaw6bvXOLcbfjyxDUpJFRUBugeiAfdf3RQbObEqVOT/9k=",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/t1YVmlVsLZg6ADgOepJfN-brBqPZiurOCJF5Vl-cwm4.jpg",
+    "url": "https://preview.redd.it/ac9c04osvnc41.jpg?width=640&crop=smart&auto=webp&s=eae93a303ec4426932659d6eabc0b96c7e8d5b21",
+    "width": 640
+  },
+  "score": {
+    "comments": 9,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 107,
+    "value": 107
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Forward base WIP",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/et5ugr/forward_base_wip/"
+}

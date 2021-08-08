@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_55vo5",
+    "name": "Reain"
+  },
+  "date": {
+    "day": 1545264000,
+    "full": 1545331176,
+    "month": 1543622400,
+    "week": 1544918400
+  },
+  "id": "t3_a80yp4",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 84334,
+    "fullUrl": "https://external-preview.redd.it/r3VLiHs9dzPhapb3qFu4FcZeE7osG6j5DzvOWXKlWHQ.jpg?auto=webp&s=0046a8a241307d8b8e7b67ac86048987a2e8d86e",
+    "hash": "b92ddbb5af",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwUH/8QAIhAAAQMEAgIDAAAAAAAAAAAAAwECBAUREiEABjFBByKh/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABcRAQEBAQAAAAAAAAAAAAAAAAEAQRH/2gAMAwEAAhEDEQA/AI3QaJQyUuGQgiKN4ssWlRFv73r3fgg6XTj1CqKApRDbJxRul3gxV/VXixoCgjQa9BcJ0WoByGwbVa0bmOc1br4W911zR4vxrMIFsiBWpIRyUQ7mnEjlyciXsuvr4tffCOpKHoDl/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/xlg4-BnLqz2Z7bdRnCfdATnak3wR4xuK0QzVlSgiiro.jpg",
+    "url": "https://external-preview.redd.it/r3VLiHs9dzPhapb3qFu4FcZeE7osG6j5DzvOWXKlWHQ.jpg?width=640&crop=smart&auto=webp&s=ab9f7633ea4c2d1338fd35c9d3e88ce27de5260c",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 0.94,
+    "ups": 41,
+    "value": 41
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "The Shadow Clock from the Pathfinder Campaign Rise of the Runelords",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/a80yp4/the_shadow_clock_from_the_pathfinder_campaign/"
+}

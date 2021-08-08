@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_2uuf4itf",
+    "name": "andrii-solaris"
+  },
+  "date": {
+    "day": 1550534400,
+    "full": 1550580155,
+    "month": 1548979200,
+    "week": 1550361600
+  },
+  "id": "t3_asa01e",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 55501,
+    "fullUrl": "https://preview.redd.it/ddkw6b5ctih21.jpg?auto=webp&s=14fbc03d9993a335d58794a9c3ea2bde4256cd4b",
+    "hash": "cfe567fb9c",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMG/8QAIBAAAQMFAAMBAAAAAAAAAAAAAQIDEQAEBRIhBiIxcf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGhEAAgIDAAAAAAAAAAAAAAAAAQIABCFBkf/aAAwDAQACEQMRAD8ABgE4JZaduAdniSkBJkwOxB/armBgwVXluy42WkTuttSCUlJEex6TPI7Wy8XxNkbLYspkq7SMlirMuaFlJTPwipmvODgmKKKldcn/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/S_4PG64_GK9QWXmpDWDY9WTrFL2ZO0DYl88IexViFyI.jpg",
+    "url": "https://preview.redd.it/ddkw6b5ctih21.jpg?width=640&crop=smart&auto=webp&s=daacdf5c00e6e8b3b33bac8c99241dffe56a4df8",
+    "width": 640
+  },
+  "score": {
+    "comments": 10,
+    "downs": 0,
+    "ratio": 0.88,
+    "ups": 39,
+    "value": 39
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Recently my friend has asked me to paint some laser cut terrain. I thought it was a little boring so I decide to make it a little bit interesting:)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/asa01e/recently_my_friend_has_asked_me_to_paint_some/"
+}

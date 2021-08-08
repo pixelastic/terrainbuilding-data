@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_yf9qv",
+    "name": "Timago"
+  },
+  "date": {
+    "day": 1615075200,
+    "full": 1615135642,
+    "month": 1614556800,
+    "week": 1615075200
+  },
+  "id": "t3_lzueuy",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 97896,
+    "fullUrl": "https://preview.redd.it/c8mq2yyyxml61.jpg?auto=webp&s=51bb293a7aabb599db440213fb97a2c5b0b93e6a",
+    "hash": "3854386722",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwUG/8QAJBAAAAUDBAIDAAAAAAAAAAAAAQIDBBEABSESEzFBIjIGFJH/xAAVAQEBAAAAAAAAAAAAAAAAAAACBP/EABkRAAIDAQAAAAAAAAAAAAAAAAECAAMRIf/aAAwDAQACEQMRAD8AOrM6Os4BNwyBJ2loKJW6Ml0gTyMEYGfbPc1Ws7Nwnar0namzpw4IsqmEJhuKpJk1GjoPYR4zgAmlL4skm3sN4vJCF++18Ezx1iZjI81rGawNWSztJFHeVcFKoIkncmMj2I8fgVO1pUxpWM5P/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/jh4XxocGTLzja_qw7DfjeFXQuNZifCEqpHIa-XN133o.jpg",
+    "url": "https://preview.redd.it/c8mq2yyyxml61.jpg?width=640&crop=smart&auto=webp&s=b5d3294285cc52bfefefbd759ef5a4a50c003d64",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 127,
+    "value": 127
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I think MDF kits look quite nice with a little texture paste",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/lzueuy/i_think_mdf_kits_look_quite_nice_with_a_little/"
+}

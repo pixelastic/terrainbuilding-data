@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_arlj5ieu",
+    "name": "WeltenbauerClub"
+  },
+  "date": {
+    "day": 1615420800,
+    "full": 1615476975,
+    "month": 1614556800,
+    "week": 1615075200
+  },
+  "id": "t3_m2sxya",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 80645,
+    "fullUrl": "https://preview.redd.it/333oustx4fm61.jpg?auto=webp&s=c0bab0a1c9da6f07282549abf0d2da88c99b8868",
+    "hash": "69c7eb2baf",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAlEAABBAEDAgcAAAAAAAAAAAABAgMEBREAITESURMyQVJhgaH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABoRAAIDAQEAAAAAAAAAAAAAAAECABIhAxH/2gAMAwEAAhEDEQA/AHbmylJl2dfIkupbcbCmVPR8sJGeCoHJ/NFMXrlWpLj7LUevwEkIHX4ysedJJ2A7ev1qkTWIMKU1KUuQHjkBY4Ht+dCVcGa3IEOQzGarW8hKQeO22pNu11KnTFFB5s//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/LPufvaDj3lrRtdQ0Q8oU5rnA-qil8qMXc7bkccXORFc.jpg",
+    "url": "https://preview.redd.it/333oustx4fm61.jpg?width=640&crop=smart&auto=webp&s=922a5e415bc2161d69b14fa70915b20662132443",
+    "width": 640
+  },
+  "score": {
+    "comments": 27,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 277,
+    "value": 277
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First attempt on homemade tufts",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/m2sxya/first_attempt_on_homemade_tufts/"
+}

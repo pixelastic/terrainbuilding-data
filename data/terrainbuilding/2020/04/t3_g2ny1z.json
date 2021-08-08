@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_l061d",
+    "name": "Sinqnew"
+  },
+  "date": {
+    "day": 1586995200,
+    "full": 1587072069,
+    "month": 1585699200,
+    "week": 1586649600
+  },
+  "id": "t3_g2ny1z",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 87419,
+    "fullUrl": "https://preview.redd.it/hh8ojnlky8t41.jpg?auto=webp&s=49f38f3e296a61d0cd0f43e4c862c68c1a36eee7",
+    "hash": "887bc1f001",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUG/8QAJxAAAQIEBQMFAAAAAAAAAAAAAQIDAAQRIQUGEhMxByJBI0JRYfH/xAAUAQEAAAAAAAAAAAAAAAAAAAAB/8QAGBEBAAMBAAAAAAAAAAAAAAAAAQACERL/2gAMAwEAAhEDEQA/AM7vvviWbUhczKT5cacUhZQnSm9kCx58/cMwV85ZxZT8uimlG2XimpANOASO4DkG1qfEI6Wndyo+XO4sPemTyK/gi+iRl5jClrcbGp2ql09xr5g6qmJFqjoz/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/hQvIvZURzvJmYUlXTapURr66yDwg2nKNGL1DNEah2YM.jpg",
+    "url": "https://preview.redd.it/hh8ojnlky8t41.jpg?width=640&crop=smart&auto=webp&s=518c4ea38cdb41932c457413e88ceb21eae454b2",
+    "width": 640
+  },
+  "score": {
+    "comments": 28,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 698,
+    "value": 698
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Modular City Foundations WIP (still need to add foliage, dirt, weeds and moss)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/g2ny1z/modular_city_foundations_wip_still_need_to_add/"
+}

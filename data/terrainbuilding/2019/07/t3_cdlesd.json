@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_45h675cm",
+    "name": "Etren88"
+  },
+  "date": {
+    "day": 1563148800,
+    "full": 1563215698,
+    "month": 1561939200,
+    "week": 1563062400
+  },
+  "id": "t3_cdlesd",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 54535,
+    "fullUrl": "https://preview.redd.it/ug5yneo6hia31.jpg?auto=webp&s=f6afd8f721749a1386c9b35694bbcff2456d7aa3",
+    "hash": "c65f37337e",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFCP/EAB8QAAICAgMBAQEAAAAAAAAAAAECAwQFEQAGIRNhcf/EABUBAQEAAAAAAAAAAAAAAAAAAAEE/8QAGREBAAMBAQAAAAAAAAAAAAAAAQADERIx/9oADAMBAAIRAxEAPwAu0rWUy1q20q/RzvUbEADWgo3+DkHsFSetVSVknYt58/Cy/wB95pXA4HGywhpakTsBrZUHiOxdexa1ZQtSJfNeKByIpqTcdi9D7P/Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/-QTIrudMUzeMH_cTskuIi9-LbnZLQQSbajqH-5fvHWo.jpg",
+    "url": "https://preview.redd.it/ug5yneo6hia31.jpg?width=640&crop=smart&auto=webp&s=c1ee2534a866de1b10b3c63bfbed136b688af499",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.93,
+    "ups": 12,
+    "value": 12
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Castle keep part 1 (credit to Bard's Craft)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/cdlesd/castle_keep_part_1_credit_to_bards_craft/"
+}

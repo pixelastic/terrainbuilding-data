@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_3o4tomr4",
+    "name": "KunnoPuffs"
+  },
+  "date": {
+    "day": 1594684800,
+    "full": 1594698257,
+    "month": 1593561600,
+    "week": 1594512000
+  },
+  "id": "t3_hqu9dv",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 80458,
+    "fullUrl": "https://preview.redd.it/kes3d8w4vqa51.jpg?auto=webp&s=b1879a1bc4bb4877f224a7fecd876f42c6d41cbd",
+    "hash": "a536b06612",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgIF/8QAJBAAAQQBAwMFAAAAAAAAAAAAAQIDBBEFABIhEyIxB0FRYaH/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAGhEAAgMBAQAAAAAAAAAAAAAAAQIAE0EDEf/aAAwDAQACEQMRAD8AvPPyZuBRvfSJDriBGbZFuOqvuFew2k6FZ/CzMph3Wp7jsRuKvc31U0pw1VUTZA+dKMVlJONy0QtlDtKIQHk7unZ5Kaqj960fUKQtnGiI2EBqQsBfaN3ClKHPnyfzRK+DnYmCJsGtrbTP/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/INV_dhXzXVHwXGBz7vMTablqlqjMIDlvvR9wtumswUE.jpg",
+    "url": "https://preview.redd.it/kes3d8w4vqa51.jpg?width=640&crop=smart&auto=webp&s=6d428bb4026b4ff10655db7f22a113623d32117e",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 29,
+    "value": 29
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My first piece! CC welcome",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/hqu9dv/my_first_piece_cc_welcome/"
+}

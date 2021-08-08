@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_1srvjw3g",
+    "name": "Hewhoisnamed"
+  },
+  "date": {
+    "day": 1598572800,
+    "full": 1598612629,
+    "month": 1596240000,
+    "week": 1598140800
+  },
+  "id": "t3_ii522a",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 78794,
+    "fullUrl": "https://preview.redd.it/khq59xdk6qj51.jpg?auto=webp&s=db306dd3c21d9f646b3dffe43eb70f4286a0b778",
+    "hash": "91a0817ad6",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgH/xAAjEAABAwMEAgMAAAAAAAAAAAABAgMEBRExAAYSISIjMlGx/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABkRAAIDAQAAAAAAAAAAAAAAAAABAhESIf/aAAwDAQACEQMRAD8APRorEfcdXXKKm4zbnJKwySlZUcDGpIr0iTsyUwA6l6LxcWFA3Hlb6z3jQORXapEqEosTpCeMpR+ZyD1+6R7arlQm7jpqlyXEF1yz3BR93HvzuTfOiqU9IQ6rp//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/zOSbFKHnIU2vL3pg-yaH7ttdg_XGam90IWgHiGTg0FA.jpg",
+    "url": "https://preview.redd.it/khq59xdk6qj51.jpg?width=640&crop=smart&auto=webp&s=6f22ec499778d9cdb7299b5837921caf82a2469e",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 47,
+    "value": 47
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My first crack at ruins. C&C? (Full album in comments)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ii522a/my_first_crack_at_ruins_cc_full_album_in_comments/"
+}

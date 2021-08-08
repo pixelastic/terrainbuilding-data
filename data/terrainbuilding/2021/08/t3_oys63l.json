@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_5ngn5b9s",
+    "name": "FubarBohica"
+  },
+  "date": {
+    "day": 1628121600,
+    "full": 1628198558,
+    "month": 1627776000,
+    "week": 1627776000
+  },
+  "id": "t3_oys63l",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 49396,
+    "fullUrl": "https://preview.redd.it/81ojc7iqwlf71.jpg?auto=webp&s=67b58b4b87f844d3be6face8766ff2460a664cac",
+    "hash": "9a4d9155c6",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAwT/xAAmEAABAwMDAgcAAAAAAAAAAAABAgMEBREhAAYSE1E0NUFzdLHB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAYEQEAAwEAAAAAAAAAAAAAAAABAAIDIf/aAAwDAQACEQMRAD8AKg7Vo0iC4lbbRZcBIltW5SgSSStJBFs4HbSTKZFp1WgrptMXLmtp6rMt1dizxsoAYtmwxb17au2V5LB+Oj6GptyeJhe9+HREdJWleAz/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/y5y1MQQ-4_ZvjCYUFGM2ycdX0w391SVZaTu3nxfu6HI.jpg",
+    "url": "https://preview.redd.it/81ojc7iqwlf71.jpg?width=640&crop=smart&auto=webp&s=5b39d9937225d28ec91f11ef6240c847de85d887",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 25,
+    "value": 25
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "This is my progress so far. First time doing this kind of build and paint",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/oys63l/this_is_my_progress_so_far_first_time_doing_this/"
+}

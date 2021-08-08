@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_fjddx",
+    "name": "CornOnTheCobbSalad"
+  },
+  "date": {
+    "day": 1496880000,
+    "full": 1496958437,
+    "month": 1496275200,
+    "week": 1496534400
+  },
+  "id": "t3_6g440o",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 33778,
+    "fullUrl": "https://preview.redd.it/itnww0b8sh2z.jpg?auto=webp&s=c273813f7fc6be30b4c66c81bbca89645ba02587",
+    "hash": "4b7a1b4d1d",
+    "height": 456,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAYH/8QAIxAAAQQBAwQDAAAAAAAAAAAAAQIDBAURAAcSBiExQTJh0f/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAMAwEAAhEDEQA/AFP7mRhVXEuor35D9Y6ht1p84CkqWpHIce/lPj71YTet6GDZ1ldOWtiRNitySSMpaKwOKVe8kn90mjqoFc7JcgQo8dyQebym2wkuHzkn3rGtzm0u7406HBzSow8hXcfPQgmGN//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/YuLATyZ6gN18MumH73p-BWGz1QqYHTlI-oV0RhG_jpM.jpg",
+    "url": "https://preview.redd.it/itnww0b8sh2z.jpg?width=640&crop=smart&auto=webp&s=63904bc4d51f3fd7831d1a343a1596f8f06adcb8",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 0.86,
+    "ups": 19,
+    "value": 19
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Wanted to practice rocky texture, so I made some hoodoos!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/6g440o/wanted_to_practice_rocky_texture_so_i_made_some/"
+}

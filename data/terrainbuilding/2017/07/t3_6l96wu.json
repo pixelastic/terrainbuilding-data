@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_15k36d",
+    "name": "GoblinFoundry"
+  },
+  "date": {
+    "day": 1499126400,
+    "full": 1499196680,
+    "month": 1498867200,
+    "week": 1498953600
+  },
+  "id": "t3_6l96wu",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 74920,
+    "fullUrl": "https://preview.redd.it/ed8vglzwnm7z.jpg?auto=webp&s=4a47c37ac8fa2f2f2d096ea3de478587ebef654d",
+    "hash": "fb06829fc4",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAYH/8QAIxAAAgEEAgEFAQAAAAAAAAAAAQIEAwUGEQASIQcTFFFxMf/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAYEQADAQEAAAAAAAAAAAAAAAAAAREhQf/aAAwDAQACEQMRAD8ADbbJKtsCwW+LjFrFvuMemtzqN17A9AWLdtknYLefG/A0TzM7/i8qHYsor0YUSDF+YmkFTbLRpgnQBJIBZk19n85UYtYscu2CRYpg2iXLaFUkSJMeeUmUZCk9UKt/VKkbA8Ag/vC4JZ4Vw9My8jIMfiySKiLEnOjMhWp29zowO3YbUH6I4VVbRLj4f//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/6LRZ97e8EAA3jOrg_XcUOfuU9bdoGE2kvM-tVHy9D9I.jpg",
+    "url": "https://preview.redd.it/ed8vglzwnm7z.jpg?width=640&crop=smart&auto=webp&s=dcc95933bb5c6b7bd5784e5e657a00c5b7992d80",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 0.95,
+    "ups": 54,
+    "value": 54
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Revised my Dwarven portal design.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/6l96wu/oc_op_revised_my_dwarven_portal_design/"
+}

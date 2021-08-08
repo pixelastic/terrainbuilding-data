@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_3r71hbyb",
+    "name": "Big-Russian-Bear"
+  },
+  "date": {
+    "day": 1560816000,
+    "full": 1560888124,
+    "month": 1559347200,
+    "week": 1560643200
+  },
+  "id": "t3_c272fn",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 79304,
+    "fullUrl": "https://preview.redd.it/4zlax4d986531.jpg?auto=webp&s=3778c21f3a4578042bb4f77faacd5d85f9aa120a",
+    "hash": "72bdbc6cd2",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAf/xAAjEAACAQMDBAMAAAAAAAAAAAABAgMEBREAITEGEkFRBxSB/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABoRAQABBQAAAAAAAAAAAAAAAAEAAgMSMUH/2gAMAwEAAhEDEQA/AGXQ0lvmn+7Tz5IJiRMjJz7Ixgc86mPUtoobxdGrZ5kLOiKDCyhSqqFHnnA3zuTq0/JHTVJcL5QU9BcnMFNL3yxud+3yAw5/dBl6MsdVI01bbaWadySzqhTu39A40GdZtiFs4T//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/C8Ue1wnE4EHZAhsjiwghd-E0jzOZ2kFDwF_PT-_RoPI.jpg",
+    "url": "https://preview.redd.it/4zlax4d986531.jpg?width=640&crop=smart&auto=webp&s=d5a15d302d75d65360f3b513886dc858d29d4a2f",
+    "width": 640
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "ratio": 0.7,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "This was my first time using styrofoam for terrain, and I was pleasantly surprised by the results, criticism and feedback welcome",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/c272fn/this_was_my_first_time_using_styrofoam_for/"
+}

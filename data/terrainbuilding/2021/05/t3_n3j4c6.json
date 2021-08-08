@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_2boc1zjv",
+    "name": "sebastiankussowski"
+  },
+  "date": {
+    "day": 1619913600,
+    "full": 1619999476,
+    "month": 1619827200,
+    "week": 1619913600
+  },
+  "id": "t3_n3j4c6",
+  "misc": {
+    "postHint": "hosted:video"
+  },
+  "picture": {
+    "filesize": 34685,
+    "fullUrl": "https://external-preview.redd.it/CzZmpoY8sp5QGahlfGc3R-7giIWUjoXJ684GEIOQeUY.png?format=pjpg&auto=webp&s=1c3d991338c9a61a98d811cf5c13891d0337a795",
+    "hash": "093477da3f",
+    "height": 360,
+    "lqip": "data:image/png;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgf/xAAlEAABAwMBCQEAAAAAAAAAAAABAgMEAAURMRITFCEzNWFxcrH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABsRAAICAwEAAAAAAAAAAAAAAAECABEDBCET/9oADAMBAAIRAxEAPwCVXRqLIhWwxJTrjrTKA/xAIDasaAjkU+daKXiOWXFY3aklWctL2k0gg9oR8I/KOS+m77p2XGqhQvau5Nr4vMDtz//Z",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/aWaYZex1FzkHKqMpfcM9X5KRw2Po_uVmnAP0_LCeQV4.jpg",
+    "url": "https://external-preview.redd.it/CzZmpoY8sp5QGahlfGc3R-7giIWUjoXJ684GEIOQeUY.png?width=640&crop=smart&format=pjpg&auto=webp&s=719a686b8b765dbe21ebac6940145707e55238c3",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 18,
+    "value": 18
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Atmoseeker Livestream looks at lighting terrain for photography",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/n3j4c6/atmoseeker_livestream_looks_at_lighting_terrain/"
+}

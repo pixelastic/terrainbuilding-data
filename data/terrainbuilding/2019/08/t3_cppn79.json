@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_3q3ftels",
+    "name": "Robertdeanfourie1"
+  },
+  "date": {
+    "day": 1565654400,
+    "full": 1565680861,
+    "month": 1564617600,
+    "week": 1565481600
+  },
+  "id": "t3_cppn79",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 70723,
+    "fullUrl": "https://preview.redd.it/ugwzmkqi36g31.jpg?auto=webp&s=3ee965837a8811025755e4518f4ae62a3ab8ccda",
+    "hash": "3404262074",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgME/8QAJxAAAQMDAQcFAAAAAAAAAAAAAgEDBAAFESIGBxITITVyNkFRs8H/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAIRARL/2gAMAwEAAhEDEQA/AA2xNkjxeA5rQFzBV1FMcaUTOOvz+1uubLcuNGjsxRV558QaBttFLK50j71CxdpZ8qZbv/WVq83fqKis2q1Fc5If/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/zj2xV9bfEtTzzWPQCoIUkKVxlgxeeVPdr8Zn1gGUGLM.jpg",
+    "url": "https://preview.redd.it/ugwzmkqi36g31.jpg?width=640&crop=smart&auto=webp&s=d80a9c0f163cc78f10d787eff3cd66b3149a8a94",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 0.95,
+    "ups": 16,
+    "value": 16
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Testing new painting technique",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/cppn79/testing_new_painting_technique/"
+}

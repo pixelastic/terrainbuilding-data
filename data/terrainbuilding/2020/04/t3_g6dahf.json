@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_4l9frcg1",
+    "name": "cnbuch"
+  },
+  "date": {
+    "day": 1587600000,
+    "full": 1587603362,
+    "month": 1585699200,
+    "week": 1587254400
+  },
+  "id": "t3_g6dahf",
+  "misc": {
+    "postHint": "hosted:video"
+  },
+  "picture": {
+    "filesize": 95198,
+    "fullUrl": "https://external-preview.redd.it/6OND2JGOG0C8e06O18vC8HjMY_v0bpfi_Eh4SwT6JKc.png?format=pjpg&auto=webp&s=de8613df31b9f2f79d3d321cf3f4e7b432868446",
+    "hash": "448e10dadc",
+    "height": 800,
+    "lqip": "data:image/png;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQF/8QAJhAAAQQABAUFAAAAAAAAAAAAAQIDBAUABhESByExQVETImGh4f/EABQBAQAAAAAAAAAAAAAAAAAAAAL/xAAaEQACAgMAAAAAAAAAAAAAAAAAAQIxAxEh/9oADAMBAAIRAxEAPwArHoGWUZ1rJkB52dWrC0SxrpHbG8gEdNpG3mR5wl4ZURn5JhvSpS0lTrpSkgchu/MS3UpK83XljbToMVFjHQ27veSnUBIGgT189saXDp6Gmnch1NqqYmOv3j0FlDe7UgJJA+fo98PGpLjsEtOj/9k=",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/-1Z1EXM2GMwtvhoDoPOwjOiZ7mYc4tlxCGhPjpwhYm8.jpg",
+    "url": "https://external-preview.redd.it/6OND2JGOG0C8e06O18vC8HjMY_v0bpfi_Eh4SwT6JKc.png?width=640&crop=smart&format=pjpg&auto=webp&s=3197f3ef55e8ffff3c40238619b43ae4915a9906",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 112,
+    "value": 112
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP sector imperialis mausoleum. Went through the hoard and cannibalized a few existing pieces, but really happy with the design. Especially getting the footprint down to a single 12”x12” tile! Going to add some shrines and other gack scattered throughout",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/g6dahf/wip_sector_imperialis_mausoleum_went_through_the/"
+}

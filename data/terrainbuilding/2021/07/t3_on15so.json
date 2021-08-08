@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_11wn33",
+    "name": "renegrape"
+  },
+  "date": {
+    "day": 1626566400,
+    "full": 1626647964,
+    "month": 1625097600,
+    "week": 1626566400
+  },
+  "id": "t3_on15so",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 92054,
+    "fullUrl": "https://preview.redd.it/b1fmquh0u1c71.jpg?auto=webp&s=048b6bb443d6dc95575d6f6365e6e4c3e3478998",
+    "hash": "de92058d3f",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAJRAAAgEDAgUFAAAAAAAAAAAAAQIDBAURAAYSFDFBYRMhIjKx/8QAFAEBAAAAAAAAAAAAAAAAAAAABf/EABoRAAICAwAAAAAAAAAAAAAAAAECACERE0H/2gAMAwEAAhEDEQA/AHb9tixXDmZaWijgq6ZCDUQooDE4IUr0Oc9dQty2BuWGrdFgo69e05p4yWHnLDB8Y1pljeBLW0kCgc58m9gQrdx+6Y9dj924m7kjGdEbVAwBcRUP01P/2Q==",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/5upLgaASzaUJtwQ4ipErwchZ-Psa32urx5gqESqaMF0.jpg",
+    "url": "https://preview.redd.it/b1fmquh0u1c71.jpg?width=640&crop=smart&auto=webp&s=8ce729de07c630a758a4b782bbe81ce57f2537e7",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 64,
+    "value": 64
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Best solution I've found for manually mapping out hexes! (play Battletech, so... new terrain coming soon)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/on15so/best_solution_ive_found_for_manually_mapping_out/"
+}

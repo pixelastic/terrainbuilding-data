@@ -1,0 +1,39 @@
+{
+  "author": {
+    "name": "[deleted]"
+  },
+  "date": {
+    "day": 1547769600,
+    "full": 1547832704,
+    "month": 1546300800,
+    "week": 1547337600
+  },
+  "id": "t3_ahcty3",
+  "misc": {
+    "postHint": "self"
+  },
+  "picture": {
+    "filesize": 29978,
+    "fullUrl": "https://external-preview.redd.it/9yd2LL9UMBqF0l-8VJ9fzr9J6OqvDjZZhTwAF3tg-Q8.jpg?auto=webp&s=18ffa2a0980ad69c78e8ba3e6c17929738f888cd",
+    "hash": "c2aefa5a1a",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwIE/8QAJRAAAAUCBAcAAAAAAAAAAAAAAQIDBBEAEgUGFHQ0N0FxgbGy/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABcRAAMBAAAAAAAAAAAAAAAAAAACIhH/2gAMAwEAAhEDEQA/AA1FfUtxVKRQDhN/WC+KgzNxpjuwbOQbAeBVBMbO10RNasvcLi20N9kpWyVyrfbdX1RpWiPJ/9k=",
+    "thumbnailUrl": "self",
+    "url": "https://external-preview.redd.it/9yd2LL9UMBqF0l-8VJ9fzr9J6OqvDjZZhTwAF3tg-Q8.jpg?width=640&crop=smart&auto=webp&s=cc760100fc69d258c45809a7c3bc756debfb7180",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 0.72,
+    "ups": 3,
+    "value": 3
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Best way to recreate these tiles?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ahcty3/best_way_to_recreate_these_tiles/"
+}

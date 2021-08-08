@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_86rdrnt8",
+    "name": "MS-Paints"
+  },
+  "date": {
+    "day": 1609804800,
+    "full": 1609875933,
+    "month": 1609459200,
+    "week": 1609632000
+  },
+  "id": "t3_kr61qp",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 277087,
+    "fullUrl": "https://preview.redd.it/f9kzf542gk961.png?auto=webp&s=0456dc81bc439b70fd4f4c9f1bca6ec5c561ce5d",
+    "hash": "69a4fa925d",
+    "height": 360,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAABxElEQVQYlQG5AUb+AHNyeY6MmN/e9NnY8tbV8tHR883O88jJ8ZiZupGStKSl0YyOs5WXw4yOuZOVxbG19AC2tL25uMTf3fDb2vHZ2PPW1fTW1fnQz/aQkayXmbmhosmGh6mPkLl+f6SGiLKztfMA8/D68e777On64+H12Nbu0dHqt7nRuLnWnp65jo+piImklJS5fH2gdneai426t7r5ANTT2ry9xKSosI6TnHyEilthaFJZYF5mbKeqw8zM9aipzaanzqWm0aKj0aOl1ra59QB/hYZsc3Vja2tmcHFXXl5lbXJyeoJocXdcZmqorMbFxe2YmbuZmsCen8mZm8e2uPEAdXt8fIGEh4yQeH2AaGtthYqNhYiNe36GgIqSaXV5oae/vr7mu73rbnCLmJnCwML7AIGJi5WboKSqr3V6fWZrbXyEh46NkHRwc3qBiX6JkHJ8hMLG6sW93W9kaJOVs8bI/wB0fX6DjJF3fn9cYmJOVFVia21vdnp9fYSanay9v9fQ0PHCw+dsZ3OHgo2kpLq6u+sAlJqbeIKGanFyen2AoKKov7/I1tTi4d/y5eP63dv31tXz1NP2iImgdnaGfX2Plpa2LRMVlgAFf/EAAAAASUVORK5CYII=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/7jtxDsX6fHwTLfj_4-ExCWOhAv9U4WEpOdkPWQcPHDo.jpg",
+    "url": "https://preview.redd.it/f9kzf542gk961.png?width=640&crop=smart&auto=webp&s=72462381f13f5170f66bcb52827de2c5ede5ee4c",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 12,
+    "value": 12
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Dry Brush Texture Palette Tutorial",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/kr61qp/dry_brush_texture_palette_tutorial/"
+}

@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_4lczd4az",
+    "name": "Jarod9000"
+  },
+  "date": {
+    "day": 1624147200,
+    "full": 1624147601,
+    "month": 1622505600,
+    "week": 1624147200
+  },
+  "id": "t3_o3t7id",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 76296,
+    "fullUrl": "https://preview.redd.it/bg067r65bb671.jpg?auto=webp&s=40a25e04a5081d5441372fc784bb968f109d788a",
+    "hash": "38f164eea9",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgMF/8QAJRAAAQMDAwQDAQAAAAAAAAAAAQIDBAUGEQASIQcTMVEUIkFy/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAZEQACAwEAAAAAAAAAAAAAAAABAgADERL/2gAMAwEAAhEDEQA/AM67bXt+3bbhPU6NIdq8vLzLD7qQAgEbioEYI59+TqdgW7QK6+h6HBdjOpj97uuFK0rXuAKQMDcnbgjOfJH5pn1HoUOr2FJqMruCTTkksltW0YUOUn2ONCuh26o3NJdlrWv40Qttpz9RjACv6xxn1qKg5i+8ld07P//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/zJAJ8H7WJv8Yba1WUXgUblQZ3nhpQz8qRj4aWQX3Rvo.jpg",
+    "url": "https://preview.redd.it/bg067r65bb671.jpg?width=640&crop=smart&auto=webp&s=369ad7a9d5a36a5a7140823f55efaf2312edfd02",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 100,
+    "value": 100
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Underdark Dice Display",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/o3t7id/underdark_dice_display/"
+}

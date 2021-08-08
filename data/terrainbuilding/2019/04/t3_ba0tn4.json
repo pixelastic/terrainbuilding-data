@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_3jt503yv",
+    "name": "Hexhog06"
+  },
+  "date": {
+    "day": 1554508800,
+    "full": 1554525647,
+    "month": 1554076800,
+    "week": 1553990400
+  },
+  "id": "t3_ba0tn4",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 96394,
+    "fullUrl": "https://preview.redd.it/20vm4tncpkq21.jpg?auto=webp&s=0a05ac42f3ac20017a86a96aa71e541f5a3c150e",
+    "hash": "89887f78e9",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwEH/8QAJBAAAQMDBAEFAAAAAAAAAAAAAQIDBAYRIQAFBxJhFDEyoeH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGxEBAAICAwAAAAAAAAAAAAAAAQACEVESIUH/2gAMAwEAAhEDEQA/AIdnhSKhTHk07FbjpAaILI73BI7E+2cfunq2Dt7Do2drbYbMVlYUA21chJJBJSLdj2sc5zjWIucv1Y642tciGVo+KvSouPrRu8rVS7IEp2TGW+L2WqMgkXt48aKF7OXW/Yh4nQz/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/fmcoH5-dI1t-VTJZPJVqWfixeG6rLkbSFKatZtfpoLg.jpg",
+    "url": "https://preview.redd.it/20vm4tncpkq21.jpg?width=640&crop=smart&auto=webp&s=d1d64d5cfcfe53db5280e691d2cabc4cec5072db",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.91,
+    "ups": 27,
+    "value": 27
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Modular Terrain Project (3d printed)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ba0tn4/modular_terrain_project_3d_printed/"
+}

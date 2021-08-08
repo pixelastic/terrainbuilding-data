@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_4jbgjtgi",
+    "name": "chungus_mungus"
+  },
+  "date": {
+    "day": 1587254400,
+    "full": 1587281731,
+    "month": 1585699200,
+    "week": 1587254400
+  },
+  "id": "t3_g43nuk",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 42078,
+    "fullUrl": "https://preview.redd.it/duxama60aqt41.jpg?auto=webp&s=551856ffbc24b4381553e8e75373aef1d46d779b",
+    "hash": "a08fbf57c3",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwQI/8QAIxAAAgIABgIDAQAAAAAAAAAAAQIDEQAEBQYSEzFBISJCkf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAEhAiL/2gAMAwEAAhEDEQA/ANCDeujGdou2UMrlDcZqwawUQbkml1OfJ8JUzsc68stP2h1TsALq18SPeKdQ27qLauyiG8srsVkWE8hyYGy1/Ju/Xj+4UJNv6JBmUaahmPwzv9gOV0D5qx4xLrTg4j//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/PwzYk8i36PwbUXaRl9s9NX2UM8MKzOxtmcL-6hRbqKQ.jpg",
+    "url": "https://preview.redd.it/duxama60aqt41.jpg?width=640&crop=smart&auto=webp&s=fa09b16d63da14320cfca66a0b8f058de595116e",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 0.95,
+    "ups": 43,
+    "value": 43
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Gotham Harmonic Theatre WIP",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/g43nuk/gotham_harmonic_theatre_wip/"
+}

@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_gp4sn",
+    "name": "r1chb0y"
+  },
+  "date": {
+    "day": 1546819200,
+    "full": 1546853138,
+    "month": 1546300800,
+    "week": 1546732800
+  },
+  "id": "t3_adg2rq",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 21778,
+    "fullUrl": "https://preview.redd.it/a8m4avoyyy821.jpg?auto=webp&s=b475414cd18fe72359e099305516fda93b2f4cab",
+    "hash": "e4d0868168",
+    "height": 478,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEBv/EACMQAAECBQMFAAAAAAAAAAAAAAECAwAEBQYREyExEiIyUYH/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAGBEAAwEBAAAAAAAAAAAAAAAAAQIRACH/2gAMAwEAAhEDEQA/ABsSzl2a+p6cnnJuYmPHQR0NpAG4UOPphN/1u5Gq1JGk0NmrUlSAHEOtahSrO+DnKcjHG0bmX7mUZ9RQ0kA8CE/WpyMCwb//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/ztVmAjq66rv9FeockNA7uhpC9LpQnXtV94w8wHvezdw.jpg",
+    "url": "https://preview.redd.it/a8m4avoyyy821.jpg?width=640&crop=smart&auto=webp&s=f16f6983dc7fd5437e63c185037cbf59b94d9825",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 0.9,
+    "ups": 30,
+    "value": 30
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "The Square Desert House",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/adg2rq/the_square_desert_house/"
+}

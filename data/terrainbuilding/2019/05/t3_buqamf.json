@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_dawjw",
+    "name": "stundex"
+  },
+  "date": {
+    "day": 1559174400,
+    "full": 1559201552,
+    "month": 1556668800,
+    "week": 1558828800
+  },
+  "id": "t3_buqamf",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 112491,
+    "fullUrl": "https://preview.redd.it/rcdf6ysxwa131.jpg?auto=webp&s=59ef70eb84d062057910bad070e2303571515f8b",
+    "hash": "4e37eca736",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQf/xAAkEAACAgEDAwUBAAAAAAAAAAABAgMRBAAFBhIhMRMiUnGhwf/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAbEQACAQUAAAAAAAAAAAAAAAAAARICAyExYf/aAAwDAQACEQMRAD8AWgmjj5Fi40LwSbbkY5kS66iboH7/AIdJzYeNIwdEQqwsHqXv+6j+Tvu3SJgyCadnVFM9RKpjoge35eSaNDVO4JtvHd32M5LIM5fVZEnkQxOwFeV6qBFkdu2gqzPeBrqj0//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/wrcTnnAcYpSMKEZj1PLnz17lVJCn-He31vdINbpWqVI.jpg",
+    "url": "https://preview.redd.it/rcdf6ysxwa131.jpg?width=640&crop=smart&auto=webp&s=c9431031b281c52c9ef7fee87b56f82df3c0ba07",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 86,
+    "value": 86
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Was told to share my Kill Zone: Sector Sanctoris here. And seeing your other stuff here wants me to get more into terrain building.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/buqamf/was_told_to_share_my_kill_zone_sector_sanctoris/"
+}

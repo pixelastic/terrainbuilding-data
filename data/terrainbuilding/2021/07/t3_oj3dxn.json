@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_8kp2odn8",
+    "name": "drjack69"
+  },
+  "date": {
+    "day": 1626048000,
+    "full": 1626133094,
+    "month": 1625097600,
+    "week": 1625961600
+  },
+  "id": "t3_oj3dxn",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 161477,
+    "fullUrl": "https://preview.redd.it/9929zmo1bva71.jpg?auto=webp&s=ec3b8db0fc222c1451c8c09f654a1759c260516c",
+    "hash": "631e698ce7",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQIE/8QAIhAAAQQBBAIDAAAAAAAAAAAAAQIDBBEFABITMSFBU8HR/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABcRAQEBAQAAAAAAAAAAAAAAAAEAQRH/2gAMAwEAAhEDEQA/AIit42AQ2w0oBtAbTQ87R13rJwYCS44uWykubiBuSAa7+zpB3CT10UBrkqhchKR+6FymFlIk0niSK+dK/Z9g6AHdmqmX/9k=",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/tHe6OKhPUbdF5BhAIwVsD8p37TAraSVcYlVlN5vY4b8.jpg",
+    "url": "https://preview.redd.it/9929zmo1bva71.jpg?width=640&crop=smart&auto=webp&s=b3369a00f4b7fccd4451d9caa4d0780f14f7eea1",
+    "width": 640
+  },
+  "score": {
+    "comments": 17,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 43,
+    "value": 43
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First attempt at a proper gaming board. Please see comment below… I’d really appreciate some tips from you lovely people.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/oj3dxn/first_attempt_at_a_proper_gaming_board_please_see/"
+}

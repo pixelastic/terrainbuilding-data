@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_74p1jglc",
+    "name": "Ban_of_the_Valar"
+  },
+  "date": {
+    "day": 1595980800,
+    "full": 1596044609,
+    "month": 1593561600,
+    "week": 1595721600
+  },
+  "id": "t3_i04za9",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 35709,
+    "fullUrl": "https://preview.redd.it/0lxt7o4j2ud51.jpg?auto=webp&s=037c5d863e713654e1db50a65804aa6f757dbc8d",
+    "hash": "de106bf421",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAX/xAAlEAABAwMEAAcAAAAAAAAAAAACAQMRAAQFBiExYRIUIjJBUVL/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABgRAAIDAAAAAAAAAAAAAAAAAAAxAQIR/9oADAMBAAIRAxEAPwAumtB3GkMa23f5FHb1xjxu24SoAU/peYlE2+aj5kW3LN0FUTNINCDdF+96LltY5DM5APOM2scehDSO/dUwr0mYbaaaAekXfvmpmx6rJP/Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/wEhykpaWh9Dwm9IThkhlaAFLKgw5G7DQXXTS4xi-LeA.jpg",
+    "url": "https://preview.redd.it/0lxt7o4j2ud51.jpg?width=640&crop=smart&auto=webp&s=c14f5ed526b4d9cb7b71d058ebab3c4baebaea40",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 0.88,
+    "ups": 6,
+    "value": 6
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP - Beginning a modular wargaming board for MESBG. Any creative suggestions would be welcome!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/i04za9/wip_beginning_a_modular_wargaming_board_for_mesbg/"
+}

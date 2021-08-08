@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_3gy1csgq",
+    "name": "CSM_Ereden"
+  },
+  "date": {
+    "day": 1623456000,
+    "full": 1623463572,
+    "month": 1622505600,
+    "week": 1622937600
+  },
+  "id": "t3_nxw19s",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "filesize": 20847,
+    "fullUrl": "https://external-preview.redd.it/SXkdVcxPrE1HCZapRCRpXoQGdE6DvKpX3cIbEVN6XUs.jpg?auto=webp&s=d209f1a22e370f45694dc7e3f63c7ab5b68a5230",
+    "hash": "ce9ecb14e2",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQF/8QAIxAAAgAEBQUAAAAAAAAAAAAAAQIAAxESBAUTIVEUFSJhkf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAXEQEAAwAAAAAAAAAAAAAAAAAAARFB/9oADAMBAAIRAxEAPwB53bC3srTglr6dXUqC3AJG8U9QoJGotRsfIQeyDEibIe6Y8ws19HNQp9cRrgg70HyBi9M//9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/8H2-j-nnE5IptWIPtBEeu_R4AVp4tsUwU5__CXIl4BI.jpg",
+    "url": "https://external-preview.redd.it/SXkdVcxPrE1HCZapRCRpXoQGdE6DvKpX3cIbEVN6XUs.jpg?width=640&crop=smart&auto=webp&s=085c3e715029225abd1477259fb34000fa981ba2",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 0.79,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Finally tried out recasting for bits on terrain, any tips when using oyamaru+milliput?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/nxw19s/finally_tried_out_recasting_for_bits_on_terrain/"
+}

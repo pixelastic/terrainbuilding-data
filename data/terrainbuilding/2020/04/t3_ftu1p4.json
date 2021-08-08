@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_3eedtcrb",
+    "name": "Ethan-Level"
+  },
+  "date": {
+    "day": 1585785600,
+    "full": 1585859880,
+    "month": 1585699200,
+    "week": 1585440000
+  },
+  "id": "t3_ftu1p4",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 68373,
+    "fullUrl": "https://preview.redd.it/hx0fuyt3ugq41.jpg?auto=webp&s=9784043148cd54afd3fdf9cf17bebe6e4fb82c50",
+    "hash": "96862d98af",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQT/xAAnEAABBAEDAgYDAAAAAAAAAAABAgMEBREAEiEGIwcTIiQxQXGBof/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGREBAAIDAAAAAAAAAAAAAAAAAQARAgNR/9oADAMBAAIRAxEAPwAyr6i6h8QYM+zmvRiqsw3FZSwhA7mPMCcAc7QkcnR79s5Xzw1aPtxY6GUuuhyMVJB4ASlQ43fH41JCvpXR7D1PWNQ3YQ73uoyHF7lZz6sA/Q0zTX4uyWp1TWlJAzsQ4kH9b8fzU9xbaRYcGf/Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/efZNQ9vY4sPnMY-jTlMgMFFszSIbTS3WaJZat9ncJ6Q.jpg",
+    "url": "https://preview.redd.it/hx0fuyt3ugq41.jpg?width=640&crop=smart&auto=webp&s=4ed535de3893a9de498309c95836440b21e34828",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "ratio": 0.86,
+    "ups": 10,
+    "value": 10
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Dollar tree is the best! All for 8 dollars!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ftu1p4/dollar_tree_is_the_best_all_for_8_dollars/"
+}

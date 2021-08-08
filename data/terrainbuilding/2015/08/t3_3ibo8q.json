@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_6rt8q",
+    "name": "Republiken"
+  },
+  "date": {
+    "day": 1440460800,
+    "full": 1440504439,
+    "month": 1438387200,
+    "week": 1440288000
+  },
+  "id": "t3_3ibo8q",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "filesize": 144527,
+    "fullUrl": "https://external-preview.redd.it/lP0kHY2FxJaTnyQrgvgsXKvY6ClEuACWwbUyGlapRds.jpg?auto=webp&s=e1901e91433a0d213bf7f2de2e93636c366ace32",
+    "hash": "55bf2a1828",
+    "height": 1138,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAkEAACAQQBAgcAAAAAAAAAAAABAgMABAURBhJUFBYycoGRlP/EABUBAQEAAAAAAAAAAAAAAAAAAAIE/8QAGREAAgMBAAAAAAAAAAAAAAAAAAECBBFR/9oADAMBAAIRAxEAPwAzip4TFhGTN43KXOSeIyBpLkIpbXpUIR0/OzobqZ8Xxvsov3y0i/FmiuC1q6kTNthISej20p5Vx/ax/QqaV59YHh//2Q==",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/qwOVYU94PaVGo8Akayzm26f0uVbKI1YNKSWsEaCOUz0.jpg",
+    "url": "https://external-preview.redd.it/lP0kHY2FxJaTnyQrgvgsXKvY6ClEuACWwbUyGlapRds.jpg?width=640&crop=smart&auto=webp&s=28f0b82ca81c99d3795ef5e220ecb86ee3e55670",
+    "width": 640
+  },
+  "score": {
+    "comments": 10,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 79,
+    "value": 79
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Finished shantytown buildings",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/3ibo8q/finished_shantytown_buildings/"
+}

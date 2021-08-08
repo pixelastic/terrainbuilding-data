@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_5i5hl",
+    "name": "3Dartwork"
+  },
+  "date": {
+    "day": 1493856000,
+    "full": 1493905096,
+    "month": 1493596800,
+    "week": 1493510400
+  },
+  "id": "t3_697jg3",
+  "misc": {
+    "postHint": "self"
+  },
+  "picture": {
+    "filesize": 30568,
+    "fullUrl": "https://external-preview.redd.it/FidiC4KqJpsBBX0U1bq0QfwwWRsV4Ttw33mAQTQF5hg.jpg?auto=webp&s=b3a6ed5c4be244370afbd36e5cbd402ee675d41e",
+    "hash": "ccc6a54731",
+    "height": 413,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAKABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAmEAACAAUDAgcAAAAAAAAAAAABAgADBBESBQchBkETFTJxgZGx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCy0vdCubSJUyr0YTapEBmlJuAbk8qtj9Xg074IgUzdHVLPiw8ZmuO5Bx4+YLpPW3sP0xAdaKvnIGIsJYNrd8jEH//Z",
+    "thumbnailUrl": "self",
+    "url": "https://external-preview.redd.it/FidiC4KqJpsBBX0U1bq0QfwwWRsV4Ttw33mAQTQF5hg.jpg?width=640&crop=smart&auto=webp&s=fab46bba650f80e9b1914a475480c419740061c0",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.91,
+    "ups": 11,
+    "value": 11
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I created a 40s video showing some 3D terrain I modeled in hopes of printing soon",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/697jg3/i_created_a_40s_video_showing_some_3d_terrain_i/"
+}

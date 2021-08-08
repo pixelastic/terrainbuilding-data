@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_gujot",
+    "name": "Dunhagen"
+  },
+  "date": {
+    "day": 1518134400,
+    "full": 1518197342,
+    "month": 1517443200,
+    "week": 1517702400
+  },
+  "id": "t3_7wf12z",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 47023,
+    "fullUrl": "https://preview.redd.it/i4in96nv18f01.jpg?auto=webp&s=0447a7d7446c3be6d1bcd36195c407b3c09a8acc",
+    "hash": "25e2df3109",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAJRAAAgIBAwIHAQAAAAAAAAAAAQIDBBEAEiEFIgYHEyQxQYGh/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABcRAQEBAQAAAAAAAAAAAAAAAAECEQD/2gAMAwEAAhEDEQA/ALnTK0FCsi2XCzKO+JgFZT9ggnII0X8S9QNq2GrL7VIz6qgg4ycB8545wP3We+YN203WprTzu1iV0DyHG5uwck4+Tk6O0LVm3Zlhmsy7ZYdjbWwcAjj+aPKM7nIsZpN7/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/2Umi2CDrb-qQF-zTSrlZLbkIDHLtl-peVRFnAlj-ujg.jpg",
+    "url": "https://preview.redd.it/i4in96nv18f01.jpg?width=640&crop=smart&auto=webp&s=92f41f4f7e7023978a4593f35c2c47b2db2f7db0",
+    "width": 640
+  },
+  "score": {
+    "comments": 11,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 42,
+    "value": 42
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First test wall, want to build a castle, any advice how to make pop more ?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/7wf12z/first_test_wall_want_to_build_a_castle_any_advice/"
+}

@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_h0141",
+    "name": "Zulathan"
+  },
+  "date": {
+    "day": 1521763200,
+    "full": 1521838840,
+    "month": 1519862400,
+    "week": 1521331200
+  },
+  "id": "t3_86o3p5",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 60833,
+    "fullUrl": "https://external-preview.redd.it/fICOW3ElWbwS2u5zwJPFmnSvHHbunJNxHK8Xo9VBHTA.jpg?auto=webp&s=fe239015ea903884783be608fb4b103bc9c4b154",
+    "hash": "18f7cd4e46",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFBv/EAB8QAAIBAwUBAAAAAAAAAAAAAAECAwAEEgURITFRcf/EABQBAQAAAAAAAAAAAAAAAAAAAAX/xAAYEQADAQEAAAAAAAAAAAAAAAAAAREDE//aAAwDAQACEQMRAD8AwGnTK4htUtSciWDmQggk97UxrSkWsdq8mWHLtCoDfW9qnAkcGRhjRGPZA5okjjdlZ0Vm9I5oB6q2DnJyH//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/IQBUkEVnc2d8sUtclDJJogQmQEnRNGHR5r0xqVvswsY.jpg",
+    "url": "https://external-preview.redd.it/fICOW3ElWbwS2u5zwJPFmnSvHHbunJNxHK8Xo9VBHTA.jpg?width=640&crop=smart&auto=webp&s=58d9ca7e7fd6fe8c6e084d04b7ef779f6abd593e",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.95,
+    "ups": 36,
+    "value": 36
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I made some buildings/ruins for my arid planet Tau",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/86o3p5/i_made_some_buildingsruins_for_my_arid_planet_tau/"
+}

@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_17wsy7se",
+    "name": "Felldir"
+  },
+  "date": {
+    "day": 1552953600,
+    "full": 1553037121,
+    "month": 1551398400,
+    "week": 1552780800
+  },
+  "id": "t3_b34e3v",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "filesize": 71635,
+    "fullUrl": "https://external-preview.redd.it/NIUAlHAkiz0FL5Z90AscLJ8TjtJf4LZgRbwRFlodNQc.jpg?auto=webp&s=aaf618ab1ae74277bb939f52587bf13828eb3513",
+    "hash": "d4725d4f06",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAf/xAAgEAACAgEFAQEBAAAAAAAAAAABAgMEBQAGERIxIWFx/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABkRAAMBAQEAAAAAAAAAAAAAAAECAwASIv/aAAwDAQACEQMRAD8AJsvfD4Ko0VWvGyOendnAbkkDr9PHJ0Tcz5LJVrlqtFAoUF3VpEAUAEsCQOCfz3Ubx+dyOLlkarZJRQpEUgDoTzx4f5qr0M4+W2fO9mhQR524kaKIp2J+E++6LegiemGRENTyp3//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/mlhKwfgs9JX5lVSwm6WBn2pz498rPY_jOkRzTXbyZ_U.jpg",
+    "url": "https://external-preview.redd.it/NIUAlHAkiz0FL5Z90AscLJ8TjtJf4LZgRbwRFlodNQc.jpg?width=640&crop=smart&auto=webp&s=b257e1ba7a390749c7b2957bc13d5c0298e7009c",
+    "width": 640
+  },
+  "score": {
+    "comments": 12,
+    "downs": 0,
+    "ratio": 0.92,
+    "ups": 44,
+    "value": 44
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Finally finished a bunch of modular dungeon walls",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/b34e3v/finally_finished_a_bunch_of_modular_dungeon_walls/"
+}

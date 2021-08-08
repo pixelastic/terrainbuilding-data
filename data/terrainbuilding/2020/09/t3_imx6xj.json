@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_1j9kg4xj",
+    "name": "michaelridgewell"
+  },
+  "date": {
+    "day": 1599264000,
+    "full": 1599291807,
+    "month": 1598918400,
+    "week": 1598745600
+  },
+  "id": "t3_imx6xj",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 70342,
+    "fullUrl": "https://preview.redd.it/lmballj4aal51.jpg?auto=webp&s=3ac383c495f73ba1cdd392c27109c09422c02972",
+    "hash": "ec468876e2",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQAG/8QAIxAAAgIBAwMFAAAAAAAAAAAAAQIDBAUAITEREhMiQVFhgf/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAdEQABBAIDAAAAAAAAAAAAAAABAAIDBBESkdHw/9oADAMBAAIRAxEAPwALIZ/KOHincsS/cvk9XRhwSCON9D1btuPKpYyNVxXkmEgjZOqMfkKdhtwTqiuzizHjpHEqSztG8rgGQjf34H4NbKljKtaOBkjJkiXtEjksx+yTzolq2YcFw492kQvcCdSv/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/v_dZoLUhdJvUTslxA8uQwIVHMni8P6QYUuH2XiLD6bc.jpg",
+    "url": "https://preview.redd.it/lmballj4aal51.jpg?width=640&crop=smart&auto=webp&s=e238faad857342be06c621f8d4f78b8dced487a5",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 0.95,
+    "ups": 28,
+    "value": 28
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP created some test terrain to attempt digital flowing water on.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/imx6xj/wip_created_some_test_terrain_to_attempt_digital/"
+}

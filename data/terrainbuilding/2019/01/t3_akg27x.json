@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_c5903",
+    "name": "awidener3"
+  },
+  "date": {
+    "day": 1548547200,
+    "full": 1548624614,
+    "month": 1546300800,
+    "week": 1548547200
+  },
+  "id": "t3_akg27x",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 105468,
+    "fullUrl": "https://preview.redd.it/f4uuz6pja1d21.jpg?auto=webp&s=46a35e57c1412a77668f82f19794046b1fe80309",
+    "hash": "9df653d76a",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABwb/xAAlEAACAQIGAAcAAAAAAAAAAAABAwIEBQAGERIhMQcTFBUicdH/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAGhEAAQUBAAAAAAAAAAAAAAAAAgABERIxA//aAAwDAQACEQMRAD8AgHOy+9UlutDgyZMfODZTJGnBw5ZAy7ka55YpaidXAPOsXRc2MTGY703Droj7wEKtVZc6Me107aiaIBztkT8FjsnToYW7H4X3ustVPV+stNOuogGrhJpJ2kccgfuD2521pSJFXChf/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/FwZse53x8GWIpmZrN9T6wAL18guePhbkL3VuhOF-VVw.jpg",
+    "url": "https://preview.redd.it/f4uuz6pja1d21.jpg?width=640&crop=smart&auto=webp&s=c1a5a88848ecf55055908e292fb2542b33fbc88b",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 24,
+    "value": 24
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Wizards workshop (WIP): C&C please!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/akg27x/wizards_workshop_wip_cc_please/"
+}

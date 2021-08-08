@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_sakrnw4",
+    "name": "Lee_Beedo"
+  },
+  "date": {
+    "day": 1579046400,
+    "full": 1579123973,
+    "month": 1577836800,
+    "week": 1578787200
+  },
+  "id": "t3_ep8tyx",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 109146,
+    "fullUrl": "https://preview.redd.it/mn7tnawsg0b41.jpg?auto=webp&s=a0c5c3986972854c549e2e9734f2626ab34af54a",
+    "hash": "587f8e2908",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAJBAAAgEDBAICAwAAAAAAAAAAAQIDBAURABMhMRJBBiIkUWH/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAGBEBAQEBAQAAAAAAAAAAAAAAAgEDABH/2gAMAwEAAhEDEQA/AMwqrBbJ4qjbpzvPLGyzAfYLwXUD94yOvemfh9Ms1ijXb2SKiVo4SQCQWGFORkAjOC2ORwcZ1b3y01dqppKkLE/e3Gp8FLegfZH9z2etF2qovdqhpvxqZp2MlbuVGHp1eNOERjyhPkx8jk4PWjZrnoDDfeQoZaqnf//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/NYCtEaYtk0i71a3iV5MOm_H1aLX2mI57WQzD6_3fBzU.jpg",
+    "url": "https://preview.redd.it/mn7tnawsg0b41.jpg?width=640&crop=smart&auto=webp&s=7a2c83120d520099b13fdff3e2f31b31970b9cd2",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.92,
+    "ups": 29,
+    "value": 29
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Finally finished up my 46 dungeon stackers.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ep8tyx/finally_finished_up_my_46_dungeon_stackers/"
+}

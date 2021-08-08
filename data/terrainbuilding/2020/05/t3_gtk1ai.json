@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_3l234r8o",
+    "name": "adamsjoe330"
+  },
+  "date": {
+    "day": 1590796800,
+    "full": 1590866482,
+    "month": 1588291200,
+    "week": 1590278400
+  },
+  "id": "t3_gtk1ai",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 157202,
+    "fullUrl": "https://preview.redd.it/tx3wtxzady151.jpg?auto=webp&s=12701cb437b4ef812ad98f69a11b5ad48744e39e",
+    "hash": "9b73906244",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAwb/xAAgEAACAgICAgMAAAAAAAAAAAABAgMEBREAIRIiQXGB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAbEQACAQUAAAAAAAAAAAAAAAAAEQECEhQhIv/aAAwDAQACEQMRAD8ArbOWuWxeM6V568U8kcTSQq/iqtrXY75JWJ4Hnc2MXjnbfRSBF6+tcOvm6iYs1RnsGzmRn2L6Aks2/n84BaOPqTK4Uk+22uJvR5PpQHXkXcM//9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/NwNPNcB0cSWjfMN88ociB8ps3CT8n5u40TxQkW4xjzA.jpg",
+    "url": "https://preview.redd.it/tx3wtxzady151.jpg?width=640&crop=smart&auto=webp&s=4bb1ff7f44ee0aeb70056f10c74359eb53d0ec93",
+    "width": 640
+  },
+  "score": {
+    "comments": 10,
+    "downs": 0,
+    "ratio": 0.84,
+    "ups": 8,
+    "value": 8
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Best way to keep the grid lines? Thoughts?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/gtk1ai/best_way_to_keep_the_grid_lines_thoughts/"
+}

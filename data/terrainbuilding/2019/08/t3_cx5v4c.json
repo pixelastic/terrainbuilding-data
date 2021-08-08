@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_3dhi1",
+    "name": "kagius"
+  },
+  "date": {
+    "day": 1567036800,
+    "full": 1567108082,
+    "month": 1564617600,
+    "week": 1566691200
+  },
+  "id": "t3_cx5v4c",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 56397,
+    "fullUrl": "https://preview.redd.it/72ptfthtyfj31.jpg?auto=webp&s=dc5c9daea1c847f95e09e1c9f65b10a274c04778",
+    "hash": "fd139aff7e",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQH/8QAIxAAAQMEAgIDAQAAAAAAAAAAAQIDBAUGESEAMQcSIkFRkf/EABUBAQEAAAAAAAAAAAAAAAAAAAAD/8QAGBEAAgMAAAAAAAAAAAAAAAAAAAEREiH/2gAMAwEAAhEDEQA/ANZ8ieRk25MXCgx0PyGh7PLcJ9UazgAbJ64VZPkp6uVRiBU4rCTI008zlO8Z+ST1+cSv+wUVyomoQZbceQrbiHEkhRx2COjrfIrOsJihT0zpkoSJCCVNobThCCfvJ2T/ADkXacCR/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/RXOu01eASLu28hIUvaoufKXa3rTyKtTsGpF6qR--m_Y.jpg",
+    "url": "https://preview.redd.it/72ptfthtyfj31.jpg?width=640&crop=smart&auto=webp&s=d8c92eb9c56395163b6b759c5df77fccf1b20824",
+    "width": 640
+  },
+  "score": {
+    "comments": 17,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 314,
+    "value": 314
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Found a super quick way to paint moldy stones using PVA and ink (video in comments)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/cx5v4c/found_a_super_quick_way_to_paint_moldy_stones/"
+}

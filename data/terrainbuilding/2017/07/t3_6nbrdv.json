@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_evltx",
+    "name": "DuxAtrox"
+  },
+  "date": {
+    "day": 1499990400,
+    "full": 1500065022,
+    "month": 1498867200,
+    "week": 1499558400
+  },
+  "id": "t3_6nbrdv",
+  "misc": {
+    "postHint": "self"
+  },
+  "picture": {
+    "filesize": 40024,
+    "fullUrl": "https://external-preview.redd.it/pgKgXHQqqFf1GHYvvHrbM4RWc4FIXorX0vhbW8Ceiok.jpg?auto=webp&s=5d71f9bbb321b6b03c52a3fd5c32ec37939b19f0",
+    "hash": "e8b1af6993",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQH/8QAJBAAAQMDBAEFAAAAAAAAAAAAAQIDBAUGEQASMUEhBxMUFYH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABoRAQEAAgMAAAAAAAAAAAAAAAIBAAMEESH/2gAMAwEAAhEDEQA/AIr6pjzleiQKDuqEdlJDvvZxkdADBCR0c+dILEnwy/8AWTaA18xLiUJdjNklzolWTnPHGtruW0KNMgvLXES25jwts7VD90R9O6HCjXGdiVKVHzsWo5J550JxxR0plJvZVp8z/9k=",
+    "thumbnailUrl": "self",
+    "url": "https://external-preview.redd.it/pgKgXHQqqFf1GHYvvHrbM4RWc4FIXorX0vhbW8Ceiok.jpg?width=640&crop=smart&auto=webp&s=6ed5266a2d418d2df26990de736cefa8a6f0111b",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.68,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "How to paint a house ruin??",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/6nbrdv/how_to_paint_a_house_ruin/"
+}

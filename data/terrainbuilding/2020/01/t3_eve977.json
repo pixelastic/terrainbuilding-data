@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_43dmbmms",
+    "name": "The_livin_Bros"
+  },
+  "date": {
+    "day": 1580169600,
+    "full": 1580255922,
+    "month": 1577836800,
+    "week": 1579996800
+  },
+  "id": "t3_eve977",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 62071,
+    "fullUrl": "https://preview.redd.it/so9m8x4lyld41.jpg?auto=webp&s=e190711ba401a31d62ada8d33a1b0b62dc796b10",
+    "hash": "a0e6a58908",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgf/xAAhEAACAgIBBAMAAAAAAAAAAAABAwIEBREABhNBQhRRof/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAGhEAAgMBAQAAAAAAAAAAAAAAAQIAETGREv/aAAwDAQACEQMRAD8Am9/oOpQuuryric0y0ZRYdfh4Xy1LHKvMjcXZUzwBEmJH2NeOP6PXeActndm9cte6Twtlc9h7NyTU5hyIn0+KTrk9b1gR2Obzi0eT/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/I1ChJ_gwCLW3MAXu6f3AHtJhM_fSVpTbMvAv3pfkbYI.jpg",
+    "url": "https://preview.redd.it/so9m8x4lyld41.jpg?width=640&crop=smart&auto=webp&s=9b8d65b6e8a2a5abf21de3a9ad5be55e96bdba5a",
+    "width": 640
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "ratio": 0.68,
+    "ups": 7,
+    "value": 7
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Building advice",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/eve977/building_advice/"
+}

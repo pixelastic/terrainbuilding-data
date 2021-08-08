@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_62bzy",
+    "name": "phosix"
+  },
+  "date": {
+    "day": 1489190400,
+    "full": 1489249454,
+    "month": 1488326400,
+    "week": 1488672000
+  },
+  "id": "t3_5ytexv",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 33894,
+    "fullUrl": "https://external-preview.redd.it/BdLDLupXNTv2vQuyZo-ZZXmwz0wvOBbD6b3h23vmDpk.jpg?auto=webp&s=87c461f616bddee6691112ee50eb60950c40c3f4",
+    "hash": "7587601086",
+    "height": 244,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAGABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMG/8QAIRAAAgEEAgIDAAAAAAAAAAAAAgMBAAUGEQQSBzEhIlH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAGBEBAQADAAAAAAAAAAAAAAAAAQACITH/2gAMAwEAAhEDEQA/ANYjAcpHzRy70jIRG2rcPIJBMYUmk52Ses/WI+Pe/wAqNwxDL2eZrfcrrfOG3gpOWIWnuspRBFIqMYiBnXb3ud6pSgydMh0v/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/JEA938HZOvJQJnkOqhdpraFuR9kOumdrRTEbsDyQm8Y.jpg",
+    "url": "https://external-preview.redd.it/BdLDLupXNTv2vQuyZo-ZZXmwz0wvOBbD6b3h23vmDpk.jpg?width=640&crop=smart&auto=webp&s=5c38c529d8aeee181211401de062c9eb8d607623",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 0.9,
+    "ups": 16,
+    "value": 16
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "2\"x2\" Stone Spiral Stairs",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/5ytexv/2x2_stone_spiral_stairs/"
+}

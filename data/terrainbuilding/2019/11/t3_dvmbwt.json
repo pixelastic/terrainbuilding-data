@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_3xofycio",
+    "name": "Wingedhusars"
+  },
+  "date": {
+    "day": 1573603200,
+    "full": 1573619036,
+    "month": 1572566400,
+    "week": 1573344000
+  },
+  "id": "t3_dvmbwt",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 105583,
+    "fullUrl": "https://preview.redd.it/ww2ysk4srdy31.jpg?auto=webp&s=4917a7177fcc70aa3a7aea6a3cfc9e6b01721f1b",
+    "hash": "ffc9a19d11",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQMG/8QAIxAAAgIBBAEFAQAAAAAAAAAAAQIDEQQABQYhYQcUMUFRcf/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAXEQADAQAAAAAAAAAAAAAAAAAAASIC/9oADAMBAAIRAxEAPwB/k08XtJk3ZlZJI3SCadDKxNUACLo/VD50fvG3cgPI8yDa8mG2iW8eB1S0YdFgxF9f3V/UzFBnSFJJIlqgUIBALd9151l+eSyLg7XGXZhJI5ssbUiu1/D50PNDXJ//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/Kqh79qagZldbwlonawIN8IBEw50bfEtQEW23ipNzJXQ.jpg",
+    "url": "https://preview.redd.it/ww2ysk4srdy31.jpg?width=640&crop=smart&auto=webp&s=2d01dbfc6e6bddb3e4fed0d865e20df7270f22a3",
+    "width": 640
+  },
+  "score": {
+    "comments": 19,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 507,
+    "value": 507
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP Skull hill",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/dvmbwt/wip_skull_hill/"
+}

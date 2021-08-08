@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_5adb1swe",
+    "name": "Loose-Ingenuity"
+  },
+  "date": {
+    "day": 1585958400,
+    "full": 1586017127,
+    "month": 1585699200,
+    "week": 1585440000
+  },
+  "id": "t3_fuwevr",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 62572,
+    "fullUrl": "https://preview.redd.it/qxyp01anttq41.jpg?auto=webp&s=69ae990b18245e3c6f1aafd92202f166e16d5009",
+    "hash": "9be51e1173",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAJRAAAgECBQMFAAAAAAAAAAAAAQIDBAUABhESQRMhUTEyM0KB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAbEQABBQEBAAAAAAAAAAAAAAACAAEDBBMRIf/aAAwDAQACEQMRAD8AUubWSnuaW242+nuLmYb5ZmJIX3bQoHrwNOThd8k5TmPUS2SQhvotTMoH4H7YyLMK9GpVaQtHsPyIxDDyQfOKPJdZWy2qQyXRtRMwAnYuwGg51wF2DPhA6ory6eEy/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/eczDsQCbanWrksXcecOlFkH9g769Lc2aQ_p6IXHfhzY.jpg",
+    "url": "https://preview.redd.it/qxyp01anttq41.jpg?width=640&crop=smart&auto=webp&s=27672b63b123e16734b778fc74224875f7d2637c",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.96,
+    "ups": 93,
+    "value": 93
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP: First attempt at building a vertical dungeon from cardboard.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/fuwevr/wip_first_attempt_at_building_a_vertical_dungeon/"
+}

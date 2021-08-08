@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_33u00",
+    "name": "roflo1"
+  },
+  "date": {
+    "day": 1523145600,
+    "full": 1523208673,
+    "month": 1522540800,
+    "week": 1523145600
+  },
+  "id": "t3_8argwl",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 113480,
+    "fullUrl": "https://preview.redd.it/fkhe2nqszpq01.jpg?auto=webp&s=2705b681f92088d0d8f88459cec32282e6062a3a",
+    "hash": "a759d44de9",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABwX/xAAoEAABAwIEBAcAAAAAAAAAAAABAgMFBBEABhNRByExQRIVIkJhodH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABgRAQADAQAAAAAAAAAAAAAAAAEAAhEh/9oADAMBAAIRAxEAPwAokIpl1xpco3VN1gX66e4SNOwKbnqFG/Ta2J1VCOh4+WuEU552cJUQe4uLYWM+cPpWLzKhtrVkESTpVT1Y56qlH3bHf6+FrLmRo6Mh6emUineeSLur8F7r7/mJNwORlVXZ/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/ICpQGVfX-jp45ADsTmAH5utew6ucGtLEcGItKnCg8Wk.jpg",
+    "url": "https://preview.redd.it/fkhe2nqszpq01.jpg?width=640&crop=smart&auto=webp&s=61f07146a126455ec0c42edbe932104f1483cb49",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 87,
+    "value": 87
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A simple staircase",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/8argwl/a_simple_staircase/"
+}

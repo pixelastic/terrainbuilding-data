@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_3ekzvr69",
+    "name": "SunkenPayload"
+  },
+  "date": {
+    "day": 1585699200,
+    "full": 1585784764,
+    "month": 1585699200,
+    "week": 1585440000
+  },
+  "id": "t3_ftbhao",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 126683,
+    "fullUrl": "https://preview.redd.it/ihd05xdmmaq41.jpg?auto=webp&s=d6e3a082793f5e1fabff9488f370bd7b54d602a7",
+    "hash": "aebc400ab9",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQF/8QAIRAAAgEDBAMBAAAAAAAAAAAAAQIEAwURAAYSIRQxQYH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABsRAAEEAwAAAAAAAAAAAAAAAAABAhExAxIh/9oADAMBAAIRAxEAPwDI2w9xiW5kpyqUWPF50i7VFRCCeXLBOej+5IGrzbjPepOuNxgRZMpjXK10DM4bsMCT6IxjRW/2fcj3GVPFvq+HTzwMWkDSY/CFHfHBPvvvTm4bP31KjWto8WhICQqSM7ovLOCcHP0ZA1OW3qBiZKnh/9k=",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/7hPQC2dDLIFoc03WCipibEaTCF771QSD0vfaKARMhY8.jpg",
+    "url": "https://preview.redd.it/ihd05xdmmaq41.jpg?width=640&crop=smart&auto=webp&s=3ba76219515deeb096ca13d55dc8bf125077d44b",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 0.96,
+    "ups": 54,
+    "value": 54
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Hey all, I’m stuck at the remote research station I work at for the next 60-90 days, and we are on complete lockdown. I hope you all are as safe as can be in these heady times. I really miss the squeaky sounds of cutting polystyrene!!!! Here’s a shot of the crystal patch in action!!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ftbhao/hey_all_im_stuck_at_the_remote_research_station_i/"
+}

@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_4q33ybtg",
+    "name": "Blindman2112"
+  },
+  "date": {
+    "day": 1601856000,
+    "full": 1601921263,
+    "month": 1601510400,
+    "week": 1601769600
+  },
+  "id": "t3_j5oie7",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 95960,
+    "fullUrl": "https://preview.redd.it/ixrkpiyrgbr51.jpg?auto=webp&s=80089566d3f7535666a0f12ee04dea46be0d21f7",
+    "hash": "0f8005c8cb",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAb/xAAiEAACAgICAgIDAAAAAAAAAAABAgMEESEABRITIkEUMXH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABcRAAMBAAAAAAAAAAAAAAAAAAABIgL/2gAMAwEAAhEDEQA/AIzrLGLdCOJY2nYqkZY/otnZB0P7wXe95NI4rTRIJEt+l2AAPkGwTr61yUr908VmpYqSwfkRBVUyfIZC71nhe0v+zFqxNEbLWPJ1T47O84+hySzI26P/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/IbZcDBb1-CjdOiSKisVZ22JuVSQ_i-BKU0agvpBmJDk.jpg",
+    "url": "https://preview.redd.it/ixrkpiyrgbr51.jpg?width=640&crop=smart&auto=webp&s=e28b2acb6256ec6e371f60866234237e9ead375c",
+    "width": 640
+  },
+  "score": {
+    "comments": 9,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 174,
+    "value": 174
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP (modified) Warcry Belltower",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/j5oie7/wip_modified_warcry_belltower/"
+}

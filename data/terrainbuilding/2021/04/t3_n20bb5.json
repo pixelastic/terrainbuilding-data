@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_6rt8q",
+    "name": "Republiken"
+  },
+  "date": {
+    "day": 1619740800,
+    "full": 1619807724,
+    "month": 1617235200,
+    "week": 1619308800
+  },
+  "id": "t3_n20bb5",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "filesize": 47510,
+    "fullUrl": "https://external-preview.redd.it/rwWN7vqX-89F6jQK40w8Asx35TITBFIsNjzOwCuk2d0.jpg?auto=webp&s=41bc8fe7f371480a36ce6c605beafb9662d9915b",
+    "hash": "83566c1ce4",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwQG/8QAIRAAAgEEAQUBAAAAAAAAAAAAAQIDBAURIQAGEjFBURP/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAGhEAAgIDAAAAAAAAAAAAAAAAAREAAhIhMf/aAAwDAQACEQMRAD8AJLIqS3GCOaOSSEk96R+SMHkrN5GdjWxviTZK2n6VopLdS1FmnuLM6y1qIwYLo9gc4z7+DXMn1tUNVV8brIs0YQD9BCEy3vGNlfhOeFDHsasLFjU//9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/FmXChPw81kpQ8VOohntUds09HNpIXVNlnXqq8kVyysk.jpg",
+    "url": "https://external-preview.redd.it/rwWN7vqX-89F6jQK40w8Asx35TITBFIsNjzOwCuk2d0.jpg?width=640&crop=smart&auto=webp&s=9d6696804ae14d7ef2bf2475a409a0e5cc3d9def",
+    "width": 640
+  },
+  "score": {
+    "comments": 19,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 624,
+    "value": 624
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Statue of The Terrain Tutor",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/n20bb5/statue_of_the_terrain_tutor/"
+}

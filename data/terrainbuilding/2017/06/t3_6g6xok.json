@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_143pzs",
+    "name": "janStastny"
+  },
+  "date": {
+    "day": 1496966400,
+    "full": 1496993125,
+    "month": 1496275200,
+    "week": 1496534400
+  },
+  "id": "t3_6g6xok",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "filesize": 67469,
+    "fullUrl": "https://external-preview.redd.it/g6S83lmbwUncNzYPkN_HmVdrKadggWtgagEivxjH914.jpg?auto=webp&s=aebb8b3e5957e25ed3d644f51ed8851b6a6949d0",
+    "hash": "3a4937e8e4",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQIH/8QAJBAAAQMDBAMAAwAAAAAAAAAAAQIDBAUGEQASIVEHEyIxQWH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAA//EABcRAQEBAQAAAAAAAAAAAAAAAAERACH/2gAMAwEAAhEDEQA/ADK/5evV2oSoEN9gqZWtv2w44wrBxuBIPz0cab8IVCrVe7ZjN0h5xMiPvR7nTwtJySMfkn95xx3qbop7FMuqXT2Ny2PYdpcOVJB5wD0P7rVbGtWm0eIifHS45MfR9OvK3FI6TwABqa8kxALv/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/5jD72DNdEUoxwIsnZJwnZTNC_Q8q7ws7ElUnl4jBCxQ.jpg",
+    "url": "https://external-preview.redd.it/g6S83lmbwUncNzYPkN_HmVdrKadggWtgagEivxjH914.jpg?width=640&crop=smart&auto=webp&s=092fb51d38090b742f24b7ffbcc0dc8fe68b5572",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.88,
+    "ups": 27,
+    "value": 27
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Terrain WIP",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/6g6xok/terrain_wip/"
+}

@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_5h45itgn",
+    "name": "PrimusDirectus"
+  },
+  "date": {
+    "day": 1612828800,
+    "full": 1612889518,
+    "month": 1612137600,
+    "week": 1612656000
+  },
+  "id": "t3_lg7keq",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 89924,
+    "fullUrl": "https://preview.redd.it/ug0a0dd3fhg61.jpg?auto=webp&s=4ee0f119febc4c03eb70ba7820d191bd47350eb3",
+    "hash": "94c236e5a5",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgIH/8QAIxAAAQQBBAEFAAAAAAAAAAAAAQIDBBEFAAYhQRMSFCIxYf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGhEAAgIDAAAAAAAAAAAAAAAAAREAAxITMf/aAAwDAQACEQMRAD8AQbnhypzqHchkIrcMv+VqPJcJ8fxoosE0D3XHWjEra0WS+GkZmKiGaKil4vOg2TSSaocnvV5edk5eC91kUlMhS/Wp1hhTSSkABPAuv3noaz+bnSQWxOcv65cI1PXYQyVFlXxOf//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/9wcILjud9g2aw6nNwjhmwSC7Xk4nnaGBJTxtkTf2GIs.jpg",
+    "url": "https://preview.redd.it/ug0a0dd3fhg61.jpg?width=640&crop=smart&auto=webp&s=81da82c19759b04fa8c008d2abb8aea2a7e5d3af",
+    "width": 640
+  },
+  "score": {
+    "comments": 33,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 875,
+    "value": 875
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Working on some modular trenches! These are just the basic skeletons, but they'll be fully built with embankments and details once they're all done.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/lg7keq/working_on_some_modular_trenches_these_are_just/"
+}

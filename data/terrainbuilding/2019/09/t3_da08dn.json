@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_l4e8qjw",
+    "name": "parasite3go"
+  },
+  "date": {
+    "day": 1569542400,
+    "full": 1569590030,
+    "month": 1567296000,
+    "week": 1569110400
+  },
+  "id": "t3_da08dn",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 56420,
+    "fullUrl": "https://preview.redd.it/hm2rezzbz4p31.jpg?auto=webp&s=d4c8e9da828fc755562b97e108b04735e78cd3cf",
+    "hash": "0ad7f14166",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAkEAABAwMDBAMAAAAAAAAAAAABAgMRABIxBCFBBQYTMiJRUv/EABQBAQAAAAAAAAAAAAAAAAAAAAL/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAwDAQACEQMRAD8AK0Pb7+lZZS8w82XW70XoSbz+Qn2xO+wkUQ405p9eoPMkAwPjbI2gyORnFUqHD474FxyeTQvVbSn0RsZxz90Dj//Z",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/92k9w3faNNEQIcCcynZW2C_YAQkChTo0OrHLaAFNxD8.jpg",
+    "url": "https://preview.redd.it/hm2rezzbz4p31.jpg?width=640&crop=smart&auto=webp&s=b8eadc1517a9099e26a671e82f6fcae91c4a7fcd",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "ratio": 0.96,
+    "ups": 82,
+    "value": 82
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Modular ruined walls to go with my basic dungeon tiles - loosely inspired by bmc (more pics in comments)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/da08dn/modular_ruined_walls_to_go_with_my_basic_dungeon/"
+}

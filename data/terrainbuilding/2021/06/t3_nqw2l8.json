@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_3yzwmbs1",
+    "name": "GimmeGoods"
+  },
+  "date": {
+    "day": 1622592000,
+    "full": 1622667208,
+    "month": 1622505600,
+    "week": 1622332800
+  },
+  "id": "t3_nqw2l8",
+  "misc": {
+    "postHint": "hosted:video"
+  },
+  "picture": {
+    "filesize": 17034,
+    "fullUrl": "https://external-preview.redd.it/L58Ht5tJ5LBpWEouXT861ILRrmARVZn9EpPdmx1zb70.png?format=pjpg&auto=webp&s=d37755bf66f32d2f4d96e8d7307a45a4bc66260b",
+    "hash": "a53c38be87",
+    "height": 640,
+    "lqip": "data:image/png;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQQFB//EAB0QAAIBBQEBAAAAAAAAAAAAAAECAwAEERIhBUH/xAAVAQEBAAAAAAAAAAAAAAAAAAABA//EABcRAQEBAQAAAAAAAAAAAAAAAAEAAzH/2gAMAwEAAhEDEQA/AML9GUTTYB6TipuO0GnUTruSAGpm3aBrlty2mxxz5UxnRO3/2Q==",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/wD2g35LUsxQZPw3xKfpyjLWLSXl162-uh43BbivXFh4.jpg",
+    "url": "https://external-preview.redd.it/L58Ht5tJ5LBpWEouXT861ILRrmARVZn9EpPdmx1zb70.png?width=640&crop=smart&format=pjpg&auto=webp&s=9ea1209fa690ba48724ffb5bd74c655bf83b8a35",
+    "width": 640
+  },
+  "score": {
+    "comments": 12,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 235,
+    "value": 235
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Running Alchomite Stack!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/nqw2l8/running_alchomite_stack/"
+}

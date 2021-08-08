@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_58dabizr",
+    "name": "JammyRacoon"
+  },
+  "date": {
+    "day": 1603929600,
+    "full": 1603970286,
+    "month": 1601510400,
+    "week": 1603584000
+  },
+  "id": "t3_jk85g9",
+  "misc": {
+    "postHint": "hosted:video"
+  },
+  "picture": {
+    "filesize": 15384,
+    "fullUrl": "https://external-preview.redd.it/QwK1g-BeqJQyP16umUrtz6J4X-xRLNOcHRQp58Gu0Ms.png?format=pjpg&auto=webp&s=4012adcb8e53dd02b496bb2a9695b2a7cd559589",
+    "hash": "ce62bdcbb3",
+    "height": 360,
+    "lqip": "data:image/png;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwAB/8QAIBAAAQQBBAMAAAAAAAAAAAAAAQIDBAUABxExYRITMv/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwAg0tv62ljzk2JcAkNpCSlAVsQTyD1mak3tNa1cNiqjBpxgK9jnjsXSVE7nvjD+P8DKRwcD/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/-ITPpGJ1Bol-ee1ph5GdxlMqioVJ9mlAXCzfAWzF57U.jpg",
+    "url": "https://external-preview.redd.it/QwK1g-BeqJQyP16umUrtz6J4X-xRLNOcHRQp58Gu0Ms.png?width=640&crop=smart&format=pjpg&auto=webp&s=8f001704ab52c8702685811de1d278f6c1344785",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 50,
+    "value": 50
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A dungeon my uncle is making",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/jk85g9/a_dungeon_my_uncle_is_making/"
+}

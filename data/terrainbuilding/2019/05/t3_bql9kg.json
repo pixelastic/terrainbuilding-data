@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_e36b9a3",
+    "name": "BSGTony"
+  },
+  "date": {
+    "day": 1558224000,
+    "full": 1558295785,
+    "month": 1556668800,
+    "week": 1558224000
+  },
+  "id": "t3_bql9kg",
+  "misc": {
+    "postHint": "hosted:video"
+  },
+  "picture": {
+    "filesize": 66399,
+    "fullUrl": "https://external-preview.redd.it/aNlRzuWM-SxR67xhQymoG9PFSLyVV0B4ydyQ3d7UsLU.png?format=pjpg&auto=webp&s=66c6ad9cef1e9cc964c251a9ce94e33df1826a15",
+    "hash": "9c83ff169b",
+    "height": 360,
+    "lqip": "data:image/png;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAmEAABAwMCBQUAAAAAAAAAAAABAgMEAAUREiEHEzEzUSJxgYKx/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABoRAQEAAgMAAAAAAAAAAAAAAAECAAMRIUH/2gAMAwEAAhEDEQA/ADeGs56BFbsd1mokW0gLagtkK0LTuBqOyc+/jepiJdITs1u4pbf5pSShtUjCRuQkqGPV0z08VOxO059v0UUjt/FEb7iWR9xbJ2JydZ//2Q==",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/DnS9pvEvJ45mdNmJscxPA4a-rKhGep8MV7F0SPVpLD4.jpg",
+    "url": "https://external-preview.redd.it/aNlRzuWM-SxR67xhQymoG9PFSLyVV0B4ydyQ3d7UsLU.png?width=640&crop=smart&format=pjpg&auto=webp&s=98e1d3f33e7b987859c9803dd14927079f1d01cb",
+    "width": 640
+  },
+  "score": {
+    "comments": 11,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 376,
+    "value": 376
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Our little city is growing, I cannot wait to paint them! :) (All 3D printed on an Ender 3 pro)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/bql9kg/our_little_city_is_growing_i_cannot_wait_to_paint/"
+}

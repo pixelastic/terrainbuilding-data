@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_13g6sd",
+    "name": "EricGBradford"
+  },
+  "date": {
+    "day": 1587513600,
+    "full": 1587578458,
+    "month": 1585699200,
+    "week": 1587254400
+  },
+  "id": "t3_g65zcs",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 61076,
+    "fullUrl": "https://preview.redd.it/xj4ifhgbseu41.jpg?auto=webp&s=858a9d1e007fd350e51452623e8dae1d88090e48",
+    "hash": "931d849db4",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGB//EACYQAAEDAwIFBQAAAAAAAAAAAAECAwQFERIAEwYhMUFRBzJCYcH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAFxEBAQEBAAAAAAAAAAAAAAAAAREAQf/aAAwDAQACEQMRAD8AYvifSErZpGTDsKK0FFq4GW2nLI98lqIJPnWew+IHVqkuVBqCiSt4lSHn1JUiwAxtcdLaET6kVCLV4zbgaRTVI2Ji2si68gn3Ek9QLcha+PnUdxbsxK9JbhTzNZJzDpdLiufZSvkfv90CNmWHTf/Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/wknDiUvbTy-_pkZd4k8T9yL3K5XigBHncKmyr6_bM5w.jpg",
+    "url": "https://preview.redd.it/xj4ifhgbseu41.jpg?width=640&crop=smart&auto=webp&s=eceed3dab56522dbd1de42f7b5f4a672223cfa2c",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 16,
+    "value": 16
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "(WIP) Foam Board Ziggurat",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/g65zcs/wip_foam_board_ziggurat/"
+}

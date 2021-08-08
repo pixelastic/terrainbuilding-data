@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_h6olo",
+    "name": "DJ1066"
+  },
+  "date": {
+    "day": 1595635200,
+    "full": 1595702918,
+    "month": 1593561600,
+    "week": 1595116800
+  },
+  "id": "t3_hxrxgs",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 46469,
+    "fullUrl": "https://preview.redd.it/3hct1st4u1d51.jpg?auto=webp&s=5678405f93f45b0de463e0aa052a7084b86983c8",
+    "hash": "3f6a326ab3",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQME/8QAJBAAAgEDBAEFAQAAAAAAAAAAAQIDBBEhAAUGMUEHImFxgZH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABsRAQABBQEAAAAAAAAAAAAAAAEAAwQRIUGB/9oADAMBAAIRAxEAPwBLY9yp0pBEqOxtaSRACIgei3kX6GNS51XRUQloxIXmjQFgexfxjGMj80fxSCGCIViwxNPEpcF0DAk2JuD9D+ayeplNDuPGqypljWN1jDoIvaEt0B8amlwJo7GtFz5P/9k=",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/stqmVrhIwmwoSprT8nyrvD36aJc4Xa377UfZf5D0MU4.jpg",
+    "url": "https://preview.redd.it/3hct1st4u1d51.jpg?width=640&crop=smart&auto=webp&s=13a9b8338f1e4f1556e9e3f8895b940b8f322eee",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.93,
+    "ups": 19,
+    "value": 19
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP of a large sci fi building made from gangboxes that I knocked up today. Blightlord there for scale.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/hxrxgs/wip_of_a_large_sci_fi_building_made_from/"
+}

@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_11wc6u",
+    "name": "Capt_Barbarossa"
+  },
+  "date": {
+    "day": 1581206400,
+    "full": 1581234446,
+    "month": 1580515200,
+    "week": 1581206400
+  },
+  "id": "t3_f15l9u",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 47519,
+    "fullUrl": "https://preview.redd.it/3hw51i6bsuf41.jpg?auto=webp&s=6fe509847afc4860a4cde4899d21f8823b42f6f7",
+    "hash": "f4c242c9ad",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwMF/8QAKhAAAQMCAwUJAAAAAAAAAAAAAgEDBQAEESExBgcSFCI0N0FRYXFygcL/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAv/EABgRAAIDAAAAAAAAAAAAAAAAAAARASEx/9oADAMBAAIRAxEAPwDWmz3hQ8hfRLVxfXjBGJNyBKAqnnwqugquqen1U42bkjl31fk+avzJWjtnOhkSFNEy6cMF8M86Wdoe0F70FzXedcfNn9UyGS3R/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/LHWoqSnXaaIDwyOmgWZNvn1L6xtyD73mHZoyXmdp4Jo.jpg",
+    "url": "https://preview.redd.it/3hw51i6bsuf41.jpg?width=640&crop=smart&auto=webp&s=db18b8f562b80802bd2a64b35c565bcb3b4831ab",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "ratio": 0.93,
+    "ups": 40,
+    "value": 40
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I made a few BMC-style modular ruin walls (and a simple Dungeon entrance)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/f15l9u/i_made_a_few_bmcstyle_modular_ruin_walls_and_a/"
+}

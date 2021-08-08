@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_p60d552",
+    "name": "ameerdink"
+  },
+  "date": {
+    "day": 1515283200,
+    "full": 1515357860,
+    "month": 1514764800,
+    "week": 1515283200
+  },
+  "id": "t3_7ot782",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 67062,
+    "fullUrl": "https://preview.redd.it/h3ggxgxejp801.jpg?auto=webp&s=8ac065b0b37b400da9e6c7e6da94e4f92da1d069",
+    "hash": "19fa53479d",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwUG/8QAIxAAAgEEAgICAwAAAAAAAAAAAQIDBAUREgAGEyEUYSIxof/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCJ2O6uvdrVcovjUtsSIo0CzhnfYYO2oxt+sc1EcVKbbcKqrfXxNrAkzBPKjLk/i2CT6/nFiut1E1KA9JTsqe1BjGAfr1wg7HUtU9ot9ukSIU89ayNogVgBFnAI++B//9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/9-GUuGIaZ0ReXxSx2TdovNdx-dUqQ-G3HSd_iT5K2wM.jpg",
+    "url": "https://preview.redd.it/h3ggxgxejp801.jpg?width=640&crop=smart&auto=webp&s=3a138ac870030aaaa92d036fe94e661be650bba3",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 0.92,
+    "ups": 51,
+    "value": 51
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Need a lot more practice but this tree on a hill is a start...",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/7ot782/need_a_lot_more_practice_but_this_tree_on_a_hill/"
+}

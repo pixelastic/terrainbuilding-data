@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_erqw4",
+    "name": "whitemanrunning"
+  },
+  "date": {
+    "day": 1493856000,
+    "full": 1493941281,
+    "month": 1493596800,
+    "week": 1493510400
+  },
+  "id": "t3_69b89d",
+  "misc": {
+    "postHint": "self"
+  },
+  "picture": {
+    "filesize": 54076,
+    "fullUrl": "https://external-preview.redd.it/_Lg8RsZvCNAiZDuPnPuXJk65GzfEbRR2NYq1vMMP7pE.jpg?auto=webp&s=1160cf1bb380e6f0d1e5598f9b1c9913a3622004",
+    "hash": "94c47956f7",
+    "height": 1138,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABwj/xAAmEAABAwICCwAAAAAAAAAAAAACAQMEABEFBgcSExQhMVFSVJKT/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAWEQADAAAAAAAAAAAAAAAAAAAAARH/2gAMAwEAAhEDEQA/ADybokgRmXXG8SlG4DZOIJNDZbJ1oq36L4geqU+yM+5aGBqFi7TjiNk1dEIlLha/Kp+249jfzSjhFT//2Q==",
+    "thumbnailUrl": "self",
+    "url": "https://external-preview.redd.it/_Lg8RsZvCNAiZDuPnPuXJk65GzfEbRR2NYq1vMMP7pE.jpg?width=640&crop=smart&auto=webp&s=cee968b47eec0ee07e0be610dca153b1a2a3244b",
+    "width": 640
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "ratio": 0.82,
+    "ups": 11,
+    "value": 11
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Who knows how to use a computer to make what you draw print in the size you want it to?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/69b89d/who_knows_how_to_use_a_computer_to_make_what_you/"
+}

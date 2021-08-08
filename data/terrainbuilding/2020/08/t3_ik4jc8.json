@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_hh8qa",
+    "name": "thunder_xitus"
+  },
+  "date": {
+    "day": 1598832000,
+    "full": 1598901488,
+    "month": 1596240000,
+    "week": 1598745600
+  },
+  "id": "t3_ik4jc8",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 117252,
+    "fullUrl": "https://preview.redd.it/84o0xq9i1ek51.jpg?auto=webp&s=fc5542a3c3f5e5335d143df7e2607b5dad81d672",
+    "hash": "cde37b8385",
+    "height": 960,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUH/8QAIxAAAgIBAwMFAAAAAAAAAAAAAQIDBBEABSEGEjETFCJhof/EABQBAQAAAAAAAAAAAAAAAAAAAAX/xAAcEQACAgIDAAAAAAAAAAAAAAABAwIhABEiQZH/2gAMAwEAAhEDEQA/ALXTWwNPTinezUUOuO15MNx5OMabceClZeu7QuyYHcgJB4z50elJQl2Dc7ztKZrMMqdwdeFBPxViOMkA5GPzWWw290qxiCnNvHt04T0rEhUj6xolkYNPI2MRSuaI6XGjdk9+5//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/Xx9TMmog9ghNRzNKh8fODcB8zsnB8zk-YINBjZkX15M.jpg",
+    "url": "https://preview.redd.it/84o0xq9i1ek51.jpg?width=640&crop=smart&auto=webp&s=bce4261754818dd79d796f8530b67b73ceda72b3",
+    "width": 640
+  },
+  "score": {
+    "comments": 19,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 208,
+    "value": 208
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Building wall molds, because bricklaying gets annoying on larger projects",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ik4jc8/building_wall_molds_because_bricklaying_gets/"
+}

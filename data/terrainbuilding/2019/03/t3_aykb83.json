@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_6uyp3",
+    "name": "Mignolafan"
+  },
+  "date": {
+    "day": 1552003200,
+    "full": 1552007503,
+    "month": 1551398400,
+    "week": 1551571200
+  },
+  "id": "t3_aykb83",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "filesize": 68039,
+    "fullUrl": "https://external-preview.redd.it/VVRzxCztuPcgitSOjVK-iD9CDEl47Q8oCx2_V9pXchU.jpg?auto=webp&s=dd6bfc37718afacc78f3be736241700ca5d5cc2f",
+    "hash": "ea2a94bcac",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgT/xAAjEAACAQMEAQUAAAAAAAAAAAABAwIEESEABRIxIgZBYXGB/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAcEQACAQUBAAAAAAAAAAAAAAABAgMABSIxkQT/2gAMAwEAAhEDEQA/ACXo5Dw9wTVQoUJ8bCJ873tn802q9xbssFMRWhqJzAKpKzY9kZPxoxXMFHtlS1C1h0pwhzIuQD3b21Cxkql62M74RwMC9u/s6pSWxDMYwcR3VDW4lfMrkZNzdf/Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/_Tactfaxa-OT_bXtS4U0tOB4JWugB9ZhmZBpbvAVdyo.jpg",
+    "url": "https://external-preview.redd.it/VVRzxCztuPcgitSOjVK-iD9CDEl47Q8oCx2_V9pXchU.jpg?width=640&crop=smart&auto=webp&s=3d3d7b1b610c65166609df88d93a883e9cdcfb05",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 28,
+    "value": 28
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Part 2 of building a dwarven forge.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/aykb83/wip_part_2_of_building_a_dwarven_forge/"
+}

@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_16ycovb",
+    "name": "tiny_architect"
+  },
+  "date": {
+    "day": 1559001600,
+    "full": 1559013928,
+    "month": 1556668800,
+    "week": 1558828800
+  },
+  "id": "t3_btv3wa",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 90495,
+    "fullUrl": "https://preview.redd.it/vuwvv648fv031.jpg?auto=webp&s=f9b258c56e9d566a0c5b52ec8b8217dea3cc2029",
+    "hash": "a38bca67f6",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUG/8QAIxAAAgEDAwUBAQAAAAAAAAAAAQIDBAYRAAUhBxMiMkEUMf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAWEQEBAQAAAAAAAAAAAAAAAAARAAH/2gAMAwEAAhEDEQA/AELfd3Lc7xRSTvB+xoysdLkBe4QAc5+fdTxd9ySXFHibdTOu4qpJaRAU7gX1PjjGeNJ6lz3dVXZVxQUu9xUEUhWnWFHEbjPtlRgk860/Sd7yi3aCn3Gi3Rdmfl2rVPgQOCC3P9xxonUkML//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/S8WqsaUZ_jWx4sHDjKe_R324vTbA508dsa2cl_3slUw.jpg",
+    "url": "https://preview.redd.it/vuwvv648fv031.jpg?width=640&crop=smart&auto=webp&s=f2a777188380781d3b85f32dcba2024a91979dea",
+    "width": 640
+  },
+  "score": {
+    "comments": 13,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 102,
+    "value": 102
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Basic scatter terrain - cardboard and plaster.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/btv3wa/basic_scatter_terrain_cardboard_and_plaster/"
+}

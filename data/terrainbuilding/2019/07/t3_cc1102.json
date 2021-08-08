@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_31ld5pxe",
+    "name": "Aurumescens"
+  },
+  "date": {
+    "day": 1562803200,
+    "full": 1562877743,
+    "month": 1561939200,
+    "week": 1562457600
+  },
+  "id": "t3_cc1102",
+  "misc": {
+    "postHint": "hosted:video"
+  },
+  "picture": {
+    "filesize": 53775,
+    "fullUrl": "https://external-preview.redd.it/W5v5iCFIHSDZBACDl1fwJa6zWYUaSvobBHmGRirGRxo.png?format=pjpg&auto=webp&s=296e269572fef30641f6aa0d0912430d64c97f18",
+    "hash": "9147caf9fb",
+    "height": 360,
+    "lqip": "data:image/png;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAKhAAAQMDAQQLAAAAAAAAAAAAAQIDEQAEBQYSEzGyFCE2QUJRUmFydIH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABgRAAMBAQAAAAAAAAAAAAAAAAABAjED/9oADAMBAAIRAxEAPwDDZlx3Gu9Fw2bvL5V0dwpkIIQsHh1zE+mY/Kj1Lol63vH7jDvpeWpaHFtGA62e/Z4kAifOfel9GeL7bXMKfZ7cu/FfIKlPNTgnbrT/2Q==",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/tDShvsgPaDCsxlTolPqzcYCat3W0hy0XzcgeEia0_O0.jpg",
+    "url": "https://external-preview.redd.it/W5v5iCFIHSDZBACDl1fwJa6zWYUaSvobBHmGRirGRxo.png?width=640&crop=smart&format=pjpg&auto=webp&s=a3e410e8c20f3ae9639618de2d81addd362fad45",
+    "width": 640
+  },
+  "score": {
+    "comments": 28,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 278,
+    "value": 278
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First ever terrain i am building, maybe a bit too much for the first time... still to be finished, a partially collapsed tower",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/cc1102/first_ever_terrain_i_am_building_maybe_a_bit_too/"
+}

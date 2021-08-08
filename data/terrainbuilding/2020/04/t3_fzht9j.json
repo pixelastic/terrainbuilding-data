@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_z4igl",
+    "name": "Ehayden"
+  },
+  "date": {
+    "day": 1586563200,
+    "full": 1586636271,
+    "month": 1585699200,
+    "week": 1586044800
+  },
+  "id": "t3_fzht9j",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 59742,
+    "fullUrl": "https://preview.redd.it/gx6drw2fy8s41.jpg?auto=webp&s=2389addcfe0a6c6a1f825122c8c0bed0c761f4d4",
+    "hash": "c6b120af4d",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQH/8QAJBAAAgIBAwIHAAAAAAAAAAAAAQIDBAUAESEGBxIUFTFBcdH/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAGREBAAMBAQAAAAAAAAAAAAAAAQAUIQIi/9oADAMBAAIRAxEAPwAlcy8Ge6lqZyakcZ6eixiq0wmWyB4ySCQCo59vjfRrucY89FQylOOauURYvIM4ldOSSSw22+gNaZjMZXWBSoKkjkjbUmYxlda5RVIUnkcfmj7g6mxGt0eRyf/Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/z9uo1e-HYON1y_wLBtB4nim2qXQaEjj3oIaZzCjE9xs.jpg",
+    "url": "https://preview.redd.it/gx6drw2fy8s41.jpg?width=640&crop=smart&auto=webp&s=c61ecefc573c0150fe09147e83165402c6cc84f2",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 0.8,
+    "ups": 11,
+    "value": 11
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First time 3D printed terrain.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/fzht9j/first_time_3d_printed_terrain/"
+}

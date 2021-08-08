@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_1qtl0dj9",
+    "name": "Neon_Plastic_Trash"
+  },
+  "date": {
+    "day": 1562544000,
+    "full": 1562588212,
+    "month": 1561939200,
+    "week": 1562457600
+  },
+  "id": "t3_cakajp",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 60863,
+    "fullUrl": "https://external-preview.redd.it/Xyogq4VEOK2Q2O_P4hrbnkJGlaImiW_8wAfSvYq2nCk.jpg?auto=webp&s=44945c9d1de82ea9014de7af66b20c9ef3d9f2dd",
+    "hash": "79b4e17691",
+    "height": 393,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAKABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQF/8QAJhAAAQMDAgUFAAAAAAAAAAAAAgEDBAAFESExBgcSE1EUQWGBof/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAZEQACAwEAAAAAAAAAAAAAAAABAgARMQP/2gAMAwEAAhEDEQA/AKp7tkGS44bMq5S3SInDdnmHcVPKZ3/KG8RT5tymR2vWSGIoAIMwWTTLeMoiAgpqmPddfK0g5kthFuRDFAWR6G9G06U2+K2OXEKKFr74RmBfVxcuI2iEv3vQ8yzmryIwVRk//9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/uIKacAoC0p_MwO4ky2BEapr1fIXlxCzT51-bn9rhJBQ.jpg",
+    "url": "https://external-preview.redd.it/Xyogq4VEOK2Q2O_P4hrbnkJGlaImiW_8wAfSvYq2nCk.jpg?width=640&crop=smart&auto=webp&s=017665485ddcbc68f1ef164797709cb4c78c5fbb",
+    "width": 640
+  },
+  "score": {
+    "comments": 13,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 291,
+    "value": 291
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I made some Egyptian-inspired ruins. WIP, but happy with how they're going so far",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/cakajp/i_made_some_egyptianinspired_ruins_wip_but_happy/"
+}

@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_5hxxiajy",
+    "name": "rudislaw"
+  },
+  "date": {
+    "day": 1580256000,
+    "full": 1580329305,
+    "month": 1577836800,
+    "week": 1579996800
+  },
+  "id": "t3_evskk9",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 68185,
+    "fullUrl": "https://preview.redd.it/ig68jbhv0sd41.jpg?auto=webp&s=8f427b46a044ece63c352f29fccd401bcfd20ef9",
+    "hash": "acfbda4fc0",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQFB//EACMQAAIBBAEDBQAAAAAAAAAAAAECAwQFBhEABxMhEiRRYXH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGBEAAwEBAAAAAAAAAAAAAAAAAQIDACL/2gAMAwEAAhEDEQA/AM7rcmuNwrLhPTXepiilkMnoSocAAk6ULsDWvjjOCZPNj+UW6tqJ5u1DOO8CzMHQ+CNfhPCtPS/JDGwkp6cSEAD3Cga+zywvSXJnUKFpAq+RurXhpxZTzlVqGHW//9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/8fJvRgn32Cpc_DKWEFjk9V-AVMPpIiF8MGEwJQiHeAs.jpg",
+    "url": "https://preview.redd.it/ig68jbhv0sd41.jpg?width=640&crop=smart&auto=webp&s=fb36084bd2dae4f0893a05f729013ec6c5d02c3a",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 28,
+    "value": 28
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "40k battle board has its first hit of paint",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/evskk9/40k_battle_board_has_its_first_hit_of_paint/"
+}

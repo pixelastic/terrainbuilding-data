@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_10bjw9",
+    "name": "sFAMINE"
+  },
+  "date": {
+    "day": 1577577600,
+    "full": 1577638703,
+    "month": 1575158400,
+    "week": 1577577600
+  },
+  "id": "t3_eh884k",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 107813,
+    "fullUrl": "https://preview.redd.it/35lh51zbsl741.jpg?auto=webp&s=48918ae0edc843a64b05c04bd115e2aa42402650",
+    "hash": "09168f2d1a",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwUG/8QAJRAAAQQBAgYDAQAAAAAAAAAAAQIDBAURAAYSFCEiMWETMkFx/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABkRAAIDAQAAAAAAAAAAAAAAAAECABIhMf/aAAwDAQACEQMRAD8AoXW4ICLF2BaRglpMXuSSOLj4genrB/vrRfZ0Ni7LU7DiDlnO5oqdGSk+DpL3hs+Rc7smqcp2XkSktlE555SPiAGFApByT+Dp41vKGojVFJCr1ssnl2w2k4HUAnH2ydEr05FK20mf/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/L-0FCybjqPgX6sMx2ow6jmYiDnD3NpEXZNbK4jFuRDo.jpg",
+    "url": "https://preview.redd.it/35lh51zbsl741.jpg?width=640&crop=smart&auto=webp&s=0a2cca0cb85f81b21dd9a9e5a6a86a77017d6c9a",
+    "width": 640
+  },
+  "score": {
+    "comments": 20,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 635,
+    "value": 635
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Sigmarite Mausoleum Test Piece for Frostgrave/AoS",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/eh884k/sigmarite_mausoleum_test_piece_for_frostgraveaos/"
+}

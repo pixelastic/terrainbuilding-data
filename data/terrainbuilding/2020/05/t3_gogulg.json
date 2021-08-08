@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_45dcpp41",
+    "name": "Redfaint"
+  },
+  "date": {
+    "day": 1590105600,
+    "full": 1590143249,
+    "month": 1588291200,
+    "week": 1589673600
+  },
+  "id": "t3_gogulg",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 50812,
+    "fullUrl": "https://preview.redd.it/tkm737grma051.jpg?auto=webp&s=b4cd34ea0787537358aea7afb7b201d626ec5ea7",
+    "hash": "018cf8b69b",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQMG/8QAIhAAAQQBBAIDAAAAAAAAAAAAAgEDBBEFAAYSMSFBBxMi/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAYEQEAAwEAAAAAAAAAAAAAAAABAAMFEf/aAAwDAQACEQMRAD8AFnblR+W6zGacfbHyhNCq2nV361bCZYHnEQhNB5IJEvSKvrW5+Q9sYWFs6fLiY9tqQy1bZiZ/myTpLrQmM2Nt88EU5YTgyfqV3mMl0bLjd+C1QNi4eMI51acJ/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/a7_SW28LwXC9BNATd8RvUdXcs2nTsvfjYAwRTlMdDEc.jpg",
+    "url": "https://preview.redd.it/tkm737grma051.jpg?width=640&crop=smart&auto=webp&s=418cec599e0f266aaa74cc0bb5ff2d283b19b844",
+    "width": 640
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 277,
+    "value": 277
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Fantasy stuff so far (wip)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/gogulg/fantasy_stuff_so_far_wip/"
+}

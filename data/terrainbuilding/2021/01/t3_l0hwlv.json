@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_3dhi1",
+    "name": "kagius"
+  },
+  "date": {
+    "day": 1611014400,
+    "full": 1611055049,
+    "month": 1609459200,
+    "week": 1610841600
+  },
+  "id": "t3_l0hwlv",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 60596,
+    "fullUrl": "https://preview.redd.it/cpmjiyq7w9c61.jpg?auto=webp&s=f042a454a9ef45c325aa8ea9891036ec57e2efa2",
+    "hash": "6574ec5be7",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwUH/8QAIhAAAgEEAQQDAAAAAAAAAAAAAQIDAAQFEXESISJhMUFC/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAL/xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQH/2gAMAwEAAhEDEQA/AMgsbczqukKIf0wIGudUeSsZDau8bRARjci9XkpJIA19+zxUx8jkIiVWcTJsHUjMu+ek96O8yuUuo3SaaGKNySwiUk9/Z+KXUR//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/LYZqDQfQrFaEygFGSmH7zuGAVnB4OfzPvrDNIWjlbas.jpg",
+    "url": "https://preview.redd.it/cpmjiyq7w9c61.jpg?width=640&crop=smart&auto=webp&s=e95ea72d13dacaca756589b78b61f159d7455ef5",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 430,
+    "value": 430
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Experimenting with a paint effect for a sewer (video in comments)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/l0hwlv/experimenting_with_a_paint_effect_for_a_sewer/"
+}

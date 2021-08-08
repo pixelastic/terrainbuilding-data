@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_d6zwe",
+    "name": "radecthered"
+  },
+  "date": {
+    "day": 1439078400,
+    "full": 1439163659,
+    "month": 1438387200,
+    "week": 1439078400
+  },
+  "id": "t3_3gehwo",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "filesize": 55412,
+    "fullUrl": "https://external-preview.redd.it/gLXx4LWww3Q-SqMgxqFSoecCrIvCyPr1YWuP61zMjRc.jpg?auto=webp&s=e4bdc98b035d07d7fb211e0df37bc943a2b416c8",
+    "hash": "7c14e4134a",
+    "height": 960,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAIRAAAgEEAQUBAAAAAAAAAAAAAQIDAAQREqEFMUJRYeH/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQIAEf/aAAwDAQACEQMRAD8AM3/WTZ3UEUMEMqugc759/lNEaEIu7IrYBIJ7VktxFdARO2x0hVMg7MPp5qikt7IodmgyR5BgeDRNQIcyk2ijv//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/dfd3qKlW1B4dWFg6Xp229uRnMyTmsWYprhcphqWCe6A.jpg",
+    "url": "https://external-preview.redd.it/gLXx4LWww3Q-SqMgxqFSoecCrIvCyPr1YWuP61zMjRc.jpg?width=640&crop=smart&auto=webp&s=f55745dd96f3ac79b06f20e38acc7d119606689d",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.91,
+    "ups": 19,
+    "value": 19
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Just another Dice Tower or two",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/3gehwo/just_another_dice_tower_or_two/"
+}

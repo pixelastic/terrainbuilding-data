@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_ewn2t",
+    "name": "Doggcow"
+  },
+  "date": {
+    "day": 1608422400,
+    "full": 1608436414,
+    "month": 1606780800,
+    "week": 1608422400
+  },
+  "id": "t3_kgn1ik",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 78646,
+    "fullUrl": "https://preview.redd.it/mhlvh4fql9661.jpg?auto=webp&s=e727a30e4d5fdd70891eb20bbc8c6d582dadfe3a",
+    "hash": "1752d8572f",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGB//EACUQAAIBAgUDBQAAAAAAAAAAAAECAwQFAAYRIVEHEiIUMTKBsf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAHxEAAQMDBQAAAAAAAAAAAAAAAQACAxEhMQQSEyLw/9oADAMBAAIRAxEAPwCetXQx7ZOkoudDVygAkTQPoCCDtx+4C6hZRu1rt810etialiqIilHTSSKCHIQoPYju8ddDh1mbNJopmWzyv6FQsKxHyEx5IPJ0+sZ/nuhqbDcqmXMDtPJXFKlKbuZIvkCVUA7KN150xDHDq2OG6UEZPX1EjuM3pfC//9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/_YVRargANC1CNRKFW7HTGQxuDvLWu8MPCK7lgdm3xlQ.jpg",
+    "url": "https://preview.redd.it/mhlvh4fql9661.jpg?width=640&crop=smart&auto=webp&s=80eaa26fe4e307a4d93f84a351bd10160bf130d8",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "ratio": 0.96,
+    "ups": 34,
+    "value": 34
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Working with MDF terrain for the first time. Any tips greatly appreciated",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/kgn1ik/working_with_mdf_terrain_for_the_first_time_any/"
+}

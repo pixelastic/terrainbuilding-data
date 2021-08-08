@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_3dhi1",
+    "name": "kagius"
+  },
+  "date": {
+    "day": 1579910400,
+    "full": 1579946022,
+    "month": 1577836800,
+    "week": 1579392000
+  },
+  "id": "t3_etoyxx",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 29300,
+    "fullUrl": "https://preview.redd.it/bq41gnpzcwc41.jpg?auto=webp&s=737528a09ad34bb33e3f1dea07c65a1a8f67754b",
+    "hash": "8810e0c8aa",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAJRAAAgECBQMFAAAAAAAAAAAAAQIDBAUABhEhQQcxURITFJGx/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABsRAAEFAQEAAAAAAAAAAAAAAAEAAxESQXEC/9oADAMBAAIRAxEAPwDT+p2cr9lfMkEEFRSw2+pUNEZEVjsNG18b/uLDp5cLvdbL868tEyzkPTmMAApp3+/OE79l6039YBeKGGq9hvXGXG6nnccHkdjhKnhipoI4aeNIoY1CoiDQKBwBggzDl7HmJS5PmsDur//Z",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/DR3Hd3iiDCv0QU8p8sZIuyfzLBnI_Xv861CCC8FFyY4.jpg",
+    "url": "https://preview.redd.it/bq41gnpzcwc41.jpg?width=640&crop=smart&auto=webp&s=424880408f8cf22a2f2d8ad08c114461c1c1ac10",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.92,
+    "ups": 24,
+    "value": 24
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Made the next section of my cardboard building",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/etoyxx/made_the_next_section_of_my_cardboard_building/"
+}

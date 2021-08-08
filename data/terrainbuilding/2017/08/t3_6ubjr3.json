@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_ysrnz",
+    "name": "Rakathu"
+  },
+  "date": {
+    "day": 1502928000,
+    "full": 1502990939,
+    "month": 1501545600,
+    "week": 1502582400
+  },
+  "id": "t3_6ubjr3",
+  "misc": {
+    "postHint": "self"
+  },
+  "picture": {
+    "filesize": 27647,
+    "fullUrl": "https://external-preview.redd.it/XJcsk0AwAC1_BCLE40TMtAwGShLUpciAzaP9vX2wKOc.jpg?auto=webp&s=d514005e03560e4ad78fc948715e939a68a05187",
+    "hash": "ed6bdc7f61",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMFB//EACEQAQACAQQBBQAAAAAAAAAAAAECAxEABAVRMRITISJh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAL/xAAYEQACAwAAAAAAAAAAAAAAAAAAAgEhMf/aAAwDAQACEQMRAD8A1aiVi2WWJ7Rj7Hlx5+NDTyG25C6UeOtL414nLIxcdgnerNexoQAlE/JJp7VXGZIhH1BgetTCtgo//9k=",
+    "thumbnailUrl": "self",
+    "url": "https://external-preview.redd.it/XJcsk0AwAC1_BCLE40TMtAwGShLUpciAzaP9vX2wKOc.jpg?width=640&crop=smart&auto=webp&s=2d6c3ce18f93c279a49277f6bf19c1d4404c0300",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "ratio": 0.9,
+    "ups": 8,
+    "value": 8
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Terrain textures and textured basing",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/6ubjr3/terrain_textures_and_textured_basing/"
+}

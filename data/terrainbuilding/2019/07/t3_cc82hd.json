@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_153pp8",
+    "name": "AMD4173"
+  },
+  "date": {
+    "day": 1562889600,
+    "full": 1562919309,
+    "month": 1561939200,
+    "week": 1562457600
+  },
+  "id": "t3_cc82hd",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 40536,
+    "fullUrl": "https://preview.redd.it/k94e7jkxzt931.jpg?auto=webp&s=8f71798482b7c60b8c99155c82c88f794e72b159",
+    "hash": "e25cb63fe3",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAf/xAAnEAAABgEDAQkAAAAAAAAAAAABAgMEBREABxIhEwYUFSIxMlFh0f/EABQBAQAAAAAAAAAAAAAAAAAAAAH/xAAVEQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEQMRAD8AnnZXS+MkYFB07duuuumBx6YFonmri/W8YppBEbr8SkA+hKn+ZWYqFax7Nm0bCbu7dICFOcwWFBXPzeGkoZdRzuReJkLXtMQR5wkD/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/xwWckihyL5oGiM1nqShl8BSSzBK7mBc4BnvYdaRw3uA.jpg",
+    "url": "https://preview.redd.it/k94e7jkxzt931.jpg?width=640&crop=smart&auto=webp&s=919a53de90625ed1501119084ccf34cad70f510a",
+    "width": 640
+  },
+  "score": {
+    "comments": 12,
+    "downs": 0,
+    "ratio": 0.96,
+    "ups": 144,
+    "value": 144
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Went to Weta Workshop, took a sculpting lesson, made a tree!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/cc82hd/went_to_weta_workshop_took_a_sculpting_lesson/"
+}

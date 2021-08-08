@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_88pivjpn",
+    "name": "Thehobbyslug"
+  },
+  "date": {
+    "day": 1602115200,
+    "full": 1602182545,
+    "month": 1601510400,
+    "week": 1601769600
+  },
+  "id": "t3_j7isxs",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 56614,
+    "fullUrl": "https://preview.redd.it/5eg1i4or1xr51.jpg?auto=webp&s=29b1cebba119bc75b28ba3fb7494c5f181436707",
+    "hash": "3a05efc6a0",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgEH/8QAKBAAAQIDBwMFAAAAAAAAAAAAAQIDBAURAAYHEhMhURQVMSNBYXGR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAWEQADAAAAAAAAAAAAAAAAAAAAARL/2gAMAwEAAhEDEQA/ANRv7PxJZS/ouacyebUIZJABrtvv4HzzYVhvfNcRBS+UTtx92buKc9bKChVVEpTUe9Da4oXehZOTMYR2JLj1czbzmqjfzTMCR+2IYfsd5vPCdS442Gn0LAZITuCCOeKfVpqY0o//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/EmMiyd2pE3zp65co67UmVL7ilS0FqrosXyjJGV1QrYc.jpg",
+    "url": "https://preview.redd.it/5eg1i4or1xr51.jpg?width=640&crop=smart&auto=webp&s=29c2207606e084aebd362fdea647224bc4f073cb",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 125,
+    "value": 125
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "The mausoleum - great fun playing with modelling compound for the first time!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/j7isxs/the_mausoleum_great_fun_playing_with_modelling/"
+}

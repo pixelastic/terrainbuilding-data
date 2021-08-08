@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_cclzb40b",
+    "name": "RokkRUs"
+  },
+  "date": {
+    "day": 1622073600,
+    "full": 1622123894,
+    "month": 1619827200,
+    "week": 1621728000
+  },
+  "id": "t3_nm822s",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 50828,
+    "fullUrl": "https://preview.redd.it/tqcotewm5o171.jpg?auto=webp&s=591bfcac7e8e4cab2f895defcf74f5c302793428",
+    "hash": "b8d6035c29",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQMG/8QAIxAAAQMEAgEFAAAAAAAAAAAAAQIDBAUGESEAMRIUIlFhgf/EABQBAQAAAAAAAAAAAAAAAAAAAAL/xAAXEQEBAQEAAAAAAAAAAAAAAAABEQAx/9oADAMBAAIRAxEAPwC9i2ozSKC5Kl09ynSlKUhTkgEKKQRgBJ6HxrOuGX3Kcg0RToQWit0J9QF7Tk5Gvvr94jOuadXI0eVKDbTzZ9pYK0gYyBryIPZ5m75dM60akqSErUhtJSSOsEcPRyta7//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/P-w3Sid2dkVkUqWEG4hqNfsrF8gdb6RKMaibMVhpW8A.jpg",
+    "url": "https://preview.redd.it/tqcotewm5o171.jpg?width=640&crop=smart&auto=webp&s=c8843a8a1763d2d5f288b3fcc72de02ecd3145f3",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 6,
+    "value": 6
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "3D Printed Map",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/nm822s/3d_printed_map/"
+}

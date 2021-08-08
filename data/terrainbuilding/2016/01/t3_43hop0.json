@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_nbo34",
+    "name": "pidgeon_pete"
+  },
+  "date": {
+    "day": 1454198400,
+    "full": 1454214059,
+    "month": 1451606400,
+    "week": 1454198400
+  },
+  "id": "t3_43hop0",
+  "misc": {
+    "postHint": "self"
+  },
+  "picture": {
+    "filesize": 36990,
+    "fullUrl": "https://external-preview.redd.it/DGkRwi6oHgqqP3s5VReFQ6p_ZAYfia5nABUE7938KLA.jpg?auto=webp&s=6e7ae7ea0c613cce35dbdfe273b7901fac5eabba",
+    "hash": "a1c4d7f056",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMFB//EACQQAAEDAwQCAwEAAAAAAAAAAAIBAwQREyEABRIiB4ExQVFi/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAT/xAAZEQADAAMAAAAAAAAAAAAAAAAAAQISQVL/2gAMAwEAAhEDEQA/ALY+XLBz23dppYO2HF1VoXKiXMY/Mfejd8mtzpmzxo+3FWeQgSE72FVcUFUcdkxXW6FtcAgeEoUVReSjqWR7p/WM+9Je22CAtcYcZLSILdGh6InwiYx60dRyS40tn//Z",
+    "thumbnailUrl": "self",
+    "url": "https://external-preview.redd.it/DGkRwi6oHgqqP3s5VReFQ6p_ZAYfia5nABUE7938KLA.jpg?width=640&crop=smart&auto=webp&s=622badc92e72c07f6d6d6875e4b887fbf674a9c4",
+    "width": 640
+  },
+  "score": {
+    "comments": 13,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 9,
+    "value": 9
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First time using foamex and I'm loving it over foamcore.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/43hop0/first_time_using_foamex_and_im_loving_it_over/"
+}

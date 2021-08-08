@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_2osmeicu",
+    "name": "FarinaWheatcake"
+  },
+  "date": {
+    "day": 1573689600,
+    "full": 1573706574,
+    "month": 1572566400,
+    "week": 1573344000
+  },
+  "id": "t3_dw4cwy",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 101421,
+    "fullUrl": "https://preview.redd.it/xx81s3wuzky31.jpg?auto=webp&s=dc574846a680d250e8d922d7932beeb412b46dc8",
+    "hash": "bea0e97680",
+    "height": 647,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQAG/8QAKRAAAQMCBAMJAAAAAAAAAAAAAQIDBBEhAAUGEhMxQQcUMjRRYXGBsf/EABQBAQAAAAAAAAAAAAAAAAAAAAX/xAAaEQACAwEBAAAAAAAAAAAAAAABAwACERNB/9oADAMBAAIRAxEAPwAvshyuGiAM4VbvyFNbDQoG01P3X8xrZ7EWY+IrEhjiFxKAeYFb9OfwMUeCxp7TqNjsRMRuikcNiiQD4vW6j198BuacZnJ847ElSFJ2qLYWlCgLXoDg1i+h0xBTLUOeT//Z",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/DYZoxecRcnGVihapByxYpYlt29q7TQEOnbgHZf9YDd0.jpg",
+    "url": "https://preview.redd.it/xx81s3wuzky31.jpg?width=640&crop=smart&auto=webp&s=586d5cec473d85a3acc9a7c94272a36d2a717122",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 24,
+    "value": 24
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP weeping birch tree with natural foliage - is there a way to seal it?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/dw4cwy/wip_weeping_birch_tree_with_natural_foliage_is/"
+}

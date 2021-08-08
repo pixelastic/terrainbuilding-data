@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_2ji3qiku",
+    "name": "Iaaggo"
+  },
+  "date": {
+    "day": 1598745600,
+    "full": 1598774350,
+    "month": 1596240000,
+    "week": 1598745600
+  },
+  "id": "t3_ij96ps",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 44022,
+    "fullUrl": "https://preview.redd.it/fy3vkhw5i3k51.jpg?auto=webp&s=3aac9e9c6c5b1493cd572d1625f0d95b97a51738",
+    "hash": "fb433584f2",
+    "height": 427,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQQFB//EACEQAAICAQQCAwAAAAAAAAAAAAECAwQRAAUSITFRMkGR/8QAFAEBAAAAAAAAAAAAAAAAAAAAAf/EABgRAQADAQAAAAAAAAAAAAAAAAEAAhFx/9oADAMBAAIRAxEAPwDENvpVaG31NykiFmFneOwoBHQIwRnz1+Z1LtpDeRmo1wp5MzKPl5JHfoDA0g00vBkMjFRnAJz9aCyutEMrEMkuFPrI7010IWBeT//Z",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/hwtiBS0jCpCkZXmbaQFnXEzVu0kk9P716UIevFtFhe4.jpg",
+    "url": "https://preview.redd.it/fy3vkhw5i3k51.jpg?width=640&crop=smart&auto=webp&s=8f0a1b914225faaa804166d959b56d0fdbe99ef9",
+    "width": 640
+  },
+  "score": {
+    "comments": 31,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 804,
+    "value": 804
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Urban Cyberpunk table",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ij96ps/urban_cyberpunk_table/"
+}

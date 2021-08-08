@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_2ue0ynyl",
+    "name": "NebelVanDushmer"
+  },
+  "date": {
+    "day": 1589068800,
+    "full": 1589140379,
+    "month": 1588291200,
+    "week": 1589068800
+  },
+  "id": "t3_gh87v9",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 96227,
+    "fullUrl": "https://preview.redd.it/04m72tnpszx41.jpg?auto=webp&s=4be0d3d8dcc93d8eb92b5f0a5d85f9dcf48f5ec9",
+    "hash": "b10f913b55",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMFBv/EACQQAAICAAUEAwEAAAAAAAAAAAECAwQABRESMQYhUWETQVKB/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EAB0RAQABAwUAAAAAAAAAAAAAAAECAAMRBBITIWH/2gAMAwEAAhEDEQA/AA6Ro24svhqZhVgvWKqCJpC+0IBwBr3/AF/R7wtstnikk+Dp6po7b2ME5Ck+Tx34xvamWxxWpGitbFl0MgdCdWH2Dxik8CVwqQ145tQWZxwSWPn1pgMYctoVy0+WpLVzbhD3qv/Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/rKlmeShuDAzfNyTHpMC394wZEnfgIJ9OJt1Wv7jC9Hw.jpg",
+    "url": "https://preview.redd.it/04m72tnpszx41.jpg?width=640&crop=smart&auto=webp&s=c7830bb191fd65439a84c90ca5e91f61ca69bfec",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 0.91,
+    "ups": 35,
+    "value": 35
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP of a gothic building following Wyloch's Armoury's example and instructions",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/gh87v9/wip_of_a_gothic_building_following_wylochs/"
+}

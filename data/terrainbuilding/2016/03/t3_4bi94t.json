@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_os015",
+    "name": "DunkNaggets"
+  },
+  "date": {
+    "day": 1458604800,
+    "full": 1458665658,
+    "month": 1456790400,
+    "week": 1458432000
+  },
+  "id": "t3_4bi94t",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "filesize": 125943,
+    "fullUrl": "https://external-preview.redd.it/rf8Ntwbp0KpEg4ghi-qEhtrYPM7Lv5YCo56nsPYzwzs.jpg?auto=webp&s=acde0643b4d273e6543e568b0565801a65eece76",
+    "hash": "e72b3fa82b",
+    "height": 1132,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQf/xAAnEAABAwMCBAcAAAAAAAAAAAABAgMFBBEhABITFUHRFiRRVFWUo//EABUBAQEAAAAAAAAAAAAAAAAAAAAC/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAECAxH/2gAMAwEAAhEDEQA/AHoxiap6RsppQtKtvmW3Q420VJCkpUkEHN8kHHW2muJKfNQH6d9RmQnK+RiI7nTRXRtK3tGmG3gG1iA3i1rWxfr66T8bUnvHvpntqZzza4Kuz//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/HqSSst0TUayuLj_RFAi9BbbDWeqZ7PMSZ1jFEItoLVQ.jpg",
+    "url": "https://external-preview.redd.it/rf8Ntwbp0KpEg4ghi-qEhtrYPM7Lv5YCo56nsPYzwzs.jpg?width=640&crop=smart&auto=webp&s=3d6835b26ee041946d6d63bd34099072bd8d72ea",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 0.91,
+    "ups": 26,
+    "value": 26
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Shaven themed, WIP C&C welcome!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/4bi94t/shaven_themed_wip_cc_welcome/"
+}

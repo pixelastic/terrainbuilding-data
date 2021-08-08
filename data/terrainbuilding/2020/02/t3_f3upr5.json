@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_nc1e9",
+    "name": "wizardoftrash"
+  },
+  "date": {
+    "day": 1581638400,
+    "full": 1581698213,
+    "month": 1580515200,
+    "week": 1581206400
+  },
+  "id": "t3_f3upr5",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "filesize": 65821,
+    "fullUrl": "https://external-preview.redd.it/knPG7Mh2BNDKxtQcibGTX7LP9ywdwLCm0nCG5N8KtC8.jpg?auto=webp&s=c888d7b2538aed79e5314bd7396af5fb22bbe4a8",
+    "hash": "562f25c356",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAIF/8QAIxAAAgIBAwQDAQAAAAAAAAAAAQMCBBEABQYHEjEyISJRgv/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAZEQADAAMAAAAAAAAAAAAAAAAAARECEjH/2gAMAwEAAhEDEQA/AK4RwrY0cWW+9t6rFxhLINIlBnZ4AHbgAHBP9aF1t2d17gbn1G3MUnCw1DbDGiUPEj9s4IyDkHwDrMd1Q3iKFV109sglWBCMVTGAPgD30a71S3qymxXdT2yaLETBsCuZEokdpHv+aNVZbCPkP//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/B55euxOKAb61P8u1tLZzYmCnbNvmCcC3SOMxkJTFK9U.jpg",
+    "url": "https://external-preview.redd.it/knPG7Mh2BNDKxtQcibGTX7LP9ywdwLCm0nCG5N8KtC8.jpg?width=640&crop=smart&auto=webp&s=55655f81bc8b76e58f35372c872a74042febf124",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 0.92,
+    "ups": 16,
+    "value": 16
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Want a smooth-topped PLA print? Try Ironing setting in Cura (with other tweaks).",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/f3upr5/want_a_smoothtopped_pla_print_try_ironing_setting/"
+}

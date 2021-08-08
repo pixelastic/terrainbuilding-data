@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_1e2zw06f",
+    "name": "rootstemmultimedia"
+  },
+  "date": {
+    "day": 1555891200,
+    "full": 1555964378,
+    "month": 1554076800,
+    "week": 1555804800
+  },
+  "id": "t3_bg6uok",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 105426,
+    "fullUrl": "https://preview.redd.it/ltjennfejvt21.jpg?auto=webp&s=84630149861e2913dec737b829f990a1d21c0691",
+    "hash": "553a3a56df",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQP/xAAmEAABBAEDAQkAAAAAAAAAAAABAgMEEQUAEiFhBhMUI1FxgZGi/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAZEQADAQEBAAAAAAAAAAAAAAABAgMAESH/2gAMAwEAAhEDEQA/AIZYQI099iHEfdeQFupcjSlNsUCRRSCAeQb4v0vQeTbY8NMlyMfKly3VpDEdchRCEkXaQAP1Zr5072XZ7+diStxzdIkBC1BVHbQND3++um8tjIRn5YvR0SNzpT5xKqAHFc9TqKjpFipHck3ano3/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/W5txHwUdysgvKThfaA_qrCfTlSeHpu3fwEEoLZjB7ow.jpg",
+    "url": "https://preview.redd.it/ltjennfejvt21.jpg?width=640&crop=smart&auto=webp&s=8b90dd0057776c52a67b7b2a0f4e89398ab51d17",
+    "width": 640
+  },
+  "score": {
+    "comments": 19,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 392,
+    "value": 392
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Bit of inspiration for folks from today’s big game",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/bg6uok/bit_of_inspiration_for_folks_from_todays_big_game/"
+}

@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_1v74ebsz",
+    "name": "ThorOdinsonX27X"
+  },
+  "date": {
+    "day": 1566432000,
+    "full": 1566478604,
+    "month": 1564617600,
+    "week": 1566086400
+  },
+  "id": "t3_ctx25j",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 62814,
+    "fullUrl": "https://preview.redd.it/llo0scclzzh31.jpg?auto=webp&s=22e4ffa6457a28b409f207781e0489108260f272",
+    "hash": "75c80d0d05",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgX/xAAiEAABBAEDBQEAAAAAAAAAAAABAgMEEQUAEiEGBxQxQVH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABoRAAICAwAAAAAAAAAAAAAAAAECAAMREjH/2gAMAwEAAhEDEQA/ADuRk5bGdtWXnZOFabnMNqbQ3EWl9zamwSu6sD7WqPYnqaTi85NdXHElySwNkdx0NcqItQJH4n190JxUVL/T8MvLeWne6S2pw7SQng169caWYiCzLwuSjNjxEFptBVHoKqtwom6ojiqqzoIUMQcShuUVq+z/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/yoBRkl0ssUyADEJx-NZVjRDMI7OZ7UNn0fwm-ZGXNrM.jpg",
+    "url": "https://preview.redd.it/llo0scclzzh31.jpg?width=640&crop=smart&auto=webp&s=88d075e38365c71e062eb2415899f2f72ce45165",
+    "width": 640
+  },
+  "score": {
+    "comments": 33,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 80,
+    "value": 80
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I made this terrain some time ago. I thought i would share, what do you guys think and how can i improve?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ctx25j/i_made_this_terrain_some_time_ago_i_thought_i/"
+}

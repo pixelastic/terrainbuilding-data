@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_54dcctfy",
+    "name": "Arch_Shadow"
+  },
+  "date": {
+    "day": 1598054400,
+    "full": 1598073288,
+    "month": 1596240000,
+    "week": 1597536000
+  },
+  "id": "t3_iecrwr",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 120027,
+    "fullUrl": "https://preview.redd.it/lpibyziumhi51.jpg?auto=webp&s=be12061268f197c2209621f5fed9da9edc018e05",
+    "hash": "1829b4d5de",
+    "height": 1138,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAKRAAAgECBAILAAAAAAAAAAAAAQIEAxIABQYhEUETFBUXIiNRVFaRkv/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAZEQEAAwEBAAAAAAAAAAAAAAABAAIRAyH/2gAMAwEAAhEDEQA/AC2XDIMwek86FVr0xIpvFRZBSmhZGtLAbkXWg77Xc98F+w9QfG6n5bFDT8mM8mZO6s1WBE85QfAlRek2JA5A3Nw9BjWe87I/et9YMA+LkX2sVR5m7P/Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/2OR3xTK3gihCRFwQTPvVPSwd0cXHd0wU32alY45JRXE.jpg",
+    "url": "https://preview.redd.it/lpibyziumhi51.jpg?width=640&crop=smart&auto=webp&s=ba19b762cf1bfcedf1adc92a32d584f693f56f9e",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 0.92,
+    "ups": 9,
+    "value": 9
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Progress: drew it out on graph using cheaper materials to 3d model it on the board. Make 4 copies to keep it fair or very it to keep it interesting?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/iecrwr/progress_drew_it_out_on_graph_using_cheaper/"
+}

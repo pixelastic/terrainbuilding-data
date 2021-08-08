@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_h9ag4",
+    "name": "panxerox"
+  },
+  "date": {
+    "day": 1512864000,
+    "full": 1512887082,
+    "month": 1512086400,
+    "week": 1512864000
+  },
+  "id": "t3_7ise8z",
+  "misc": {
+    "postHint": "self"
+  },
+  "picture": {
+    "filesize": 66295,
+    "fullUrl": "https://external-preview.redd.it/h8Oylmp5zanuG8N1bKI3z8Xk--AinAORPI8H612e3YY.jpg?auto=webp&s=a898c5e5af2e4dbf4c93ecbd86c2a032872c76b1",
+    "hash": "59d34a9e28",
+    "height": 506,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAANABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwAD/8QAJBAAAgEDBAEFAQAAAAAAAAAAAQIDBBEhAAUSMQcGE0FRYZH/xAAVAQEBAAAAAAAAAAAAAAAAAAABBP/EABoRAAICAwAAAAAAAAAAAAAAAAIRAAEEElL/2gAMAwEAAhEDEQA/ADz054rg3JFpZ5ZEPMXkUjLcemvkDsi3efzVvnianhScRLUUphwrEl/ducNn4OevrTptMSwQ8OEbqxvlTe/91tXbdG0bOzEk2wbkC3Vs6dLbcgLMEQrqf//Z",
+    "thumbnailUrl": "self",
+    "url": "https://external-preview.redd.it/h8Oylmp5zanuG8N1bKI3z8Xk--AinAORPI8H612e3YY.jpg?width=640&crop=smart&auto=webp&s=9933ac07469f7cb9944b67a0846064965a007db4",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.95,
+    "ups": 27,
+    "value": 27
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Terrain examples",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/7ise8z/terrain_examples/"
+}

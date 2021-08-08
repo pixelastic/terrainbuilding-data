@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_th41s",
+    "name": "GWizRidesAgain"
+  },
+  "date": {
+    "day": 1603584000,
+    "full": 1603668648,
+    "month": 1601510400,
+    "week": 1603584000
+  },
+  "id": "t3_ji3okd",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 73458,
+    "fullUrl": "https://preview.redd.it/84nuc9qpsbv51.jpg?auto=webp&s=962b925a47e9f7578d8c31e011ab58e9b2f75635",
+    "hash": "a20c8ac5ec",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwUG/8QAJRAAAgIABQIHAAAAAAAAAAAAAQIDBAAFESFBEmEGEyIxMlHh/8QAFAEBAAAAAAAAAAAAAAAAAAAABf/EABkRAQEAAwEAAAAAAAAAAAAAAAECAAMRBP/aAAwDAQACEQMRAD8AL8k8PZZPadpa8vlQ13aVJHIBII9iD8uN8S2yWOaKFuta7BAGRgG335H7hdp0GoxT9KI0co9asuoJ4Onb6xlrdVVmKoBoO2Bn0Vzg4vGmKpUz/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/ZlyKzsgzN2ODBgQ8Ir7w4pRGaOVTdx8Ftt9BB-ZQusY.jpg",
+    "url": "https://preview.redd.it/84nuc9qpsbv51.jpg?width=640&crop=smart&auto=webp&s=de64c73d87f680d8f90cdd1801171464426f4621",
+    "width": 640
+  },
+  "score": {
+    "comments": 16,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 43,
+    "value": 43
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Mini Guillotine WIP (Maybe Useless, but Definitely Fun)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ji3okd/mini_guillotine_wip_maybe_useless_but_definitely/"
+}

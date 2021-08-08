@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_6jfcl8az",
+    "name": "dev_mancer"
+  },
+  "date": {
+    "day": 1615334400,
+    "full": 1615394823,
+    "month": 1614556800,
+    "week": 1615075200
+  },
+  "id": "t3_m21wsm",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 41947,
+    "fullUrl": "https://preview.redd.it/kq0xz9ngc8m61.jpg?auto=webp&s=598065b5123b118e3f4ecbe6554039eec359ba13",
+    "hash": "7e8f141277",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQH/8QAIxAAAQQBAwQDAAAAAAAAAAAAAQIDBBEFAAYxEhQhYTJBcf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAXEQEBAQEAAAAAAAAAAAAAAAABABEh/9oADAMBAAIRAxEAPwDPoG3ZmaW280pCIfwUruAggi7oH78jkak3xt+PiJSDjS8pCEhDq3lWCrmgaFj3xxWih57IR43aR3g21fWaSLJ/ToHMnNcdS25JcWlxYvqN+tGIclxb/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/0l1E-BTf_61-2JyK-OdSQQPgAWDTj8wrrRd7OkPkS8c.jpg",
+    "url": "https://preview.redd.it/kq0xz9ngc8m61.jpg?width=640&crop=smart&auto=webp&s=4453ee2c2a35818875f49300e3cc6f918a6567df",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.95,
+    "ups": 41,
+    "value": 41
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP: Modern City.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/m21wsm/wip_modern_city/"
+}

@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_1spn0t0a",
+    "name": "krichardson2022"
+  },
+  "date": {
+    "day": 1537228800,
+    "full": 1537244919,
+    "month": 1535760000,
+    "week": 1537056000
+  },
+  "id": "t3_9grnxy",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 67335,
+    "fullUrl": "https://preview.redd.it/iv8x3idvcxm11.jpg?auto=webp&s=59650d5821bb7fb6924bb182a3ff2927bd0c6319",
+    "hash": "70ac8ac472",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQH/8QAIhAAAQMDBAMBAAAAAAAAAAAAAQIDBAARIQUGEhMiMWFR/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABoRAQABBQAAAAAAAAAAAAAAAAEAAhESUWH/2gAMAwEAAhEDEQA/AM323CnOqdkxdcUw5p6e5u7hSoH14EHBqqbt5ydJXKcklx1483HFKVyWo5JOcn7QkGa6yV9JSG3UcHLoCvH3YXGM/lLx9TUloDsI+G1DFFViqsUALb7P/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/TidtJ3DNDP8ioeT-hdpF_8U7GXm0y-SpdYMPj3UWXqc.jpg",
+    "url": "https://preview.redd.it/iv8x3idvcxm11.jpg?width=640&crop=smart&auto=webp&s=b5f0048a6def6699d8642df5d7d263430e80592c",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 89,
+    "value": 89
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Spell Effect: Flaming Sphere",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/9grnxy/spell_effect_flaming_sphere/"
+}

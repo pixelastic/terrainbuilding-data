@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_dn93x7",
+    "name": "LeifWesterholm"
+  },
+  "date": {
+    "day": 1606089600,
+    "full": 1606131028,
+    "month": 1604188800,
+    "week": 1606003200
+  },
+  "id": "t3_jzfz1f",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 61032,
+    "fullUrl": "https://preview.redd.it/c60tzagk6z061.jpg?auto=webp&s=40ae3d76845e24d63ddf066c86c4b7fd26c5f47e",
+    "hash": "c54a35c4f5",
+    "height": 429,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQAH/8QAJRAAAgEDAwIHAAAAAAAAAAAAAQIRAwQFAAYhEhMjMUFCcZHB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAL/xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAMAwEAAhEDEQA/AMe2ftalWt3vciKZUKeihVHBHqzH2x+/dua5wINxaLZ+MqIO7QHTyJgCZgAR86EpZm/XBvSW4IUsKZhVBKjyBMSdEFjzzqTVdl//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/Xzq4B-B59ApTSaXYK2XWM_KeXuxY-9E0qqGENHy78BQ.jpg",
+    "url": "https://preview.redd.it/c60tzagk6z061.jpg?width=640&crop=smart&auto=webp&s=87ad38ee7718ab1f76855ef091989830315fb947",
+    "width": 640
+  },
+  "score": {
+    "comments": 17,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 216,
+    "value": 216
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Old Mossy Stone Bridge (VIDEO!)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/jzfz1f/old_mossy_stone_bridge_video/"
+}

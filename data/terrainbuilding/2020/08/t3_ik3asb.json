@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_4ii802a3",
+    "name": "Titus_painting"
+  },
+  "date": {
+    "day": 1598832000,
+    "full": 1598897704,
+    "month": 1596240000,
+    "week": 1598745600
+  },
+  "id": "t3_ik3asb",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 82922,
+    "fullUrl": "https://preview.redd.it/ljm8izv7qdk51.jpg?auto=webp&s=3f1068ead20409fb768cfd60ffd9d483f4bc426d",
+    "hash": "f39288e894",
+    "height": 573,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAOABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwUGB//EACIQAAICAQMFAQEAAAAAAAAAAAECAxEEAAYhBRIiYaETMf/EABUBAQEAAAAAAAAAAAAAAAAAAAMF/8QAGhEAAgIDAAAAAAAAAAAAAAAAAgMAARESMf/aAAwDAQACEQMRAD8AxrB2ljtHE+fOwSvOOIHvUkHi/Qo/NCbZ8DskCvKs72fE99AD+17I+6osbr0WJiJNFEzGbgoygAEe7uvulfXNyZciH9JSL5Cxoqha5FVqST3md68jrEbHM//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/At0hta-aC7hQjri7JjIi_SL3XuHH6qdNv3jsz00W6yU.jpg",
+    "url": "https://preview.redd.it/ljm8izv7qdk51.jpg?width=640&crop=smart&auto=webp&s=5b7b51c3556f9cc82fa8b84a15e05527233771fd",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 111,
+    "value": 111
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "1st RoSD Terrain Test",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ik3asb/1st_rosd_terrain_test/"
+}

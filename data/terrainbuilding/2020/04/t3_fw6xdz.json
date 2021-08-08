@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_hwbxazg",
+    "name": "mjstcs"
+  },
+  "date": {
+    "day": 1586131200,
+    "full": 1586206829,
+    "month": 1585699200,
+    "week": 1586044800
+  },
+  "id": "t3_fw6xdz",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 52467,
+    "fullUrl": "https://preview.redd.it/bhix7r6rh9r41.jpg?auto=webp&s=de7c00228ed2704f678e3099c5417ecb699e4665",
+    "hash": "92cb3056be",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwQG/8QAJBAAAQQBAwMFAAAAAAAAAAAAAQIDBBEFAAYSEyFxIiNhkeH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABYRAQEBAAAAAAAAAAAAAAAAAAEAMf/aAAwDAQACEQMRAD8AQs9ud3Hy4EeMqOHJDgTb3KgPCQdXZTcRiSekE8vSDd1o9zeTYVkcQt919PF4n21kDsk1YHya+9Z3eu7X2culLJoFlJV5s/mpnJhv/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/-RfEFh5fXlqPmBlSdf8yDbTDHmPySM858Ro5jVlUxDE.jpg",
+    "url": "https://preview.redd.it/bhix7r6rh9r41.jpg?width=640&crop=smart&auto=webp&s=e9de68aa14854aa7a9eb6ace9f51844865883d14",
+    "width": 640
+  },
+  "score": {
+    "comments": 22,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 619,
+    "value": 619
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Radio tower. Done!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/fw6xdz/radio_tower_done/"
+}

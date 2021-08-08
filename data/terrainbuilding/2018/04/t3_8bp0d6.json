@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_9x3mj",
+    "name": "Zorkolak"
+  },
+  "date": {
+    "day": 1523491200,
+    "full": 1523527343,
+    "month": 1522540800,
+    "week": 1523145600
+  },
+  "id": "t3_8bp0d6",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "filesize": 40609,
+    "fullUrl": "https://external-preview.redd.it/dAUbUxG1lo6pkb7qWBew2gGS46P7dN70kqkXSt3nZTE.jpg?auto=webp&s=d69d59d8b229232494e4131d930eb443de965f06",
+    "hash": "add92f7229",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAJBAAAQQCAQIHAAAAAAAAAAAAAgEDBBEABRIVITEyM1Fxc7H/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABkRAAMAAwAAAAAAAAAAAAAAAAABAhIhMf/aAAwDAQACEQMRAD8AxTnR9xPCXL0rz0wiAjJZCAJVVpVeyVl8dGFRWoemkQJDzqiJsyqaUOVpzBPHt2WsE13rD849D8q/Yn7kUSlwZ1W2f//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/hy2rAL-qGkoUtGT_osRcSt2QE1behhFdB3llGRamcTU.jpg",
+    "url": "https://external-preview.redd.it/dAUbUxG1lo6pkb7qWBew2gGS46P7dN70kqkXSt3nZTE.jpg?width=640&crop=smart&auto=webp&s=76a708d1c06bace5358ee33c5209c3b53806e9ec",
+    "width": 640
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 37,
+    "value": 37
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Standardized terrain Finished!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/8bp0d6/standardized_terrain_finished/"
+}

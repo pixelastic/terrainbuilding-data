@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_1xf4pssa",
+    "name": "NorthwesternGuy"
+  },
+  "date": {
+    "day": 1564617600,
+    "full": 1564694385,
+    "month": 1564617600,
+    "week": 1564272000
+  },
+  "id": "t3_ckui8d",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 71844,
+    "fullUrl": "https://preview.redd.it/a2uxt088mwd31.jpg?auto=webp&s=48448153413b401bd58c49c2f1a7fc56b2d1380e",
+    "hash": "49f527117a",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABwP/xAAjEAACAgEDBAMBAAAAAAAAAAABAgMEEQAFMQYSE0EhIlGh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAf/EABoRAAEFAQAAAAAAAAAAAAAAABEAAQIDIRL/2gAMAwEAAhEDEQA/AL7nXsU9znk3ivG16zAgllWDzdw8QB4xxgn++9HD1adevXn25rFW3EQkLpYYPjOfqPjIzkEjgnSl1ndkg6Fs2IVRJvKihgOB3+tCNq1PI0UjyuXDFgSxOCTkkfhzosfqbjAmoRgx0r//2Q==",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/76c0m3GEu4Nd-skoP2Cx0TwDG2W5R_mYdqMKs-GD560.jpg",
+    "url": "https://preview.redd.it/a2uxt088mwd31.jpg?width=640&crop=smart&auto=webp&s=9e57356e6e5378dd7098fa854c0f78587326d042",
+    "width": 640
+  },
+  "score": {
+    "comments": 12,
+    "downs": 0,
+    "ratio": 0.96,
+    "ups": 97,
+    "value": 97
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Ork Buildings: Progress, Orginization, and a few new bits",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ckui8d/ork_buildings_progress_orginization_and_a_few_new/"
+}

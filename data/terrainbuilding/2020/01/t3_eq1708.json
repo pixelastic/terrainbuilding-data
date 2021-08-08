@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_azy2wa",
+    "name": "OsWisp"
+  },
+  "date": {
+    "day": 1579219200,
+    "full": 1579272018,
+    "month": 1577836800,
+    "week": 1578787200
+  },
+  "id": "t3_eq1708",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 84023,
+    "fullUrl": "https://preview.redd.it/vlhaqglcncb41.jpg?auto=webp&s=a279f771ac9e428e20dc6747c9da13e53c1f1e6a",
+    "hash": "530ca7be87",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAIRAAAgEEAgMBAQAAAAAAAAAAAQIDBAUREgAxBiGBE7H/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAERAzH/2gAMAwEAAhEDEQA/AEK/yme3U9aJ7W8cUEbHZmyAwYqAQPYyR138xym3eR2S4UtFBdoWiaZVYsQdBLtqFyOjn+80VVb7aiVaPBstRMKiRJCWUuMe8fOuH2q10VIaqSSL91nqDU6uBojYKgKvQGDjgdwSsjEJq30//9k=",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/_sg4dyM6ykTqGeWsj9FhDIpV0gEG8SA-mxst_LBPrc4.jpg",
+    "url": "https://preview.redd.it/vlhaqglcncb41.jpg?width=640&crop=smart&auto=webp&s=ca7d505501469209d000b93408c943652420ea68",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 0.74,
+    "ups": 12,
+    "value": 12
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Proud to announce the release of my first 3D Printable Encounter Terrain Pack- Free STL's and a special offer in the comments :) Let me know what you think!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/eq1708/proud_to_announce_the_release_of_my_first_3d/"
+}

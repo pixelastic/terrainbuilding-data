@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_6v2ht",
+    "name": "iama_username_ama"
+  },
+  "date": {
+    "day": 1517529600,
+    "full": 1517590086,
+    "month": 1517443200,
+    "week": 1517097600
+  },
+  "id": "t3_7uslhe",
+  "misc": {
+    "postHint": "self"
+  },
+  "picture": {
+    "filesize": 29481,
+    "fullUrl": "https://external-preview.redd.it/woQyFHToeqZBGDfzddaRXppKK4F_OOrguxmP92hGhI8.jpg?auto=webp&s=21b1efbd207b286a2e51d71ee0ee7a8b4112142b",
+    "hash": "eddf2204a8",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwUGB//EACAQAAEEAQUBAQAAAAAAAAAAAAECAwQRAAUGEhMhMYH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAETQVH/2gAMAwEAAhEDEQA/AKaDvNuTHbkQuHWpPIFSvQLqiB8OBb31BQ4O1zm4omkJULP5eZvFhRNQJZkxWy00SUpBIFk+37jaXtzSIKWnosBlt1JsKA9Bw5NaJZcP/9k=",
+    "thumbnailUrl": "self",
+    "url": "https://external-preview.redd.it/woQyFHToeqZBGDfzddaRXppKK4F_OOrguxmP92hGhI8.jpg?width=640&crop=smart&auto=webp&s=882bb70b01771bcdad27a3c949e1cbea17bea58f",
+    "width": 640
+  },
+  "score": {
+    "comments": 12,
+    "downs": 0,
+    "ratio": 0.5,
+    "ups": 0,
+    "value": 0
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Best way to prime pressed 'cardboard'?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/7uslhe/advice_best_way_to_prime_pressed_cardboard/"
+}

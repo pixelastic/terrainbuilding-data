@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_1751nxr",
+    "name": "brockereebeef"
+  },
+  "date": {
+    "day": 1525737600,
+    "full": 1525822322,
+    "month": 1525132800,
+    "week": 1525564800
+  },
+  "id": "t3_8i1d05",
+  "misc": {
+    "postHint": "hosted:video"
+  },
+  "picture": {
+    "filesize": 48103,
+    "fullUrl": "https://external-preview.redd.it/tTaqY4WiNJO9obfMjEieMatCDhax5zv5_LRdPmPx1WA.png?format=pjpg&auto=webp&s=82bcb3bd9c1b765f0806d0acd951b28fda85634d",
+    "hash": "f3486760ee",
+    "height": 360,
+    "lqip": "data:image/png;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQH/8QAKBAAAgEDAgILAAAAAAAAAAAAAQIEAwURAAYHEyEiMTM2QVFydLGy/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABgRAQEBAQEAAAAAAAAAAAAAAAIBABIT/9oADAMBAAIRAxEAPwDJt9Ro22NztZI7vKyaNdJb1eWAXCnIRer0EDPbnGrL5PpR7ZbK8WVTuF0qOhohQwVnKlXJ9SBgYz56G4reMovw4/50BdO/q+5/vRAOybbkN+aUk3//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/Of3OpqpNAkB429oVYSpGePPK6iTT3FQ6bQzCHJReA9A.jpg",
+    "url": "https://external-preview.redd.it/tTaqY4WiNJO9obfMjEieMatCDhax5zv5_LRdPmPx1WA.png?width=640&crop=smart&format=pjpg&auto=webp&s=5f7267b005f8def14d5eb5b881074bc9c1e63a2f",
+    "width": 640
+  },
+  "score": {
+    "comments": 16,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 259,
+    "value": 259
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A Study Hall I made",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/8i1d05/a_study_hall_i_made/"
+}

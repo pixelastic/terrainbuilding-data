@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_4w1i8",
+    "name": "EViLPr0"
+  },
+  "date": {
+    "day": 1508371200,
+    "full": 1508446386,
+    "month": 1506816000,
+    "week": 1508025600
+  },
+  "id": "t3_77ha2v",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 50203,
+    "fullUrl": "https://preview.redd.it/2g37ref0ousz.jpg?auto=webp&s=fa19e601a65534072ec21476271766f3c5de8cd6",
+    "hash": "8fb7c69c73",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAiEAACAQMEAgMAAAAAAAAAAAABAgMEBSEABhESB1ETFDH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARAv/aAAwDAQACEQMRAD8AmNp3OepvEV5Dx0bmN4j8hBEhK9XPJ4AznTm4fIFVLTig+iLjTSOElencpJjJ6/oOAdRFIqpaoVVR1AA496PrGMBBiPUg8g+tGOTdkK3/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/JBbctNVOc7hr5gAwmuswJGOeZuM-FQL0HKaXUQ1_-hQ.jpg",
+    "url": "https://preview.redd.it/2g37ref0ousz.jpg?width=640&crop=smart&auto=webp&s=83641ccbe915c9fcba86169828f8e4e48ef37eed",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 66,
+    "value": 66
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "AOP board WIP. CC would be appreciated",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/77ha2v/aop_board_wip_cc_would_be_appreciated/"
+}

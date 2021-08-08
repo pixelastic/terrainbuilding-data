@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_g5u0j",
+    "name": "Knipey"
+  },
+  "date": {
+    "day": 1573257600,
+    "full": 1573280336,
+    "month": 1572566400,
+    "week": 1572739200
+  },
+  "id": "t3_dtsa1p",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 54479,
+    "fullUrl": "https://preview.redd.it/dtf86v1oslx31.jpg?auto=webp&s=909009a0a0fdb335a7bc744acca6d4ff476d3b27",
+    "hash": "850d879a40",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAX/xAAlEAABAwIGAQUAAAAAAAAAAAACAQMFBBEABhITIUFRByIxMmH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAHBEAAQMFAAAAAAAAAAAAAAAAAQACEgMRFFHR/9oADAMBAAIRAxEAPwCtmGZbh8oO1VATSyG2KMtl7ive317sl/zB/TueXNMgMdmOkoqlvQZAG2LeovBL3a3GDS8ZT1kANU4ijUNOCAmFkXTa9l8/OEMNjlaJYkYURZrEVHNwhQ1VVFeOek8YOakxFMwoNJvvi//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/ft_snLydCX4XZZQoej2rSVijBzkhJEtNtM3e3EDNpVs.jpg",
+    "url": "https://preview.redd.it/dtf86v1oslx31.jpg?width=640&crop=smart&auto=webp&s=56e17f7666ae3843d35e904b1fec3ae0e4dc7848",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 100,
+    "value": 100
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My Mausoleum. Credit to Miscast Terrain on YouTube for the template.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/dtsa1p/my_mausoleum_credit_to_miscast_terrain_on_youtube/"
+}

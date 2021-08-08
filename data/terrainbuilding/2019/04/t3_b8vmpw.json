@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_7vwlz",
+    "name": "TopHatPanda"
+  },
+  "date": {
+    "day": 1554249600,
+    "full": 1554282884,
+    "month": 1554076800,
+    "week": 1553990400
+  },
+  "id": "t3_b8vmpw",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 52458,
+    "fullUrl": "https://preview.redd.it/ptyc8mken0q21.jpg?auto=webp&s=6c2eae992cf4282b4ad7869081a2010ba8997a65",
+    "hash": "3738dcc883",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFB//EACQQAAAFBAEEAwAAAAAAAAAAAAECAwQFAAYREgchIjFhQYGR/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAbEQACAQUAAAAAAAAAAAAAAAABAgADESEigf/aAAwDAQACEQMRAD8AsxEfxu4j2oTRbdcyIpkFwdRUCnMqIBkRDIdc+qcnImxmFsSi1sJRLaQMiCZFmi26hMmDwGw/vx5rEHfGEmqc5my7dXYMh3a/XWh29asvBSThR6zOKJiaFOQm+MD6qapp21bkcwYHKmf/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/DJBjzz6kfjjIj7Obou9K0WF5qoZO9QG6XDSH7bqUnQo.jpg",
+    "url": "https://preview.redd.it/ptyc8mken0q21.jpg?width=640&crop=smart&auto=webp&s=96c4f38b103b04fe47396d951388e9fd40cc2b2a",
+    "width": 640
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 27,
+    "value": 27
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Working on a french slate roof for my shack",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/b8vmpw/working_on_a_french_slate_roof_for_my_shack/"
+}

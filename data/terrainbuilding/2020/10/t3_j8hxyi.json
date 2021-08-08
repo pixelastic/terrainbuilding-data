@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_53kozog",
+    "name": "mojojojolord"
+  },
+  "date": {
+    "day": 1602288000,
+    "full": 1602324115,
+    "month": 1601510400,
+    "week": 1601769600
+  },
+  "id": "t3_j8hxyi",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 99635,
+    "fullUrl": "https://preview.redd.it/7e8fkbvpq8s51.jpg?auto=webp&s=2b9d31f15ad341450cfb6db778b111b29ba257a6",
+    "hash": "8ad1791806",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUG/8QAIhAAAgIBBAIDAQAAAAAAAAAAAgMBBAUAERIhIjETQXHR/8QAFAEBAAAAAAAAAAAAAAAAAAAABf/EABcRAAMBAAAAAAAAAAAAAAAAAAABEUH/2gAMAwEAAhEDEQA/ANRjF11YKr87Vgka3Jgt2E1deIbbd/v5puax1K7jMgo5ocLAE1JbCXBsh4nt6j67/uqOKfSp4evTBpMFKAEREYM52iO50S02sKnsdZqRygombDFD6j1G2ia8Eof/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/nT6_tdQaqikkZuT7eHGwqe34IrpeYKGzUJQBlDmgsqc.jpg",
+    "url": "https://preview.redd.it/7e8fkbvpq8s51.jpg?width=640&crop=smart&auto=webp&s=e97cbd135f90bc44d9abde7bc7c446e6fbe40831",
+    "width": 640
+  },
+  "score": {
+    "comments": 19,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 450,
+    "value": 450
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Dwarfen Stronghold/Dungeon entrance WIP",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/j8hxyi/dwarfen_strongholddungeon_entrance_wip/"
+}

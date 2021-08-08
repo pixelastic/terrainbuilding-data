@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_119ply",
+    "name": "Wyloch"
+  },
+  "date": {
+    "day": 1618963200,
+    "full": 1619013227,
+    "month": 1617235200,
+    "week": 1618704000
+  },
+  "id": "t3_mvg5u3",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 58106,
+    "fullUrl": "https://preview.redd.it/z3ri8q6y7ju61.jpg?auto=webp&s=b07b797514989f0d93e3fa071acc0f5dd1108a8b",
+    "hash": "168aa8d9bb",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFB//EACUQAAEDAgQHAQAAAAAAAAAAAAECAwQAEQYSMUEFITRyc7LB0f/EABUBAQEAAAAAAAAAAAAAAAAAAAMF/8QAHREAAgIBBQAAAAAAAAAAAAAAAQIAEQMSQVGh0f/aAAwDAQACEQMRAD8AzKdw1hsZBBZjArsQpwW2Fys6AE7WFIswGZAXHZRFfdaspZYIW2QSbC6gM3MfhqtibRXcPtAwP0cnyp9VUIYhb58uUdCnOU2Brup//9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/pdDhBLrhZFyebVQQd3lN84lQPhHMl08IcsSpryZbbUI.jpg",
+    "url": "https://preview.redd.it/z3ri8q6y7ju61.jpg?width=640&crop=smart&auto=webp&s=b9ca5d3497936242cbe651a04a0b06cdd00f5cd3",
+    "width": 640
+  },
+  "score": {
+    "comments": 17,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 711,
+    "value": 711
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Planetary Defense Laser (a dollar store LED flare plus orange juice bottle cap) - https://www.youtube.com/watch?v=rlGhGorbRcw",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/mvg5u3/planetary_defense_laser_a_dollar_store_led_flare/"
+}

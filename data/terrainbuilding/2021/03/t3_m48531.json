@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_1bfgsxnu",
+    "name": "ninetyand9"
+  },
+  "date": {
+    "day": 1615593600,
+    "full": 1615648323,
+    "month": 1614556800,
+    "week": 1615075200
+  },
+  "id": "t3_m48531",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 35316,
+    "fullUrl": "https://preview.redd.it/kze9sbzfatm61.jpg?auto=webp&s=3721649d835753fa268c3ea0b3db77393b68adfe",
+    "hash": "a42c3b4e06",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMGB//EACUQAAECBAYCAwAAAAAAAAAAAAIDBQABBBEGEiExMnETIzOBkf/EABQBAQAAAAAAAAAAAAAAAAAAAAX/xAAZEQADAAMAAAAAAAAAAAAAAAAAAhEBBBT/2gAMAwEAAhEDEQA/AJN8b3J8xB7aWdQbcsQU5CkXHMMxnO2+1/qCsviysclKWpQUkB5zuoHjHMU5a3/dI1Fi4D3DHb5FOoIxtNBzlSw//9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/g6ypZViTrkclL42eFy8Z3MXt4SpU8XUuoRtOeZY__xs.jpg",
+    "url": "https://preview.redd.it/kze9sbzfatm61.jpg?width=640&crop=smart&auto=webp&s=9d7b6a1a9b392ec960092fcafe52ca95ed6feda3",
+    "width": 640
+  },
+  "score": {
+    "comments": 12,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 606,
+    "value": 606
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Some amazing display cases with actually \"glass\"",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/m48531/some_amazing_display_cases_with_actually_glass/"
+}

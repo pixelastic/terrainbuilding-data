@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_fe09c",
+    "name": "AndrewPaskiewicz"
+  },
+  "date": {
+    "day": 1434931200,
+    "full": 1434937385,
+    "month": 1433116800,
+    "week": 1434844800
+  },
+  "id": "t3_3anx5r",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "filesize": 67542,
+    "fullUrl": "https://external-preview.redd.it/MVJc8Z0NvCKtQWP6st3plAV_S_LjluTvMq9wTEPcS44.jpg?auto=webp&s=c935db5d2bd2cff6ce85c8e7e60f688d30de0d08",
+    "hash": "a2c35c7314",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIFBv/EACMQAAEDAwIHAAAAAAAAAAAAAAECAwQABSERMRI0NUFyc7H/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABgRAQEBAQEAAAAAAAAAAAAAAAECAARR/9oADAMBAAIRAxEAPwAhwHH2HGwgNAjdtI17HXIzT32EyLFKQHFFxxCkAg8WSNsVdhcyPI1hrt1yT7R8NRHLEJSqnrlpd//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/fpE5enPlWNRrNSGH6U_J0nz8bSQl8KnbOoEg5zR05cw.jpg",
+    "url": "https://external-preview.redd.it/MVJc8Z0NvCKtQWP6st3plAV_S_LjluTvMq9wTEPcS44.jpg?width=640&crop=smart&auto=webp&s=d626269b24a4de9aa9db26034ca9337963d23bce",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 29,
+    "value": 29
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Ok, so how is this? (WIP Grass on Gray Rock)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/3anx5r/ok_so_how_is_this_wip_grass_on_gray_rock/"
+}

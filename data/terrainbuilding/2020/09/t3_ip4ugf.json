@@ -1,0 +1,39 @@
+{
+  "author": {
+    "name": "[deleted]"
+  },
+  "date": {
+    "day": 1599523200,
+    "full": 1599608299,
+    "month": 1598918400,
+    "week": 1599350400
+  },
+  "id": "t3_ip4ugf",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 48653,
+    "fullUrl": "https://preview.redd.it/u68lu5qze0m51.jpg?auto=webp&s=1a4f341a54bf96e26d5e79f31214063e33b2c469",
+    "hash": "d0bf09effc",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQH/8QAKBAAAgECBAMJAAAAAAAAAAAAAQIDAAQGERIhBTFxBxQ0NUFRc6Gy/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAZEQACAwEAAAAAAAAAAAAAAAAAEQECEjH/2gAMAwEAAhEDEQA/ACsK2EF9bRwJpgFqjSNKu7k7BQCdl3zOZ9elR8WbueHxrtwJXmYPKz5l8hz9/rnT/ZN49OtZrifzKf5W/RqqnrHVTbJ//9k=",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/pPH1wLy1w7gvLqkqlOSjKRkqe1iT66uFCeq5fs22vk8.jpg",
+    "url": "https://preview.redd.it/u68lu5qze0m51.jpg?width=640&crop=smart&auto=webp&s=a1c8b0493be9dc22deeb5316848e94ab2ee5cff0",
+    "width": 640
+  },
+  "score": {
+    "comments": 10,
+    "downs": 0,
+    "ratio": 0.95,
+    "ups": 20,
+    "value": 20
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My second terrain set. Still a WIP c+c appreciated.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ip4ugf/my_second_terrain_set_still_a_wip_cc_appreciated/"
+}

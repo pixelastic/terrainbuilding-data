@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_10bjw9",
+    "name": "sFAMINE"
+  },
+  "date": {
+    "day": 1624406400,
+    "full": 1624454441,
+    "month": 1622505600,
+    "week": 1624147200
+  },
+  "id": "t3_o6covi",
+  "misc": {
+    "postHint": "hosted:video"
+  },
+  "picture": {
+    "filesize": 102333,
+    "fullUrl": "https://external-preview.redd.it/K0P3gZsJyDZTOVb1yrYpQDGj7DTkc0MXL2edZWq48Ac.png?format=pjpg&auto=webp&s=4ec1a64d4b4b0b855064ba065dc4bd0a7cf8a63c",
+    "hash": "140cefb684",
+    "height": 640,
+    "lqip": "data:image/png;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgMF/8QAIRAAAgEDBQADAAAAAAAAAAAAAQMCBAURAAYSITETFHH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGREAAwADAAAAAAAAAAAAAAAAAAECAxMh/9oADAMBAAIRAxEAPwCt23vaLJKVDBpdXxl8cFrw2RJPRODiI/Toydwi+PpUVX2KFT2SDFqeI5nniQT5gY9Gitnt9C6bVTYUrVMlSTEcsSPZ5dZI61oijRGphCDQUwAlLEMkgHwaDomRSy0+H//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/50wqXW3v3gGC_2z7pZF0QtOMWMOlYqYTJ_qwCu8cclI.jpg",
+    "url": "https://external-preview.redd.it/K0P3gZsJyDZTOVb1yrYpQDGj7DTkc0MXL2edZWq48Ac.png?width=640&crop=smart&format=pjpg&auto=webp&s=de832f03cf106fd60a2691dd362709f329efd736",
+    "width": 640
+  },
+  "score": {
+    "comments": 25,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 544,
+    "value": 544
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Water Pour: Dirty Puddle",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/o6covi/water_pour_dirty_puddle/"
+}

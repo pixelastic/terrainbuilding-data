@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_hpcv7",
+    "name": "birdslice"
+  },
+  "date": {
+    "day": 1563148800,
+    "full": 1563223378,
+    "month": 1561939200,
+    "week": 1563062400
+  },
+  "id": "t3_cdn617",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 78169,
+    "fullUrl": "https://preview.redd.it/4rkyj7064ja31.jpg?auto=webp&s=ad060a2d001004e07cf9df21470c7c0baf4328d4",
+    "hash": "a7bee232eb",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAYI/8QAJBAAAQQBAwMFAAAAAAAAAAAAAQIDBAURABIhEzFRFEFSgZH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAGBEBAAMBAAAAAAAAAAAAAAAAAQAREgL/2gAMAwEAAhEDEQA/ADdtNiTU+nqXZkhw9Uvb8BXlKcA8jxjtzqFu41eizU5YKnwHnlKdAeKVAknkcAHB9sjWiGKqNv6rYcad+bSyg/o0nUsSwVmw6kop7F5W8j7OiCnUR6szP//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/3hi4kWNuVUMebQ4GQRg-mVHwfEgmmsvxviOGNOvU9us.jpg",
+    "url": "https://preview.redd.it/4rkyj7064ja31.jpg?width=640&crop=smart&auto=webp&s=5119a4545f5fc707c776e73f53d46b0e39be84fc",
+    "width": 640
+  },
+  "score": {
+    "comments": 21,
+    "downs": 0,
+    "ratio": 0.94,
+    "ups": 28,
+    "value": 28
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I expected the polystyrene to melt in some areas but not quite this much, I cant cover it without it melting more, is there a way to salvage this?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/cdn617/i_expected_the_polystyrene_to_melt_in_some_areas/"
+}

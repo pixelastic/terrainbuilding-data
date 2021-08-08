@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_781ie",
+    "name": "drakeAndrews"
+  },
+  "date": {
+    "day": 1459209600,
+    "full": 1459291635,
+    "month": 1456790400,
+    "week": 1459036800
+  },
+  "id": "t3_4chyk8",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "filesize": 57320,
+    "fullUrl": "https://external-preview.redd.it/e9b27vATkNWTjmjryCXgtt3ay-JPpViQcohH6RX9KXA.jpg?auto=webp&s=f96ac5e4c32016eacc649c875e8d73db83a51e93",
+    "hash": "623ff2d852",
+    "height": 475,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgEF/8QAIxAAAgEDBAEFAAAAAAAAAAAAAQIDBAURAAYHIUESMTJR8P/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGhEBAAIDAQAAAAAAAAAAAAAAAQACAxEhMf/aAAwDAQACEQMRAD8Au2dh7auUFLdpFjczKrhfQuPIxgg/gNFuWuNrTa9vxV+1re5kppDJVlpWdmix7gE46PfXjWrxpXVC7OtUayEKsWB9/I6V19ZLDbqmYYdo42YB+wcDzoOWpwJUq+7n/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/hI_dhXu3cOwoitkz4QUR8ss04MmpMkUaSu7Plrf-mvM.jpg",
+    "url": "https://external-preview.redd.it/e9b27vATkNWTjmjryCXgtt3ay-JPpViQcohH6RX9KXA.jpg?width=640&crop=smart&auto=webp&s=bb9ecbb542839ddbaad5bb89b99704db1c6d4ccd",
+    "width": 640
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 45,
+    "value": 45
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Work in Progress Zone Mortalis Test Tile",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/4chyk8/work_in_progress_zone_mortalis_test_tile/"
+}

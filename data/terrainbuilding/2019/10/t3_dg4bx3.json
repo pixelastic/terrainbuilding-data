@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_btq5t",
+    "name": "Gearjock"
+  },
+  "date": {
+    "day": 1570665600,
+    "full": 1570740619,
+    "month": 1569888000,
+    "week": 1570320000
+  },
+  "id": "t3_dg4bx3",
+  "misc": {
+    "postHint": "self"
+  },
+  "picture": {
+    "filesize": 45115,
+    "fullUrl": "https://external-preview.redd.it/nYxL9K7RcAKKmbfrOPxDgWmr25lUzwPKcCf2NsWpofc.jpg?auto=webp&s=9b714286ebfbd4ed83b413f48ea944c4311538a7",
+    "hash": "18ae66326d",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAkEAACAAQGAgMAAAAAAAAAAAABAgAEBTEDERIhMnEGQRZRgf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/8QAGREBAAIDAAAAAAAAAAAAAAAAAQADBFFS/9oADAMBAAIRAxEAPwCGpfhlNRJdpif0sQHcYiOQx+xo49En8hj4+svKPh0eclAGIcqysbDfLX7I2vnY+oUpd27hY8D3EmM9RbzU/9k=",
+    "thumbnailUrl": "self",
+    "url": "https://external-preview.redd.it/nYxL9K7RcAKKmbfrOPxDgWmr25lUzwPKcCf2NsWpofc.jpg?width=640&crop=smart&auto=webp&s=ebfcb45502dd590f3cf6baff2e445e64cff39c28",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.95,
+    "ups": 14,
+    "value": 14
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Learning to work with balsa wood resources/guides?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/dg4bx3/learning_to_work_with_balsa_wood_resourcesguides/"
+}

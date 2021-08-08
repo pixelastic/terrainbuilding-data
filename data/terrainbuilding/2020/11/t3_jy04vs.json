@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_bdcwl",
+    "name": "blargney"
+  },
+  "date": {
+    "day": 1605830400,
+    "full": 1605915304,
+    "month": 1604188800,
+    "week": 1605398400
+  },
+  "id": "t3_jy04vs",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 58512,
+    "fullUrl": "https://preview.redd.it/ak2bqsrych061.jpg?auto=webp&s=a5a2c2132bb987340384b676ee8cd6cac38734e7",
+    "hash": "1745562153",
+    "height": 423,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgL/xAAmEAABBAECBAcAAAAAAAAAAAACAQMEEQUAEwYhMUEHEjJRYXGB/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABkRAAIDAQAAAAAAAAAAAAAAAAACARESIf/aAAwDAQACEQMRAD8AJeH/AA5jHo70mQEXMALaONR2lUZG5ysFG6r7vVP8GxTxsifuPQT3iEGJYiPNEtRRb5/C126aF4QybeE2yIDHoQrSp+6Zz8pNyGGjpNkG95HlpSq/T799FWG3yRbVk//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/SqZPKKQt6ZEvZYOgHLmgifW-MPl_7IeacemnjD3L1FA.jpg",
+    "url": "https://preview.redd.it/ak2bqsrych061.jpg?width=640&crop=smart&auto=webp&s=b187cba47750fa627c93508f8941f1beb155c88a",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 40,
+    "value": 40
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "This week's crafting project should get me ready to livestream the battlemap for my players",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/jy04vs/this_weeks_crafting_project_should_get_me_ready/"
+}

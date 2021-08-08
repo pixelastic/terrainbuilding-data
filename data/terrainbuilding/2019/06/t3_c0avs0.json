@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_bdsei",
+    "name": "kittbash"
+  },
+  "date": {
+    "day": 1560384000,
+    "full": 1560457368,
+    "month": 1559347200,
+    "week": 1560038400
+  },
+  "id": "t3_c0avs0",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 80223,
+    "fullUrl": "https://preview.redd.it/f47ztlzdn6431.jpg?auto=webp&s=2e73ccb99c54fc3d669701ec629f054103be8638",
+    "hash": "9498d3b048",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAJhAAAQMCBQMFAAAAAAAAAAAAAQIDEQQFAAYSITEVIkEHExRCYf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGBEBAAMBAAAAAAAAAAAAAAAAAQACEhH/2gAMAwEAAhEDEQA/AJ9wvWYkUqaahu7LPvQHXEaS40ZM6dyNR/eMLbL6hU1LbemP1demsdZCUVS0Ba2e0JLhTMneVbTjKMon5dnffe3dZcDCSNu2CZI4J8b+OcPcp25i8XlDNfqcT0+orJmDrRpCRt9e4mPJ5xNBppiquuE//9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/A1k-LYWJa7poADIBCPeXpW67o9QKDn-Tc02tH1ZwqBQ.jpg",
+    "url": "https://preview.redd.it/f47ztlzdn6431.jpg?width=640&crop=smart&auto=webp&s=8856617c7fae52d42a941bf8035bc3932a77b589",
+    "width": 640
+  },
+  "score": {
+    "comments": 10,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 73,
+    "value": 73
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Ruins WIP",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/c0avs0/ruins_wip/"
+}

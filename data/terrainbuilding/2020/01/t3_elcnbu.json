@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_yyc05kr",
+    "name": "BruceGarcia"
+  },
+  "date": {
+    "day": 1578355200,
+    "full": 1578409362,
+    "month": 1577836800,
+    "week": 1578182400
+  },
+  "id": "t3_elcnbu",
+  "misc": {
+    "postHint": "self"
+  },
+  "picture": {
+    "filesize": 83640,
+    "fullUrl": "https://external-preview.redd.it/oQgTZNYdjrOlI1HC1d49DFlJOBoqTSftGpdkBJHlQvU.jpg?auto=webp&s=b16a46ba37fc7a6c4c28a6b0bd4403d4a9d00652",
+    "hash": "8701ba5ecb",
+    "height": 463,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQGB//EACIQAAIBAwQCAwAAAAAAAAAAAAECAwQFEQAGEiETMSJRsf/EABQBAQAAAAAAAAAAAAAAAAAAAAX/xAAYEQADAQEAAAAAAAAAAAAAAAAAARIDEf/aAAwDAQACEQMRAD8AFfL/AH+TcVfNZIUqKVZWgjeRyAUU9gYbsFge8etL0V9vkd5o477HBFBUSCIhOwpbpSSTnHIhc4/dWG27NSvt3zkvyjQ4HWPvPrWO763RXxia3qtP4uQKv4/mpBBBBz7BA0e8FMiC3faP/9k=",
+    "thumbnailUrl": "self",
+    "url": "https://external-preview.redd.it/oQgTZNYdjrOlI1HC1d49DFlJOBoqTSftGpdkBJHlQvU.jpg?width=640&crop=smart&auto=webp&s=10a286be27386fe362e03afdc077f0e63375ce9a",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 7,
+    "value": 7
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Display Board C&C welcome",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/elcnbu/display_board_cc_welcome/"
+}

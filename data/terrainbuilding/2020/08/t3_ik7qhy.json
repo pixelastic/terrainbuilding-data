@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_7ky1i",
+    "name": "EmirikolWoker"
+  },
+  "date": {
+    "day": 1598832000,
+    "full": 1598911613,
+    "month": 1596240000,
+    "week": 1598745600
+  },
+  "id": "t3_ik7qhy",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 416073,
+    "fullUrl": "https://preview.redd.it/jwm4wejevek51.png?auto=webp&s=e2957701de289630548fd86524f3d68ca217e781",
+    "hash": "7e377d251b",
+    "height": 406,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAKCAIAAAAy3EnLAAAACXBIWXMAAAsTAAALEwEAmpwYAAAB3ElEQVQYlWOorC7tnzZ7wqRJp08enT1jCgMDAyMjIysrGxsbByMTMxcXV0tb68JlK2bOmTdv3tztm1cz9K/ZMG369Ja6isaGupycPHZ2HjkZeW+PYEUVU34hWSYm5rjMjMlzl3b0Ta5v7UpOiGWYsWZnXW1NXVlBVlqSmZmZjIxSfFymT0ictraxqIAwr6BI97zl/VPnVtc3RUVF2ZvpMvTNXBadUWxmampjbmBkaqSkpBfl4uNq62hhqKctIy0iJjNl3d7m3hkeXr62VhbOduYMFdFhsRmFTt4hlg628Ymxrq6u0SF+ZQWZBekxSRF+vn6eq9dtqq9rT8+vDI1N0rQwZOBkYWZgYFBRVoyLCUiMjzAxNnZwcQ2PioqIiY5Pjk1MiQ3xcs0MMrc3VWdgYGBmZ2FgZmZiYGBwd7OfM70zNzbcxtLIy983NjklPSPNwtLcSEtZVkokLMjNycGCgYGBiYmJgZkZZIOLu9uiuZOTHHQ8fB39/C0iY0JTkhM1tLQ0lOX09bXcPZwNjPRQNHh5ey5fviA/NzM8KiLEw8zH09HZ1cna1szf39XUXC8y0tfMFE2Dl/vK1YvbezpTc3IjYmK8A/ysbEyVVaSsbfT9fGyzkryN9JTAGhgB12WLqsMT4wcAAAAASUVORK5CYII=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/txuBwIbx18_h1KK7jzAmbLrC0pWK1UKbSgSYGKYoHNU.jpg",
+    "url": "https://preview.redd.it/jwm4wejevek51.png?width=640&crop=smart&auto=webp&s=69df8e234fdece07d5df31801aa97f2a71ed5a9d",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 33,
+    "value": 33
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Double-sided tower tile (5mm foamboard)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ik7qhy/doublesided_tower_tile_5mm_foamboard/"
+}

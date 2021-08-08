@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_4lnz3",
+    "name": "LexSenthur"
+  },
+  "date": {
+    "day": 1620777600,
+    "full": 1620859042,
+    "month": 1619827200,
+    "week": 1620518400
+  },
+  "id": "t3_nb1hbo",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "filesize": 73128,
+    "fullUrl": "https://external-preview.redd.it/be-nBIl9r5V9djqwV36PkYyxBzwEFF66vQy84s6b0sM.jpg?auto=webp&s=4ed149a0f6fb64bc156fcd97a7544090cb770bb5",
+    "hash": "1f79c6a016",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQIG/8QAJBAAAgEDAwQDAQAAAAAAAAAAAQIDBAURAAYSMVFhgRMUIZH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABgRAQADAQAAAAAAAAAAAAAAAAEAAhFB/9oADAMBAAIRAxEAPwAPZW0Kaq2bVvXgvNXjnC6KG+DgTjzkkHI7azG5tl3awx/YxBWUOQpqIVYBSQCAwPTr5GdVbb7cLPyagn4KScoyhl/h0/NvS73a3S0VU8IgnAWQImOQH769dtRW5bORBP/Z",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/EiFNa5hdyCarZDLKdR1zH66MNzgDgGe0gEbnqcN6sE8.jpg",
+    "url": "https://external-preview.redd.it/be-nBIl9r5V9djqwV36PkYyxBzwEFF66vQy84s6b0sM.jpg?width=640&crop=smart&auto=webp&s=7a28a47fa584446fe90f7ca74ca3ad471fd5d791",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 2,
+    "value": 2
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Scratch Built Place of Power terrain with OSL",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/nb1hbo/scratch_built_place_of_power_terrain_with_osl/"
+}

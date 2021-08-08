@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_nmhmh",
+    "name": "FailFailWin"
+  },
+  "date": {
+    "day": 1591488000,
+    "full": 1591541742,
+    "month": 1590969600,
+    "week": 1591488000
+  },
+  "id": "t3_gydupy",
+  "misc": {
+    "postHint": "hosted:video"
+  },
+  "picture": {
+    "filesize": 50642,
+    "fullUrl": "https://external-preview.redd.it/A3Wc_amsh_OEfEW0t32vw1izq_o7HvFgBbSm95RPAqk.png?format=pjpg&auto=webp&s=5c31a709bd389d245135efc223d75604e6a093c0",
+    "hash": "07272ba3dc",
+    "height": 360,
+    "lqip": "data:image/png;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwUG/8QAJxAAAQMCBQIHAAAAAAAAAAAAAQIDBAARBQYHEiETMTM3UWFydLP/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABcRAQEBAQAAAAAAAAAAAAAAABEBACH/2gAMAwEAAhEDEQA/ABjTxRiwl9RhviQrql0AFA2ApJvzYmtNmTP0/KpbYwVvC1sPbXFtyI7b6SRfkA8D3I72HpUrXHzHn/Xi/kKN8V8dHxFEe6lpDf/Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/AvI4pF_T6gQwUcp4U-2xZ3FMHYV08fdBXC7i6LLLipo.jpg",
+    "url": "https://external-preview.redd.it/A3Wc_amsh_OEfEW0t32vw1izq_o7HvFgBbSm95RPAqk.png?width=640&crop=smart&format=pjpg&auto=webp&s=203a04d34f3f1b62b6ce5b9dab330d3297f49c38",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.92,
+    "ups": 20,
+    "value": 20
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Awesome Modular Building Entrance/Boss Door/Shrine - tutorial and more examples in comments!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/gydupy/awesome_modular_building_entranceboss_doorshrine/"
+}

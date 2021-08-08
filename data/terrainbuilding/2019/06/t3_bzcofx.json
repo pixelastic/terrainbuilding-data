@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_thorlp5",
+    "name": "Lukkeboii"
+  },
+  "date": {
+    "day": 1560211200,
+    "full": 1560260733,
+    "month": 1559347200,
+    "week": 1560038400
+  },
+  "id": "t3_bzcofx",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 86162,
+    "fullUrl": "https://preview.redd.it/q4eitzheeq331.jpg?auto=webp&s=d262b770df59053420fcb99339cad71cd807e4ff",
+    "hash": "221ee4a6fa",
+    "height": 442,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQGB//EACcQAAIBAgUCBwEAAAAAAAAAAAECAwQRAAUGEiEyQRMUFSIjJFFh/8QAFAEBAAAAAAAAAAAAAAAAAAAABf/EABoRAAICAwAAAAAAAAAAAAAAAAECABIhMVH/2gAMAwEAAhEDEQA/AEs6hynMZvFpI5PNQJumr+zADqkUEAAL1Pbk8WN7YlloquqgllhyWselpvjM8cQLK1+ORbj+Wweh6KDUNfOmcK1RG9QInTeyKybmbaQpAIuAecaRCPQdEJJlH1pKlzLMw9xZmYgm5v8AnbAqMykKTkRLaW7P/9k=",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/z6TPkLIS0z3El6dvcTjmlDvcTIz09HcLTiUzpe0lwR8.jpg",
+    "url": "https://preview.redd.it/q4eitzheeq331.jpg?width=640&crop=smart&auto=webp&s=de781b7153c26ebe7796a41acd6095ae6f5ca2d1",
+    "width": 640
+  },
+  "score": {
+    "comments": 15,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 337,
+    "value": 337
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Tiny Ballista for my Castle Terrain Series (tutorial in comments)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/bzcofx/tiny_ballista_for_my_castle_terrain_series/"
+}

@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_fvdg8zj",
+    "name": "AyyyItsArbur"
+  },
+  "date": {
+    "day": 1584835200,
+    "full": 1584891707,
+    "month": 1583020800,
+    "week": 1584835200
+  },
+  "id": "t3_fn1mu6",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 39887,
+    "fullUrl": "https://preview.redd.it/8f704ok8v8o41.jpg?auto=webp&s=190949696597f723b9279b4e54bb077e609f1390",
+    "hash": "5202a1ed01",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMFB//EACcQAAECBQEIAwAAAAAAAAAAAAECAwAEBQYRIRIUMTQ1QVFScXKx/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABgRAAMBAQAAAAAAAAAAAAAAAAABMQIR/9oADAMBAAIRAxEAPwAP3Xc1mylLln5N14sKWsuzRWpJChgBWCdAeAJjS7fvJdyU3eaY0A82Ah1Do2cLx49TrjvFCqciv5hVO6YfsfwQD04LxU//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/uhF9mw-rJTxrbQ49xk5Ro7Xafj1d8c_g2zP8PoZaZJQ.jpg",
+    "url": "https://preview.redd.it/8f704ok8v8o41.jpg?width=640&crop=smart&auto=webp&s=a163cc6412d792c39e637509c3d44aa30ff9bfa4",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 0.9,
+    "ups": 40,
+    "value": 40
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First bit of terrain I've put any kind of effort into. Thoughts?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/fn1mu6/first_bit_of_terrain_ive_put_any_kind_of_effort/"
+}

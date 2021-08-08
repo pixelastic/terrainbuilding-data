@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_3wq3z",
+    "name": "Pazhood"
+  },
+  "date": {
+    "day": 1624752000,
+    "full": 1624770761,
+    "month": 1622505600,
+    "week": 1624752000
+  },
+  "id": "t3_o8qncg",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "filesize": 50020,
+    "fullUrl": "https://external-preview.redd.it/rshsc0hDf2Gnx36-0psI29PecQHLnx4SrVuoPdfQ77A.jpg?auto=webp&s=4dd90efe01053c2a625e873726ccf98f4d1d8f42",
+    "hash": "e1513dbb4e",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQH/8QAIxAAAQMDBAIDAAAAAAAAAAAAAQIDEQQFIQAGEjEHE2Fxkf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGREAAgMBAAAAAAAAAAAAAAAAAQIAAxIR/9oADAMBAAIRAxEAPwBjyJvmuoK1+12BfFaR63akpCghR7g5gjqYiQdGeLdwbjuF/ZpLhcXKmjQ2txxLkKMdJgmTGRnB1oV22zZqtwuPW6m5glRKUBJUfkjJ7n7zqTbW2aCz3Wrfoi9ycShMLXyCRkwDE/pOpI1ZOMxsrAa7P//Z",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/qihGjP2r1XTXccob6Q6TF4FAFiyxLbtjZe_iKi5xml0.jpg",
+    "url": "https://external-preview.redd.it/rshsc0hDf2Gnx36-0psI29PecQHLnx4SrVuoPdfQ77A.jpg?width=640&crop=smart&auto=webp&s=03b7b453e1794a751161fb54e6d1ecaacbf39627",
+    "width": 640
+  },
+  "score": {
+    "comments": 19,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 64,
+    "value": 64
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "The next Magic the Gathering set features dungeons, so I made a card-sized dungeon for my games. My first time working with xps polystyrene, comments and criticism welcome.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/o8qncg/the_next_magic_the_gathering_set_features/"
+}

@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_xcvni",
+    "name": "FinalNemesis"
+  },
+  "date": {
+    "day": 1593129600,
+    "full": 1593212043,
+    "month": 1590969600,
+    "week": 1592697600
+  },
+  "id": "t3_hgi0e5",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 116794,
+    "fullUrl": "https://preview.redd.it/25sui03v3c751.jpg?auto=webp&s=7699e8e3e71551ce854b6827e333a046ab1c380c",
+    "hash": "fbe4eaef13",
+    "height": 823,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQF/8QAIhAAAgIBBAEFAAAAAAAAAAAAAQMCBBEABQYhMRITQWFx/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABoRAAICAwAAAAAAAAAAAAAAAAEDACEEEyL/2gAMAwEAAhEDEQA/ANbmHO9uu3Aqyuypr1isqaMyhL0zODLrognH5ojd3B9O1NFqTVOgcSgc9HSNvCF2Vwm18DFczNZAIMSSD30c9j486jbw9jHMZdfcstnIn3QzBI+/Oi3oCqHUUYziyzU//9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/4ohspAbt3plXy-kV2M3Al-nKwmk2LQOUMGEomniXGAQ.jpg",
+    "url": "https://preview.redd.it/25sui03v3c751.jpg?width=640&crop=smart&auto=webp&s=1fa1d35de5be5820a15859bf8c1ecde74e976e8a",
+    "width": 640
+  },
+  "score": {
+    "comments": 21,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 889,
+    "value": 889
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Working on the details now for my mining site table",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/hgi0e5/working_on_the_details_now_for_my_mining_site/"
+}

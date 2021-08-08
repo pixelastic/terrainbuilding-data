@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_2xo7pl4b",
+    "name": "adrigomayo"
+  },
+  "date": {
+    "day": 1602288000,
+    "full": 1602296336,
+    "month": 1601510400,
+    "week": 1601769600
+  },
+  "id": "t3_j8ceqp",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 136484,
+    "fullUrl": "https://preview.redd.it/gj077gg3g6s51.jpg?auto=webp&s=a7fc44ebd6c58be29c12d478c9949ee5c8918b66",
+    "hash": "cc5f6f92ac",
+    "height": 1138,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUH/8QAJBAAAQIEBQUAAAAAAAAAAAAAAgEDAAQFIQcREhNRFBeRodH/xAAVAQEBAAAAAAAAAAAAAAAAAAACBv/EAB4RAAICAAcAAAAAAAAAAAAAAAECAAMEBRESIUFR/9oADAMBAAIRAxEAPwCnVsXa1NtNyXSy2yLgqh6S1llzf3aE9zaxwx4X7GUSCEDhGZZpla8N30gilW5YScxmZ2K+yltQO/TP/9k=",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/jQKy4Xkjtf426C2zYnWgM9Pkq1yp52qoOeeiTis3SV0.jpg",
+    "url": "https://preview.redd.it/gj077gg3g6s51.jpg?width=640&crop=smart&auto=webp&s=fbc39b4055cc8ff83924c216627fb3e3bdaaa804",
+    "width": 640
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "ratio": 0.96,
+    "ups": 19,
+    "value": 19
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP - Building a small dungeon. C&C please.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/j8ceqp/wip_building_a_small_dungeon_cc_please/"
+}

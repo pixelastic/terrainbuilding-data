@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_3jt503yv",
+    "name": "Hexhog06"
+  },
+  "date": {
+    "day": 1592611200,
+    "full": 1592622378,
+    "month": 1590969600,
+    "week": 1592092800
+  },
+  "id": "t3_hcem9v",
+  "misc": {
+    "postHint": "hosted:video"
+  },
+  "picture": {
+    "filesize": 63430,
+    "fullUrl": "https://external-preview.redd.it/_JJnjrx7og6D1PNxzlZ85rZxGt-I6aRchKA_0tEz8c0.png?format=pjpg&auto=webp&s=e01f553bed8747ba36913aa8da620d0459f42fd8",
+    "hash": "15d7695fab",
+    "height": 360,
+    "lqip": "data:image/png;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAkEAACAQMDAwUAAAAAAAAAAAABAgMEBREABhI1QbETISJzdv/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQBB/9oADAMBAAIRAxEAPwB6qstquVMtPb7ZEI1d/VcxFFjwvuEzglsgZIB499SFfY6WGqaChuFNDHJl2RVeR2Uj5MAV5YA7jS+9umUv1zedV+1urbU/Oy+U1MLkqX//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/QbpgHq6oSQMoIrYiJAw1u54IDz_VqXS0YjHI57niMkU.jpg",
+    "url": "https://external-preview.redd.it/_JJnjrx7og6D1PNxzlZ85rZxGt-I6aRchKA_0tEz8c0.png?width=640&crop=smart&format=pjpg&auto=webp&s=2553fe3c2c8e20d893f1e4ca0b3038230f45848c",
+    "width": 640
+  },
+  "score": {
+    "comments": 11,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 333,
+    "value": 333
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Update video: 3d printed 4’x4’ modular tabletop fly over",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/hcem9v/update_video_3d_printed_4x4_modular_tabletop_fly/"
+}

@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_kpdic",
+    "name": "davekindofgetsit"
+  },
+  "date": {
+    "day": 1534636800,
+    "full": 1534695509,
+    "month": 1533081600,
+    "week": 1534636800
+  },
+  "id": "t3_98ldcm",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 59140,
+    "fullUrl": "https://preview.redd.it/rfw7r746s2h11.jpg?auto=webp&s=cd75303e522e6e86e5bb9beb5dc461509faff8d3",
+    "hash": "d6ce3097dd",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAJRAAAgEDAgUFAAAAAAAAAAAAAQIDBAURABIGITFBcQczNJHB/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABkRAQADAQEAAAAAAAAAAAAAAAEAAgMEEf/aAAwDAQACEQMRAD8AlunqHcJKqOGhSC2IVUGWmiVSzDmNzntkDlpJ+LbjXgy3GqR5GGC8S4HQDbjp2z5J1gl+RF4/dNS+19aG9DbIEijmrXV8Z//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/4Lb7ARGQqLEnS_ovY079DLsVHuU21f8Ph5v59LWHyVo.jpg",
+    "url": "https://preview.redd.it/rfw7r746s2h11.jpg?width=640&crop=smart&auto=webp&s=c4dbe94b7125b833727264daba33cf1f9f5074fe",
+    "width": 640
+  },
+  "score": {
+    "comments": 20,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 310,
+    "value": 310
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Table build update: Worth waging war over?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/98ldcm/table_build_update_worth_waging_war_over/"
+}

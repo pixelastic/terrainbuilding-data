@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_cexuw",
+    "name": "mysteryHLshopper"
+  },
+  "date": {
+    "day": 1594598400,
+    "full": 1594635184,
+    "month": 1593561600,
+    "week": 1594512000
+  },
+  "id": "t3_hqcpuv",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "filesize": 63411,
+    "fullUrl": "https://external-preview.redd.it/uu3Y7Canvy4Cm3H6RueHeby91SrsffZEJdQjyq-H17c.jpg?auto=webp&s=6c3a876c495c0e60a7b76bc381289aca6962afa4",
+    "hash": "6fdc128623",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQME/8QAKBAAAAUCAwgDAAAAAAAAAAAAAQIDBAUAERIxUQYTITI1QmFxcrLB/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABgRAAIDAAAAAAAAAAAAAAAAAAARARIh/9oADAMBAAIRAxEAPwCC8wiyOm3jHgCkTdtksYYjD24hv510rcwZw207kY2XWQFV8iVEqhS2MB8y5DxC96Tj+VP4h+U8w61Gex+xKF4hqwz/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/wZvVq7Zha_CbM2xRa6NQS8cIjY-0DQMmI9rBUt5K8rI.jpg",
+    "url": "https://external-preview.redd.it/uu3Y7Canvy4Cm3H6RueHeby91SrsffZEJdQjyq-H17c.jpg?width=640&crop=smart&auto=webp&s=fff04aa1eaef5d31d29dba335605e9b5ef211980",
+    "width": 640
+  },
+  "score": {
+    "comments": 9,
+    "downs": 0,
+    "ratio": 0.96,
+    "ups": 51,
+    "value": 51
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Fully playable Mayan dungeon",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/hqcpuv/fully_playable_mayan_dungeon/"
+}

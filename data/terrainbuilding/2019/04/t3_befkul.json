@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_j8nwx",
+    "name": "prothirteen"
+  },
+  "date": {
+    "day": 1555545600,
+    "full": 1555549757,
+    "month": 1554076800,
+    "week": 1555200000
+  },
+  "id": "t3_befkul",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 91791,
+    "fullUrl": "https://preview.redd.it/jwehyhngaxs21.jpg?auto=webp&s=c9a068e6cffde33e7615647c28438fa5e1f61729",
+    "hash": "c024be1563",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAiEAABAwQCAgMAAAAAAAAAAAABAgMFBBESIQAGBxMxQZH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABgRAQADAQAAAAAAAAAAAAAAAAEAAgNR/9oADAMBAAIRAxEAPwBXtnkeUoJKkaZkSAKQKdQWw22lZUdEG9zYA8O612Gsn51FPU1z496FONBtOO0nYOvsbHJKZ63K1kg8vBt0Z5BaTiQQLaB4jBUEvEvUz3p9S2yQVrIGST86JNtE/nJjrXpHFif/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/kNj2-0HeA8KwPdlpFWIztjCuYYFknzQUbloO9sJBwSc.jpg",
+    "url": "https://preview.redd.it/jwehyhngaxs21.jpg?width=640&crop=smart&auto=webp&s=39d2ea78b92ed9cd2d609adbefaec0d5f33aeb08",
+    "width": 640
+  },
+  "score": {
+    "comments": 34,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 420,
+    "value": 420
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "About 20 hours or so. Hand placed bricks, playable interior and multiple levels - the hardest one I've done yet.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/befkul/about_20_hours_or_so_hand_placed_bricks_playable/"
+}

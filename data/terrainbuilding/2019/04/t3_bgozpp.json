@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_101eze",
+    "name": "Cur10"
+  },
+  "date": {
+    "day": 1556064000,
+    "full": 1556071842,
+    "month": 1554076800,
+    "week": 1555804800
+  },
+  "id": "t3_bgozpp",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 153761,
+    "fullUrl": "https://preview.redd.it/pze5macze4u21.jpg?auto=webp&s=93c071f738806c35b38de6833a59cc883888a613",
+    "hash": "de687ebe0c",
+    "height": 1317,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAgDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAEF/8QAJRAAAQMBBwUBAAAAAAAAAAAAAQIDBAAFBgcREiFBExQVUmHR/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABcRAAMBAAAAAAAAAAAAAAAAAAABAhH/2gAMAwEAAhEDEQA/ANu898LSi41xYjensEFFnlnqbLS4QSsj2CiMvicuaVbWufNk4k+fdmRmoLchDoSolS1aUjccA/mdKJUJWH//2Q==",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/40mkt0z4EepAfGws7-y6RvgbPT5SjBAUlDzLnFIo1K8.jpg",
+    "url": "https://preview.redd.it/pze5macze4u21.jpg?width=640&crop=smart&auto=webp&s=e46796a9f177d6df3b9576bac88493a4b3ad046d",
+    "width": 640
+  },
+  "score": {
+    "comments": 11,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 88,
+    "value": 88
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Wizard's tower I just finished. All XPS foam built onto a discarded grits container. C&C welcomed.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/bgozpp/wizards_tower_i_just_finished_all_xps_foam_built/"
+}

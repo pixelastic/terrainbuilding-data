@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_60fn8",
+    "name": "lordxi"
+  },
+  "date": {
+    "day": 1549929600,
+    "full": 1550009807,
+    "month": 1548979200,
+    "week": 1549756800
+  },
+  "id": "t3_apz2tc",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 45270,
+    "fullUrl": "https://preview.redd.it/9nmgb18bp7g21.jpg?auto=webp&s=797706df0fd82060b9f040f8d99821b3255e8b49",
+    "hash": "5999358dab",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEBf/EACUQAAIBAgYABwAAAAAAAAAAAAECAwQRAAUGEiExExUyM3OBsf/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERE//aAAwDAQACEQMRAD8Aq1Ui5XPp5MuoGkjNQkVTtjDkxhQpBsOO7246wnTT+bUtTUzwyUEiVTpGsUfhbkHW5emHNjcHGzUegff7g19+T4xibq4OzVrP/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/PgeXFzO6PKTFeB5kjEhL8ZQgadX0gcdZB_XsXpE2q0I.jpg",
+    "url": "https://preview.redd.it/9nmgb18bp7g21.jpg?width=640&crop=smart&auto=webp&s=033710cb63b8ae65b36dae9a2b8c7f881e287cf6",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 0.95,
+    "ups": 25,
+    "value": 25
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Practicing bird sh*t application",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/apz2tc/practicing_bird_sht_application/"
+}

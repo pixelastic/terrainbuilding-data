@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_15k36d",
+    "name": "GoblinFoundry"
+  },
+  "date": {
+    "day": 1505347200,
+    "full": 1505354886,
+    "month": 1504224000,
+    "week": 1505001600
+  },
+  "id": "t3_6zzc76",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 79881,
+    "fullUrl": "https://preview.redd.it/bqow8orebrlz.jpg?auto=webp&s=0908237ab106213a083110543a8d98492aadf50a",
+    "hash": "580581fda9",
+    "height": 521,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAANABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgP/xAAlEAABBAECBQUAAAAAAAAAAAABAgMEEQUAEgYHEyExIjJBcbH/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAGhEAAgIDAAAAAAAAAAAAAAAAAQMAAhIiMf/aAAwDAQACEQMRAD8AEcJcv5EKWXEzYzyZDG1umq9JIBJs9jX6dLmMZGYkJdyCG3I0djpFSBuWkkKJ2g/Hi6Or8NZ5DkeDugottoIUd/vFfXbSHHQ4sk5ASGErjOJUvpWRQCKq/OhM7MttFWVUtZA5P//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/YIYuGHMXMJj73VaQNhCWMjkq-omW53Q9Kjm26r0B7zg.jpg",
+    "url": "https://preview.redd.it/bqow8orebrlz.jpg?width=640&crop=smart&auto=webp&s=e096e8b43c05f4688377f170a1443144aef8f793",
+    "width": 640
+  },
+  "score": {
+    "comments": 13,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 102,
+    "value": 102
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Update shot of my cathedral build - the radiating chapel section mid build.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/6zzc76/op_oc_update_shot_of_my_cathedral_build_the/"
+}

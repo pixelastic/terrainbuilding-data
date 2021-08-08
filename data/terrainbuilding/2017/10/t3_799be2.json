@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_5uokh",
+    "name": "randomisation"
+  },
+  "date": {
+    "day": 1509148800,
+    "full": 1509184201,
+    "month": 1506816000,
+    "week": 1508630400
+  },
+  "id": "t3_799be2",
+  "misc": {
+    "postHint": "self"
+  },
+  "picture": {
+    "filesize": 110897,
+    "fullUrl": "https://external-preview.redd.it/MIS27DfQVbM5y_8Q4wMSIGWava_8mee_nus5HNdlJtw.jpg?auto=webp&s=1656585e77f3d4f5c369b3d5bb23e6ad426c79af",
+    "hash": "0cd7549a68",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQH/8QAJRAAAgEEAAQHAAAAAAAAAAAAAQIEAAMFEQYhMVEHExRBYZHx/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABkRAAIDAQAAAAAAAAAAAAAAAAECAAMSYf/aAAwDAQACEQMRAD8AE8LYLH5DxCECYzXIJtl1QHWmGjoe/cUpzOHt43JyIiR4wS25Ck2wNr1B+tVRgIMOzlrczybXr0fYdnKb+R35da1eTg4WRdZMiHIuMyKAyNyI1+0SIWEW+wHJ5P/Z",
+    "thumbnailUrl": "self",
+    "url": "https://external-preview.redd.it/MIS27DfQVbM5y_8Q4wMSIGWava_8mee_nus5HNdlJtw.jpg?width=640&crop=smart&auto=webp&s=e71efde6604e6046f55a22ae0a8185390084c648",
+    "width": 640
+  },
+  "score": {
+    "comments": 9,
+    "downs": 0,
+    "ratio": 0.83,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A question for you all. Lend me your thoughts.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/799be2/a_question_for_you_all_lend_me_your_thoughts/"
+}

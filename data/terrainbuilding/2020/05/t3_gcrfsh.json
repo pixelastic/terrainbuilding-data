@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_uqhzy0e",
+    "name": "FaramirTheGeek"
+  },
+  "date": {
+    "day": 1588464000,
+    "full": 1588515869,
+    "month": 1588291200,
+    "week": 1588464000
+  },
+  "id": "t3_gcrfsh",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 67769,
+    "fullUrl": "https://preview.redd.it/uvfpy2aq7kw41.jpg?auto=webp&s=0131d989149b9bab6f4de43f784b9821b872c89d",
+    "hash": "c46bb512d5",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAYH/8QAIhAAAQQBBAIDAAAAAAAAAAAAAQIDBBEFAAYSITFBE2Gx/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABoRAAICAwAAAAAAAAAAAAAAAAASAREhMkH/2gAMAwEAAhEDEQA/AMlh4yUh5anWHaWVfFSSbPo171RbYGQ25mYeRQwFOE0AtV8knroDxZ/NLy093EY9x7HJbZdbluNhXHlfGqJu++z9aHs6XN3BkmYmRnSTHuwhshIT34AA6GhaduCJmj//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/hNxXNw2wwCRq5qUZElHXgwRSNZGkHApftaOrLXfxENE.jpg",
+    "url": "https://preview.redd.it/uvfpy2aq7kw41.jpg?width=640&crop=smart&auto=webp&s=b807963f180e1b347fffc77cfb9a4bf19379eee7",
+    "width": 640
+  },
+  "score": {
+    "comments": 47,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 1223,
+    "value": 1223
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Jungle scatter terrain. Pretty happy with the results!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/gcrfsh/jungle_scatter_terrain_pretty_happy_with_the/"
+}

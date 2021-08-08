@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_cfics",
+    "name": "taiga_with_a_pen"
+  },
+  "date": {
+    "day": 1522368000,
+    "full": 1522368215,
+    "month": 1519862400,
+    "week": 1521936000
+  },
+  "id": "t3_8866oz",
+  "misc": {
+    "postHint": "self"
+  },
+  "picture": {
+    "filesize": 54798,
+    "fullUrl": "https://external-preview.redd.it/mf1UTglV6ofEVDW1q_sF4_aVL8pCmdwGXT6kC6ralxE.jpg?auto=webp&s=5091151123b20a5cdd118325c4b3e3210a73f5a0",
+    "hash": "9af00a0323",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAgb/xAAlEAABAgUCBwEAAAAAAAAAAAABAgMABAUGESFBEhMUIzE0YXH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABkRAQACAwAAAAAAAAAAAAAAAAEAEQISIf/aAAwDAQACEQMRAD8AFh2OmbpbD9WVMSbIcUenPbUQMAZyNyCYF/2vR5SjuLo/AJtoDI5gUt1OdRqfP2J2sbxIO++n9MRMgKCPVe3P/9k=",
+    "thumbnailUrl": "self",
+    "url": "https://external-preview.redd.it/mf1UTglV6ofEVDW1q_sF4_aVL8pCmdwGXT6kC6ralxE.jpg?width=640&crop=smart&auto=webp&s=e5621c1b3aa5eff62ad2267a78bf535a53615652",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 1,
+    "value": 1
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Help with AK Interactive Snow Microballoons (Snow dust issues)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/8866oz/help_with_ak_interactive_snow_microballoons_snow/"
+}

@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_102odt",
+    "name": "RaNovaJett"
+  },
+  "date": {
+    "day": 1520812800,
+    "full": 1520834783,
+    "month": 1519862400,
+    "week": 1520726400
+  },
+  "id": "t3_83stkw",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 60981,
+    "fullUrl": "https://external-preview.redd.it/0Gtansva2r8sltkKcyBv3Kfmhg3fZ4n3JstZXjSRDxY.jpg?auto=webp&s=948767ec96c4a5ec918c65af3a43a69cac933877",
+    "hash": "42dcabc7da",
+    "height": 435,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwMG/8QAJBAAAgEDAwMFAAAAAAAAAAAAAQIDBAURAAYhEzFhFEFxgZH/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAGxEBAAICAwAAAAAAAAAAAAAAAQIDABITMVH/2gAMAwEAAhEDEQA/AD7ZMEVxsfqLmq1NRO3TVnhDBO5CgH6/fGo7k2pDVBVKiF0PDRIBnx8aaKazW+aOnZ6VAyxCRSmVwwxg8Y1l90RJTWWQwqFJk5988nvnuOBxoay7RJR7XEKocgj5n//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/fWTNDBdZ4ZDO5qkg6PxCMK0563RfjylsD3Vf1oYljxE.jpg",
+    "url": "https://external-preview.redd.it/0Gtansva2r8sltkKcyBv3Kfmhg3fZ4n3JstZXjSRDxY.jpg?width=640&crop=smart&auto=webp&s=e54d2aeb585df7a7afafb57c8f7fa77b10e7191e",
+    "width": 640
+  },
+  "score": {
+    "comments": 9,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 90,
+    "value": 90
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My first complete terrain piece! Please pass along any tips or suggestions as I hope to make many more.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/83stkw/my_first_complete_terrain_piece_please_pass_along/"
+}

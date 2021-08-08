@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_1r3dpwt",
+    "name": "Nelmarticus"
+  },
+  "date": {
+    "day": 1497571200,
+    "full": 1497586360,
+    "month": 1496275200,
+    "week": 1497139200
+  },
+  "id": "t3_6hk9r1",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 61492,
+    "fullUrl": "https://preview.redd.it/d7fvzo5mnx3z.jpg?auto=webp&s=42d7c7b5826cf766f7cd899f2d2a7fa10256ab9b",
+    "hash": "26bccf10fd",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGB//EACMQAAEDAwQCAwAAAAAAAAAAAAECAwQFESEABhIxB3FBUYH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAFxEBAQEBAAAAAAAAAAAAAAAAAgEAEf/aAAwDAQACEQMRAD8Azah0yq70raI4kPlDmVrffUbpGSAVEkm17fXehvIFAgwDDlUNDYS5JU1xSSo9AJv+g+zfVay6YyQy0kcAAq1z2QM9+tId5VJ+VHC3SnkFYt8WzjRS+5aiNs3/2Q==",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/N7ZC6EXoQJJrVVXEcH7E8t4AlzPk-Ue7ObblWJqkfV4.jpg",
+    "url": "https://preview.redd.it/d7fvzo5mnx3z.jpg?width=640&crop=smart&auto=webp&s=a160b3a72d84c1d9fd5a6a3e2543a7e9b238b070",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 0.91,
+    "ups": 24,
+    "value": 24
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Ruin Tower/Dragon Roost.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/6hk9r1/ruin_towerdragon_roost/"
+}

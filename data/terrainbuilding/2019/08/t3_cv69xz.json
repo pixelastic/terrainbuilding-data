@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_7fvwt4",
+    "name": "Xetemara"
+  },
+  "date": {
+    "day": 1566691200,
+    "full": 1566723668,
+    "month": 1564617600,
+    "week": 1566691200
+  },
+  "id": "t3_cv69xz",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 60156,
+    "fullUrl": "https://preview.redd.it/7qzxlgh08ki31.jpg?auto=webp&s=ff2ea84e204f21d08536f0363bbb02d54c7d16db",
+    "hash": "a970fab7c4",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAwb/xAAjEAABBAEDBQEBAAAAAAAAAAABAgMEBREABiISEyExYUGR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAbEQABBAMAAAAAAAAAAAAAAAADAAECERIhIv/aAAwDAQACEQMRAD8Ao9y2EOinuiS7Ok2PHBfc4rGfByB5GioNwru7iKaqO0JDD3YUttJWtsLHLn6CcYz/ADVnuyjrbSxhmbEbc7LTrgxkdRBAAVj2Pmlo2I8Z1xqJGYjt4SrpZbCPz5qMhucXa08RXtf/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/8gP4X8NMynguVBkLlHzJYSo2ihMvGY7y9v8VHW2uGUo.jpg",
+    "url": "https://preview.redd.it/7qzxlgh08ki31.jpg?width=640&crop=smart&auto=webp&s=6bdf54bc57e154dd45abbd16053cd7d370f037cd",
+    "width": 640
+  },
+  "score": {
+    "comments": 22,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 522,
+    "value": 522
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "So, I made concrete out of concrete #)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/cv69xz/so_i_made_concrete_out_of_concrete/"
+}

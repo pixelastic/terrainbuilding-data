@@ -1,0 +1,39 @@
+{
+  "author": {
+    "name": "[deleted]"
+  },
+  "date": {
+    "day": 1610755200,
+    "full": 1610826412,
+    "month": 1609459200,
+    "week": 1610236800
+  },
+  "id": "t3_kypv61",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "filesize": 197040,
+    "fullUrl": "https://external-preview.redd.it/k0ZHkvj7KfRL-IHJcbUoioQdg52cJoW4k9TOF40afAY.jpg?auto=webp&s=02b30ca1b1740991aef300d6834bf54036baf854",
+    "hash": "88266a7e3c",
+    "height": 1386,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAcDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUH/8QAIhAAAQMDAwUAAAAAAAAAAAAAAQIDBAAFEhEhMQYiI0FR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAaEQACAgMAAAAAAAAAAAAAAAACAwABETFB/9oADAMBAAIRAxEAPwCvIuVtedMFuFIU3kcy2rtJ1JPzXf3Ss6d6/h225yHJdskqZy8bbLwSFE87qHFKnNbM6jCweXP/2Q==",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/3vIXiXZCTq5d5O8B1drulAiV27asKUHMXaMrW0Jc4c4.jpg",
+    "url": "https://external-preview.redd.it/k0ZHkvj7KfRL-IHJcbUoioQdg52cJoW4k9TOF40afAY.jpg?width=640&crop=smart&auto=webp&s=8847252305ed15547c070e8c95dcee0439729690",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.95,
+    "ups": 15,
+    "value": 15
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First Ever Scratch Built Terrain. Tried to make it compatible with Star Wars Legion and 40k",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/kypv61/first_ever_scratch_built_terrain_tried_to_make_it/"
+}

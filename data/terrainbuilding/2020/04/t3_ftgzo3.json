@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_7ppu3",
+    "name": "Rank2"
+  },
+  "date": {
+    "day": 1585785600,
+    "full": 1585807095,
+    "month": 1585699200,
+    "week": 1585440000
+  },
+  "id": "t3_ftgzo3",
+  "misc": {
+    "postHint": "hosted:video"
+  },
+  "picture": {
+    "filesize": 92587,
+    "fullUrl": "https://external-preview.redd.it/6H_N54xsMmbRNRFyGG6YAf-XEQtWZIRiwHFb5uXsFgg.png?format=pjpg&auto=webp&s=6b013ea0af0e0286e4dafc7dcb42f5acf2c2ab07",
+    "hash": "b4d440cae5",
+    "height": 1138,
+    "lqip": "data:image/png;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAJhAAAQMDAwIHAAAAAAAAAAAAAgEDEQAEBQYUIhUxQVFTVJOV0//EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAZEQEAAwEBAAAAAAAAAAAAAAACAAEhAxH/2gAMAwEAAhEDEQA/AIZrUFrf3+53tiRk+QttvS0aInGFmOKx4x2pzdj6+O+zT9KzfUuCLF5V20vgNtwJVHGVQwUFJVFY8lmiunMe8Y+E6EuZe3UWWxns/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/VNyTzzKx4O0YRCeusl2Nyx-iBv71BFtBl13g9KOekNs.jpg",
+    "url": "https://external-preview.redd.it/6H_N54xsMmbRNRFyGG6YAf-XEQtWZIRiwHFb5uXsFgg.png?width=640&crop=smart&format=pjpg&auto=webp&s=37b529e0378d4df8c22385dfc93188c38dfcd895",
+    "width": 640
+  },
+  "score": {
+    "comments": 18,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 567,
+    "value": 567
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP model of the Yawning Portal dungeon tile",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ftgzo3/wip_model_of_the_yawning_portal_dungeon_tile/"
+}

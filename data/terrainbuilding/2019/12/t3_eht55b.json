@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_paue0",
+    "name": "jawaki"
+  },
+  "date": {
+    "day": 1577664000,
+    "full": 1577744269,
+    "month": 1575158400,
+    "week": 1577577600
+  },
+  "id": "t3_eht55b",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 100441,
+    "fullUrl": "https://preview.redd.it/kdqr6r88iu741.jpg?auto=webp&s=670a6606aed3d15e1353f285445bcfae8f5df825",
+    "hash": "0f151c92dc",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMF/8QAJRAAAgEDAwQCAwAAAAAAAAAAAQIDBAURABIxBgcTIRQyQlFh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAXEQEBAQEAAAAAAAAAAAAAAAABABEh/9oADAMBAAIRAxEAPwA3V3XdXXdx6+eK5VHwo5vHRbZCoAVvRAAx9gef3qHXHcC8XSWo813gq45JdslshQ7KcLjYysfzDDJ1j1dvWvjDNTVDtv35KsobPIOOMfznOltamRaaZaG4GtViXlBLIQCCmFIyGHv3qU7ImX//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/xHJJoQrsIWHQUrklrrMaQ_2uWjHwjvvHKQzMkMJpNxA.jpg",
+    "url": "https://preview.redd.it/kdqr6r88iu741.jpg?width=640&crop=smart&auto=webp&s=73e47931f218631bf138f84399079da108d86ea3",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 0.89,
+    "ups": 27,
+    "value": 27
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Ancient Wellspring WIP - Some advice wanted, Discussion inside",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/eht55b/ancient_wellspring_wip_some_advice_wanted/"
+}

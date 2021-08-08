@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_13jg1g",
+    "name": "alphabennettatwork"
+  },
+  "date": {
+    "day": 1568419200,
+    "full": 1568482266,
+    "month": 1567296000,
+    "week": 1567900800
+  },
+  "id": "t3_d488fi",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 29326,
+    "fullUrl": "https://preview.redd.it/bygdgmzrnim31.jpg?auto=webp&s=c44deef8def5af957d4e92e195329f914e829d61",
+    "hash": "36e49dd7f1",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAf/xAAjEAABBAIBAwUAAAAAAAAAAAABAgMEBREhAAcxYRI0UXKy/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABkRAAIDAQAAAAAAAAAAAAAAAAASARETIv/aAAwDAQACEQMRAD8ArfWKwvWHILVIbGO2hKluvxiQF57J0DsYzv54fpDc38ydMTeKsXIYZT6HpYASlYO94Gc589vPKtwtn7M/ZH6HDz6axtpRKg//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/ww3_5CI2O7ph6GEHdvI2FElLSIkovalg-0fv7KdsObA.jpg",
+    "url": "https://preview.redd.it/bygdgmzrnim31.jpg?width=640&crop=smart&auto=webp&s=33162d4fe3ce064517bb7d6135880670a5419180",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 0.96,
+    "ups": 70,
+    "value": 70
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Thought this would be a great concept for city terrain",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/d488fi/thought_this_would_be_a_great_concept_for_city/"
+}

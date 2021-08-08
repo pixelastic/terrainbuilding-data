@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_dj216",
+    "name": "GypsyBreath"
+  },
+  "date": {
+    "day": 1543708800,
+    "full": 1543752592,
+    "month": 1543622400,
+    "week": 1543708800
+  },
+  "id": "t3_a2cqlq",
+  "misc": {
+    "postHint": "self"
+  },
+  "picture": {
+    "filesize": 73940,
+    "fullUrl": "https://external-preview.redd.it/0nsRs8b9MM3To9PlNdps4x5OPfBeAFyg2kaWRXlWxrg.jpg?auto=webp&s=7f672d2ceb27d6e53e1a3043302028b9ba4246ae",
+    "hash": "779af51391",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGCP/EACEQAAIBAwQDAQAAAAAAAAAAAAECAwAEBhESISIxMpFx/8QAFAEBAAAAAAAAAAAAAAAAAAAABf/EABsRAAIBBQAAAAAAAAAAAAAAAAABEwIDERIh/9oADAMBAAIRAxEAPwBWMSN67XdpDLLEybEcw7GGg0ADeTx8qOyXABbkKsBjZh6mtLYxZI9lAGeQ7R18cfnFCZbYQmCUON/UjVlUn7pRqvyrgjpFXho//9k=",
+    "thumbnailUrl": "self",
+    "url": "https://external-preview.redd.it/0nsRs8b9MM3To9PlNdps4x5OPfBeAFyg2kaWRXlWxrg.jpg?width=640&crop=smart&auto=webp&s=ccf4bc240c1816efe6bd37ef976a1acd1c35deec",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 0.88,
+    "ups": 12,
+    "value": 12
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Quick Graveyard",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/a2cqlq/quick_graveyard/"
+}

@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_10bjw9",
+    "name": "sFAMINE"
+  },
+  "date": {
+    "day": 1623628800,
+    "full": 1623673526,
+    "month": 1622505600,
+    "week": 1623542400
+  },
+  "id": "t3_nzllvo",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 126534,
+    "fullUrl": "https://preview.redd.it/pi86aqth58571.jpg?auto=webp&s=20908b08e4a66d6d01190594f55ece017a1b7713",
+    "hash": "3524cd7127",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQT/xAAiEAACAQMEAwEBAAAAAAAAAAABAgMEBREAITFBBlFhEhT/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABgRAQADAQAAAAAAAAAAAAAAAAEAESEx/9oADAMBAAIRAxEAPwB6/wDj0lrsLPcaiBqp1DJDG2ChBBx9Ohq27TXaWOSd0WKNAsVPgFVO2WP0nvrjQnkl5rPIrnUzGVP51ATEYCMVzwmd++Ns96mtljIYup/KlTHJEoOWU42Lez76PGpyhscW82f/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/5eZ5udAhCn7G043x8YO91sb1QWe5kcG0xaV1fJ-TRbo.jpg",
+    "url": "https://preview.redd.it/pi86aqth58571.jpg?width=640&crop=smart&auto=webp&s=425cb27ddb478866f7db02b7b7041f68da517b56",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 207,
+    "value": 207
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP Dugout",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/nzllvo/wip_dugout/"
+}

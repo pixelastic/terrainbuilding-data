@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_17j9l0",
+    "name": "mproteau"
+  },
+  "date": {
+    "day": 1605225600,
+    "full": 1605308996,
+    "month": 1604188800,
+    "week": 1604793600
+  },
+  "id": "t3_jtqsgv",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 77909,
+    "fullUrl": "https://preview.redd.it/vqgqaujaa3z51.jpg?auto=webp&s=0923bb381f43b7836fceaf317db3e5c8801fd8b8",
+    "hash": "63eed1fe80",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQQFB//EACQQAAIBAwMEAwEAAAAAAAAAAAECAwQFEQASIRMiMUEGB3GR/8QAFAEBAAAAAAAAAAAAAAAAAAAABf/EABkRAAIDAQAAAAAAAAAAAAAAAAECABIxEf/aAAwDAQACEQMRAD8ATqZJ6+5TOqJLMY1kjyyu8h5GOSAmPRPnxqTUU0lPeKO43iyy10VKwRlDhEYknbjuJ8k5wfzQ+spnq/jlPSzEdJmO/aMF+cdx960W3WaCpa5rUyzzRRPH0Y3YERZQZ28Z/pOjbKgrzIgUZzYnZ//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/gmNhmg0n8x4QARvUO6I6T0UaGfwuZcW7mplylJPK44U.jpg",
+    "url": "https://preview.redd.it/vqgqaujaa3z51.jpg?width=640&crop=smart&auto=webp&s=8bdac047433a27c57cfc63f674cbaad3584689b5",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 83,
+    "value": 83
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "More progress on my hellscape tile set!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/jtqsgv/more_progress_on_my_hellscape_tile_set/"
+}

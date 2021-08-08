@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_12wv0fk",
+    "name": "Heygul"
+  },
+  "date": {
+    "day": 1609632000,
+    "full": 1609668526,
+    "month": 1609459200,
+    "week": 1609632000
+  },
+  "id": "t3_kpi5it",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 66965,
+    "fullUrl": "https://preview.redd.it/5opcstrwc3961.jpg?auto=webp&s=a36f25757cfd39dfcdf6cee8ef0388ac0fb930d8",
+    "hash": "f8bec6e161",
+    "height": 369,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgX/xAAlEAABAwEGBwAAAAAAAAAAAAABAgMEAAYSMTRRcQURFSNBcsL/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARUf/aAAwDAQACEQMRAD8ANNCz4ddLKIobAN2+B4GPLWqthuhxJCVuwoTjTo7oKEEnXHDejnDMwnf6FMU5c+poOIrspO3/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/wWZPcCiEKNBShGX4nXHx22YqDmxKjMVEQJFWuTrcelg.jpg",
+    "url": "https://preview.redd.it/5opcstrwc3961.jpg?width=640&crop=smart&auto=webp&s=e2d798b6693666c1655833b81cb4204cd4230c40",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "ratio": 0.96,
+    "ups": 47,
+    "value": 47
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Progress on my terrain board. I finished flocking half the board last night. Today I'm going to flock the other half, although I might leave more of the rock/dirt exposed. Then I'll add some bushes and extra foliage. Any advice is welcome.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/kpi5it/progress_on_my_terrain_board_i_finished_flocking/"
+}

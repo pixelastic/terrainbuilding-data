@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_bbddx",
+    "name": "Akblabla"
+  },
+  "date": {
+    "day": 1578355200,
+    "full": 1578412406,
+    "month": 1577836800,
+    "week": 1578182400
+  },
+  "id": "t3_eldar4",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 57370,
+    "fullUrl": "https://preview.redd.it/xlbw6m9pod941.jpg?auto=webp&s=d4f9579291757135d810e43fe7c16be280fda73e",
+    "hash": "335c4e3b59",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgX/xAAjEAABAwIGAwEAAAAAAAAAAAABAgMEBREABgcSITETQVEi/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAaEQEAAQUAAAAAAAAAAAAAAAABAAIRMUFh/9oADAMBAAIRAxEAPwBHWo0XKUBisQai43LcAbAa3OIJChu4JsOL+h13hNlDUI1eC89tkupjkNvOIQClKiOL/L2v3ibqJQIlZebiyFOtsr8UqzJCbLKVXtweO+D9OEmlWWoFCozj0EObphT5Aojb+QQAAAB7OJqBxqMpbs//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/CCgcWGo0k4k_83miD7WcwDHHOYLYws_5Qs1gbRpQRvA.jpg",
+    "url": "https://preview.redd.it/xlbw6m9pod941.jpg?width=640&crop=smart&auto=webp&s=8a8ff34d53219cb9285ef765e09b718e8d9fc9f8",
+    "width": 640
+  },
+  "score": {
+    "comments": 30,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 1117,
+    "value": 1117
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Elevated base for a character",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/eldar4/elevated_base_for_a_character/"
+}

@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_dy6q6",
+    "name": "ColourTheft"
+  },
+  "date": {
+    "day": 1523664000,
+    "full": 1523712735,
+    "month": 1522540800,
+    "week": 1523145600
+  },
+  "id": "t3_8c7jta",
+  "misc": {
+    "postHint": "hosted:video"
+  },
+  "picture": {
+    "filesize": 98321,
+    "fullUrl": "https://external-preview.redd.it/LDU6sMkHLEtj3OfiX01kobhmCJPkYgcs25a4knsMLBk.png?format=pjpg&auto=webp&s=3fed6a1a3a8a4a002d39e66d0854d463963cab50",
+    "hash": "4a93193d13",
+    "height": 800,
+    "lqip": "data:image/png;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQME/8QAIRAAAgIBBAMBAQAAAAAAAAAAAQMCBBEABRIxISJBFWH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABkRAQACAwAAAAAAAAAAAAAAAAEAAhEhMf/aAAwDAQACEQMRAD8ABH6NLb0VLFMtYslc1zlHMR8JJ+/MayL5ss2Caze4jiFx9fHXXepbjecgsVuSqxrwYITnt7ItWPJ9cg+M4xjOj2WYFQNFS5gzmTz5kiPjj0R/dEHkq23kn//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/C5jD-wshJmLcNXmLSh_4PFcL1c4fA843PxfywAekQ2I.jpg",
+    "url": "https://external-preview.redd.it/LDU6sMkHLEtj3OfiX01kobhmCJPkYgcs25a4knsMLBk.png?width=640&crop=smart&format=pjpg&auto=webp&s=745a82437d0b36cb3c8ebea142f1fa72c482648b",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 0.94,
+    "ups": 37,
+    "value": 37
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Little video of my current WIP",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/8c7jta/little_video_of_my_current_wip/"
+}

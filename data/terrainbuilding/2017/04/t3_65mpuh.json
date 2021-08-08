@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_9ppjy",
+    "name": "leMadDoc"
+  },
+  "date": {
+    "day": 1492300800,
+    "full": 1492306514,
+    "month": 1491004800,
+    "week": 1492300800
+  },
+  "id": "t3_65mpuh",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "filesize": 84424,
+    "fullUrl": "https://external-preview.redd.it/5VnUA7sAbKllXR9c8n0Eg8cQ1WeJH-YdBgRcHRgUhM8.jpg?auto=webp&s=67ba976d0580f8e856c14fc1cb5961c80ac9c2d9",
+    "hash": "58808d41b9",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAQUH/8QAJxAAAgEDAwEJAQAAAAAAAAAAAQMCBAURABIhBgcUIzEyQWFxgbH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGREAAgMBAAAAAAAAAAAAAAAAAAIBA2ET/9oADAMBAAIRAxEAPwCh0m91hQ9Vbeqm6B7hGEnnbEExyBEk85/o09xtl2Y6sq0uY1jJgyDdoIEiOMfWPzWbL6njXIVJtGmpuVOyMClsZeMCQBKO05xyTIfAOnqvtLpIXpy7NaaRtMsCEmF0tspj1bMYzEeQOOcZ99DXpOi3WqMP/9k=",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/K3rADIBZ_3toPyN5kOQ-pM6qt1MmHyOhUfKoIJW-nO4.jpg",
+    "url": "https://external-preview.redd.it/5VnUA7sAbKllXR9c8n0Eg8cQ1WeJH-YdBgRcHRgUhM8.jpg?width=640&crop=smart&auto=webp&s=0d84dfacfd9bd5d8582d8f6d7743280f68a865e3",
+    "width": 640
+  },
+  "score": {
+    "comments": 16,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 80,
+    "value": 80
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Some stuff i did in preparation for SWA",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/65mpuh/some_stuff_i_did_in_preparation_for_swa/"
+}

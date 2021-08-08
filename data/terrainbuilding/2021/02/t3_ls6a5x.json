@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_aawtloih",
+    "name": "terraintinker"
+  },
+  "date": {
+    "day": 1614211200,
+    "full": 1614258747,
+    "month": 1612137600,
+    "week": 1613865600
+  },
+  "id": "t3_ls6a5x",
+  "misc": {
+    "postHint": "hosted:video"
+  },
+  "picture": {
+    "filesize": 49161,
+    "fullUrl": "https://external-preview.redd.it/VE_mkV6qLqk_jiThghh7vo8kRL4U7izX5CKjmVFmtpE.png?format=pjpg&auto=webp&s=c82d2333120df117d07f5fe4b01c2940ddeadb33",
+    "hash": "3d3e512439",
+    "height": 360,
+    "lqip": "data:image/png;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAJBAAAQMDAQkAAAAAAAAAAAAAAwECBAAFEVESISIyNWFxdMH/xAAVAQEBAAAAAAAAAAAAAAAAAAABBf/EAB0RAAEEAgMAAAAAAAAAAAAAAAEAAgMRBAUTIVH/2gAMAwEAAhEDEQA/AMdiW6Is0LyDYRzck2XYcjuyppmk5gWyRaiEWPBBKzwsBHRjk3apRK3dXX1/qVcHzp5o4BIA4mqUvK2L8aUxhoN+30v/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/8z2SK82J8A5RhJ_gx09166cgRF1vKqMqrwITOTDwKvY.jpg",
+    "url": "https://external-preview.redd.it/VE_mkV6qLqk_jiThghh7vo8kRL4U7izX5CKjmVFmtpE.png?width=640&crop=smart&format=pjpg&auto=webp&s=9c8f3438ae29069010ed04fc7b23cd6734617162",
+    "width": 640
+  },
+  "score": {
+    "comments": 37,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 789,
+    "value": 789
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Goblin Grotto Cavern combining for 3D printing in Terrain Tinker!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ls6a5x/goblin_grotto_cavern_combining_for_3d_printing_in/"
+}

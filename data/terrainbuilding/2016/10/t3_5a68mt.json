@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_peo39",
+    "name": "YetiFiasco"
+  },
+  "date": {
+    "day": 1477785600,
+    "full": 1477837687,
+    "month": 1475280000,
+    "week": 1477785600
+  },
+  "id": "t3_5a68mt",
+  "misc": {
+    "postHint": "self"
+  },
+  "picture": {
+    "filesize": 19147,
+    "fullUrl": "https://external-preview.redd.it/cBtVCMo4vvv5CF7WyjCFEGWm7JYznf2rROIR6f5VIT4.jpg?auto=webp&s=ea5e28696ca9e6a8fdda5bc58510f609755a4000",
+    "hash": "ca960b8189",
+    "height": 346,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwUG/8QAIRAAAQQBAwUAAAAAAAAAAAAABAABAhEDBQYhNVJxcsH/xAAVAQEBAAAAAAAAAAAAAAAAAAACBP/EABoRAAICAwAAAAAAAAAAAAAAAAECABIDBBH/2gAMAwEAAhEDEQA/AF00jWeXDICrtyD/AG1Hnu6QWVoH6kDOV1KIwrzry90tAiLcXWCfd0kFjwyXYY4hZZ//2Q==",
+    "thumbnailUrl": "self",
+    "url": "https://external-preview.redd.it/cBtVCMo4vvv5CF7WyjCFEGWm7JYznf2rROIR6f5VIT4.jpg?width=640&crop=smart&auto=webp&s=b6328faec8b0d41a2dbc89a74ce114e10bc272c2",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 0.88,
+    "ups": 15,
+    "value": 15
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Modular Cityfight board: How do I strengthen Styrofoam?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/5a68mt/modular_cityfight_board_how_do_i_strengthen/"
+}

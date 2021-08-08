@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_xsu19",
+    "name": "Yoji_84"
+  },
+  "date": {
+    "day": 1562889600,
+    "full": 1562930449,
+    "month": 1561939200,
+    "week": 1562457600
+  },
+  "id": "t3_cc9kzo",
+  "misc": {
+    "postHint": "self"
+  },
+  "picture": {
+    "filesize": 77399,
+    "fullUrl": "https://external-preview.redd.it/CJjfnJRJiYuBxn3q9J0hcdhAYKiprYONHwNvvBEtSm8.jpg?auto=webp&s=ca795bc2b8fdda10e70f91beb04949e79dbb6916",
+    "hash": "651a43e0d6",
+    "height": 855,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAwX/xAAiEAACAQQBBAMAAAAAAAAAAAABAgMEBQYRABITITEHgfD/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAGBEBAAMBAAAAAAAAAAAAAAAAAQACIRH/2gAMAwEAAhEDEQA/AIV5yq7Q5NfrbNS6jPU6RsfMWj4b7BB5Lx6urGoCtQiyujlQ7HyR+3xc2d5Pk69TxozIkbIND23bA4uI0pe1MZx0v3W9He+CoBka9dn/2Q==",
+    "thumbnailUrl": "self",
+    "url": "https://external-preview.redd.it/CJjfnJRJiYuBxn3q9J0hcdhAYKiprYONHwNvvBEtSm8.jpg?width=640&crop=smart&auto=webp&s=c43c380acc4aa2cb88c2b6add1be8d88077d8003",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Advice on painting rust on statues",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/cc9kzo/advice_on_painting_rust_on_statues/"
+}

@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_3zfz2uxa",
+    "name": "SpookyOoo"
+  },
+  "date": {
+    "day": 1587427200,
+    "full": 1587483222,
+    "month": 1585699200,
+    "week": 1587254400
+  },
+  "id": "t3_g5he3m",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "filesize": 103530,
+    "fullUrl": "https://external-preview.redd.it/8f_BIMXatmfr9yTLNQdtMaohDnvW7vYSPE6ACTrDUrs.jpg?auto=webp&s=eac9145a341fdfc2bbd2d2e1a4cb4c114c0a22c8",
+    "hash": "df554b70ba",
+    "height": 1138,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgf/xAAmEAABBAEDAQkAAAAAAAAAAAACAQMEEQUABiEUEyJUVWGBkZTS/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAaEQACAgMAAAAAAAAAAAAAAAABAgADMTKR/9oADAMBAAIRAxEAPwBXld+Ry23I6jGrIJxmyjBKQyIS4XvINcXxWp3WA8NlPh39aG4g8O1Ohg/i5rTAGnazRIXXBGlRaFVW09K9tMOs2p59uP6i6IrLZEm14GrDs//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/9HxvzpeWHOKOgx23NWgXPODody3qFGehDjpbis_OR3s.jpg",
+    "url": "https://external-preview.redd.it/8f_BIMXatmfr9yTLNQdtMaohDnvW7vYSPE6ACTrDUrs.jpg?width=640&crop=smart&auto=webp&s=d4765e08ef1f14733cc6f704b94876a491a9a5fb",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.6,
+    "ups": 1,
+    "value": 1
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Help needed with design on a \"dungeon cleaning machine\" inspired by maxDMcrafting on youtube",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/g5he3m/help_needed_with_design_on_a_dungeon_cleaning/"
+}

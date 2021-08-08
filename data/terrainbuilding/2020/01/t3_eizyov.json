@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_chg13",
+    "name": "gcanders1"
+  },
+  "date": {
+    "day": 1577923200,
+    "full": 1577980664,
+    "month": 1577836800,
+    "week": 1577577600
+  },
+  "id": "t3_eizyov",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 39176,
+    "fullUrl": "https://preview.redd.it/ltkcrqk51e841.jpg?auto=webp&s=1bf5bceb49238c2085fff8521fe0b38c2eb931ef",
+    "hash": "48c6a74d86",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwUI/8QAIhAAAQQBBAIDAAAAAAAAAAAAAQIDBAURAAYSITFBImFx/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABoRAAICAwAAAAAAAAAAAAAAAAECACEDEjH/2gAMAwEAAhEDEQA/AGOrRIqtvPqnyWpkhlz5IbQeXZ/fHROdDTUuRZb0sINgudGTbupCUSOJEckHhgAAjI4jB9fetTKjsqSUqabIPkFI71D3Ftajtw2qyq4r62xhKynioAespwcaAo+ou4mJhx5//9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/f140tCYMEm-a0yarwYufR9CDlFVC-yb9BIWP0v6N4LY.jpg",
+    "url": "https://preview.redd.it/ltkcrqk51e841.jpg?width=640&crop=smart&auto=webp&s=b8311f4413302997e84dd813f94afa4b5530cd33",
+    "width": 640
+  },
+  "score": {
+    "comments": 20,
+    "downs": 0,
+    "ratio": 0.96,
+    "ups": 52,
+    "value": 52
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": ".8 3D printed, primed, Earth Texture, washed with shade, dry brushed Zandri Dust. Super quick.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/eizyov/8_3d_printed_primed_earth_texture_washed_with/"
+}

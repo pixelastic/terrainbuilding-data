@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_5r3fmoay",
+    "name": "Wouter-Man"
+  },
+  "date": {
+    "day": 1598140800,
+    "full": 1598203430,
+    "month": 1596240000,
+    "week": 1598140800
+  },
+  "id": "t3_if75cf",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 137778,
+    "fullUrl": "https://preview.redd.it/ofz6fhmtdsi51.jpg?auto=webp&s=9c29664a1f9bb28c60710416fd7754bc4f42555d",
+    "hash": "22183c2a86",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQMG/8QAJhAAAgIABgEDBQAAAAAAAAAAAQIDBAAFERIhMQYTQWEUI3GBkf/EABUBAQEAAAAAAAAAAAAAAAAAAAIE/8QAGhEAAgIDAAAAAAAAAAAAAAAAAAECAxIhUf/aAAwDAQACEQMRAD8Aj5L5RnecVZXitWUrLbLOquQU0bTbx31r+8G24LFi6uZVrFiBDYij9M2HOqbwN51J564/HzhbKr1X6IZMQ0dr7qixLXkCK5kb32/I/hxpa+XRMUpJXmWvCyRqxhIOiuDp1yOO/fE844rolWmtH//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/6fG3Y0VyyCqsp63vOeKAUDyzkxLJ_TJSV1Ss2u8USpo.jpg",
+    "url": "https://preview.redd.it/ofz6fhmtdsi51.jpg?width=640&crop=smart&auto=webp&s=7931ce4c9b665e02041fb21d6b22fed14879af95",
+    "width": 640
+  },
+  "score": {
+    "comments": 13,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 837,
+    "value": 837
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "The first layer of oilwash is on the stonework. Next up are the roofs (more pictures in the comments)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/if75cf/the_first_layer_of_oilwash_is_on_the_stonework/"
+}

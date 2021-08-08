@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_myrd8",
+    "name": "HundredTai"
+  },
+  "date": {
+    "day": 1587168000,
+    "full": 1587231520,
+    "month": 1585699200,
+    "week": 1586649600
+  },
+  "id": "t3_g3ridc",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 286235,
+    "fullUrl": "https://preview.redd.it/2dh154l24mt41.png?auto=webp&s=b446b7e1b8fb46945ba236098b8134b765a8e25b",
+    "hash": "4ae0dc6c61",
+    "height": 267,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAHCAIAAACOQloVAAAACXBIWXMAAAsTAAALEwEAmpwYAAABYklEQVQYlQFXAaj+AMXJy9PZ3dbb3tTX2rW4vI+Vm7e7vnl2dMfLzdbb3tba3M7S1dfb3cPExnJtbI+PkAC2tbLBv7yipKRka3NjZ2xESE+KiIqNf3S9u7eho6V/god7e36TlJVhZWpeWFWHfXUAyb+2yL61f31+TlNaX11hMjsuZH5YpJeSzsO5f3+AV1thVVVZUFBUQ0RJdG1pu6qaANfLwM3CuXFwcmFhZUpISzw+OUJLPY19c9fMw2pnZGJhYWViYmpmZktKTFdQTrKhkwDbzsLMv7VubXB5c3JAPTxBQEU+OD6ij4HbzcJiYWJdXF9QS0pNSUpEQ0ZANTCZhXYAyr60aGNhWFpfcGprbWBanZKMt6me1cW529DHgX17UU5POC4sWUhBjXdrt52JybWkALmvqEA9P1pYXIZ/gM28sdvIutbFuM29r+DTyc3BuWFdXpGBecuzodW/r826q86+sPTftOyxaXamAAAAAElFTkSuQmCC",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/ndYzTLY9XwdQDKMOKnsgCAF7YcsY9o6dlNkIm-3ntoI.jpg",
+    "url": "https://preview.redd.it/2dh154l24mt41.png?width=640&crop=smart&auto=webp&s=9c4d8bdf7f8384a4c1a2051e9fd2245353b64ff9",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 0.94,
+    "ups": 43,
+    "value": 43
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Destroyed three-floor building, first finished large structure",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/g3ridc/destroyed_threefloor_building_first_finished/"
+}

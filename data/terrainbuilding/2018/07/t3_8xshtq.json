@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_s5wgs",
+    "name": "MechFoo"
+  },
+  "date": {
+    "day": 1531180800,
+    "full": 1531251164,
+    "month": 1530403200,
+    "week": 1531008000
+  },
+  "id": "t3_8xshtq",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 94354,
+    "fullUrl": "https://preview.redd.it/2fazgnwca6911.jpg?auto=webp&s=38dd9aaf2be4eea6d6f01638c563741766f9b5e3",
+    "hash": "f0a51353eb",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwMG/8QAJBAAAQQBAwMFAAAAAAAAAAAAAQIDBAURAAYSByFREyIxMkH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGREBAAIDAAAAAAAAAAAAAAAAAQACAxEi/9oADAMBAAIRAxEAPwBM3TcQRUyELs40PKfTDr/0BV7QfPnGs3FmuriMNxxSzmY7YZQ608gjCR8HkCQdXt66p3bCcrnljLYA5NjBaVkkY0Yzelm7Ib5aq7Rp+IO6FOJBUM/ncaPUDZFNnG8z/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/sY3s7g8aGPQMln_gq8TtHpKQjBR1FDMcLyZMbMyuFXo.jpg",
+    "url": "https://preview.redd.it/2fazgnwca6911.jpg?width=640&crop=smart&auto=webp&s=9f6c13614c7e996d4a243a95d561614424ea4c20",
+    "width": 640
+  },
+  "score": {
+    "comments": 11,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 53,
+    "value": 53
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Carving columns for my temple with the dremel. It works amazingly. It leaves a really cool stone texture.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/8xshtq/carving_columns_for_my_temple_with_the_dremel_it/"
+}

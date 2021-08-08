@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_2bf7mvv3",
+    "name": "towner111"
+  },
+  "date": {
+    "day": 1588032000,
+    "full": 1588060619,
+    "month": 1585699200,
+    "week": 1587859200
+  },
+  "id": "t3_g9j1lk",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 88172,
+    "fullUrl": "https://preview.redd.it/eyn85zh0miv41.jpg?auto=webp&s=9efe38e155ce5c3579dd64d6d215767a3cf51f5d",
+    "hash": "8c1f151e04",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgcI/8QAJBAAAgIBAwMFAQAAAAAAAAAAAQIDBCEABREHElIGFTFhoYH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABcRAAMBAAAAAAAAAAAAAAAAAAABMSH/2gAMAwEAAhEDEQA/AHR6uxwetrcMzt7ermH6VRjuA/dVOPcntQxTVbKCNl8AeTyc/OsfWTtYN5twobrZ3N2JjsgdsUbDngqviTwc50iodV9xq0K0FmrG08aBXZolyR/MY4/dLC4qj//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/zJxmnhRbRecfz-teyWpE3Y4BJUnKLcwgCEbggiVC0dk.jpg",
+    "url": "https://preview.redd.it/eyn85zh0miv41.jpg?width=640&crop=smart&auto=webp&s=7449d3eea92bd64687fe3d2c7e8380f2806d17a1",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 0.9,
+    "ups": 14,
+    "value": 14
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Undecided if i should remove the front raised section now?!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/g9j1lk/undecided_if_i_should_remove_the_front_raised/"
+}

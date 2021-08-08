@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_tpf9b",
+    "name": "Okaaran"
+  },
+  "date": {
+    "day": 1546041600,
+    "full": 1546112406,
+    "month": 1543622400,
+    "week": 1545523200
+  },
+  "id": "t3_aao8a4",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 42971,
+    "fullUrl": "https://preview.redd.it/lsngmjjgs9721.jpg?auto=webp&s=f9d11423ec5b198839dffbf3dbe79f4de7f30e30",
+    "hash": "c782554c7a",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwQG/8QAJBAAAgEDAwMFAAAAAAAAAAAAAQIEAwURAAcSISIxBhMWUbH/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAECERL/2gAMAwEAAhEDEQA/AKrlbpfpqI0GZTgENRZ6dEqGV+Oe7wO7WMs0L5nIeJNkRIIQc6fGljrnwv0dO+4Nriz7S8iuh96Ojmm6nBGQQf3R5tzY4NCZyVCzA8ssc9dBK2lo046rT//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/djuqxs3QsLGSqnKbnIv7UkSzAckn389I-5kEWAk_4UY.jpg",
+    "url": "https://preview.redd.it/lsngmjjgs9721.jpg?width=640&crop=smart&auto=webp&s=14114beb18a431000d299c5f42e05b8d4a07aa70",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 0.93,
+    "ups": 26,
+    "value": 26
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Made a model of my aunt’s tiny house for her for Christmas! C&C on making more modern buildings would be appreciated.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/aao8a4/made_a_model_of_my_aunts_tiny_house_for_her_for/"
+}

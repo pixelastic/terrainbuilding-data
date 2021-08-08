@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_8vwdj",
+    "name": "locolarue"
+  },
+  "date": {
+    "day": 1569283200,
+    "full": 1569305146,
+    "month": 1567296000,
+    "week": 1569110400
+  },
+  "id": "t3_d8j3eu",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "filesize": 79800,
+    "fullUrl": "https://external-preview.redd.it/Ehr91_Cfs6RUNwUMcNfTEWO4G9cUBKykjBfmGJpRX74.jpg?auto=webp&s=51817868cd471e65187cab8a7c7bf1f5d81425ca",
+    "hash": "72d8f24d5e",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQME/8QAJRAAAAUDAwQDAAAAAAAAAAAAAQIDBBEABRITIjEGByFxFCNR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQT/xAAbEQABBQEBAAAAAAAAAAAAAAACAAEDIfAEEf/aAAwDAQACEQMRAD8AOcdxepUHi7a73z4qqhTCGqsooQm6IICQbh9/lDX5+zuzK36DktwuqZsdYCGTNABzJhmRgI9eK3L2tuddsQ2RgEuW4ANE8xIVZPp9mm9brBnml9hYxL5AQ5gAmpy6pJX8KkgYA1tta//Z",
+    "thumbnailUrl": "nsfw",
+    "url": "https://external-preview.redd.it/Ehr91_Cfs6RUNwUMcNfTEWO4G9cUBKykjBfmGJpRX74.jpg?width=640&crop=smart&auto=webp&s=cd85da7ac16698e9b1dc9129a942641d98979a7b",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.88,
+    "ups": 12,
+    "value": 12
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Blood for the Blood God! -- Quake Arch Finished (C&C)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/d8j3eu/blood_for_the_blood_god_quake_arch_finished_cc/"
+}

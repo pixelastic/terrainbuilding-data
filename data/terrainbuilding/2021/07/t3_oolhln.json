@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_8a4jazn2",
+    "name": "The_Schwarnold"
+  },
+  "date": {
+    "day": 1626825600,
+    "full": 1626855517,
+    "month": 1625097600,
+    "week": 1626566400
+  },
+  "id": "t3_oolhln",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 35819,
+    "fullUrl": "https://preview.redd.it/cvdb7xmryic71.jpg?auto=webp&s=eda22f53548aee85c5e9b920b52d6cf7858b45e0",
+    "hash": "9089568ea2",
+    "height": 495,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwUG/8QAJhAAAgECBQIHAAAAAAAAAAAAAQMCBAUAEiExQRFRFDRhYoGxwf/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAGBEAAgMAAAAAAAAAAAAAAAAAAhEAARL/2gAMAwEAAhEDEQA/AF8I+oY5V1bLNA+XSMizHgk7yHz09MDWCNIta8mabNIojqSfb+8Y0V6gJW6pfs2nVNi5DggbHuDyMR7asStlPXTJnVVSozYyW+uuUdojt94BYFpuUKMcJT//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/-qFt_WD9niniF7PWxl6ZvCdADVZoPitxCJFX5dWVxrk.jpg",
+    "url": "https://preview.redd.it/cvdb7xmryic71.jpg?width=640&crop=smart&auto=webp&s=1a658b5ccb40b254bbfdad650f9b0407c90e6268",
+    "width": 640
+  },
+  "score": {
+    "comments": 13,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 47,
+    "value": 47
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Prototype 40x40cm tile. This is a slope tile (slope will be filled in with xps). There will be many different ones to allow a varied gameboard for battlecompanies using 9 tiles. Material cost per tile is around €3.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/oolhln/prototype_40x40cm_tile_this_is_a_slope_tile_slope/"
+}

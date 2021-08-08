@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_162ntzyf",
+    "name": "Gorhald"
+  },
+  "date": {
+    "day": 1593820800,
+    "full": 1593880004,
+    "month": 1593561600,
+    "week": 1593302400
+  },
+  "id": "t3_hl62m0",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 58781,
+    "fullUrl": "https://preview.redd.it/lwnqbo52av851.jpg?auto=webp&s=30fbdfea3f76a961877264045dcaf82da7e03fff",
+    "hash": "11955d6e04",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwYH/8QAIxAAAQQCAQMFAAAAAAAAAAAAAgEDBBEABTETM0EhMlFywf/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAYEQADAQEAAAAAAAAAAAAAAAABAiEABP/aAAwDAQACEQMRAD8AB3SNCAxpSibq2RyCKwtfN3z5+E4w9KsbXTRj7aS49ARrpA+wYAbRIvcRLqvXhbWkzDdh2G/on7k9K9yYZudDBljrc1rv/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/Iz25_yWI5J9oXEcIOzpVLN-pq0DU8p0H2SoajAbH46I.jpg",
+    "url": "https://preview.redd.it/lwnqbo52av851.jpg?width=640&crop=smart&auto=webp&s=70b7c3ba024d52daaafcf18c0564e9ce202d889a",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 18,
+    "value": 18
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First project with foam, thanks BMC for the tips and tricks!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/hl62m0/first_project_with_foam_thanks_bmc_for_the_tips/"
+}

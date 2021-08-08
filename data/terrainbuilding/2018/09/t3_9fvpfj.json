@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_l1u7f",
+    "name": "ragados"
+  },
+  "date": {
+    "day": 1536883200,
+    "full": 1536958272,
+    "month": 1535760000,
+    "week": 1536451200
+  },
+  "id": "t3_9fvpfj",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "filesize": 59609,
+    "fullUrl": "https://external-preview.redd.it/Cof99N8wbxuh-MWeodtWfluL2VeSxkKy4IULA68rlUw.jpg?auto=webp&s=986b0e9c115784958cd49ae56849b16108c286a7",
+    "hash": "3f9cfd8dae",
+    "height": 336,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAIABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUG/8QAIBAAAgEDBAMAAAAAAAAAAAAAAQIEAAMhERIxkQUGQf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAFxEAAwEAAAAAAAAAAAAAAAAAAQIRAP/aAAwDAQACEQMRAD8Av+zyXkz/ABdkKq2wz3WTOSANup4+91npEKKhukkM1/RS20DVwpYjHGVPVKVBmLGnKQb/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/DhpX2UXtHOfCPZSMHhNIY0k9Sjrjqhaj8Ymr-6x-fGE.jpg",
+    "url": "https://external-preview.redd.it/Cof99N8wbxuh-MWeodtWfluL2VeSxkKy4IULA68rlUw.jpg?width=640&crop=smart&auto=webp&s=a2ac23933dd3d7f939b5902aed440d5b32bdd418",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.82,
+    "ups": 7,
+    "value": 7
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Urban terrain study",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/9fvpfj/urban_terrain_study/"
+}

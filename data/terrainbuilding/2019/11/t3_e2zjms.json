@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_z5aze",
+    "name": "KittyDful"
+  },
+  "date": {
+    "day": 1574899200,
+    "full": 1574955329,
+    "month": 1572566400,
+    "week": 1574553600
+  },
+  "id": "t3_e2zjms",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 77480,
+    "fullUrl": "https://preview.redd.it/k4eo5c1a5g141.jpg?auto=webp&s=ba4a190994a9f21552e18e7712d72cb860e159f0",
+    "hash": "9ef1951fb7",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgX/xAAkEAAABgEEAQUAAAAAAAAAAAABAgMEBREhABIiMRMUQVFhcf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGxEAAQQDAAAAAAAAAAAAAAAAAgABERIDIZH/2gAMAwEAAhEDEQA/AB7Nwu1jmbiBcrRzluoVREogBTKX2bIZoAwIYzj51RPLundKycqi4dje9Rc/MeQ1fEfbQ4q0lJKvHL5YomKfyCsuuBS1QV3+VVaKu5f1C5jnHaPXEe/vQNchpOlSOIbS/V//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/rJov8aOkPIJUpEXiFHyecJ1DzVMdcRxWhJ9GKuIgTnk.jpg",
+    "url": "https://preview.redd.it/k4eo5c1a5g141.jpg?width=640&crop=smart&auto=webp&s=40f94212348f4c5bb8205f5c8cc8ed3a44f308d8",
+    "width": 640
+  },
+  "score": {
+    "comments": 38,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 296,
+    "value": 296
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Painted up one of the tiles, it's still in the rough phases but something doesn't quite look and feel right with it? Any advise?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/e2zjms/painted_up_one_of_the_tiles_its_still_in_the/"
+}

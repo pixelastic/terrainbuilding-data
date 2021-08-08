@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_hh8qa",
+    "name": "thunder_xitus"
+  },
+  "date": {
+    "day": 1584230400,
+    "full": 1584288687,
+    "month": 1583020800,
+    "week": 1584230400
+  },
+  "id": "t3_fj3nwe",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 89356,
+    "fullUrl": "https://preview.redd.it/fo2c1xe52vm41.jpg?auto=webp&s=4c4fec8cd15710eefa4390adfff3f98abfe7badb",
+    "hash": "6696733d86",
+    "height": 943,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAIxAAAgIBBAICAwAAAAAAAAAAAQIDBAUABhESMVETQSFxgf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGREBAAMBAQAAAAAAAAAAAAAAAQACERIx/9oADAMBAAIRAxEAPwAkVqOBkkxk2NoZGpBYPaRQsjSx9gevcjz1BUleB+fY50NurCbCsZ2xPi5JaVSVY5FrAsfiJRSy+fpidWm38dtTMYNq9qSljGRFjjkktOszMQo7t9cFuffjwNZduDalmjmrlaHJULkcUhUTxW1VX/QJ5Hr+aquUtbkcT3YNeg1NGf/Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/cQxHojOtGa12OZxBHq_kCIID3i_ljArE7I_8Lir9jCY.jpg",
+    "url": "https://preview.redd.it/fo2c1xe52vm41.jpg?width=640&crop=smart&auto=webp&s=4009c3a7e0dd8a629bb4497c2a7e03762ac7e875",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 0.95,
+    "ups": 65,
+    "value": 65
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Used some leftover bricks for some ruins",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/fj3nwe/used_some_leftover_bricks_for_some_ruins/"
+}

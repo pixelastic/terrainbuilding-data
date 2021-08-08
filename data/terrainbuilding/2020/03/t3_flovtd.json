@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_5wgdwdjc",
+    "name": "bugs_hunni"
+  },
+  "date": {
+    "day": 1584662400,
+    "full": 1584679254,
+    "month": 1583020800,
+    "week": 1584230400
+  },
+  "id": "t3_flovtd",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 75116,
+    "fullUrl": "https://preview.redd.it/x3g5w34ibrn41.jpg?auto=webp&s=a9f4d28c3eebd4a41e27b1251bfdc29cd6b98395",
+    "hash": "f5e91f5f13",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwQF/8QAIxAAAgIBAwMFAAAAAAAAAAAAAQIDBAUAEiEUMUEGESMykf/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQADAv/aAAwDAQACEQMRAD8AIa2FrWMVHeuZmvRjeR4grwSO25QCfqCOxB1g+qa4xGUFaKcWkaGOUSLGUBDqGHB57Ead2weEfH9LWxVNYgsltI3Qv427uT3O381NbwlDJvHZ6PGn40Qb64YgKAAPc+AAND50CqOS3//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/_nZrXEq3BfXfj7FDslCRyNAc4GMwvxnJ2W432Z-Xw7k.jpg",
+    "url": "https://preview.redd.it/x3g5w34ibrn41.jpg?width=640&crop=smart&auto=webp&s=24d65eeeb118dd65fe36bc35eefb90dfb2c1937c",
+    "width": 640
+  },
+  "score": {
+    "comments": 12,
+    "downs": 0,
+    "ratio": 0.92,
+    "ups": 10,
+    "value": 10
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A little doorway I made out of illustration board. Any recommendations on how to give this stone-like texture?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/flovtd/a_little_doorway_i_made_out_of_illustration_board/"
+}

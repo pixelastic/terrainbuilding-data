@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_3m2qhbrs",
+    "name": "DirtyGrogg"
+  },
+  "date": {
+    "day": 1582588800,
+    "full": 1582646011,
+    "month": 1580515200,
+    "week": 1582416000
+  },
+  "id": "t3_f9c9ts",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "filesize": 62002,
+    "fullUrl": "https://external-preview.redd.it/8dkB3JTv6isIlVCLhunUJXilpjmUHsoC0-08eWj5p-c.jpg?auto=webp&s=147c745c006c6634c2e696d564164b9dfaca9899",
+    "hash": "00461b4e82",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQQFBv/EACMQAAIBAwQBBQAAAAAAAAAAAAECAwQFEQAGITESE1FxodH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABgRAAMBAQAAAAAAAAAAAAAAAAACMQER/9oADAMBAAIRAxEAPwDB7aWCo2/b6YVD07vEgVxO6lScqQ/PIGesdfOheIrZb46mlVqeeeUuZ5Cxdpm8cKck5HPX3puOxUk9W0zGVW8sgKRgY9uNTdwWGkjl9RWl8u+SPzUzG610fFh//9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/raEA6W6KKdPrNOxSf4RujFCcjP_xky9FgHwkQ0VNVAw.jpg",
+    "url": "https://external-preview.redd.it/8dkB3JTv6isIlVCLhunUJXilpjmUHsoC0-08eWj5p-c.jpg?width=640&crop=smart&auto=webp&s=f94afa35ac51f065a733e7ebaefb2b4e8d75837d",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 22,
+    "value": 22
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Mansion, outside/inside finished. Just needs furnishing.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/f9c9ts/mansion_outsideinside_finished_just_needs/"
+}

@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_cefht",
+    "name": "BaronSathonyx"
+  },
+  "date": {
+    "day": 1575244800,
+    "full": 1575322987,
+    "month": 1575158400,
+    "week": 1575158400
+  },
+  "id": "t3_e562xz",
+  "misc": {
+    "postHint": "self"
+  },
+  "picture": {
+    "filesize": 64982,
+    "fullUrl": "https://external-preview.redd.it/KJDqVjFz9EgPQrYIGRBN0JtnweMvYoB7hPWUu9vxjvU.jpg?auto=webp&s=02a4557ac18ec3df38f7061468a0382d7c1444bc",
+    "hash": "e332e63640",
+    "height": 941,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABwb/xAAmEAACAgEDAwMFAAAAAAAAAAABAgMEEQUGEgcTIQBRgSMxMkFx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABcRAQEBAQAAAAAAAAAAAAAAAAERAAL/2gAMAwEAAhEDEQA/AL7qFu3U7PUXb1HQZwsNK39WAzdsWHLdvEnsueSj7+cnGMZYdLux6jQhtwq6pIPxcYZSDgqR7ggg/wA9B+4OmVq3vLWd0teutd0lxcqcYwI7JVeaxEH9qwbJGQQ648ggMmi1Hg09e1b7qSvJYDGPHiR2kx8csfHog1uXSQm//9k=",
+    "thumbnailUrl": "self",
+    "url": "https://external-preview.redd.it/KJDqVjFz9EgPQrYIGRBN0JtnweMvYoB7hPWUu9vxjvU.jpg?width=640&crop=smart&auto=webp&s=cf802c6c50b6e0ef7b703729a693d5b2c6464643",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 0.86,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Advice on building portable diaromas for game demos",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/e562xz/advice_on_building_portable_diaromas_for_game/"
+}

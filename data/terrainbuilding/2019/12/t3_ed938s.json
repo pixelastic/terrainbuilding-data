@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_2joc78s0",
+    "name": "croesusBlack"
+  },
+  "date": {
+    "day": 1576800000,
+    "full": 1576842113,
+    "month": 1575158400,
+    "week": 1576368000
+  },
+  "id": "t3_ed938s",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 82197,
+    "fullUrl": "https://preview.redd.it/7c7dukwnzr541.jpg?auto=webp&s=899813fc524f7b1753189aa4f91e3cd41e1228df",
+    "hash": "b8fb9c933a",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQIG/8QAIxAAAgECBgIDAAAAAAAAAAAAAQMCBBEABQYSITETFCKRof/EABQBAQAAAAAAAAAAAAAAAAAAAAX/xAAaEQEAAgMBAAAAAAAAAAAAAAABAAIRIUED/9oADAMBAAIRAxEAPwDI5vl1UmNPOhQmCUn4mc9ogSex+4Z0y/UWlyx+R16USaQ2SpHclhPPIPRPV8GzoFuTKTJslc8g2IP2MVAuMTTey4KYPGQNt9oHV7YI80rQrnZ2L3FsuNPJ/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/-i54cKMfdQxeocmGtQX6rCF2gZwvrGj4My1tLuhGPpo.jpg",
+    "url": "https://preview.redd.it/7c7dukwnzr541.jpg?width=640&crop=smart&auto=webp&s=9dd137591311c8c1cfeb56379305cbd9977027f9",
+    "width": 640
+  },
+  "score": {
+    "comments": 13,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 237,
+    "value": 237
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First attempted water effect. Learned a bit",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ed938s/first_attempted_water_effect_learned_a_bit/"
+}

@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_402jzys8",
+    "name": "makersmalls"
+  },
+  "date": {
+    "day": 1570492800,
+    "full": 1570506684,
+    "month": 1569888000,
+    "week": 1570320000
+  },
+  "id": "t3_deuqp5",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 73886,
+    "fullUrl": "https://preview.redd.it/aei80dhxo8r31.jpg?auto=webp&s=1e9b60f3d39d035b35c088c58ed8312718cd56b8",
+    "hash": "317d5fa5bc",
+    "height": 1135,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUI/8QAIxAAAQMCBQUAAAAAAAAAAAAAAQIDBAARBRIxQVEUFSGBkf/EABQBAQAAAAAAAAAAAAAAAAAAAAH/xAAVEQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEQMRAD8AzPFRF7S8pcN92UScrmayEptrYbg8+Km0owVGJysBnKjON9PGZU4pBbRcJGpBIvv7ozmPCflENf/Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/kish5mGAwS6t67aSr_9klsjgKNMzxPPrBFqInhu3jRg.jpg",
+    "url": "https://preview.redd.it/aei80dhxo8r31.jpg?width=640&crop=smart&auto=webp&s=d7c5f9580d0da9b2cd1c8d1ffa04c42cc32cb9f4",
+    "width": 640
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 70,
+    "value": 70
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Leaning towards the architecture side, but thought you might like it as most techniques used overlap into terrain building. A 1:50 landscape maquette I made from 3d printed parts (FDM), balsa wood and a dollarama 8\" x 10\" picture frame. I drafted all the parts in Sketchup.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/deuqp5/leaning_towards_the_architecture_side_but_thought/"
+}

@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_5jfz6",
+    "name": "Superstickfight"
+  },
+  "date": {
+    "day": 1576972800,
+    "full": 1576984416,
+    "month": 1575158400,
+    "week": 1576972800
+  },
+  "id": "t3_edznla",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 69647,
+    "fullUrl": "https://preview.redd.it/3put6x8sq3641.jpg?auto=webp&s=41f091baa991b578a37f8b17c26bb713047c2585",
+    "hash": "dbda34f965",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGB//EACQQAAEDAwQBBQAAAAAAAAAAAAECAwQGESEABRJBMRMUIjKh/8QAFQEBAQAAAAAAAAAAAAAAAAAABgf/xAAhEQABAgQHAAAAAAAAAAAAAAABAjEAAwQhERIiYXGR4f/aAAwDAQACEQMRAD8AoJtVw296jMRpMV1gJJeWHfpfxnx1o56pYaN1gs+oVKdAIWgck3X4yMdazya7SJ3NqUzFjDbwCiRzQsFR67vjH7pmuraXje2THjrcajD4lCCAgWxxBNyNTc0EsZCmUo6T3d7vtxCUpxUoEt5H/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/BnMw7RWUz817LTRXasX9P-mlTYP0lHCaawyceEr-IdI.jpg",
+    "url": "https://preview.redd.it/3put6x8sq3641.jpg?width=640&crop=smart&auto=webp&s=97604d814269e3691780add8006ae6eacefb316a",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.96,
+    "ups": 69,
+    "value": 69
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Took some advice, got some supplies, took a shot at a Tatooine-esque bit of scatter terrain.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/edznla/took_some_advice_got_some_supplies_took_a_shot_at/"
+}

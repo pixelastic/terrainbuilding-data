@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_4oy9xa17",
+    "name": "GalleghersGhost"
+  },
+  "date": {
+    "day": 1577491200,
+    "full": 1577559206,
+    "month": 1575158400,
+    "week": 1576972800
+  },
+  "id": "t3_eguj1w",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 228493,
+    "fullUrl": "https://preview.redd.it/5ms5d26y7f741.jpg?auto=webp&s=0a265fd5a1393cef74f2631f64c385fa0467f8d9",
+    "hash": "9b085b7690",
+    "height": 1352,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAgDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQF/8QAIBAAAQMDBQEAAAAAAAAAAAAAAQIDBAAFMQYREiEiQf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAXEQEBAQEAAAAAAAAAAAAAAAABAgAh/9oADAMBAAIRAxEAPwCvUa40TU7dvjw1FyNHQ4qUHShxwqAJO4I87KAGBmlYUaW5dbrIWA+4yywGkqUg+Ty5FPeM4+UoW5HuZiuBv//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/ncv6hLMUsEWocXcw7kfkQ0i6_X_5uABsdW-DQezTeYA.jpg",
+    "url": "https://preview.redd.it/5ms5d26y7f741.jpg?width=640&crop=smart&auto=webp&s=0efc0b6abfaff7a5d3cd6dcb6e11ec0826361b19",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 0.88,
+    "ups": 21,
+    "value": 21
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Timber build, tree bark texture attempt. More photos in comments... hopefully.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/eguj1w/timber_build_tree_bark_texture_attempt_more/"
+}

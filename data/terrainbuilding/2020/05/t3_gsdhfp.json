@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_rg67p",
+    "name": "TheEyeofOrion"
+  },
+  "date": {
+    "day": 1590624000,
+    "full": 1590695780,
+    "month": 1588291200,
+    "week": 1590278400
+  },
+  "id": "t3_gsdhfp",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 54694,
+    "fullUrl": "https://preview.redd.it/xtyufo6b9k151.jpg?auto=webp&s=9ae724e32f5c694e757bd790ecd8e81639110d43",
+    "hash": "91cc2621dd",
+    "height": 309,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAIABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUG/8QAIhAAAQMDAwUAAAAAAAAAAAAAAQIDBAAGEQUSIgcTFiHB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAL/xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAMAwEAAhEDEQA/ANlezl/yvJ2FiWzACQWFtJ2pGHE7e2U8icfc1MteN1CiIt+a9PnI0ePJSJweeCcpLoB3BfJQIIHqlKlcNl//2Q==",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/F_k5HZM8ZNnRXJ8ur-DwYhJKk7SNmDiG4kpXkCTlcc4.jpg",
+    "url": "https://preview.redd.it/xtyufo6b9k151.jpg?width=640&crop=smart&auto=webp&s=a765c715231035e66b265701441fa988fccdf2ab",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 67,
+    "value": 67
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Blast Bases. Or scorch marks, or explosion spot. C&C welcome.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/gsdhfp/blast_bases_or_scorch_marks_or_explosion_spot_cc/"
+}

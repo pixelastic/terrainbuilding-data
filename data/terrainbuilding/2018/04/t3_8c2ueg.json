@@ -1,0 +1,39 @@
+{
+  "author": {
+    "name": "[deleted]"
+  },
+  "date": {
+    "day": 1523577600,
+    "full": 1523655460,
+    "month": 1522540800,
+    "week": 1523145600
+  },
+  "id": "t3_8c2ueg",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 56688,
+    "fullUrl": "https://preview.redd.it/9vcvzyzdwqr01.jpg?auto=webp&s=f403189371f3b8ed268abe0fdaa2240e4d809b3f",
+    "hash": "47401b83c7",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFB//EACYQAAEDAgUDBQAAAAAAAAAAAAECAwQFEQAGEiExByJRExVBYXH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAGREBAAMBAQAAAAAAAAAAAAAAAQACEUES/9oADAMBAAIRAxEAPwCh0yzF7giNUppLaW45AitqOlawbJSPHJJP5h/L01imxEBNhM9V9h3t2fCXlqsPsBR8X+OMZz08rEGlZWW9NGgjSoOqWQGwD3bDm+2DGsQHVSI06ctiOqTIutsEFSS4VJTq8EW3HOBvRuoOL2OeaGpucn//2Q==",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/VuvrV-YNijyDi15x30O852z7X2Ie2zQt_Q7FHlU1Cm8.jpg",
+    "url": "https://preview.redd.it/9vcvzyzdwqr01.jpg?width=640&crop=smart&auto=webp&s=d17ba566c2c92ab73858a1469e079a7de1ac1b11",
+    "width": 640
+  },
+  "score": {
+    "comments": 13,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 128,
+    "value": 128
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Bark texture test for pine trees. Thoughts?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/8c2ueg/bark_texture_test_for_pine_trees_thoughts/"
+}

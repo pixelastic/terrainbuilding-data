@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_8bwvbg42",
+    "name": "AgentCorelly"
+  },
+  "date": {
+    "day": 1603584000,
+    "full": 1603667907,
+    "month": 1601510400,
+    "week": 1603584000
+  },
+  "id": "t3_ji3hf4",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 148333,
+    "fullUrl": "https://preview.redd.it/c0bw7qmiqbv51.jpg?auto=webp&s=66ac963ce45631c6a7e1a1af2ec3fe09febfc809",
+    "hash": "929539f579",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgT/xAAkEAABAwMEAQUAAAAAAAAAAAABAgMEBRESAAYhMRMUMlFhcf/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAZEQACAwEAAAAAAAAAAAAAAAAAAREhMQL/2gAMAwEAAhEDEQA/AL2q8ZLs1moxY8mJJTgkIFlOC3At8d88daDyKHD9Q54GJam8jYNvqAT9e3SSobsj0DbSqcuMy/MkqLpWpIyA4xuexa3Q40Ti79cQ2UyYgKwe2V4Jt+aFlqx7nvXB/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/FuBm00EPxTOPuJZ1zHnbFSz27m-n_4yNna3pnPRgzNI.jpg",
+    "url": "https://preview.redd.it/c0bw7qmiqbv51.jpg?width=640&crop=smart&auto=webp&s=09567e6dd1e59fee8066ef189f9196ed585df738",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 6,
+    "value": 6
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First post and first try with epoxy, I want this board to be playable for any setting... so I leaved the space for the bridge free, I also did a cover for the cobblestone path",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ji3hf4/first_post_and_first_try_with_epoxy_i_want_this/"
+}

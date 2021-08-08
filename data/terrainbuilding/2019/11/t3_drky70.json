@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_8yob6",
+    "name": "WunupKid"
+  },
+  "date": {
+    "day": 1572825600,
+    "full": 1572888699,
+    "month": 1572566400,
+    "week": 1572739200
+  },
+  "id": "t3_drky70",
+  "misc": {
+    "postHint": "self"
+  },
+  "picture": {
+    "filesize": 60724,
+    "fullUrl": "https://external-preview.redd.it/97937bCMVREcgcUJi1icNxMIl3WA9SFd_CIjjj5GD1c.jpg?auto=webp&s=2cd42bf3c9546e8b17517c252acc71cbedd870af",
+    "hash": "7f934d2154",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwMF/8QAJxAAAQMCBAUFAAAAAAAAAAAAAgEDBAAFBgcRMRIVQYGxMjQ2UXP/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAESgf/aAAwDAQACEQMRAD8AQMzL7y7Gz7VylyktYxmzVgJhMCvqUiTh2XROu9RyquMeVj40gtyGmSjGhCRuEOqKnUt/vVe1a2bPym1fgflKQ8N+wTt4oyK3h//Z",
+    "thumbnailUrl": "self",
+    "url": "https://external-preview.redd.it/97937bCMVREcgcUJi1icNxMIl3WA9SFd_CIjjj5GD1c.jpg?width=640&crop=smart&auto=webp&s=9e6139bbfae1a50ae22b5708880ce05fac2cc3f6",
+    "width": 640
+  },
+  "score": {
+    "comments": 74,
+    "downs": 0,
+    "ratio": 0.88,
+    "ups": 18,
+    "value": 18
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "He's Danny Samuels, professional terrain builder for Privateer Press. Ask him anything!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/drky70/hes_danny_samuels_professional_terrain_builder/"
+}

@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_12wv0fk",
+    "name": "Heygul"
+  },
+  "date": {
+    "day": 1605312000,
+    "full": 1605386050,
+    "month": 1604188800,
+    "week": 1604793600
+  },
+  "id": "t3_ju8sch",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 61802,
+    "fullUrl": "https://preview.redd.it/qk0o4w6en9z51.jpg?auto=webp&s=11c5687aad766a629d7493351f28e10c9516b2a7",
+    "hash": "2f02cc0964",
+    "height": 356,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQMG/8QAJRAAAQMEAQIHAAAAAAAAAAAAAgEDBAAFBhExEiEyMzVBcYHB/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABwRAQACAgMBAAAAAAAAAAAAAAIBAwAEETFB8P/aAAwDAQACEQMRAD8AhccXiNW+3NWm3yJYSIraCcZwBES34jIu++ONe9D5fjceCDqRIMiU631C8pPtCI7TvrRL1a4RNJT+N+gvfK1l5Xmff7RqrTUmV1g2dsUVBkRyo+8z/9k=",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/JGp5HhZ9t_IHvwAvaHE2P1w85_-MiNbn2gw7RP0pZa4.jpg",
+    "url": "https://preview.redd.it/qk0o4w6en9z51.jpg?width=640&crop=smart&auto=webp&s=7dd7f61abaa6ed679b080c65fdae97a51c914c04",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 0.92,
+    "ups": 10,
+    "value": 10
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Ruined building -more work done. I'm thinking I'll spray paint it. WIP",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ju8sch/ruined_building_more_work_done_im_thinking_ill/"
+}

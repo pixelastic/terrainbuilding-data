@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_83581",
+    "name": "EccentricOwl"
+  },
+  "date": {
+    "day": 1539907200,
+    "full": 1539960754,
+    "month": 1538352000,
+    "week": 1539475200
+  },
+  "id": "t3_9pkjcp",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 81836,
+    "fullUrl": "https://preview.redd.it/11hwft2go5t11.jpg?auto=webp&s=165c577d55561de317810820c2d14bfa97aa4ac4",
+    "hash": "39d891305a",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQF/8QAIhAAAgIBBAMAAwAAAAAAAAAAAQIDBBEABSExBhMiEkGR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAbEQABBAMAAAAAAAAAAAAAAAABAAIREmFx0f/aAAwDAQACEQMRAD8AIbOdmqUWgfZTZeSisbOwU+uTAIkzzycNx31rREdKnZWanWjeOOZVMpl+41Ziv4hc9nAHX60BteYbnuFYJP6AiFcBI8chQoPfeAP5qu15Pe3CGGCwlcR+0y/CEfTNlm77J50TgIIwqGwa74v/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/5VpBD4Lon0fQECd5hpPLdWDZFqmIOfaFVCUFAsLjMRg.jpg",
+    "url": "https://preview.redd.it/11hwft2go5t11.jpg?width=640&crop=smart&auto=webp&s=693968f9725a62bc9351dc9c9e8fcf439292ddfb",
+    "width": 640
+  },
+  "score": {
+    "comments": 25,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 117,
+    "value": 117
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Now that Spartan Games is shut down, who has the legal files for their laser-cut terrain? 🤔",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/9pkjcp/now_that_spartan_games_is_shut_down_who_has_the/"
+}

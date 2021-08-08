@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_3abh24v",
+    "name": "geronimoacc94"
+  },
+  "date": {
+    "day": 1570752000,
+    "full": 1570776106,
+    "month": 1569888000,
+    "week": 1570320000
+  },
+  "id": "t3_dgb80j",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 114927,
+    "fullUrl": "https://preview.redd.it/zgzzd70byur31.jpg?auto=webp&s=b9fe23c801fe0e7e3a31d44d047ae04119f4713b",
+    "hash": "afe15b434e",
+    "height": 1138,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAKBAAAQQBAgILAAAAAAAAAAAAAQIDBBEFAAYHEhMUFRchMVNUkZPS/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABgRAQADAQAAAAAAAAAAAAAAAAEAETEC/9oADAMBAAIRAxEAPwCNt/BZkDGIM3FPZOa0lxqE8tfSNpq02K5UmqIs+N6WdlcRvTP2xvzrN9s8bJcQKcnx0OZLlSjrC2UklI8gSmjWk3f5J9pF+XNEDkrIi3J//9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/uunLsNHuTje5TkzB9J6NJXbloMHlSHB6LQbjjI-Gjgg.jpg",
+    "url": "https://preview.redd.it/zgzzd70byur31.jpg?width=640&crop=smart&auto=webp&s=0912ace0d9d87708fb47be3399e62452bf058a68",
+    "width": 640
+  },
+  "score": {
+    "comments": 19,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 254,
+    "value": 254
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My first real project. A small foxhole for two men for the game Bolt Action. What your take on it?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/dgb80j/my_first_real_project_a_small_foxhole_for_two_men/"
+}

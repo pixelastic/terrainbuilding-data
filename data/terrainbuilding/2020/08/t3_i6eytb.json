@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_4lttfk6y",
+    "name": "quidamcorvus"
+  },
+  "date": {
+    "day": 1596931200,
+    "full": 1596955668,
+    "month": 1596240000,
+    "week": 1596931200
+  },
+  "id": "t3_i6eytb",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 115336,
+    "fullUrl": "https://preview.redd.it/5m1b401lbxf51.jpg?auto=webp&s=3a0fecaa835184384188002b1b66a354ddf9939d",
+    "hash": "2561be924d",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgX/xAAkEAABBAIBAgcAAAAAAAAAAAABAgMEEQAxIQUSExQiQVGRsf/EABQBAQAAAAAAAAAAAAAAAAAAAAH/xAAXEQADAQAAAAAAAAAAAAAAAAAAAiEx/9oADAMBAAIRAxEAPwAZMabfEgPPvtrb8YhLckpAtfGjuhXx+4UE12L1CG2ZM1xSZLay0l9fpR3Dk+2t4jUkSJU51y7VJIKRwK7iT91kt2P5aWuWy86l1KDQFVVa1rDBdof/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/_R4UbP8FMsGrt6D4KTUzIoqLFOCpek8OPbpD_glmMOU.jpg",
+    "url": "https://preview.redd.it/5m1b401lbxf51.jpg?width=640&crop=smart&auto=webp&s=69e91a620b0c2f8d40790fd29f7a54c92add7e0d",
+    "width": 640
+  },
+  "score": {
+    "comments": 13,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 402,
+    "value": 402
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Another farm in Teufelsberg.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/i6eytb/another_farm_in_teufelsberg/"
+}

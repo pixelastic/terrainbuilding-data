@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_8yncl",
+    "name": "thisisntmyredditname"
+  },
+  "date": {
+    "day": 1571529600,
+    "full": 1571564873,
+    "month": 1569888000,
+    "week": 1571529600
+  },
+  "id": "t3_dkhkry",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 39544,
+    "fullUrl": "https://preview.redd.it/jzezisbp3ot31.jpg?auto=webp&s=b81ce4ccd6b82989d2ce1b4baa04f4e15bff7507",
+    "hash": "69f9f3e2cc",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFB//EACEQAAAFBAIDAAAAAAAAAAAAAAECAwQFABESIQcxFWGB/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAaEQACAgMAAAAAAAAAAAAAAAAAAQIDEzFR/9oADAMBAAIRAxEAPwCmvxzAoTKbprHS6i2NskTHBEmrb1sRoZuPmL2XQcePk24J3KqZdWxTlDYYgIdXH0NbQbsKVdd/KnOyTWx2OPD/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/slrTPbjV2CaWQKgo5TCABqMKedFPCymujVb2g8OPgNo.jpg",
+    "url": "https://preview.redd.it/jzezisbp3ot31.jpg?width=640&crop=smart&auto=webp&s=c649032b02937c0c24427cf1314a0aa81924d792",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.93,
+    "ups": 26,
+    "value": 26
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A rustic “da Vinci” bridge for a new campaign",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/dkhkry/a_rustic_da_vinci_bridge_for_a_new_campaign/"
+}

@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_agyui",
+    "name": "SirWittyName"
+  },
+  "date": {
+    "day": 1543622400,
+    "full": 1543631433,
+    "month": 1543622400,
+    "week": 1543104000
+  },
+  "id": "t3_a1z2xj",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 76928,
+    "fullUrl": "https://preview.redd.it/hjbaq3gbtk121.jpg?auto=webp&s=67539663a0f559be347460d1fbff2916469a3c22",
+    "hash": "c394ef3511",
+    "height": 361,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQF/8QAJBAAAgICAAQHAAAAAAAAAAAAAQIDEQAEBSE1gRIxQXJzssH/xAAVAQEBAAAAAAAAAAAAAAAAAAABBP/EABcRAAMBAAAAAAAAAAAAAAAAAAABAhH/2gAMAwEAAhEDEQA/AJxwN9OGSQI0yTKrMlGrrnR9eXfMzVrV27DvHCrgB/DTrQsAnt54p1+mR+x/qMGcZ6YPl/Dkk09FI//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/dcb_nXl2LJ93oVt0--_PeYLCf5WgJRjp2WIryLvXLow.jpg",
+    "url": "https://preview.redd.it/hjbaq3gbtk121.jpg?width=640&crop=smart&auto=webp&s=5e0d07bd2d4e544de575bd4fb00ec1739f3921b3",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 77,
+    "value": 77
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "28mm Valley Crossing",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/a1z2xj/28mm_valley_crossing/"
+}

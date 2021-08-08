@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_2pvn7onm",
+    "name": "Hominishostilis"
+  },
+  "date": {
+    "day": 1571961600,
+    "full": 1572038837,
+    "month": 1569888000,
+    "week": 1571529600
+  },
+  "id": "t3_dn43tq",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 91894,
+    "fullUrl": "https://preview.redd.it/66qrz7i73ru31.jpg?auto=webp&s=ee61cfa2679d1c2c3c522f38fa264f7101498927",
+    "hash": "2be57230d6",
+    "height": 745,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA4DASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGCP/EACUQAAEDAwMDBQAAAAAAAAAAAAECAwQFESEABjFBUWESExQVQv/EABUBAQEAAAAAAAAAAAAAAAAAAAED/8QAHxEAAAMJAAAAAAAAAAAAAAAAAAIDAQQREiEiIzFh/9oADAMBAAIRAxEAPwDN0OJOqsmQ40XEKACj6UqsAcDjhPk440821PmbfkSBV4ry2XBYJdH6HUXB6X1abUMT66rsVZio09x2F8WP7UZTwCjYqKu+U8efGg6YzV6kw4/OprzzIcUEoZbCFA4zci9ucdzqakJbtBd1mGPiNXg//9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/YYAGHN3E8QHuacou9kXWurko_cEen2Zrn1iDEZ3-ayk.jpg",
+    "url": "https://preview.redd.it/66qrz7i73ru31.jpg?width=640&crop=smart&auto=webp&s=0a1e0f9578d4e66045aa6658d8f81d7342299dff",
+    "width": 640
+  },
+  "score": {
+    "comments": 12,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 285,
+    "value": 285
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Water effects added! Now just details on the ripples",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/dn43tq/water_effects_added_now_just_details_on_the/"
+}

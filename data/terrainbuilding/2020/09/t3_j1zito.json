@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_ybb9g",
+    "name": "gedarian"
+  },
+  "date": {
+    "day": 1601337600,
+    "full": 1601387269,
+    "month": 1598918400,
+    "week": 1601164800
+  },
+  "id": "t3_j1zito",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 122887,
+    "fullUrl": "https://preview.redd.it/p4iiqc90d3q51.jpg?auto=webp&s=e6d17c211966e2c03b797763017e3989d914683c",
+    "hash": "54c4e0505f",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwUGB//EACMQAAEEAQQBBQAAAAAAAAAAAAECAwQRBQAGEyESFCIxgeH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABsRAAICAwEAAAAAAAAAAAAAAAECACEDBBFh/9oADAMBAAIRAxEAPwBnvjPw98SFRC065Bijh4naCXDZHmnxNlJ6+e9Y7u/BpgZp1DrDjzaxyM+lc5EobJNJJvpQo2NWUzF7miOkRoUoBXtKltqTSfoaPhMVNiwy3JDvIVlXaTfdfujDcsyTJsgKCl+T/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/DbC0X4OyhriFR7QEpEsLtdXFIQ5TZOQZldPV5MBhi7s.jpg",
+    "url": "https://preview.redd.it/p4iiqc90d3q51.jpg?width=640&crop=smart&auto=webp&s=d30a288b85d59ce01f5268baab3829509dc2a2d2",
+    "width": 640
+  },
+  "score": {
+    "comments": 12,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 49,
+    "value": 49
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "How can I improve these slates/roof tiles?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/j1zito/how_can_i_improve_these_slatesroof_tiles/"
+}

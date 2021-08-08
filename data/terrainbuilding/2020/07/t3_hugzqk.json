@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_5adb1swe",
+    "name": "Loose-Ingenuity"
+  },
+  "date": {
+    "day": 1595203200,
+    "full": 1595229630,
+    "month": 1593561600,
+    "week": 1595116800
+  },
+  "id": "t3_hugzqk",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 112110,
+    "fullUrl": "https://preview.redd.it/3106taw4ryb51.jpg?auto=webp&s=f3381e461b02f70a130048453e4b1e723adafad6",
+    "hash": "58424f3ed6",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAIxAAAgIBAwMFAAAAAAAAAAAAAQIDEQQABSEGBxITQYGhwf/EABQBAQAAAAAAAAAAAAAAAAAAAAH/xAAZEQEAAgMAAAAAAAAAAAAAAAACAAERITH/2gAMAwEAAhEDEQA/AMpJ21L5MqyZ83ijMvm03Jo1daS6f7TruWNO8m4ZEJimMVLKzBqANg/P1qqbJz2sPHlJMGavUidffjmqr90r0/um4pizBMTIVTKSDIjAtwOarjShXKgUs7n/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/qJyyEw-9Ee8n85m8v7f5tv0Xq4iwjy3tv_RbQEsy-Iw.jpg",
+    "url": "https://preview.redd.it/3106taw4ryb51.jpg?width=640&crop=smart&auto=webp&s=e77e49209a04fc79ae719197b64e5bc4a16e375a",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 0.91,
+    "ups": 16,
+    "value": 16
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Dungeon tile/Boss room with Celtic knot",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/hugzqk/dungeon_tileboss_room_with_celtic_knot/"
+}

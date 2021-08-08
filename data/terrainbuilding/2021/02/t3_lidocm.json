@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_5sdha68h",
+    "name": "Dtharme"
+  },
+  "date": {
+    "day": 1613088000,
+    "full": 1613144783,
+    "month": 1612137600,
+    "week": 1612656000
+  },
+  "id": "t3_lidocm",
+  "misc": {
+    "postHint": "hosted:video"
+  },
+  "picture": {
+    "filesize": 53154,
+    "fullUrl": "https://external-preview.redd.it/KMV80mmK24E_mpbW1gMG7vraetdgJZTAkgdY3qsVVAM.png?format=pjpg&auto=webp&s=9d17f6b0e5e98daacc0c74339e69634d33f6e1f9",
+    "hash": "f1f6b8335d",
+    "height": 1138,
+    "lqip": "data:image/png;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQQFCP/EACUQAAECBAQHAAAAAAAAAAAAAAECAwAEBRITIVFTBhEUFUGS0f/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAHREAAQQCAwAAAAAAAAAAAAAAAQACETEEEyGRof/aAAwDAQACEQMRAD8AznT6EaiuURLYtzwJUSkcgAPGsDsQ3HPUfYfoHFU/SHaa7TujbekQ4G1rZS5deCDcFZHI5aRIxV7pgocDaoyAwuGuoHcc+r//2Q==",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/4OdDfuycA0t1FKbh68YVqU3gBPsfkIiBS-BDuOn8Z74.jpg",
+    "url": "https://external-preview.redd.it/KMV80mmK24E_mpbW1gMG7vraetdgJZTAkgdY3qsVVAM.png?width=640&crop=smart&format=pjpg&auto=webp&s=a3ec18ae6d34b4842ca38f0b38d48aaa41ef8088",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 60,
+    "value": 60
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Tweaked the method on the newest ones,now colourchanging for extra freakiness...",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/lidocm/tweaked_the_method_on_the_newest_onesnow/"
+}

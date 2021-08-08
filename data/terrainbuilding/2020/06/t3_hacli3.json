@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_4d3ec4z0",
+    "name": "smaller_content"
+  },
+  "date": {
+    "day": 1592265600,
+    "full": 1592341105,
+    "month": 1590969600,
+    "week": 1592092800
+  },
+  "id": "t3_hacli3",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 38762,
+    "fullUrl": "https://preview.redd.it/7w2xrvtw0c551.jpg?auto=webp&s=ab4a6540ca9050ce60f58e2b0fae11ba9627f787",
+    "hash": "1b9e83aa3b",
+    "height": 438,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAf/xAAoEAABAgUCBAcAAAAAAAAAAAABAgMABAUREjFBEyEykQYHFCJRweH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAA//EABsRAAIBBQAAAAAAAAAAAAAAAAFBAAIREhMx/9oADAMBAAIRAxEAPwCOztHpzXgxifbnmzUirJbGB6CE+0HS4uFX3yttC6pL0ceXMsW+GKq26FXHUoEDO/LQZJ3hc0y2ZJtBbTjhe1uWgH0O0JqDDPpSnhICQgkAJHx+DtDVUel3lMggp//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/Gzn6Nd3SYNu3yh5czoqU23ucKGVZRzemt8tMP_u2Fpc.jpg",
+    "url": "https://preview.redd.it/7w2xrvtw0c551.jpg?width=640&crop=smart&auto=webp&s=7a78707d5188964a36b529da5d717ba10cd47799",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.95,
+    "ups": 45,
+    "value": 45
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Dale Towers, based off the templates for Arnor Ruins from the old GW website",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/hacli3/dale_towers_based_off_the_templates_for_arnor/"
+}

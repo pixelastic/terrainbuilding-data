@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_j4sam",
+    "name": "aperalesz"
+  },
+  "date": {
+    "day": 1618444800,
+    "full": 1618464797,
+    "month": 1617235200,
+    "week": 1618099200
+  },
+  "id": "t3_mr8dux",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 80340,
+    "fullUrl": "https://preview.redd.it/y98odak9x9t61.jpg?auto=webp&s=c51409dfc72161dd367fc1262d6915d12edc59a3",
+    "hash": "d32b6bdf31",
+    "height": 771,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAJBAAAgECBAcBAAAAAAAAAAAAAQIDBBEABRIhBgcTFDFBYZH/xAAUAQEAAAAAAAAAAAAAAAAAAAAB/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEB/9oADAMBAAIRAxEAPwDPuW81FnEvb1tBGRS0sg6085RGUoUbf1YEG2BXF2aJmGaOtPEkVHAzRwKnjSDa4+bYucJ91HBPBJqipp6WSFAhsdTixZtt9r7fcGs3y6rpehFONYVSF0jwL+/3BNof/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/x-Ta6n294y17h8aB3IdVqk_mFg2QUuudssjkD5TfkDQ.jpg",
+    "url": "https://preview.redd.it/y98odak9x9t61.jpg?width=640&crop=smart&auto=webp&s=826b09a20848ba590c97340ecd2966b351947f41",
+    "width": 640
+  },
+  "score": {
+    "comments": 26,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 520,
+    "value": 520
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Trying to get this mini a marble look.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/mr8dux/trying_to_get_this_mini_a_marble_look/"
+}

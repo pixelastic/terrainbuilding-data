@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_5sdha68h",
+    "name": "Dtharme"
+  },
+  "date": {
+    "day": 1601164800,
+    "full": 1601216768,
+    "month": 1598918400,
+    "week": 1601164800
+  },
+  "id": "t3_j0ryk5",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 44912,
+    "fullUrl": "https://preview.redd.it/p2ww7tr0app51.jpg?auto=webp&s=e93a23744bcedf3a84f07c83e223626f29450910",
+    "hash": "ae2978ac5f",
+    "height": 483,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIGB//EACAQAAICAgICAwAAAAAAAAAAAAECAwQAERIxBSFBcbH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAGhEAAgIDAAAAAAAAAAAAAAAAAAECEQMhQf/aAAwDAQACEQMRAD8AxnwCULFSKWxzQnakBOQ5AdE/G8c0K0wiTYQtKqmVjpQN9/WTnirE60niWaRY24khW11vX6cLFmSGJkUgqwKkMN+sNyyPVi3BcP/Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/pVsy5D93dRmX47s-SAnRAbHc2_CYKLYksjK21LYA1AM.jpg",
+    "url": "https://preview.redd.it/p2ww7tr0app51.jpg?width=640&crop=smart&auto=webp&s=44ede5191cbcad12705205f3e7a4b7996f155949",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.96,
+    "ups": 54,
+    "value": 54
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A lone dissident waiting in ambush for the dusk patrol... Industrial sector",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/j0ryk5/a_lone_dissident_waiting_in_ambush_for_the_dusk/"
+}

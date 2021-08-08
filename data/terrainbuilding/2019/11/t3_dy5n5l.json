@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_3dhi1",
+    "name": "kagius"
+  },
+  "date": {
+    "day": 1574035200,
+    "full": 1574095362,
+    "month": 1572566400,
+    "week": 1573948800
+  },
+  "id": "t3_dy5n5l",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 78456,
+    "fullUrl": "https://preview.redd.it/9hw9kve34hz31.jpg?auto=webp&s=8ff3e8efb3622c019b917e6a48b5c911b4059e42",
+    "hash": "f2c62ab2aa",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUH/8QAIhAAAQQBBAIDAAAAAAAAAAAAAgEDBBEFAAYhMQdBFIHR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAP/xAAbEQABBAMAAAAAAAAAAAAAAAABAAIDERMhQf/aAAwDAQACEQMRAD8A0zO+QHcblpMGIwyqxyQFJ2+V9/Wm4DyM3NnsQ50cWTeJAFxs7G16tF/dGyEba+4AbfnyYQPkAqp/IEDHjq75rU/b23sBHllNB5XUYdppXXxIVqqJK9X1eo4ng3ekE8bhXV//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/iNaZRR2aOMTo8yESGb7RWsQHAljeu1UpH33NKEoo3eA.jpg",
+    "url": "https://preview.redd.it/9hw9kve34hz31.jpg?width=640&crop=smart&auto=webp&s=f4c726e5ee098e523fff9b9d5167e214f1ca8ce9",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 0.94,
+    "ups": 13,
+    "value": 13
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Making some basic hills (work in progress)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/dy5n5l/making_some_basic_hills_work_in_progress/"
+}

@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_h0141",
+    "name": "Zulathan"
+  },
+  "date": {
+    "day": 1615420800,
+    "full": 1615495071,
+    "month": 1614556800,
+    "week": 1615075200
+  },
+  "id": "t3_m3052d",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 62736,
+    "fullUrl": "https://preview.redd.it/q7jkqxqqmgm61.jpg?auto=webp&s=bb41e519f224efa1421c96e4b011a502c673204f",
+    "hash": "35329ce4be",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAkEAACAQMDAwUAAAAAAAAAAAABAgMEESEABQYHMbETIlFxkf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/8QAGhEBAAMAAwAAAAAAAAAAAAAAAQACAzFhof/aAAwDAQACEQMRAD8AYj4Xs24U7Cuo0kcO6BsghSe1/j2+dF1nTvY2qGZ45CcDL9gMDxqU6d81qKfjcdK8aetA7BZJ2JZgTf8AM20rWcznecmyD6vqDXCoVXjqCaq2D2f/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/eh0U9o6tH6GSOde-G5J-2pLDSa0v0TUwRngSoaOOIsQ.jpg",
+    "url": "https://preview.redd.it/q7jkqxqqmgm61.jpg?width=640&crop=smart&auto=webp&s=3d3d683720e7d3b59aae595920990fcb0a5f5057",
+    "width": 640
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 74,
+    "value": 74
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Making the pieces has been a slog. So here's a pic of them coming together to keep me motivated.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/m3052d/making_the_pieces_has_been_a_slog_so_heres_a_pic/"
+}

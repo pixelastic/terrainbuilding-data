@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_17959p",
+    "name": "capt_yellowbeard"
+  },
+  "date": {
+    "day": 1558396800,
+    "full": 1558401433,
+    "month": 1556668800,
+    "week": 1558224000
+  },
+  "id": "t3_br43oo",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 48945,
+    "fullUrl": "https://preview.redd.it/y8xiljnxtgz21.jpg?auto=webp&s=e389abc3914b4e93d1ae1cb00f551be61da11624",
+    "hash": "6f74298487",
+    "height": 569,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAOABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgUHCP/EACIQAAIBAwQCAwAAAAAAAAAAAAECAwQFEQAGEiExUQcykv/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAMAwEAAhEDEQA/AKJuD5y23T2uqSzGqqKzi0auUEao2CA2T577wBrPdRvXda1Sytc7gZVcSDM3ZIJ8/puvRxpBVVURvtzkhDtTyztJEXAV+JYkcsdZx60MdxWWuVDEPtjOM6PskAv/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/vXm28H3BpUKhNGAU0fxwhVQ-UKkMJCAA4ZsQKrBh-2c.jpg",
+    "url": "https://preview.redd.it/y8xiljnxtgz21.jpg?width=640&crop=smart&auto=webp&s=3dfad42850554b9daa0e3c6c4b300bf5052bcc9a",
+    "width": 640
+  },
+  "score": {
+    "comments": 11,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 91,
+    "value": 91
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Just thought I would throw out another sample setup I was playing with.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/br43oo/just_thought_i_would_throw_out_another_sample/"
+}

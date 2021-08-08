@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_3lspsu87",
+    "name": "ArcadiusTyler"
+  },
+  "date": {
+    "day": 1582502400,
+    "full": 1582580725,
+    "month": 1580515200,
+    "week": 1582416000
+  },
+  "id": "t3_f8yszl",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "filesize": 42294,
+    "fullUrl": "https://external-preview.redd.it/VqejhOghCaTtuyZTf3qPm3mk5b5DRGzs6CmchoeQOJM.jpg?auto=webp&s=2812243bd672c283e49d347afb57843ff1c0f85e",
+    "hash": "221b4238ea",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgf/xAAmEAAABQIDCQAAAAAAAAAAAAABAgMEBgAFERIhEzI1NlFxgbLB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAaEQACAgMAAAAAAAAAAAAAAAABAgADESFR/9oADAMBAAIRAxEAPwAfC4bZmVlSduiJOir6CdYcwB1wLU+mdoQZXZ0DUmVuoYVdgXQqYDugFUGH8tNO5vlE5/xFTx6hTVA+jJPaa8Edn//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/iNJAStRMqqUDMKyfHPfTEmW9WFIuX9QS7UeAvqePaHI.jpg",
+    "url": "https://external-preview.redd.it/VqejhOghCaTtuyZTf3qPm3mk5b5DRGzs6CmchoeQOJM.jpg?width=640&crop=smart&auto=webp&s=10c5a9179b0addfa667c5e38d8762a8d8d175c91",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 14,
+    "value": 14
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A test piece for a Hoth game table. It's not film-accurate, but I'm really happy with the asthetic so far. 3d printed droid for scale.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/f8yszl/a_test_piece_for_a_hoth_game_table_its_not/"
+}

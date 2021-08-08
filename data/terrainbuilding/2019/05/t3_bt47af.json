@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_ficz6",
+    "name": "drlloyd2"
+  },
+  "date": {
+    "day": 1558828800,
+    "full": 1558847326,
+    "month": 1556668800,
+    "week": 1558828800
+  },
+  "id": "t3_bt47af",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "filesize": 60897,
+    "fullUrl": "https://external-preview.redd.it/B3KEZ3A4f_9lVIwMovTmIFWXo_gI9dUXQDTY0qoxrNg.jpg?auto=webp&s=198ab247afe1a2dfb3215abaffbd360f7cc84595",
+    "hash": "0638caa80b",
+    "height": 414,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAKABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFB//EACMQAAIBAwQCAwEAAAAAAAAAAAECAwQFEQAGIUESFBUiMVH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABoRAQEAAgMAAAAAAAAAAAAAAAECAAMRMUH/2gAMAwEAAhEDEQA/AE4tufDbakhqLN5M8bSexxwPz7dgjrGiGz1FbX0dG8CQyeuqgtGpBHGWPj2cY5/utguEMU1taKWJHjMQBRlBBGB1qHtSjplvFYy08IYBACEGRwdDUTYHTkbWeXzP/9k=",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/8LgzR4O2FBeCwiSjKsFFU5ADiIu_-dEVSEst5GoGnb4.jpg",
+    "url": "https://external-preview.redd.it/B3KEZ3A4f_9lVIwMovTmIFWXo_gI9dUXQDTY0qoxrNg.jpg?width=640&crop=smart&auto=webp&s=126a02728504c0afac660bfbd59cfd0a30c04c2c",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "More progress on terrain for The Wild Sheep Chase",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/bt47af/more_progress_on_terrain_for_the_wild_sheep_chase/"
+}

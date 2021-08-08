@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_42l1f6g9",
+    "name": "Spiderluigi"
+  },
+  "date": {
+    "day": 1624924800,
+    "full": 1625008428,
+    "month": 1622505600,
+    "week": 1624752000
+  },
+  "id": "t3_oajzu0",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 75071,
+    "fullUrl": "https://preview.redd.it/g68ksa3uea871.jpg?auto=webp&s=df835fc5c60013b05381cb5d3b053d58404cf732",
+    "hash": "c1aa20449b",
+    "height": 427,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAYH/8QAJBAAAQMEAQMFAAAAAAAAAAAAAgEDBAAFESEGEhNBIzFCUXH/xAAVAQEBAAAAAAAAAAAAAAAAAAAABP/EABsRAAEEAwAAAAAAAAAAAAAAAAEAAgMREyFh/9oADAMBAAIRAxEAPwCadvz3e7Hrm8QdSPg8AtIuM7RdrjzukcE5NdJk56PKmTIrrfyhGSIOPvJYXOvytCe45ZjMeq2xV15bSjSYMWIJNRozLTYiuBAERPapJ34orN3xC0Da/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/xvEBrfxmwbnCLphv-QIrKAg1chePFmXkXuuSUF0tJEg.jpg",
+    "url": "https://preview.redd.it/g68ksa3uea871.jpg?width=640&crop=smart&auto=webp&s=cda842004a365502128bc9d6da97357144dc8bed",
+    "width": 640
+  },
+  "score": {
+    "comments": 50,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 1106,
+    "value": 1106
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "The level of talent in this sub is unreal. This is my attempt at humour.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/oajzu0/the_level_of_talent_in_this_sub_is_unreal_this_is/"
+}

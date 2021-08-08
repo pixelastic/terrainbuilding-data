@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_16t58j",
+    "name": "Projekt_BF"
+  },
+  "date": {
+    "day": 1559606400,
+    "full": 1559692047,
+    "month": 1559347200,
+    "week": 1559433600
+  },
+  "id": "t3_bwvvv6",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 101756,
+    "fullUrl": "https://preview.redd.it/bjcjux3pff231.jpg?auto=webp&s=27f46607babf6e3d3998782b9d2922901e1af1f8",
+    "hash": "8c6e654dcb",
+    "height": 623,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAJhAAAgECBgAHAQAAAAAAAAAAAQIDBBEABQYSITEHExUiJEGRYf/EABUBAQEAAAAAAAAAAAAAAAAAAAMF/8QAHBEAAQMFAAAAAAAAAAAAAAAAAQACEQMEBRIh/9oADAMBAAIRAxEAPwBnNNQztnppJql0TcrJFIhYEe37HPPP5/cUy6o9Po4Fk3uYiFBRyw6sTbsDGZ8TaaGi1ZUQ5HP8aJUUu77t5sCRcDm31hTQMWWZxmb0meSSuGjJSYN5XIt2T3cX/MR7jFl7WVARwJNjMBf/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/RQhJT5eFIaxX5S1l6D-z2Ha7W6MIY113gh2KaO5agmA.jpg",
+    "url": "https://preview.redd.it/bjcjux3pff231.jpg?width=640&crop=smart&auto=webp&s=92ae8c4c9e9819a09f92b702545dfcd084186376",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 0.96,
+    "ups": 40,
+    "value": 40
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Quick and dirty ruin, test for something bigger",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/bwvvv6/quick_and_dirty_ruin_test_for_something_bigger/"
+}

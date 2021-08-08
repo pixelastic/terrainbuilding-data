@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_5n6ga",
+    "name": "sideburner"
+  },
+  "date": {
+    "day": 1505001600,
+    "full": 1505071754,
+    "month": 1504224000,
+    "week": 1505001600
+  },
+  "id": "t3_6zaanp",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 51273,
+    "fullUrl": "https://external-preview.redd.it/dQq-itO1AxXtJQ0om4mMvWgXlSo1SDt_osY_RrPFnSE.jpg?auto=webp&s=29995d3011c968e3d781db5be9266b6deac33fb9",
+    "hash": "8a43f5f4fa",
+    "height": 430,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQMG/8QAIxAAAQQBAwQDAAAAAAAAAAAAAQIDBBEFAAYTEhUhcTFBYf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAZEQACAwEAAAAAAAAAAAAAAAABAgARIQP/2gAMAwEAAhEDEQA/AMEMNlJu4kmHj31oUrjRcdQQWyfHVQ+Kq9Ms7DzDTMruLTUR159IbadWElyrshI81X2fzS0/JTYLqIkOXIZjcQXxocISCSbNanuzJS8kcY/Nd5XhGA5OhIUfZA8+zoVQdEBGXEZij0dqf//Z",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/20t_HlId41mQhNWuaRZFPOWuHFacNTfvX3IN_bzyUS8.jpg",
+    "url": "https://external-preview.redd.it/dQq-itO1AxXtJQ0om4mMvWgXlSo1SDt_osY_RrPFnSE.jpg?width=640&crop=smart&auto=webp&s=8d3dffb4d9fd2eae7d4ce41867078028ce9cc249",
+    "width": 640
+  },
+  "score": {
+    "comments": 26,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 125,
+    "value": 125
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "3D-printed castle complete, wip on the rest of the board",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/6zaanp/3dprinted_castle_complete_wip_on_the_rest_of_the/"
+}

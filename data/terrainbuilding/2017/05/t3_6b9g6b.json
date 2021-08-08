@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_143pzs",
+    "name": "janStastny"
+  },
+  "date": {
+    "day": 1494806400,
+    "full": 1494841606,
+    "month": 1493596800,
+    "week": 1494720000
+  },
+  "id": "t3_6b9g6b",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "filesize": 64903,
+    "fullUrl": "https://external-preview.redd.it/06OnKhp1f6AT9zzQqGbzEjgZ3OJIbM-mrrl1MgKNgVM.jpg?auto=webp&s=8d427c109e53f28dacab1e95fa7287846bc74f1d",
+    "hash": "1ff72c0016",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgMF/8QAJBAAAgEDBAEFAQAAAAAAAAAAAQIDBAURAAYSISITIzFBoeH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAGREBAAIDAAAAAAAAAAAAAAAAAQACERIh/9oADAMBAAIRAxEAPwBDvnek2Y4bCisk/lHKGw4GSvQI+8HRrZG66qov1VHXtPM7xBkSP3Pg4Pj1+ax7yXuN3aWeRw6xjHA8cd/3Vtr22Gl3hbqiJ5fUaXict0QQdAWR5GamuGf/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/jgE8FSoMfGsjvD4lkhSg9Jaesh0w88oSVW8YgYSzfko.jpg",
+    "url": "https://external-preview.redd.it/06OnKhp1f6AT9zzQqGbzEjgZ3OJIbM-mrrl1MgKNgVM.jpg?width=640&crop=smart&auto=webp&s=80aa4c9c53c1c30cee67bd4a2c0aa5ee88da1e5d",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.91,
+    "ups": 46,
+    "value": 46
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Void Shield Generator WIP",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/6b9g6b/void_shield_generator_wip/"
+}

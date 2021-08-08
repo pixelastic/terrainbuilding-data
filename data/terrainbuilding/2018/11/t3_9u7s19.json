@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_16sit83h",
+    "name": "Ejspinn"
+  },
+  "date": {
+    "day": 1541289600,
+    "full": 1541370250,
+    "month": 1541030400,
+    "week": 1541289600
+  },
+  "id": "t3_9u7s19",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 82081,
+    "fullUrl": "https://preview.redd.it/8duq2wil3ew11.jpg?auto=webp&s=20fd1b7d7e5965943280492a7296818f46541d42",
+    "hash": "9373fc898e",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAJhAAAQQBAgQHAAAAAAAAAAAAAQIDBBEFADEGBxIhExQiQUJRcf/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAYEQADAQEAAAAAAAAAAAAAAAAAAREhMf/aAAwDAQACEQMRAD8A3PG7SMk0iLk8FImNpeLjXl3EE0Pl3IOxoijqCHl5i3kRXsFOZasJQugQhGwKjZ20nNxsdzmEJSuvxW4QcT6zV2UEfle3330owoOR+spSDR20RtcgjbT/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/Jngf0EDLgXUhlEYEuMGslg9EaYk7Xm5jWR79FqRnFWQ.jpg",
+    "url": "https://preview.redd.it/8duq2wil3ew11.jpg?width=640&crop=smart&auto=webp&s=5d1439fc27ae515b4998ff5393ced2b5f06448b4",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 100,
+    "value": 100
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A gladiatorial Rudis that we made and inch marked as movement tool.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/9u7s19/a_gladiatorial_rudis_that_we_made_and_inch_marked/"
+}

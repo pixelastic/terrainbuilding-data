@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_azy2wa",
+    "name": "OsWisp"
+  },
+  "date": {
+    "day": 1577145600,
+    "full": 1577219264,
+    "month": 1575158400,
+    "week": 1576972800
+  },
+  "id": "t3_ef6mh2",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 40715,
+    "fullUrl": "https://preview.redd.it/z37wltq35n641.jpg?auto=webp&s=ec262c56a2e51dab250a210b8795825fa9f58c12",
+    "hash": "e41e46f566",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQMH/8QAJhAAAgAEBQMFAAAAAAAAAAAAAQIDBAURAAYSITETUWEUIzKBof/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A3upZhkKdUHlIph64SLEi+4qsqm+4U7ni/wB4pT8wUiolVlZuE7M2gDz2vx+4BzHk6Ym5mJOSEyrxgrdOFHJABLFvkPJOxB2sNrA4WomWafIoW9FBV3C6ltcFhvqI4vftxij/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/zh6sr3jIoXrD65RWYn5x2fDIZtBBbZ14Piway8UE6bk.jpg",
+    "url": "https://preview.redd.it/z37wltq35n641.jpg?width=640&crop=smart&auto=webp&s=efae5c6c4cc9eabcc4ff72f91aa8b6774de4c8aa",
+    "width": 640
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 35,
+    "value": 35
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "What one year of designing my own 3D Printable Terrain for DnD looks like - Now available for all just in time for Christmas!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ef6mh2/what_one_year_of_designing_my_own_3d_printable/"
+}

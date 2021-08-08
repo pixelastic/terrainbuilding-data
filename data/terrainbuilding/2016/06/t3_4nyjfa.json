@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_9i5nm",
+    "name": "KoltBruh"
+  },
+  "date": {
+    "day": 1465776000,
+    "full": 1465861146,
+    "month": 1464739200,
+    "week": 1465689600
+  },
+  "id": "t3_4nyjfa",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 58051,
+    "fullUrl": "https://external-preview.redd.it/F441Y17kHjuB1wzrCSZlgT2I9xmcij369XhnumNX9HE.jpg?auto=webp&s=893b83432d89b862e7e6bfce58553d946f056420",
+    "hash": "adc9439eea",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQGB//EACMQAAIBAwMEAwAAAAAAAAAAAAEDAgQFEQAGEgcTITEUI1H/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABoRAQADAAMAAAAAAAAAAAAAAAEAAgMEIUH/2gAMAwEAAhEDEQA/AJVFnprbZE2u6U9Gu7JaKngyfBpn5kJCYJBieIGNHcrC/c4Ym3wTU1lagPW0M4xXMjOJHHjjjB9exrZer+37ZdFUtPUUi4mcO33lDiwRBMgAfzIzpDpvbKa37M+QiJL2fXJkvJ4g4xqTny62ydU7I0zWxU9n/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/anWXHbALwUjeCLor5T5I7RYNfNy-to4dMsDRyg3js-o.jpg",
+    "url": "https://external-preview.redd.it/F441Y17kHjuB1wzrCSZlgT2I9xmcij369XhnumNX9HE.jpg?width=640&crop=smart&auto=webp&s=8efb7ba921387df0e447405b76c332100c8d8b0d",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 28,
+    "value": 28
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Tudor Home",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/4nyjfa/wip_tudor_home/"
+}

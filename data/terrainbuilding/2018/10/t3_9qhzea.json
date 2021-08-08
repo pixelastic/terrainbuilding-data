@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_13tqlu",
+    "name": "Maketus"
+  },
+  "date": {
+    "day": 1540166400,
+    "full": 1540242164,
+    "month": 1538352000,
+    "week": 1540080000
+  },
+  "id": "t3_9qhzea",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 37340,
+    "fullUrl": "https://preview.redd.it/yr5yvrh7xst11.jpg?auto=webp&s=86e4b0938d42e9597f2c122ea2f468ef71c7dee5",
+    "hash": "cb87a9f8c6",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEBv/EACQQAAEEAgEEAgMAAAAAAAAAAAECAwQFBhEAEiFBURMVMWFx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAWEQEBAQAAAAAAAAAAAAAAAAAAERL/2gAMAwEAAhEDEQA/AJMwyG1wjPYDEmIBWpQFuNK6VCShRIKteNaOv2Oax22w6+t4oorBf2UofC3GCFhCvPcEaSex78C0pYGWyGZN2wXnw10BYWpJCd71+fZPHUeF0tHIbkRI6nJKSSh15XUpP89cEV0//9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/Z22IKBU_bw3lQ6O49gX0DER1LJyZyQVl_xBdVC0yfpk.jpg",
+    "url": "https://preview.redd.it/yr5yvrh7xst11.jpg?width=640&crop=smart&auto=webp&s=962de366930eaefb978585bfdf40507c406fab83",
+    "width": 640
+  },
+  "score": {
+    "comments": 10,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 117,
+    "value": 117
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A barn for Bolt Action. I tried to achieve snow effect, wich would show the depthness of the roof under the light layer of snow. I am quite happy with the outcome. This was a fun project to make and it's constructed with XPS foam.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/9qhzea/a_barn_for_bolt_action_i_tried_to_achieve_snow/"
+}

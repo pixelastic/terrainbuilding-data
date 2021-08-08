@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_dy6q6",
+    "name": "ColourTheft"
+  },
+  "date": {
+    "day": 1532908800,
+    "full": 1532976859,
+    "month": 1530403200,
+    "week": 1532822400
+  },
+  "id": "t3_936ur5",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 112142,
+    "fullUrl": "https://preview.redd.it/sft8d2qqt4d11.jpg?auto=webp&s=8e00d434a63ddb2df0b41fdbf54da2a41a092ed1",
+    "hash": "d9e2cc20b9",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAJBAAAgEDBAEFAQAAAAAAAAAAAQMCBAURAAYSITEUFSIyM1H/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABgRAAMBAQAAAAAAAAAAAAAAAAABEQIh/9oADAMBAAIRAxEAPwBqo3NuKVT7FaXBtVJ5qHNSyMppTKQGACSSAD/BqW87ou9i28ilrbusUyakRc5f7sWJZHEfYZ6yT4B1kNu2KO9nJVNNZTgR4QkmIAjgYA7Bz1jvQF0pLJb/AEtFUPp7nWzlCDHQHKCVggfEg5lLySOvA1OZsSFXOn//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/4pM6j4giJSeNtO24m7y_gAgCzoaz41lkRBN9HxvcIuk.jpg",
+    "url": "https://preview.redd.it/sft8d2qqt4d11.jpg?width=640&crop=smart&auto=webp&s=2f5fa42bb00c5d8a8f67308bd7f4cb7e888bed98",
+    "width": 640
+  },
+  "score": {
+    "comments": 11,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 114,
+    "value": 114
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "“We can move through this building”",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/936ur5/we_can_move_through_this_building/"
+}

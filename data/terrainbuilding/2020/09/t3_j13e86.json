@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_3al3napg",
+    "name": "TheOverbob"
+  },
+  "date": {
+    "day": 1601251200,
+    "full": 1601258126,
+    "month": 1598918400,
+    "week": 1601164800
+  },
+  "id": "t3_j13e86",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 86077,
+    "fullUrl": "https://preview.redd.it/navpsy10psp51.jpg?auto=webp&s=568cbe29aaa39e7e5a193f49cc14272d2e5c99cf",
+    "hash": "165b7afeea",
+    "height": 719,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA4DASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgf/xAAgEAACAgICAgMAAAAAAAAAAAABAgMEBREAIUFRBiIx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABkRAAMAAwAAAAAAAAAAAAAAAAABEQIhUf/aAAwDAQACEQMRAD8APQYi8a1S9uBobAeSuSwcOFBOyB4688I5iM08iK9sRIyRgAxqGLnQJZvzs74+gy+X+MYm3Fj7KpRVGfoAyQMdDS+Sp716J5LrSz5WxJZtyMGc7JZvsx1rbH3wPG6Yr0//2Q==",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/1KkIJ7HgedvhlsSetYhURFGCoQL0WwZjDq00AtwW398.jpg",
+    "url": "https://preview.redd.it/navpsy10psp51.jpg?width=640&crop=smart&auto=webp&s=d19fe3039a9643f9a85c7b3f6b95de2bec30c80a",
+    "width": 640
+  },
+  "score": {
+    "comments": 13,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 76,
+    "value": 76
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Industrial factory. More color? Basing? Help.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/j13e86/industrial_factory_more_color_basing_help/"
+}

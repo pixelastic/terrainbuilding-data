@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_5auplxik",
+    "name": "terbull12"
+  },
+  "date": {
+    "day": 1585785600,
+    "full": 1585865871,
+    "month": 1585699200,
+    "week": 1585440000
+  },
+  "id": "t3_ftvugq",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 59468,
+    "fullUrl": "https://preview.redd.it/3r7lzp9xbhq41.jpg?auto=webp&s=c647f5ba466e9f5919e975e6bfa62f7e245e1123",
+    "hash": "8162bd9ed1",
+    "height": 490,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAjEAABAwMEAgMAAAAAAAAAAAABAgMEBQYRABIhMRQVImFy/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABcRAAMBAAAAAAAAAAAAAAAAAAABEQL/2gAMAwEAAhEDEQA/ABbwolGtWGtDFanqq5CQI7baAtvcMpKjnCeMEgZPIGlbdo1t3JMixZlUqbVTebSVqfQgAq65Uns/eNBTKb7ev1ETpT7h8heVFLeT8iMk7dUtu2pEiz40lmVMDrTiVg7kdg/nrRro3lw//9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/3ss0lOHARuHettOW-eLdKyn9h_-eZlXla_PfD7epAJc.jpg",
+    "url": "https://preview.redd.it/3r7lzp9xbhq41.jpg?width=640&crop=smart&auto=webp&s=6fe98022fff211f98aa73c22e6d6fe96c2fe1332",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 0.92,
+    "ups": 40,
+    "value": 40
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Murky well. Learning flocking. Using pva in the well didnt dry very well. Took days!! Inspired by BMC. Just did a different route.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ftvugq/murky_well_learning_flocking_using_pva_in_the/"
+}

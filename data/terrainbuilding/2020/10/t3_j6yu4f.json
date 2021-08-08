@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_10o5mr",
+    "name": "Ghostpants101"
+  },
+  "date": {
+    "day": 1602028800,
+    "full": 1602102848,
+    "month": 1601510400,
+    "week": 1601769600
+  },
+  "id": "t3_j6yu4f",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 46333,
+    "fullUrl": "https://preview.redd.it/1xsq9umrgqr51.jpg?auto=webp&s=72b00c95ec606e710c5cecadeccfeee78a20f9c3",
+    "hash": "badda4135a",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQH/8QAJRAAAQMDAwMFAAAAAAAAAAAAAQIDBAUGEQAHIRITYSNBUXHx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQH/2gAMAwEAAhEDEQA/AIYezUMUuGX5D7zmEvLfUvlORnASB7Afuhr72ygM0SRWadMcYDKVFTU0J9QjIABGME44HPOl6Be9Xp8OHGBZfaMQuJ74Uoo6RwAQQSPvOsuu+76vdE9tdVfSptC1JbYbHS2geB8+Tk6C+yP/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/UdtEBFipTD44k-CkdfE1Rdn398kaU2IIxDuLFIFWSYk.jpg",
+    "url": "https://preview.redd.it/1xsq9umrgqr51.jpg?width=640&crop=smart&auto=webp&s=478d6e11a891a9b76ee4123c26e7a2125ebb7c03",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 35,
+    "value": 35
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "When it takes longer to print than paint...",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/j6yu4f/when_it_takes_longer_to_print_than_paint/"
+}

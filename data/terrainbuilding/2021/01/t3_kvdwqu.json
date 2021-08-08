@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_542t031n",
+    "name": "IronSkywalker"
+  },
+  "date": {
+    "day": 1610323200,
+    "full": 1610404348,
+    "month": 1609459200,
+    "week": 1610236800
+  },
+  "id": "t3_kvdwqu",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 29034,
+    "fullUrl": "https://preview.redd.it/8ak38ete5sa61.jpg?auto=webp&s=30e31be510b0ffe99e7eaa72d100399f73984ed6",
+    "hash": "d993807b6a",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQEE/8QAIRAAAgICAgEFAAAAAAAAAAAAAQIDBAAREiEGE0FhsfD/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGREBAAIDAAAAAAAAAAAAAAAAAgABAxES/9oADAMBAAIRAxEAPwDZWtS1LkaGIAMeyw+jiPkM0kTSvVh5qsfIkDZLH8cgrR3kjdmCsp3se4xtK8Xpldg7AHfxgRjJHMTau1uf/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/uEu7btQ9nlRWORSdwI9JAg1z9iJglUhUTrLlV5jwlkY.jpg",
+    "url": "https://preview.redd.it/8ak38ete5sa61.jpg?width=640&crop=smart&auto=webp&s=29fcc833af1d9a2294dc1956007f8378176eb93d",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 0.75,
+    "ups": 2,
+    "value": 2
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "How would I go about adding weathering or rust effects to this?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/kvdwqu/how_would_i_go_about_adding_weathering_or_rust/"
+}

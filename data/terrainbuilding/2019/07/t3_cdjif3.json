@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_nc1e9",
+    "name": "wizardoftrash"
+  },
+  "date": {
+    "day": 1563148800,
+    "full": 1563207613,
+    "month": 1561939200,
+    "week": 1563062400
+  },
+  "id": "t3_cdjif3",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "filesize": 65942,
+    "fullUrl": "https://external-preview.redd.it/QKvz1sVFdCT4v_bPHivTJ1nEghNIFV8YmOk__8bGrfA.jpg?auto=webp&s=02ef175c5e34d20a97d6c29f49788213edb6be3e",
+    "hash": "82eee2c103",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAYH/8QAIhAAAgICAgICAwAAAAAAAAAAAQIDEQQFACESMQYTIkFR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAaEQACAgMAAAAAAAAAAAAAAAABAgADESEx/9oADAMBAAIRAxEAPwAuFoZo8jKGzy2EubIksqR2VgZSCAnZv92f4TXGSaXXbfaLlHNeHKHisTmchw19WpFkewKr3zEPl600Mlt9jr5M19k8kmyZY5vwYij13yZa2Oy0drBzE//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/whoMBq24wQ-N-p1ljtwqKBnss8c6m6Aa-hW5-xyhAdU.jpg",
+    "url": "https://external-preview.redd.it/QKvz1sVFdCT4v_bPHivTJ1nEghNIFV8YmOk__8bGrfA.jpg?width=640&crop=smart&auto=webp&s=20fc2f9ad685d557f7f921bf8233267e510d8422",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.89,
+    "ups": 13,
+    "value": 13
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Spirefell: Ready for Paint",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/cdjif3/spirefell_ready_for_paint/"
+}

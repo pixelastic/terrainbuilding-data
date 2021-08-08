@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_96rw1ql4",
+    "name": "DonnieDynamo"
+  },
+  "date": {
+    "day": 1611100800,
+    "full": 1611101533,
+    "month": 1609459200,
+    "week": 1610841600
+  },
+  "id": "t3_l0x1z3",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 48587,
+    "fullUrl": "https://preview.redd.it/5o67yd8iqdc61.jpg?auto=webp&s=f5c5ce9766f0d7a9205f91ceb9d0ab9e7845085f",
+    "hash": "4c2ce307f2",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFB//EACUQAAEDAwIGAwAAAAAAAAAAAAECAwQABRESMgYHITFhsXFygf/EABQBAQAAAAAAAAAAAAAAAAAAAAX/xAAaEQEAAQUAAAAAAAAAAAAAAAABAAIREjFB/9oADAMBAAIRAxEAPwBaTy+uUlaG38y0sEaHVOJQFnG7Tnp8VoMbh1UC1tW+1JERhDQQgh0koOO/nBzViJsH2PujsbB++6JrMtsSsHJ//9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/XY82TQ0E0A2qkIBosfe07QYj1oWAS5FeWHy1oOMbz_w.jpg",
+    "url": "https://preview.redd.it/5o67yd8iqdc61.jpg?width=640&crop=smart&auto=webp&s=f49291bcd3c6b5c5afdb8064ad0b10f739f2c422",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 55,
+    "value": 55
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Test piece of Kazumi Temple for my skirmish game collection.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/l0x1z3/test_piece_of_kazumi_temple_for_my_skirmish_game/"
+}

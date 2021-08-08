@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_3ljd04zk",
+    "name": "Riddlemark"
+  },
+  "date": {
+    "day": 1594771200,
+    "full": 1594797474,
+    "month": 1593561600,
+    "week": 1594512000
+  },
+  "id": "t3_hrj3gk",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 85733,
+    "fullUrl": "https://preview.redd.it/3ffebono1za51.jpg?auto=webp&s=f0da50d4f0a8d9fe8b02cb274cb2a8ea02a8ee9e",
+    "hash": "2b2b953895",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwQG/8QAIxAAAQMDBAMBAQAAAAAAAAAAAQIDBAUGEQASITEiQXETFP/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAaEQACAwEBAAAAAAAAAAAAAAABAgADERJx/9oADAMBAAIRAxEAPwDP2vEduKs1dymSIUQOvJVKQmFu8DuGxJV74wfudT0uFatGqKmrqtKSVPyF/wA7jS1BGN/ggDODjrOedLV3UuJS6TXJUBsMOPRwpQRwAc44Hrsn6dGNsynH7qaiqO2O3PLaW0EhOP0x11oyEXJ1mDPIhwa2wmf/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/gGqseGLTVrnAD12xtRCnCLlK9dd7H1FAWUQwvW95btE.jpg",
+    "url": "https://preview.redd.it/3ffebono1za51.jpg?width=640&crop=smart&auto=webp&s=a040cdf373cecd4d5a08759570b2fefdafa13631",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 80,
+    "value": 80
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Finished Town Setup! All thats left is the scenery",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/hrj3gk/finished_town_setup_all_thats_left_is_the_scenery/"
+}

@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_101ijx",
+    "name": "Ramagon91"
+  },
+  "date": {
+    "day": 1512432000,
+    "full": 1512502330,
+    "month": 1512086400,
+    "week": 1512259200
+  },
+  "id": "t3_7hs4km",
+  "misc": {
+    "postHint": "self"
+  },
+  "picture": {
+    "filesize": 87200,
+    "fullUrl": "https://external-preview.redd.it/s6c2tDI0Unr4nKpLay1zr9ptNdBXf3PDFUJTf5_iK6E.jpg?auto=webp&s=94ea889c7257535431d26c956e0838a30c23b1fe",
+    "hash": "1bb194bf47",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQF/8QAJBAAAgEDAwMFAAAAAAAAAAAAAQIDBAURAAYhEjFRExQiMlL/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAERAhL/2gAMAwEAAhEDEQA/AC1wlp7BSRUdhapWK5LIsq10PplY+oNGQMkkD5fbnAB1ftkXAbmWjpqBLv1QK88LTKGqMEB2iY8Ic4OT+T50Su+5a27yRz1iU7TRAlHVMEZPI79tb+xt01lm9xPSwUjzzDoaSRCWC+ByMDQTrgXuZ6P/2Q==",
+    "thumbnailUrl": "self",
+    "url": "https://external-preview.redd.it/s6c2tDI0Unr4nKpLay1zr9ptNdBXf3PDFUJTf5_iK6E.jpg?width=640&crop=smart&auto=webp&s=f8a39ac534a2ecdd2b735fbc27ba1950e98d2717",
+    "width": 640
+  },
+  "score": {
+    "comments": 16,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 61,
+    "value": 61
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Shrine to the Ruinous Powers",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/7hs4km/shrine_to_the_ruinous_powers/"
+}

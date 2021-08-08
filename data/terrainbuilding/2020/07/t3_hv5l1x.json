@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_6pmyw0ix",
+    "name": "factoria_tabletop"
+  },
+  "date": {
+    "day": 1595289600,
+    "full": 1595330265,
+    "month": 1593561600,
+    "week": 1595116800
+  },
+  "id": "t3_hv5l1x",
+  "misc": {
+    "postHint": "hosted:video"
+  },
+  "picture": {
+    "filesize": 125771,
+    "fullUrl": "https://external-preview.redd.it/Ez-tiX7nrlx5vw4jZmgdyuC0KfZsEa7bt3CzkEGBBxA.png?format=pjpg&auto=webp&s=9ac017433948a79d978afe014f0ba861f5338b33",
+    "hash": "70b59f424f",
+    "height": 640,
+    "lqip": "data:image/png;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwQG/8QAJBAAAQMCBQUBAAAAAAAAAAAAAQIDBAURAAYSITEHExRBUXH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGBEBAAMBAAAAAAAAAAAAAAAAAQACETH/2gAMAwEAAhEDEQA/ABlDGQGJC0SYGZ7p4CXWvvJuPzG6yLWsn1DwMuxqW8ttruywudZaWlAKASoC2o7jcfcIsfpbTnA/2rFp1sNXeOtSUA306rXO5J1bHgesXxem+WKBME+lxn48lIUkOB9aiAeeb+sOrV1AyGbgdn//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/IVPvH_XYdTLY8OymHd1B1ijggJFhbvare4dIz2ARhsM.jpg",
+    "url": "https://external-preview.redd.it/Ez-tiX7nrlx5vw4jZmgdyuC0KfZsEa7bt3CzkEGBBxA.png?width=640&crop=smart&format=pjpg&auto=webp&s=d98b9fc9e38a1c2c3ff32084071f19e8fe5a4d34",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 0.86,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Testing how i am going to shoot my video Battle reports!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/hv5l1x/testing_how_i_am_going_to_shoot_my_video_battle/"
+}

@@ -1,0 +1,39 @@
+{
+  "author": {
+    "name": "[deleted]"
+  },
+  "date": {
+    "day": 1426982400,
+    "full": 1427005597,
+    "month": 1425168000,
+    "week": 1426982400
+  },
+  "id": "t3_2zvt54",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "filesize": 49474,
+    "fullUrl": "https://external-preview.redd.it/Jiz_ZF2-Zu6_BWOj9e6cAiytkJKSfPPPuRPvV3uvZWY.jpg?auto=webp&s=f0961f5c71ab33fa2203d4f80b6c75335163071e",
+    "hash": "116f4d64ab",
+    "height": 380,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAKABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAQYH/8QAIhAAAgICAQMFAAAAAAAAAAAAAQIDEQQFAAYTIRIxQWGR/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAYEQADAQEAAAAAAAAAAAAAAAAAAREDAv/aAAwDAQACEQMRAD8AzXpnZjG02amZnTxw0qBIpu2XkbwCAPcgX+nhvt/L1J1Fl7KYyQ5EsiRCSABSwRfTbj5NAXXJQOyKjIxVllVgQaIIvyPvhrpZJcuZpJHdu5dsbNk+Tyvv1agWCiUP/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/gPJIaPNrf-jy_8jivOzumCxkuNEwwYG6LU9vtl-ArmM.jpg",
+    "url": "https://external-preview.redd.it/Jiz_ZF2-Zu6_BWOj9e6cAiytkJKSfPPPuRPvV3uvZWY.jpg?width=640&crop=smart&auto=webp&s=f83942752208dd0bc2a47b4c236843d9fc62992c",
+    "width": 640
+  },
+  "score": {
+    "comments": 31,
+    "downs": 0,
+    "ratio": 0.92,
+    "ups": 30,
+    "value": 30
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Church tile system C&C welcome",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/2zvt54/wip_40k_church_tile_system_cc_welcome/"
+}

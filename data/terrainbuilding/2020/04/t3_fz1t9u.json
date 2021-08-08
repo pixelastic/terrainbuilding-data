@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_5gce5v05",
+    "name": "Arzouma"
+  },
+  "date": {
+    "day": 1586563200,
+    "full": 1586599808,
+    "month": 1585699200,
+    "week": 1586044800
+  },
+  "id": "t3_fz1t9u",
+  "misc": {
+    "postHint": "self"
+  },
+  "picture": {
+    "filesize": 78431,
+    "fullUrl": "https://external-preview.redd.it/FGR6CXH6d4auPJ03vvE9buZAE6KMeytHHxFDYmHbWcI.jpg?auto=webp&s=bdb65606a77f10ba9318151e8dc1ed30908d3915",
+    "hash": "c86fe54d09",
+    "height": 913,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwUG/8QAIhAAAgECBgMBAAAAAAAAAAAAAQIDAAQFBhESIUEiMVGh/8QAFAEBAAAAAAAAAAAAAAAAAAAABf/EABoRAAICAwAAAAAAAAAAAAAAAAECABEUITH/2gAMAwEAAhEDEQA/AFDGs3WiRXNqXAYqNrD3r3+VjoM24eYlE86iQeLan5xQpPmS6mvJmMpKuSdT1Uu5xIGdzvPJoXGLChqLEqvZ/9k=",
+    "thumbnailUrl": "self",
+    "url": "https://external-preview.redd.it/FGR6CXH6d4auPJ03vvE9buZAE6KMeytHHxFDYmHbWcI.jpg?width=640&crop=smart&auto=webp&s=f3a61d06131c02d7554dbe1aa6c8e0f898d755be",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 0.8,
+    "ups": 6,
+    "value": 6
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Advice on the Zdzislaw Beksinski style",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/fz1t9u/advice_on_the_zdzislaw_beksinski_style/"
+}

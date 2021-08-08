@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "t2_bdcwl",
+    "name": "blargney"
+  },
+  "date": {
+    "day": 1597881600,
+    "full": 1597917059,
+    "month": 1596240000,
+    "week": 1597536000
+  },
+  "id": "t3_id7d7v",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 110344,
+    "fullUrl": "https://preview.redd.it/0dxyoix0q4i51.jpg?auto=webp&s=3ef34179bd95199f17ecaaa60372343d058ae3fb",
+    "hash": "b8fab12c43",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgME/8QAIBAAAgIBBAMBAAAAAAAAAAAAAQIDBBEABQYhEjFBE//EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAZEQACAwEAAAAAAAAAAAAAAAABAgADBBH/2gAMAwEAAhEDEQA/ADO1UpTBYcUVlaEMT+0pTOPgX77A0n2nZ7RpKZBUjY9lWc5Grc/49PsxialZkd7WWtWJYC0ePmSOs5z11jWrbOLSXNqpWZbcrCWFWQoHK+Prrx6AyDo96lwIvNYEY9n/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/Oiy8x-h0jdqtb4oqIpRJoqpknkAx-_DBOrFi0O8i6pM.jpg",
+    "url": "https://preview.redd.it/0dxyoix0q4i51.jpg?width=640&crop=smart&auto=webp&s=54013b708911d7e93b108540a8f63efebd59e7dd",
+    "width": 640
+  },
+  "score": {
+    "comments": 17,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 396,
+    "value": 396
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Fantasy tower WIP. I'm almost done laying in the base coats.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/id7d7v/fantasy_tower_wip_im_almost_done_laying_in_the/"
+}
