@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_8ylnzkxu",
+    "name": "Svendahl"
+  },
+  "date": {
+    "day": 1608681600,
+    "full": 1608754590,
+    "month": 1606780800,
+    "week": 1608422400
+  },
+  "id": "t3_kj0efg",
+  "picture": {
+    "filesize": 133579,
+    "fullUrl": "https://preview.redd.it/9wpaj7dsvz661.jpg?width=2160&format=pjpg&auto=webp&s=ad932ec863e7e524e567e5a2166ee77629b131f0",
+    "hash": "82952f09e3",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAX/xAAiEAACAQMEAgMAAAAAAAAAAAABAwIEBREABjFBEiEVIlH/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAGREBAQADAQAAAAAAAAAAAAAAAQIAAxES/9oADAMBAAIRAxEAPwAVpuKqq4QuO4lNuEWTkx4LDDzHWTHjrTo7hCWu+EZU0dvmwzUqNSTgfpPfGoc62iati6JZC5RGYtxnIHv32M8alsliX0OBogSJKmuri3l22zU8DP/Z",
+    "url": "https://preview.redd.it/9wpaj7dsvz661.jpg?width=640&crop=smart&auto=webp&s=16f5c741f02fa07118f31fe5344a04d24f44c637",
+    "width": 640
+  },
+  "score": {
+    "comments": 15,
+    "downs": 0,
+    "ratio": 0.95,
+    "ups": 31,
+    "value": 31
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Demon summoning diorama in progress",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/kj0efg/demon_summoning_diorama_in_progress/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5tjh33jx",
+    "name": "Zenetir"
+  },
+  "date": {
+    "day": 1613779200,
+    "full": 1613848926,
+    "month": 1612137600,
+    "week": 1613260800
+  },
+  "id": "t3_loei2b",
+  "picture": {
+    "filesize": 117523,
+    "fullUrl": "https://preview.redd.it/zbzgaxsvnoi61.jpg?width=3024&format=pjpg&auto=webp&s=a44e8e8cb89ec8b3d4a2770073ee72ee00d75a21",
+    "hash": "8f0fe57206",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGB//EACIQAAICAQMEAwAAAAAAAAAAAAECAwQFABIhBhExQQdhcf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/8QAGREBAAMBAQAAAAAAAAAAAAAAAQARMQMS/9oADAMBAAIRAxEAPwC3j+TMRTy1Omrz77LqoaAB1ALFeW79vI0wrdb4PLo1mlHk7Me4oXEYHI9edYll6+Up5WSZsMsqSMRE8bNGVJ44IBBH1o3p6VMZjErzVEaTcWYkv7/DqTqrSVHybs//2Q==",
+    "url": "https://preview.redd.it/zbzgaxsvnoi61.jpg?width=640&crop=smart&auto=webp&s=1ac1585bdb53bb09ae41a1e383bd542fe98060c3",
+    "width": 640
+  },
+  "score": {
+    "comments": 9,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 154,
+    "value": 154
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Just finished my first bunker terrain piece !",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/loei2b/just_finished_my_first_bunker_terrain_piece/"
+}

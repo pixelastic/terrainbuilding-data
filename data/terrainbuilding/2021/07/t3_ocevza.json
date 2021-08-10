@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_bo22k",
+    "name": "Alephus"
+  },
+  "date": {
+    "day": 1625184000,
+    "full": 1625246872,
+    "month": 1625097600,
+    "week": 1624752000
+  },
+  "id": "t3_ocevza",
+  "picture": {
+    "filesize": 123970,
+    "fullUrl": "https://preview.redd.it/nqrxvqjp3u871.jpg?width=1601&format=pjpg&auto=webp&s=7a9cac3a5ff776117b13d557ea86b5fbc846157e",
+    "hash": "05537163f1",
+    "height": 839,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABwT/xAAjEAACAgICAgEFAAAAAAAAAAABAgMRBAUABiFBExIxUWGR/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABgRAQEBAQEAAAAAAAAAAAAAAAECAwAS/9oADAMBAAIRAxEAPwCDufZ06puYtZoJsrJkLogSSUWsgAFAn7LdE/kkjwOM+kwtjlafDk2bxxZ3xATIsauA3vzdfzxwK3HXJk3GW2z1nzFpG+m4zJdtdj0b4n9IzOxY+iSFohDEjFYkyiS4ShX7Au6B9cPWhnIjyCXSn0d//9k=",
+    "url": "https://preview.redd.it/nqrxvqjp3u871.jpg?width=640&crop=smart&auto=webp&s=5f33fc4a9cfa5c93c31d1d953e053b0335270ab8",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 102,
+    "value": 102
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Ruined Tower for Frostgrave",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ocevza/ruined_tower_for_frostgrave/"
+}

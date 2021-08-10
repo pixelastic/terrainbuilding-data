@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_2qb44456",
+    "name": "canukluck"
+  },
+  "date": {
+    "day": 1625097600,
+    "full": 1625172940,
+    "month": 1625097600,
+    "week": 1624752000
+  },
+  "id": "t3_obv0vw",
+  "picture": {
+    "filesize": 70880,
+    "fullUrl": "https://preview.redd.it/3bo5hc400o871.jpg?width=4032&format=pjpg&auto=webp&s=a398015a12110687671ce1a72329db7a02021e71",
+    "hash": "bc207c8f66",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQMH/8QAJBAAAgIBBAEEAwAAAAAAAAAAAQIDEQQABQYSIRMVMUFRcYH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGhEAAgIDAAAAAAAAAAAAAAAAAAECEgMhMf/aAAwDAQACEQMRAD8AjyHlPv6Y0mXkI0ERuNVtWHegL8+b6n9aX4ruG3bfyLHlKy+jiTh5Csoe6+OpDURdfzWXxyOs0I7uY42RhGWPU9TYBH4v60wGM25TZ8ROLM6qGEB6qa+6N6IsjbE1rHukf//Z",
+    "url": "https://preview.redd.it/3bo5hc400o871.jpg?width=640&crop=smart&auto=webp&s=67e42ecc79305b40c205b3b998d678f84087b16d",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.96,
+    "ups": 37,
+    "value": 37
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Two Floor Manor",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/obv0vw/two_floor_manor/"
+}

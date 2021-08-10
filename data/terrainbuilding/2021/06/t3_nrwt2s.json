@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_175fyl",
+    "name": "PoliteGhostFb"
+  },
+  "date": {
+    "day": 1622764800,
+    "full": 1622781988,
+    "month": 1622505600,
+    "week": 1622332800
+  },
+  "id": "t3_nrwt2s",
+  "picture": {
+    "filesize": 81712,
+    "fullUrl": "https://preview.redd.it/tzwfbywbi6371.jpg?width=1280&format=pjpg&auto=webp&s=e6dbcec94d1ead0fa66a9d707f078536e63192ae",
+    "hash": "d6eee33681",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAiEAACAQQBBAMAAAAAAAAAAAABAgMEBREhABIiMUEGExT/xAAVAQEBAAAAAAAAAAAAAAAAAAABA//EABkRAAMBAQEAAAAAAAAAAAAAAAECAwARUf/aAAwDAQACEQMRAD8AJvVU1wvdGslTTQQIUKtgF95LbByfG+PzwWwzRx2a8UNRUQQxlfrUOHKuxHcmQPfJ22yVdxvCzm10DrDGxDvMUdMjXSue45xv1xr49Z47bJ10353nIAbpXKjA0M+CdnXjkZwTzBmoUcG//9k=",
+    "url": "https://preview.redd.it/tzwfbywbi6371.jpg?width=640&crop=smart&auto=webp&s=a90799a2d2e21f7c9865a7f162457735b8cc06b1",
+    "width": 640
+  },
+  "score": {
+    "comments": 9,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 646,
+    "value": 646
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A Western Barber Shop",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/nrwt2s/a_western_barber_shop/"
+}

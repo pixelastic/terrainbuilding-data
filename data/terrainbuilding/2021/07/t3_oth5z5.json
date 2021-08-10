@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_10bjw9",
+    "name": "sFAMINE"
+  },
+  "date": {
+    "day": 1627430400,
+    "full": 1627500775,
+    "month": 1625097600,
+    "week": 1627171200
+  },
+  "id": "t3_oth5z5",
+  "picture": {
+    "filesize": 124761,
+    "fullUrl": "https://preview.redd.it/9tegan7m90e71.jpg?width=2028&format=pjpg&auto=webp&s=1327b045ebb4118f149b5e6c04888bee0296b55d",
+    "hash": "d66cf2f83c",
+    "height": 646,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwQF/8QAJBAAAgEDAgYDAAAAAAAAAAAAAQIDBAURABITIjFBUXEGIYH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGhEAAgIDAAAAAAAAAAAAAAAAAAIBAxEhUf/aAAwDAQACEQMRAD8AybrE70NzmWWmyYDBExILDhx4VB36rnHrxo3t9vu1xsk52z1FSJ0CU7ABgpzzL0+vI9aUJrFJU1m6WniWJpTUMwADFju7HqeY/mNXxwmzfHoKZqeOpq0mVllcnjEbgQvjGMjONFW+OibElsaP/9k=",
+    "url": "https://preview.redd.it/9tegan7m90e71.jpg?width=640&crop=smart&auto=webp&s=f4e2865c52800eb1c61364b2c697ec2ed8def740",
+    "width": 640
+  },
+  "score": {
+    "comments": 23,
+    "downs": 0,
+    "ratio": 0.95,
+    "ups": 189,
+    "value": 189
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "The Philosopher’s Statue",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/oth5z5/the_philosophers_statue/"
+}

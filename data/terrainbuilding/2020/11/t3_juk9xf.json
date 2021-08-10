@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_obidm",
+    "name": "youngsyr"
+  },
+  "date": {
+    "day": 1605398400,
+    "full": 1605438337,
+    "month": 1604188800,
+    "week": 1605398400
+  },
+  "id": "t3_juk9xf",
+  "picture": {
+    "filesize": 80330,
+    "fullUrl": "https://preview.redd.it/eh5h3x7wydz51.jpg?width=4032&format=pjpg&auto=webp&s=f3ec2a856859173df5356ef5cd1fc2bf70680916",
+    "hash": "ed306dedff",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAmEAACAQMCBAcAAAAAAAAAAAABAgMEBREAMRITIWEGFDJBUoHB/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABcRAAMBAAAAAAAAAAAAAAAAAAABEQL/2gAMAwEAAhEDEQA/AKi7XSsiqBT0kcMSxsM83q0gxnCjYZ7nRkd2Wtmkp50ilbnNGOFOEhRs3cb6s5/D9FeaYiq5qNsWhbgZh8SfcdtBy2WgtDP5OACRvVI3Vj+D6xoHmujVn//Z",
+    "url": "https://preview.redd.it/eh5h3x7wydz51.jpg?width=640&crop=smart&auto=webp&s=84be9afc0a6b70d6cd87830977fc8f7a85d9810a",
+    "width": 640
+  },
+  "score": {
+    "comments": 12,
+    "downs": 0,
+    "ratio": 0.84,
+    "ups": 76,
+    "value": 76
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Is pre built terrain welcome here?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/juk9xf/is_pre_built_terrain_welcome_here/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_17j9l0",
+    "name": "mproteau"
+  },
+  "date": {
+    "day": 1619740800,
+    "full": 1619749907,
+    "month": 1617235200,
+    "week": 1619308800
+  },
+  "id": "t3_n1kelk",
+  "picture": {
+    "filesize": 76660,
+    "fullUrl": "https://preview.redd.it/dpz2019b28w61.jpg?width=4032&format=pjpg&auto=webp&s=6b58987b6f0efd8d326d967a98bbca9f7ab5fb3f",
+    "hash": "c2514b0d7e",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQT/xAAkEAACAgICAgAHAAAAAAAAAAABAgMEBREAIRITBhQiMUFx0f/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQIAEf/aAAwDAQACEQMRAD8APePG53KVosNWrpEtb2SiMAuHHTISej2Ou9nY4BkMVSoSRXbcMcEsZPjYfSSBg2l0F/n7HAaNm1R+H7Ocgtz/ADsaqiBiCih2AOl1rllGkluuuRvPLbut9ftnbyKn79fgDk9okzpjrv/Z",
+    "url": "https://preview.redd.it/dpz2019b28w61.jpg?width=640&crop=smart&auto=webp&s=3117f71eb191e714a32a1d94d4dffc47ed732095",
+    "width": 640
+  },
+  "score": {
+    "comments": 35,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 773,
+    "value": 773
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Introducing... the Gaping Gateway!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/n1kelk/introducing_the_gaping_gateway/"
+}

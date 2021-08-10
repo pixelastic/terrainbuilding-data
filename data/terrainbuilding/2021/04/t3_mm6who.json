@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_50sepgf3",
+    "name": "abcd6784"
+  },
+  "date": {
+    "day": 1617753600,
+    "full": 1617815514,
+    "month": 1617235200,
+    "week": 1617494400
+  },
+  "id": "t3_mm6who",
+  "picture": {
+    "filesize": 66416,
+    "fullUrl": "https://preview.redd.it/yk091fjjasr61.jpg?width=3024&format=pjpg&auto=webp&s=7fa5d045fccbfce3500dc0b0d4156651d30b21c1",
+    "hash": "1da3d95227",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwUG/8QAJRAAAQQBAwIHAAAAAAAAAAAAAQIDBBEFAAYSB0EUFSExUWFx/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABkRAAIDAQAAAAAAAAAAAAAAAAECABESIf/aAAwDAQACEQMRAD8AHMP0+y2RhmWAhCattN3yPb8H3qFLiPwZC48tpTLyDSkLFEadMJubFoxQbkLDbjTYQW0JsqIoWB3uh76yG5ZnnGTMjwzbaAkIQkjkeIurPz66MjtZsciHRMjJ7P/Z",
+    "url": "https://preview.redd.it/yk091fjjasr61.jpg?width=640&crop=smart&auto=webp&s=2dea043a2757c4db2f590bebeb3b91ed2065b4e0",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.82,
+    "ups": 14,
+    "value": 14
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I got this idea from a video on YouTube",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/mm6who/i_got_this_idea_from_a_video_on_youtube/"
+}

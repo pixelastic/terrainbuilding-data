@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_8cspa55j",
+    "name": "Extra_Home"
+  },
+  "date": {
+    "day": 1622592000,
+    "full": 1622592646,
+    "month": 1622505600,
+    "week": 1622332800
+  },
+  "id": "t3_nq8j5j",
+  "picture": {
+    "filesize": 87707,
+    "fullUrl": "https://preview.redd.it/9ubl9kqgvq271.jpg?width=4032&format=pjpg&auto=webp&s=136691c9de7cd12db80251ca878310e4561ebcfa",
+    "hash": "c33b9ff1ac",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFAABAAAAAAAAAAAAAAAAAAAABP/EACIQAAIBBAIBBQAAAAAAAAAAAAECEQADBBIFQSEUMVFx0f/EABQBAQAAAAAAAAAAAAAAAAAAAAX/xAAYEQACAwAAAAAAAAAAAAAAAAAAAQMRMf/aAAwDAQACEQMRAD8ATmXuWwgmPgZ9/wBKiaIG2lV6mCATRsjP5/KTReUv2bfhdd2lhHXk/tPe7cdUd3LM8gk9R8Uf2IECPqKCUzvBRwWtP//Z",
+    "url": "https://preview.redd.it/9ubl9kqgvq271.jpg?width=640&crop=smart&auto=webp&s=f9f720919a876a19ce0676e809528b9e791e30c5",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 0.89,
+    "ups": 12,
+    "value": 12
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Part 3 of my first build!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/nq8j5j/part_3_of_my_first_build/"
+}

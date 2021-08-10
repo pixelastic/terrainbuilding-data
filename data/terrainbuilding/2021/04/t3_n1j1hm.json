@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_699attdp",
+    "name": "mat_aio"
+  },
+  "date": {
+    "day": 1619740800,
+    "full": 1619745068,
+    "month": 1617235200,
+    "week": 1619308800
+  },
+  "id": "t3_n1j1hm",
+  "picture": {
+    "filesize": 108002,
+    "fullUrl": "https://preview.redd.it/m1paxi53o7w61.jpg?width=4032&format=pjpg&auto=webp&s=de97a75f86cf03808bca789e96844fcd6b6a53b2",
+    "hash": "7662c7234a",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQEE/8QAIRAAAgIBBAMBAQAAAAAAAAAAAQIDBBEABQYhEjFRYYH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EACERAAAEBQUAAAAAAAAAAAAAAAECBBEAAxIhoTFBcbHw/9oADAMBAAIRAxEAPwAHlCtBc27bZVhG01rM9moh7JSQg4x3hV9Dv3rVtNGpuE9Sd40EUoMhjjxGRMDhXBC/B2D+aa5ZUr3Kte1NCplBVB8GpxLboAizp5x4x4xq2EXI7wP5pRZYnUBINd9R9viJ51VCQVRbM7B0HGY//9k=",
+    "url": "https://preview.redd.it/m1paxi53o7w61.jpg?width=640&crop=smart&auto=webp&s=1bd505f9f0ec3b55c0789c47bd327b42c0929220",
+    "width": 640
+  },
+  "score": {
+    "comments": 21,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 595,
+    "value": 595
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "An aztec/seraphon temple (wip)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/n1j1hm/an_aztecseraphon_temple_wip/"
+}

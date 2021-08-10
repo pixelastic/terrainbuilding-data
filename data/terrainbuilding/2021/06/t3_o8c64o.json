@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1pttm9ms",
+    "name": "OrciEMT"
+  },
+  "date": {
+    "day": 1624665600,
+    "full": 1624718837,
+    "month": 1622505600,
+    "week": 1624147200
+  },
+  "id": "t3_o8c64o",
+  "picture": {
+    "filesize": 85581,
+    "fullUrl": "https://preview.redd.it/vm59gb0ohm771.jpg?width=3024&format=pjpg&auto=webp&s=cde20b66c2681c321ff14d1bd18621b53a681c68",
+    "hash": "a1a1d73b84",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQf/xAAjEAABAwIGAwEAAAAAAAAAAAABAgMFAAQGERITITFBUYGR/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABgRAAMBAQAAAAAAAAAAAAAAAAECEQAD/9oADAMBAAIRAxEAPwA3F2NpV2Pg3FSTsfetM7b2yQNZQSEnznwB9qkRUzGJjrffc0OqbSpaS30ogZ9J91KVxFrd3bbl02HAlQIQvkZ06FaQAB+80HogaHMVpRv/2Q==",
+    "url": "https://preview.redd.it/vm59gb0ohm771.jpg?width=640&crop=smart&auto=webp&s=a79673d9cfbb3d849b7e4c6c6273d9c8b964e3e5",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 0.95,
+    "ups": 35,
+    "value": 35
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Boom!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/o8c64o/boom/"
+}

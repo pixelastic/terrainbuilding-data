@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_6eridk4k",
+    "name": "Nat1Video"
+  },
+  "date": {
+    "day": 1606694400,
+    "full": 1606737600,
+    "month": 1604188800,
+    "week": 1606608000
+  },
+  "id": "t3_k3uifz",
+  "picture": {
+    "filesize": 430178,
+    "fullUrl": "https://preview.redd.it/dpzf522s9d261.png?width=2560&format=png&auto=webp&s=d3ddb7d6af2a5957b816669926d7fb4deb786fd5",
+    "hash": "2e26728e09",
+    "height": 360,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAABxElEQVQYlQG5AUb+AFZKPGFTRV5XSUBDNzEzJjA0J0RDNVdKOlJRTFhaXFleVioyGyctGiQnGyUkGRgYEgB4cl5/dWFva1dERTosLiQwNypRUkZhXlNTU1VaWVxMTlVDQjxDOCVPQjFLQDM+NikATlpCX2lJTlpCPD8uLjUoLC8mZ2pqY2hvXl9ke32Gb3F3XmBmfG1kdV1KXEs/UUQ3AEJLOVloTmNuXmlrZnJyc4SDgmdqZ2pudXl6fnNzd4qLjomLinZ2d3BoaXNgV1pGPQBdXmZ9foqSkp6hn6+hobCvs6CusKh/gn5lZllRUlaJiYmMjntcW111dIBzcXpqYmMAb29+iIeWmpmnoaOpnJycqa2gs7WvnqCneXtzhoWDpKaRamphW1hhfnyHeXiDeHWAAG9xf4+Nm6ysqrW5nJaZiIWGgZSWl6SmnaqroLW6oKywm42OiYKCkIB/i3BtdVtYXwB0dIWQkpits5LCxa3K0azEy6rFya26vaygpJyprZeVmZR0dHthXGRhVleHb2VtWlcAd3iIeHqGi49/jI6Qf4JxfoF2f3+GgYKNg4OQYF5lXlJQWkpIMCMieGRfe2lhhGVWObW8D1IoN1sAAAAASUVORK5CYII=",
+    "url": "https://preview.redd.it/dpzf522s9d261.png?width=640&crop=smart&auto=webp&s=69cbc1075f50567dd7642e03b046e67171ad861b",
+    "width": 640
+  },
+  "score": {
+    "comments": 34,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 695,
+    "value": 695
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I built Amon Sul from scratch, a very enjoyable project :) If you would like to learn how then please check the comments.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/k3uifz/i_built_amon_sul_from_scratch_a_very_enjoyable/"
+}

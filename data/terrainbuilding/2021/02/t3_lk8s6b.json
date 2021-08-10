@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1itg41qq",
+    "name": "Spawkeye"
+  },
+  "date": {
+    "day": 1613347200,
+    "full": 1613375411,
+    "month": 1612137600,
+    "week": 1613260800
+  },
+  "id": "t3_lk8s6b",
+  "picture": {
+    "filesize": 49802,
+    "fullUrl": "https://preview.redd.it/aoukdgowjlh61.jpg?width=3526&format=pjpg&auto=webp&s=2455938603219e5f866eb879a22bd737056f09a0",
+    "hash": "7ab7860a7b",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwUG/8QAJhAAAgECBAUFAAAAAAAAAAAAAQIDBAUAEhMhBgcxUXEUFTJB8P/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAECESL/2gAMAwEAAhEDEQA/ADThm21yiOGSAx6zFoyw+Qyg/vOKt04ertT1NLGrEFVfUYLlc9E7AnsTjV8tz7nZbXW1o1ZpGKbk5UAYgBR0GF65UMMVtqBECjiHUDg7g7jwen2MTzOoa31p/9k=",
+    "url": "https://preview.redd.it/aoukdgowjlh61.jpg?width=640&crop=smart&auto=webp&s=49ff2b5fc88344329cb5877ecd03e3fc8a6f263a",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.88,
+    "ups": 15,
+    "value": 15
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "In progress 40K urban scatter terrain, ignore the questionable engineering decisions",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/lk8s6b/in_progress_40k_urban_scatter_terrain_ignore_the/"
+}

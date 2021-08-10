@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_26ji55u7",
+    "name": "A__Sofa"
+  },
+  "date": {
+    "day": 1609200000,
+    "full": 1609268672,
+    "month": 1606780800,
+    "week": 1609027200
+  },
+  "id": "t3_kmkkc2",
+  "picture": {
+    "filesize": 45174,
+    "fullUrl": "https://preview.redd.it/5025a1ggc6861.jpg?width=3468&format=pjpg&auto=webp&s=869912c4af8323bbd0ec3a016d605e76789902f2",
+    "hash": "d5487eee62",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABQYHCP/EACMQAAEEAgEDBQAAAAAAAAAAAAECAwQRAAUxBkFRBxIhI4H/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAR/9oADAMBAAIRAxEAPwB+lbpDW3ixg6lKlctE0Vg/FjzWHUuWMzPA9SZgdek7Jbjs5CCIhbSAgKPPvHccEc5SelOo9vuNIzNe2kNlbhV9YKbTRoX4Pf8AcLkDb//Z",
+    "url": "https://preview.redd.it/5025a1ggc6861.jpg?width=640&crop=smart&auto=webp&s=ab3b41a1a10359c108f486ca9e1290d003ba8bae",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 0.94,
+    "ups": 12,
+    "value": 12
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Going for a wizard tower with my next build! WIP",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/kmkkc2/going_for_a_wizard_tower_with_my_next_build_wip/"
+}

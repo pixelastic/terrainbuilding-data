@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_b44txumu",
+    "name": "Custodian_Exemplo"
+  },
+  "date": {
+    "day": 1628208000,
+    "full": 1628262369,
+    "month": 1627776000,
+    "week": 1627776000
+  },
+  "id": "t3_oz8hbr",
+  "picture": {
+    "filesize": 85208,
+    "fullUrl": "https://preview.redd.it/jhmzv31g6rf71.jpg?width=4032&format=pjpg&auto=webp&s=7ce7750a31b7dae33e9d12e21c417ae6369fb647",
+    "hash": "3b2f2c1c4e",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGB//EACMQAAEEAQMEAwAAAAAAAAAAAAECAwQRBQAhQQYSEzEyUXH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABgRAAMBAQAAAAAAAAAAAAAAAAECAwCR/9oADAMBAAIRAxEAPwBxkMO80GMczlHGkw2AhxSAFIvcgEGwasUNjXOp/IdSyY+Sg4x+Iw414UBp5aiz5gn2q6Wk2QPYGxrjRCMpLyLb8SS78k9hdSKWQRvfF1YuuTrS+nsZBkYRLLsNhTY27SgEHYff4NSm61mGA7kyNNyCd//Z",
+    "url": "https://preview.redd.it/jhmzv31g6rf71.jpg?width=640&crop=smart&auto=webp&s=dd4b50bd95e93da287c946859805b0e44649bc0b",
+    "width": 640
+  },
+  "score": {
+    "comments": 40,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 472,
+    "value": 472
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Slow progress on some post apocalypse city board. Any more ideas for terrain pieces would be great!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/oz8hbr/slow_progress_on_some_post_apocalypse_city_board/"
+}

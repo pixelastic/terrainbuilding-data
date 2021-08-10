@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_11agsc",
+    "name": "Judaekus"
+  },
+  "date": {
+    "day": 1608768000,
+    "full": 1608826251,
+    "month": 1606780800,
+    "week": 1608422400
+  },
+  "id": "t3_kjhw76",
+  "picture": {
+    "filesize": 99100,
+    "fullUrl": "https://preview.redd.it/i5ueimnws5761.jpg?width=3024&format=pjpg&auto=webp&s=7b3695062586292882c6b4b40c91abcce69313d9",
+    "hash": "94ea8a1a49",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFAABAAAAAAAAAAAAAAAAAAAAB//EACUQAAIBAwMCBwAAAAAAAAAAAAECAwQFBgAREhUxIVFSYpHC0f/EABUBAQEAAAAAAAAAAAAAAAAAAAEE/8QAGxEAAgEFAAAAAAAAAAAAAAAAAAECAyEiIzH/2gAMAwEAAhEDEQA/AD+gyq7VCRCeojkMj7ALTxn66TsasVLX29pq3lJNzILIiAdh7dHFmw5zEoS+Y4GV+XIXFPLb50p49apqS2RxdcsSMDuTHcoyHPq8ex/NRVopvEdnbn//2Q==",
+    "url": "https://preview.redd.it/i5ueimnws5761.jpg?width=640&crop=smart&auto=webp&s=a3f90ca124fe86cae63802754c02917db2413bfa",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.94,
+    "ups": 23,
+    "value": 23
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A different scale than most of the terrain we see around here! 3D printed map of Seattle, textured and painted as a gift for my mother.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/kjhw76/a_different_scale_than_most_of_the_terrain_we_see/"
+}

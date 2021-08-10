@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1w08nah0",
+    "name": "MaelstromsEdge"
+  },
+  "date": {
+    "day": 1621209600,
+    "full": 1621292584,
+    "month": 1619827200,
+    "week": 1621123200
+  },
+  "id": "t3_neulqy",
+  "picture": {
+    "filesize": 71528,
+    "fullUrl": "https://preview.redd.it/awz1x4ghhrz61.jpg?width=1080&format=pjpg&auto=webp&s=a7fabb55a6637b86b4b97b63566650a9e16b5685",
+    "hash": "eaddaca1e2",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgf/xAAiEAACAQMEAgMAAAAAAAAAAAABAgMEBREAEiExBhNBYaH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAGREAAwADAAAAAAAAAAAAAAAAAAIRARIy/9oADAMBAAIRAxEAPwCZ0FBRXbye6RXCFvZHRvIqodq+xfnjgA46GhtfVoJEiZeYmbaSc4zxj81WW8eWw2+a4W+tL3UKQytAxZg3e05wT9HQB/Htj+6tALySEKu7PZz1oUmE1Hbqn//Z",
+    "url": "https://preview.redd.it/awz1x4ghhrz61.jpg?width=640&crop=smart&auto=webp&s=ceba3954b6e2502fc1e62d95db9283bd695f0220",
+    "width": 640
+  },
+  "score": {
+    "comments": 51,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 883,
+    "value": 883
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Light-up reactor made from LED lantern!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/neulqy/lightup_reactor_made_from_led_lantern/"
+}

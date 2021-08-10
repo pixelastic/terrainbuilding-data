@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4q33ybtg",
+    "name": "Blindman2112"
+  },
+  "date": {
+    "day": 1604707200,
+    "full": 1604781805,
+    "month": 1604188800,
+    "week": 1604188800
+  },
+  "id": "t3_jpxx9n",
+  "picture": {
+    "filesize": 105320,
+    "fullUrl": "https://preview.redd.it/euqk22hnqvx51.jpg?width=2208&format=pjpg&auto=webp&s=7e3449075aea18961ddf2be7a09deaee4a4b6dc7",
+    "hash": "aedbb4c3b8",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAjEAACAQQCAgIDAAAAAAAAAAABAwIEBQYRABITITFRUmHR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAaEQEAAgMBAAAAAAAAAAAAAAABAEECERIh/9oADAMBAAIRAxEAPwCQs+V2+VsmpcLlLpFm0OWOqoyJkdSA9je9k/Xxw/DoNC6uDrEWwraWFNM+FgJgRGXb1sEbjE8rF4uiz2yiRQ3jGW3ETcrzKu0CQmcfxGwT238/3jWM291oSpdHkOLrmtAWwOuUIn3EbHWQ/XILLimXI68n/9k=",
+    "url": "https://preview.redd.it/euqk22hnqvx51.jpg?width=640&crop=smart&auto=webp&s=c64485e267b0a21d322aaf57129a045cbca40549",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.96,
+    "ups": 50,
+    "value": 50
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Candle tutorial (in comments)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/jpxx9n/candle_tutorial_in_comments/"
+}

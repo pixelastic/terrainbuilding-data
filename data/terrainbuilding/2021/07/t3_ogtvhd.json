@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_9dko7j4w",
+    "name": "Swanny48"
+  },
+  "date": {
+    "day": 1625788800,
+    "full": 1625831183,
+    "month": 1625097600,
+    "week": 1625356800
+  },
+  "id": "t3_ogtvhd",
+  "picture": {
+    "filesize": 123123,
+    "fullUrl": "https://preview.redd.it/897lrntad6a71.jpg?width=3024&format=pjpg&auto=webp&s=d1a675f738c6f6adde5bc5193a5d4bc26b88ed6e",
+    "hash": "e1c2db20bb",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQMG/8QAJRAAAQQBAwIHAAAAAAAAAAAAAQIDBBEFAAYhBxITFDFBUZKx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQP/xAAbEQABBAMAAAAAAAAAAAAAAAABAAIRIQNhgf/aAAwDAQACEQMRAD8AqnMS8LMXFcnSJaiXStplXcGEFJFqNcUq/wB0NkJzm75Kp0PJQsMyyBGEZ2PZIHIVdi7ChzXtrJSOpkWPDVEfTNkeK75hSi2GylRN8FKga5PqT8aBk7wwD7veYEoCqATYAH21N5MQy9ow2SH1xf/Z",
+    "url": "https://preview.redd.it/897lrntad6a71.jpg?width=640&crop=smart&auto=webp&s=7cdb7d0397020e219c85bc523b8d2cf44447d68f",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 55,
+    "value": 55
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A super quick encounter I made for tomorrow's game built around a broken bridge I printed. Not at all detailed but gets the job done.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ogtvhd/a_super_quick_encounter_i_made_for_tomorrows_game/"
+}

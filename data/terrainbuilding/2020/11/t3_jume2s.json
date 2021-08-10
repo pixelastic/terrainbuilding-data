@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1dizpcv8",
+    "name": "Jagelsdorf"
+  },
+  "date": {
+    "day": 1605398400,
+    "full": 1605449298,
+    "month": 1604188800,
+    "week": 1605398400
+  },
+  "id": "t3_jume2s",
+  "picture": {
+    "filesize": 81019,
+    "fullUrl": "https://preview.redd.it/ln0t1tnevez51.jpg?width=2855&format=pjpg&auto=webp&s=10461b9afcc4676e6b0e8b122ceaef2e7154a348",
+    "hash": "1115452509",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwMF/8QAKBAAAQMCBAQHAAAAAAAAAAAAAQIDBAURAAYSFAcVMVEhI0FCgZHR/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABwRAAICAgMAAAAAAAAAAAAAAAECABEDEiExof/aAAwDAQACEQMRAD8AY+bMUymIc8x5TiibXufS5v2F/u2M/LGZebVitp3I2LC0oY1AAD9wVcRqw9EzYiPRHHjFjRlxHloUbKVpJ1drgmwIGK8HJu3r4hTWG47My7YSPavqgknqT4j5wUuzZAoFV7xEaAKWJ7n/2Q==",
+    "url": "https://preview.redd.it/ln0t1tnevez51.jpg?width=640&crop=smart&auto=webp&s=90cfd38c97c9d1fed56fa5eb23989a3037886728",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 92,
+    "value": 92
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A Ruined Gothic Cathedral, Sigmar's abandoned Temple",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/jume2s/a_ruined_gothic_cathedral_sigmars_abandoned_temple/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_12wv0fk",
+    "name": "Heygul"
+  },
+  "date": {
+    "day": 1617408000,
+    "full": 1617459778,
+    "month": 1617235200,
+    "week": 1616889600
+  },
+  "id": "t3_mj9gl1",
+  "picture": {
+    "filesize": 59708,
+    "fullUrl": "https://preview.redd.it/5h08w4rtwyq61.jpg?width=4032&format=pjpg&auto=webp&s=8395fb00a37744044974653c484375af2da61ce0",
+    "hash": "cda6483f13",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgMF/8QAIxAAAgIBAwMFAAAAAAAAAAAAAQIDBBEABQYTIjESIVFxgf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAZEQADAAMAAAAAAAAAAAAAAAAAAQIREjH/2gAMAwEAAhEDEQA/ACvJOS3N1sJHubyVuv6iZJ0Z41XOAFjGAFP0dRpVarVLaxQ0rb14+utlKojDhT3qAfPbkg4HjW/bji3SOGO5Ej9NsIwyGX90q49te3rUkryU4ZowA+ZMk59x5z8E6LbAzia6j//Z",
+    "url": "https://preview.redd.it/5h08w4rtwyq61.jpg?width=640&crop=smart&auto=webp&s=80c4a0e251a1239a8cf670e1c57e54f5f2c564e8",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 52,
+    "value": 52
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Reversible Landing Pad",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/mj9gl1/reversible_landing_pad/"
+}

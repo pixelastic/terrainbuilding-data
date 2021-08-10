@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4tf50p1o",
+    "name": "Medical-Breakfast-40"
+  },
+  "date": {
+    "day": 1623974400,
+    "full": 1623976937,
+    "month": 1622505600,
+    "week": 1623542400
+  },
+  "id": "t3_o2ceye",
+  "picture": {
+    "filesize": 31754,
+    "fullUrl": "https://preview.redd.it/tqkprb3o7x571.jpg?width=4032&format=pjpg&auto=webp&s=394218399b5621bb963465182832e402543a1135",
+    "hash": "88376dbb6d",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAJRAAAQMEAQIHAAAAAAAAAAAAAQIDBAAFBhESNUEHIjFRcnOy/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABgRAAIDAAAAAAAAAAAAAAAAAAABESEx/9oADAMBAAIRAxEAPwAlhmLnHYkmRc4yHIoCUofS1yWtSvXWjvj2qFm2N2mZaJ93tzchp9sb4FJSNpA35T7juK3LHekN/EUQ8Q+kzfpX+TQmhvT/2Q==",
+    "url": "https://preview.redd.it/tqkprb3o7x571.jpg?width=640&crop=smart&auto=webp&s=ad109a1b30bb48e8be5b99fa0cb3f43dc388f21d",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 60,
+    "value": 60
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "From facade to full 3d part 1",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/o2ceye/from_facade_to_full_3d_part_1/"
+}

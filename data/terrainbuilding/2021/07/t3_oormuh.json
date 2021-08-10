@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_41s7ajcx",
+    "name": "SHOPlanB"
+  },
+  "date": {
+    "day": 1626825600,
+    "full": 1626879616,
+    "month": 1625097600,
+    "week": 1626566400
+  },
+  "id": "t3_oormuh",
+  "picture": {
+    "filesize": 53108,
+    "fullUrl": "https://preview.redd.it/b7p01hkkykc71.jpg?width=5312&format=pjpg&auto=webp&s=c981672f79e4f555f318bec3b5dfdb5c40bcbac4",
+    "hash": "1d47b5219a",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgX/xAAlEAABAwMDAwUAAAAAAAAAAAABAgMEAAURBiIxEjRzFEFRYbL/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAECETH/2gAMAwEAAhEDEQA/ADrYkahtLYkXRUVKQQQ2lJLqs5A3A++cD6zTawMItBieqVFky2SW2lymkqRwd3SDg8/GaB2Dt3vGKqai7FPlT+TRVVvRUkkf/9k=",
+    "url": "https://preview.redd.it/b7p01hkkykc71.jpg?width=640&crop=smart&auto=webp&s=18cb9ab9f4aa979a002f8fda5d21a9839517174d",
+    "width": 640
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 75,
+    "value": 75
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Wasteland cave/dungeon entrance piece (C&C VERY welcome)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/oormuh/wasteland_cavedungeon_entrance_piece_cc_very/"
+}

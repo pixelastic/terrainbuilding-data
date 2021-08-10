@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_70ewoxny",
+    "name": "professor-jt"
+  },
+  "date": {
+    "day": 1605830400,
+    "full": 1605850452,
+    "month": 1604188800,
+    "week": 1605398400
+  },
+  "id": "t3_jxjex0",
+  "picture": {
+    "filesize": 129481,
+    "fullUrl": "https://preview.redd.it/43jmhbfc0c061.jpg?width=3024&format=pjpg&auto=webp&s=551fc6f368ea5cff8bcbf1605877ac707dc4916e",
+    "hash": "c26c6a70de",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUG/8QAIxAAAQQBAgcBAAAAAAAAAAAAAQIDBBEFABMGISIkMUFxUf/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAZEQEBAAMBAAAAAAAAAAAAAAABAgADEQT/2gAMAwEAAhEDEQA/ACcLsQn0stpyCkRBJSQ6QE7tAkAD3SgmydHz3FmTmzu6j5SE4wNnbCGFWAT1dRsXd1z+6wWPysqIukSiGwhTQQTQCVEH988vP3VVydEmFLsraW4EhNlXoChoU60euMv1TZyRc//Z",
+    "url": "https://preview.redd.it/43jmhbfc0c061.jpg?width=640&crop=smart&auto=webp&s=9250053aa54f2ed31c38f09ec766d4384cfeca49",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 0.95,
+    "ups": 58,
+    "value": 58
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP - infinity terrain I’ve started working on",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/jxjex0/wip_infinity_terrain_ive_started_working_on/"
+}

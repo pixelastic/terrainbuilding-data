@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_j1ssh",
+    "name": "mmilkily"
+  },
+  "date": {
+    "day": 1621296000,
+    "full": 1621298314,
+    "month": 1619827200,
+    "week": 1621123200
+  },
+  "id": "t3_newldj",
+  "picture": {
+    "filesize": 72231,
+    "fullUrl": "https://preview.redd.it/93lbriiryrz61.jpg?width=3648&format=pjpg&auto=webp&s=0f8e92d67e7705bfc9f7c8aa85ddf914e0988736",
+    "hash": "b711f29df5",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAX/xAAnEAACAQMCBAcBAAAAAAAAAAABAgMEBREAEgYTIVEUFSIxQZGx8P/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAHhEAAQQBBQAAAAAAAAAAAAAAEQABAgQDISIycbH/2gAMAwEAAhEDEQA/AIN7t9ttvh7dLX3SpE3MRpEqGjdg2NrMpBBAPx203hThSk84gaK+3aM0+WSd9u1GAyei+okZHTHsdV67FQnJlVCqISh2jKnuD/DRuDW5bNJGqo8pIYgfme/T60JjG2pChXszsNt5dMPF/9k=",
+    "url": "https://preview.redd.it/93lbriiryrz61.jpg?width=640&crop=smart&auto=webp&s=b5c1a1cee3fcdb82954fc11be28e104209f91233",
+    "width": 640
+  },
+  "score": {
+    "comments": 12,
+    "downs": 0,
+    "ratio": 0.96,
+    "ups": 17,
+    "value": 17
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Any tips or recommendations? (still wip)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/newldj/any_tips_or_recommendations_still_wip/"
+}

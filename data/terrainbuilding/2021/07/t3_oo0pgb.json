@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_3lg2a52d",
+    "name": "flammingskull09"
+  },
+  "date": {
+    "day": 1626739200,
+    "full": 1626782623,
+    "month": 1625097600,
+    "week": 1626566400
+  },
+  "id": "t3_oo0pgb",
+  "picture": {
+    "filesize": 76352,
+    "fullUrl": "https://preview.redd.it/g0gm68zcycc71.jpg?width=4032&format=pjpg&auto=webp&s=85c26635e82bce1933ab3ea552093e979918ae5f",
+    "hash": "5397540b38",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDBP/EACMQAAICAAYCAwEAAAAAAAAAAAECAwQABQYREjEhQRMiYaH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGxEAAgIDAQAAAAAAAAAAAAAAAQIAExESUYH/2gAMAwEAAhEDEQA/ACrnkaX46NqI1HggQs1lgGLt4Hvr+4g+opF0vLdvrWaNJgHcSENyBIB47bdj1h6tKN9eZmLRNvjLBxNhVfipLfUeOsY8nopmWTym3JK0cUsrfECAjESAAkbd/uCUqVPkVcwOuez/2Q==",
+    "url": "https://preview.redd.it/g0gm68zcycc71.jpg?width=640&crop=smart&auto=webp&s=b26d6843aeef27a46ca7cd2ceea011703ce796d5",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 74,
+    "value": 74
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First try",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/oo0pgb/first_try/"
+}

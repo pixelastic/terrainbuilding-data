@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_abg3c",
+    "name": "Zrzska"
+  },
+  "date": {
+    "day": 1606348800,
+    "full": 1606402952,
+    "month": 1604188800,
+    "week": 1606003200
+  },
+  "id": "t3_k1gnxm",
+  "picture": {
+    "filesize": 112144,
+    "fullUrl": "https://preview.redd.it/wfo6lyd7nl161.jpg?width=3024&format=pjpg&auto=webp&s=b51463c743573be563248271ab9f87fc7a8f6aec",
+    "hash": "9ee15dff8e",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMF/8QAIRAAAQQCAgIDAAAAAAAAAAAAAQIDBBEFIQASIlEGE0H/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAHhEAAgEDBQAAAAAAAAAAAAAAAQIRAAQhAxJBsfD/2gAMAwEAAhEDEQA/AMV+o0h4JyqkIS8XVt0ohJJ0ixo16/OOw8aNMil1M76lFXmKeFqob0qvXKz/AIw3GxbriJ1lrzX2BCVJG66g1d7s8DicJNmR1uwsgww33IKVdhuhvXBpdq+nJcwMeFIe12vAQSc8d1//2Q==",
+    "url": "https://preview.redd.it/wfo6lyd7nl161.jpg?width=640&crop=smart&auto=webp&s=3892b036a957fa1418b6f54bd2aef0cc2b3eb26e",
+    "width": 640
+  },
+  "score": {
+    "comments": 10,
+    "downs": 0,
+    "ratio": 0.94,
+    "ups": 31,
+    "value": 31
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First try to create Dungeon tiles (tips appreciated)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/k1gnxm/first_try_to_create_dungeon_tiles_tips_appreciated/"
+}

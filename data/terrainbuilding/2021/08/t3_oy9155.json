@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5ngn5b9s",
+    "name": "FubarBohica"
+  },
+  "date": {
+    "day": 1628121600,
+    "full": 1628133523,
+    "month": 1627776000,
+    "week": 1627776000
+  },
+  "id": "t3_oy9155",
+  "picture": {
+    "filesize": 33338,
+    "fullUrl": "https://preview.redd.it/ruylpylcjgf71.jpg?width=4160&format=pjpg&auto=webp&s=e5c715ce50ae017aaa50f259023b011933f1cb2e",
+    "hash": "16b6649721",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQH/8QAIRAAAQMDBQEBAAAAAAAAAAAAAgEDBQAEBhESITFxQYH/xAAVAQEBAAAAAAAAAAAAAAAAAAACBP/EABYRAQEBAAAAAAAAAAAAAAAAAAEAIf/aAAwDAQACEQMRAD8AtDALWPhrUJJsX5BA3PPcaoS87fE6/KLT+Lsu2L7LaoJqmoGnCiSdVrmSffKAyXZ0EKwcv//Z",
+    "url": "https://preview.redd.it/ruylpylcjgf71.jpg?width=640&crop=smart&auto=webp&s=b788ca5eff9209935120eefa718cb17715098fa1",
+    "width": 640
+  },
+  "score": {
+    "comments": 10,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 48,
+    "value": 48
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My progress so far. Not the final layout. Just seeing how it looks",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/oy9155/my_progress_so_far_not_the_final_layout_just/"
+}

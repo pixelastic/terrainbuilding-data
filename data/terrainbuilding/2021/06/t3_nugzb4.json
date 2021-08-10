@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_mq4v6lb",
+    "name": "kirestus"
+  },
+  "date": {
+    "day": 1623024000,
+    "full": 1623083835,
+    "month": 1622505600,
+    "week": 1622937600
+  },
+  "id": "t3_nugzb4",
+  "picture": {
+    "filesize": 58237,
+    "fullUrl": "https://preview.redd.it/g1afxg11gv371.jpg?width=4608&format=pjpg&auto=webp&s=41ae652381fd91ef3da90f07f4663da3fcdca9d6",
+    "hash": "cc3c8a4dae",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgMF/8QAJxAAAQIFAQgDAAAAAAAAAAAAAQIDAAQFBhExBxIUITRBcrI2YbH/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAGxEAAQQDAAAAAAAAAAAAAAAAAQACERIhIvD/2gAMAwEAAhEDEQA/ACNzUpmgJp7DUuyJF+XEwgmXCg24rG8STkg6c/yF2zFIn6c5TjIMKcaSrhnykJbXg4Uk9yfs5GncRa8ektjxHq3GjanzWo+LfvBDTdonspQ6kwv/2Q==",
+    "url": "https://preview.redd.it/g1afxg11gv371.jpg?width=640&crop=smart&auto=webp&s=5950ea96a22697b523bc0f53a3704dd2f44b568e",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 56,
+    "value": 56
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Built some dungeon tiles and a river this weekend",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/nugzb4/built_some_dungeon_tiles_and_a_river_this_weekend/"
+}

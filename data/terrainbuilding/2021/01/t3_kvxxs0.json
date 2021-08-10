@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_2vmgu3ip",
+    "name": "Shadeblight"
+  },
+  "date": {
+    "day": 1610409600,
+    "full": 1610477520,
+    "month": 1609459200,
+    "week": 1610236800
+  },
+  "id": "t3_kvxxs0",
+  "picture": {
+    "filesize": 54629,
+    "fullUrl": "https://preview.redd.it/0kd4djyu6ya61.jpg?width=4000&format=pjpg&auto=webp&s=41b0805c53091f0b59eac29b99316810cd79a960",
+    "hash": "4620df84f8",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwYH/8QAIhAAAQMDBAMBAAAAAAAAAAAAAQIDBBESIQAFEzEUQVFx/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABsRAAICAwEAAAAAAAAAAAAAAAEEAAMCETEy/9oADAMBAAIRAxEAPwDNYbTG2h+YlySidcECiPporFfWi88ImhEZ11SLTzLuoE57A9fmdLvcyY9NabXLet4skEAnPZx3qQ3NNhIBUfpJrXRVWbgPXYpheonZx5P/2Q==",
+    "url": "https://preview.redd.it/0kd4djyu6ya61.jpg?width=640&crop=smart&auto=webp&s=c239615dea0077b63e8c0b55ee2937b4fa1f3d8b",
+    "width": 640
+  },
+  "score": {
+    "comments": 20,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 719,
+    "value": 719
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Scratch build bunker - 99% recycled materials",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/kvxxs0/scratch_build_bunker_99_recycled_materials/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_9tjz157",
+    "name": "wolfman2scary"
+  },
+  "date": {
+    "day": 1627516800,
+    "full": 1627526412,
+    "month": 1625097600,
+    "week": 1627171200
+  },
+  "id": "t3_ototsx",
+  "picture": {
+    "filesize": 68299,
+    "fullUrl": "https://preview.redd.it/yf8t8qq3e2e71.jpg?width=4032&format=pjpg&auto=webp&s=87b48e69db994c3a0e2b518dda813ffacb8a53ca",
+    "hash": "ee48d985ef",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQF/8QAKRAAAQIFAAkFAAAAAAAAAAAAAQIDAAQFESEGEhMUMTI0NkFzdJGxs//EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAYEQEAAwEAAAAAAAAAAAAAAAABAAIhEv/aAAwDAQACEQMRAD8AppmjtIl5FosMS780GtTeJtIUteCDm2DnxwxB+bbp1HnC07sVlYBLbTYKWCeY3BuVG5yT8CN2r9jL9ZX0YCU/pk+4c/OB1qrrEdhXDZ//2Q==",
+    "url": "https://preview.redd.it/yf8t8qq3e2e71.jpg?width=640&crop=smart&auto=webp&s=f8b3dda0455324983ea54c65e096160718f2ca03",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 76,
+    "value": 76
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Simple Terrain Build - C&C Welcome",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ototsx/simple_terrain_build_cc_welcome/"
+}

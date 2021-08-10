@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_rg67p",
+    "name": "TheEyeofOrion"
+  },
+  "date": {
+    "day": 1618876800,
+    "full": 1618935235,
+    "month": 1617235200,
+    "week": 1618704000
+  },
+  "id": "t3_mutwqi",
+  "picture": {
+    "filesize": 66767,
+    "fullUrl": "https://preview.redd.it/04tx88gorcu61.jpg?width=1500&format=pjpg&auto=webp&s=b6adc81b01f37dffb6e38d75e307ba1632bb9888",
+    "hash": "bc344c3cd8",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMFBv/EACQQAAIBAgUEAwAAAAAAAAAAAAECAwAEBRESISITMUGBMlGR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAYEQADAQEAAAAAAAAAAAAAAAAAAQIRkf/aAAwDAQACEQMRAD8Ag2eHwQTWUcaqI3mSPURx7jMH1Tp8Pgla5WUAxiRk1Acc9zl+VjLLHupcwMJjEC6nUdl2Pk+O9G/xeZ7m6e3ZpFMjMzL8CfsehUrl6Oq4f//Z",
+    "url": "https://preview.redd.it/04tx88gorcu61.jpg?width=640&crop=smart&auto=webp&s=f58ed087d7aad87d73d23f85f15750161fd99ff0",
+    "width": 640
+  },
+  "score": {
+    "comments": 40,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 774,
+    "value": 774
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Cranium Span, my horrific bridge, is complete.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/mutwqi/cranium_span_my_horrific_bridge_is_complete/"
+}

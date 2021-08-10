@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_q2wl06y",
+    "name": "V_Maverick"
+  },
+  "date": {
+    "day": 1625184000,
+    "full": 1625229736,
+    "month": 1625097600,
+    "week": 1624752000
+  },
+  "id": "t3_oc9ac4",
+  "picture": {
+    "filesize": 161983,
+    "fullUrl": "https://preview.redd.it/3buxlbyvos871.jpg?width=3024&format=pjpg&auto=webp&s=db371a09a6dbfb14c48b21ff124aea463d547ef5",
+    "hash": "dbf7ac6865",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgID/8QAJRAAAgIBBAEDBQAAAAAAAAAAAQIDBBEABSExEwZBgRIUIlGR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQP/xAAYEQADAQEAAAAAAAAAAAAAAAABAgMAEf/aAAwDAQACEQMRAD8AI2qm1xbShpK7z2I1VULyyFYiAQPyOARzyPjR7dvS+9bvda3UqKwYAO7jH1MPcc9YwPjW+1utnb/LPaapBUPjmfnMeM4Vv2x9gO/7qbFyMiH7ezaij8Ywkk5Vh32AcaokWoeoMNQTHDv/2Q==",
+    "url": "https://preview.redd.it/3buxlbyvos871.jpg?width=640&crop=smart&auto=webp&s=6f0ac4c234ee5367a9320197715f640d46054fb7",
+    "width": 640
+  },
+  "score": {
+    "comments": 18,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 302,
+    "value": 302
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My first attempt ever at 40k terrain. I think it turned out pretty well!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/oc9ac4/my_first_attempt_ever_at_40k_terrain_i_think_it/"
+}

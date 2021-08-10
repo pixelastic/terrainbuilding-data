@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_2vbeg1hq",
+    "name": "PortWilkins"
+  },
+  "date": {
+    "day": 1614038400,
+    "full": 1614044986,
+    "month": 1612137600,
+    "week": 1613865600
+  },
+  "id": "t3_lq63g0",
+  "picture": {
+    "filesize": 84047,
+    "fullUrl": "https://preview.redd.it/qczy6zwvu4j61.jpg?width=4032&format=pjpg&auto=webp&s=d77c976973ebd759368aeb90887a5b72b11c0410",
+    "hash": "ce913c26e2",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAkEAACAgICAAYDAAAAAAAAAAABAgMEBREABgcSEyEyYTFRkf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGxEAAgIDAQAAAAAAAAAAAAAAAgMAAQQSITL/2gAMAwEAAhEDEQA/ABM52rIZLLzwgPXpLYaKOGDZ9NF2BtR8mJA2TvX64l1K9mMZlKsksktnG3LkddqloHbK7Bdop+JBOxrWwPccU771ijjpzn8Y81O7YcmVYipjYn8t5WB0T9cu/B7rNK3UrZ3IvPeyCOWhNhgVhJ9tqoAAP9+uSCaCxfPIzacDrvaf/9k=",
+    "url": "https://preview.redd.it/qczy6zwvu4j61.jpg?width=640&crop=smart&auto=webp&s=4ef61514384d626fbc9a9587f93aba707aad6447",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 130,
+    "value": 130
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Two-Sided Terrain; Dungeon and Tavern",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/lq63g0/twosided_terrain_dungeon_and_tavern/"
+}

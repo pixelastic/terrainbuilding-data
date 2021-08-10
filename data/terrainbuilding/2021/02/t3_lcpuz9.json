@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5sdha68h",
+    "name": "Dtharme"
+  },
+  "date": {
+    "day": 1612396800,
+    "full": 1612472095,
+    "month": 1612137600,
+    "week": 1612051200
+  },
+  "id": "t3_lcpuz9",
+  "picture": {
+    "filesize": 71060,
+    "fullUrl": "https://preview.redd.it/c2h6u4gvxif61.jpg?width=3024&format=pjpg&auto=webp&s=59abc37cb6236101358a981f900fe8bffa8226ee",
+    "hash": "50649582dc",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAf/xAAjEAACAQMDBAMAAAAAAAAAAAABAgMEETEABUEGEiFhE3Gh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAZEQADAQEBAAAAAAAAAAAAAAABAgMAESH/2gAMAwEAAhEDEQA/AJW2z09D1C9LFOjsHKqxIKxXOL4JGL+vGmvNBttSfkgSa4aOwYsDx3C4H3jnQaethho2REjSd8vIvkHn0dFqTHaLsmM8hYlmAP7oUgBNqOwJ55qTVjQIo4N//9k=",
+    "url": "https://preview.redd.it/c2h6u4gvxif61.jpg?width=640&crop=smart&auto=webp&s=b85f801c54e27bc0cf42ca04aad5873192fc053d",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 0.89,
+    "ups": 22,
+    "value": 22
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A little more progress on the sludge flume of doom... WIP",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/lcpuz9/a_little_more_progress_on_the_sludge_flume_of/"
+}

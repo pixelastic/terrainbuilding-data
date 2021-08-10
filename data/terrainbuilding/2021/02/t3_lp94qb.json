@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_zgcoub0",
+    "name": "ColKilgoreTroutman"
+  },
+  "date": {
+    "day": 1613865600,
+    "full": 1613948859,
+    "month": 1612137600,
+    "week": 1613865600
+  },
+  "id": "t3_lp94qb",
+  "picture": {
+    "filesize": 54259,
+    "fullUrl": "https://preview.redd.it/d0df8z7vwwi61.jpg?width=4032&format=pjpg&auto=webp&s=d08c34565b1aa6a573ed89a0741a3ebcf9e949e3",
+    "hash": "3d19b3e7a8",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQH/8QAJRAAAQMDAwMFAAAAAAAAAAAAAQIDBQQREgAhQQYTUSIxMnGh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAWEQEBAQAAAAAAAAAAAAAAAAAAETH/2gAMAwEAAhEDEQA/AFGqOFaedqWKZbtW+D6H3CtLaj8gUcgccEW2vonrWcl4aVhI+JkC22G03CWiQ6vPGxxGydvbWjMQdM9Uudxx4pAtiCkbeLgX/dSS/Q8TIytDIPmrD9MtOGDxCSArKxH34tqbTj//2Q==",
+    "url": "https://preview.redd.it/d0df8z7vwwi61.jpg?width=640&crop=smart&auto=webp&s=a73c46b300ed190bc6147f4526462bb73050dc10",
+    "width": 640
+  },
+  "score": {
+    "comments": 22,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 473,
+    "value": 473
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I've seen lots of magnetized terrain...",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/lp94qb/ive_seen_lots_of_magnetized_terrain/"
+}

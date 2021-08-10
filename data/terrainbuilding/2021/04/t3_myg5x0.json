@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_9ejd8ydh",
+    "name": "Forward-Fortune-3883"
+  },
+  "date": {
+    "day": 1619308800,
+    "full": 1619380578,
+    "month": 1617235200,
+    "week": 1619308800
+  },
+  "id": "t3_myg5x0",
+  "picture": {
+    "filesize": 71962,
+    "fullUrl": "https://preview.redd.it/03dcyfackdv61.jpg?width=4048&format=pjpg&auto=webp&s=ffedeff37134062aaa997bbc0a373c9618982f10",
+    "hash": "257ad22ffc",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQGB//EACYQAAEEAAUCBwAAAAAAAAAAAAECAwQFABESITEGcQcTQUJRYYH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABkRAAIDAQAAAAAAAAAAAAAAAAERAAIDIf/aAAwDAQACEQMRAD8Ai6Xw7NZZLbupwdQ0kFLDO2ske485dufnBrfoWufSG6xT0WQQAEhRcSczwRzn2ONzFJBmzjNktFx0Dy9JUdJH2P3DS6CqMluSIDKHkK1hSAU7j125xItwnPQ3YPJ//9k=",
+    "url": "https://preview.redd.it/03dcyfackdv61.jpg?width=640&crop=smart&auto=webp&s=907c61971248f5a444421039c162280aca36a2c4",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 0.84,
+    "ups": 20,
+    "value": 20
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Necron's teleport",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/myg5x0/necrons_teleport/"
+}

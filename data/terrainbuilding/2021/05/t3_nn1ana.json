@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_bo22k",
+    "name": "Alephus"
+  },
+  "date": {
+    "day": 1622160000,
+    "full": 1622218389,
+    "month": 1619827200,
+    "week": 1621728000
+  },
+  "id": "t3_nn1ana",
+  "picture": {
+    "filesize": 65153,
+    "fullUrl": "https://preview.redd.it/3sm9q3y8yv171.jpg?width=2100&format=pjpg&auto=webp&s=5ab82e50c5b3fa8d8085f710537398b94e6061b4",
+    "hash": "e01179a292",
+    "height": 396,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAKABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQQFBv/EAB0QAAICAgMBAAAAAAAAAAAAAAECAwQFEQAhMRL/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAv/EABkRAAIDAQAAAAAAAAAAAAAAAAECABESQf/aAAwDAQACEQMRAD8AYzJWvkpIYLELBpQscbQSL5sEFta7IOjyfNlFoZSGpkJKqNL8oqRsSwYn07HQ1zb5etAMvacQRBlkcqfgbB864cZUrzI7zV4ZHA6ZkBI5BUBqhCxXV9n/2Q==",
+    "url": "https://preview.redd.it/3sm9q3y8yv171.jpg?width=640&crop=smart&auto=webp&s=b2ab9dded0e010032ce887a05547272dd7a8cb46",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 61,
+    "value": 61
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Underdark Structures",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/nn1ana/underdark_structures/"
+}

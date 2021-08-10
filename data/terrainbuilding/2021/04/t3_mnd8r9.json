@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_cvpmv",
+    "name": "Soivet"
+  },
+  "date": {
+    "day": 1617926400,
+    "full": 1617959257,
+    "month": 1617235200,
+    "week": 1617494400
+  },
+  "id": "t3_mnd8r9",
+  "picture": {
+    "filesize": 84439,
+    "fullUrl": "https://preview.redd.it/5gkq0wh164s61.jpg?width=640&format=pjpg&auto=webp&s=5a137691d8a2c43ab03fde6c01324adcb11771bf",
+    "hash": "d3fdb5c54c",
+    "height": 769,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQH/8QAJRAAAgEDAwIHAAAAAAAAAAAAAQIDBAURAAYiYYEHEiEyQlFx/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABoRAAEFAQAAAAAAAAAAAAAAAAEAAgMRUSH/2gAMAwEAAhEDEQA/AD25N6217tDXVVraWWmq1qC0cwUs6tlVZscvaO2dK4/H1kLM21qNix+NTjH7kddZbV2W808rxiheVJT5ZCYy/DOSAev2NRXSzSvMjNR1CEr6I0bcR20WNwBvU2RpeKzi/9k=",
+    "url": "https://preview.redd.it/5gkq0wh164s61.jpg?width=640&crop=smart&auto=webp&s=f76efba976405348d98887c756b57161d91996ef",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 85,
+    "value": 85
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Lava terrain for 40K a balance between competitive functionality and ascetic.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/mnd8r9/lava_terrain_for_40k_a_balance_between/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_8v5500f",
+    "name": "Th_Immrsv_Wrld_Crftr"
+  },
+  "date": {
+    "day": 1623715200,
+    "full": 1623785275,
+    "month": 1622505600,
+    "week": 1623542400
+  },
+  "id": "t3_o0mghd",
+  "picture": {
+    "filesize": 52396,
+    "fullUrl": "https://preview.redd.it/mux6mj6sdh571.jpg?width=1080&format=pjpg&auto=webp&s=bfe4f128bd22abff506a34d04c4f935fbe4a96ab",
+    "hash": "8ebdebf89d",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMI/8QAIhAAAgIBBAEFAAAAAAAAAAAAAQIDBBEABSFhEgYTQlGR/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABgRAQADAQAAAAAAAAAAAAAAAAEAAhES/9oADAMBAAIRAxEAPwDOe1xbWtIHcIZJTIMmSJsNFzxgHg96aPT0KyVbVS1DcotMqMQCrqfoqdRXbbUEfsNXeQKceSqSD2NORbRt0oYoJoaEDDxUrgsfk7dk/gAGg3MYuXSf/9k=",
+    "url": "https://preview.redd.it/mux6mj6sdh571.jpg?width=640&crop=smart&auto=webp&s=1de96042cea6c2e4e0736f51a6bbc444127c7a8e",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 0.95,
+    "ups": 54,
+    "value": 54
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Improving HDF Terrain with Balsa Wood Fascias",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/o0mghd/improving_hdf_terrain_with_balsa_wood_fascias/"
+}

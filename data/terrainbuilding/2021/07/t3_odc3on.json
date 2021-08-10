@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1jtx134m",
+    "name": "RedRightRepost"
+  },
+  "date": {
+    "day": 1625356800,
+    "full": 1625368303,
+    "month": 1625097600,
+    "week": 1625356800
+  },
+  "id": "t3_odc3on",
+  "picture": {
+    "filesize": 54927,
+    "fullUrl": "https://preview.redd.it/i5m65yqx44971.jpg?width=4032&format=pjpg&auto=webp&s=ee98ef7e381f30552312a048ffb6d0bf53e21561",
+    "hash": "b415ac665e",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQH/8QAIRAAAgIBBAIDAAAAAAAAAAAAAQMCBBEABRIhMVEGQXH/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAGxEAAgIDAQAAAAAAAAAAAAAAAQMABBETIjH/2gAMAwEAAhEDEQA/AK2UadT45ft7jVLrM7TFtEZjETnlkR8Y78exrK93uTG6Jch7lzMCeecfeB40z3gzr1XV0NZBMjkwB6z+aFW68Hc2NMpTI7JPrRq7AYMH2Isra+hP/9k=",
+    "url": "https://preview.redd.it/i5m65yqx44971.jpg?width=640&crop=smart&auto=webp&s=6e853a2f549961f4c61e091de8912b1037a37df1",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 0.94,
+    "ups": 50,
+    "value": 50
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Ruined tower coming along...",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/odc3on/ruined_tower_coming_along/"
+}

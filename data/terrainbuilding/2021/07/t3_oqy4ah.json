@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_35se1583",
+    "name": "The_M15"
+  },
+  "date": {
+    "day": 1627084800,
+    "full": 1627160434,
+    "month": 1625097600,
+    "week": 1626566400
+  },
+  "id": "t3_oqy4ah",
+  "picture": {
+    "filesize": 47248,
+    "fullUrl": "https://preview.redd.it/nmsryoiu58d71.jpg?width=4000&format=pjpg&auto=webp&s=ee319e85ab0307f982574ee17bb9d366b4c8d424",
+    "hash": "9a17fd9e02",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUG/8QAIxAAAQQBAwQDAAAAAAAAAAAAAQIDBBEFAAYxEhNxgSEjMv/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGBEBAQADAAAAAAAAAAAAAAAAEQABAhL/2gAMAwEAAhEDEQA/AAbQ2u0nCsuz4rcuZIJdX3FGkpP5HPv3qhnNoRpeGlKgxnIGRjJ77SmHlHrAu01dHxrPQN8ZRFgNxKCaH1niuOdJyG+cuyEvtmOFiwB2/iq86XOy0nBf/9k=",
+    "url": "https://preview.redd.it/nmsryoiu58d71.jpg?width=640&crop=smart&auto=webp&s=2d34ca2e4f4210df6b1b5b7b3bbe3f91aa65c0c9",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 127,
+    "value": 127
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Test piece for a plastered wall and stone floor",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/oqy4ah/test_piece_for_a_plastered_wall_and_stone_floor/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5v4ww56d",
+    "name": "shalazan1373"
+  },
+  "date": {
+    "day": 1613433600,
+    "full": 1613452020,
+    "month": 1612137600,
+    "week": 1613260800
+  },
+  "id": "t3_lkwh0n",
+  "picture": {
+    "filesize": 54217,
+    "fullUrl": "https://preview.redd.it/5kfvyajovrh61.jpg?width=4032&format=pjpg&auto=webp&s=88079083acf96a55121713ef55e4d4f940e82ab2",
+    "hash": "ac575ee664",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgH/xAAiEAACAgICAgIDAAAAAAAAAAABAgMEBREABiExEmEyQUL/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABcRAQEBAQAAAAAAAAAAAAAAAAEAETH/2gAMAwEAAhEDEQA/AJ21kzdqrkreTNgyxh6q1qbD5QsWC723s6+9fXA/cepWoqMlmi084EZkCPDrYX8gGBIJHnx+9eOILvacrSx2MoQTIKqVUCoY1/k/Eedb9cNdk7Dm7NSvI+XuqkkCSGGNwsYJOtAAeuSTWRy//9k=",
+    "url": "https://preview.redd.it/5kfvyajovrh61.jpg?width=640&crop=smart&auto=webp&s=82f068bc6dfee85e42e6f72c549e561580a50b7a",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 25,
+    "value": 25
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First terrain wip",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/lkwh0n/first_terrain_wip/"
+}

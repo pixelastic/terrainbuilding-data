@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_65r0craj",
+    "name": "Veers74"
+  },
+  "date": {
+    "day": 1613260800,
+    "full": 1613330745,
+    "month": 1612137600,
+    "week": 1613260800
+  },
+  "id": "t3_ljval1",
+  "picture": {
+    "filesize": 108147,
+    "fullUrl": "https://preview.redd.it/i6vwgmkzuhh61.jpg?width=4032&format=pjpg&auto=webp&s=de625281ecc49021d74250e4970e9e1c566e9c9b",
+    "hash": "bc6edf4373",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQID/8QAIxAAAgIBAwUAAwAAAAAAAAAAAQIDBBEABSESExQxUTJhsf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGhEAAgIDAAAAAAAAAAAAAAAAAAECAxEicf/aAAwDAQACEQMRAD8AkNNHaSrfud6xKSruYQOhAueR+h905uKVNxetbj8KXcHdALEsIk7gHGCRgjIyOPWhqN6bzbznpLykIWxyAFBAHz3/ADWSxR7hDb7qLGaTZhMQ6CGx+Rx7Opq9s8Fk2f/Z",
+    "url": "https://preview.redd.it/i6vwgmkzuhh61.jpg?width=640&crop=smart&auto=webp&s=3898e376edeab6bdc7596d6005a426a703d84071",
+    "width": 640
+  },
+  "score": {
+    "comments": 14,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 435,
+    "value": 435
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Almost finished terrain from earlier post.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ljval1/almost_finished_terrain_from_earlier_post/"
+}

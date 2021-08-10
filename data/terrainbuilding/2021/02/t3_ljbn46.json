@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5xg0gijh",
+    "name": "Buckerface"
+  },
+  "date": {
+    "day": 1613174400,
+    "full": 1613257528,
+    "month": 1612137600,
+    "week": 1612656000
+  },
+  "id": "t3_ljbn46",
+  "picture": {
+    "filesize": 92284,
+    "fullUrl": "https://preview.redd.it/um3yt8vdtbh61.jpg?width=3024&format=pjpg&auto=webp&s=6ab16093a0d46c78a0e751ad7cce1d2ff4eac500",
+    "hash": "81bcca79ed",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAIxAAAgEEAQMFAAAAAAAAAAAAAgMBBAURIQAGEjETIkFRof/EABQBAQAAAAAAAAAAAAAAAAAAAAL/xAAaEQACAgMAAAAAAAAAAAAAAAAAAgEDESGB/9oADAMBAAIRAxEAPwDLKYqGz21JlRGZM7lEU5g16xPxiY3PJl+qbfKVU40UEoVDuR7WTre/Gc7/ADjW7WxHUVEoVOilkWd4tWOce36zw5fbMNLSwimFz/RWMS+QgRIo87zwpbGNjatuH//Z",
+    "url": "https://preview.redd.it/um3yt8vdtbh61.jpg?width=640&crop=smart&auto=webp&s=c6c633df30bcd8060d4eae961898bcd80335ffcd",
+    "width": 640
+  },
+  "score": {
+    "comments": 10,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 203,
+    "value": 203
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First time doing terrain!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ljbn46/first_time_doing_terrain/"
+}

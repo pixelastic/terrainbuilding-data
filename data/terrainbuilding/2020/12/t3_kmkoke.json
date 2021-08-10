@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_cb3p4",
+    "name": "ljsm2013"
+  },
+  "date": {
+    "day": 1609200000,
+    "full": 1609269024,
+    "month": 1606780800,
+    "week": 1609027200
+  },
+  "id": "t3_kmkoke",
+  "picture": {
+    "filesize": 51680,
+    "fullUrl": "https://preview.redd.it/uqwiplyed6861.jpg?width=4032&format=pjpg&auto=webp&s=d36c5e1dc3b1e7692ce46334afde990e63d034dc",
+    "hash": "b65b65b135",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgME/8QAIBAAAgICAwADAQAAAAAAAAAAAQIDBAURABIhFCMxcf/EABUBAQEAAAAAAAAAAAAAAAAAAAUG/8QAGhEAAQUBAAAAAAAAAAAAAAAAAQACERITA//aAAwDAQACEQMRAD8AR5TCY2BoILXyp2cE9FfqWA1v3zkcPjMTfuyxVE+uDZRTKWZW9Db14PDrX7xpfxlbJRoloOVQ9h1cr6P5zJUq18ZEUo144lY7IA/eTG/QmbFN5ttEL//Z",
+    "url": "https://preview.redd.it/uqwiplyed6861.jpg?width=640&crop=smart&auto=webp&s=12caa9ae8968c17ace41fa1e4e6fe7e60e0df72d",
+    "width": 640
+  },
+  "score": {
+    "comments": 12,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 448,
+    "value": 448
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Tatooine buildings for Star Wars Legion.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/kmkoke/tatooine_buildings_for_star_wars_legion/"
+}

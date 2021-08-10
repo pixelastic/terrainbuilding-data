@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_12wv0fk",
+    "name": "Heygul"
+  },
+  "date": {
+    "day": 1619481600,
+    "full": 1619542695,
+    "month": 1617235200,
+    "week": 1619308800
+  },
+  "id": "t3_mzt0yp",
+  "picture": {
+    "filesize": 31529,
+    "fullUrl": "https://preview.redd.it/w2d2g47cyqv61.jpg?width=1600&format=pjpg&auto=webp&s=a3089bb1de3352ed8f76bc4f7aed2d965ab58248",
+    "hash": "e2cc76d7fa",
+    "height": 341,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGB//EACMQAAEEAQQBBQAAAAAAAAAAAAECAwQFAAYRITEzExRhgYL/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAFhEBAQEAAAAAAAAAAAAAAAAAEQAS/9oADAMBAAIRAxEAPwAOTc6ln3N5Wsm2jszJgYjviGt0RmwrZRSABt0Od+ieMpdPa5uo2pYzFlV3T3uEoiONqieiylYXy8nsgkHo8fIzXY3j+sZR/H+cNtkBf//Z",
+    "url": "https://preview.redd.it/w2d2g47cyqv61.jpg?width=640&crop=smart&auto=webp&s=bb6a4868221757caf40f1466c6b6e8d4fc5cb3ab",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 49,
+    "value": 49
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Some scatter ruins",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/mzt0yp/some_scatter_ruins/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4lttfk6y",
+    "name": "quidamcorvus"
+  },
+  "date": {
+    "day": 1610841600,
+    "full": 1610888392,
+    "month": 1609459200,
+    "week": 1610841600
+  },
+  "id": "t3_kz6100",
+  "picture": {
+    "filesize": 65088,
+    "fullUrl": "https://preview.redd.it/fy81zisp4wb61.jpg?width=1500&format=pjpg&auto=webp&s=720cde04f782a2037f92310aea30c5044f3fa364",
+    "hash": "165d2ea751",
+    "height": 400,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAKABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMFB//EACIQAAEEAQQCAwAAAAAAAAAAAAIBAwQFEQASITEGBxNRcf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAbEQABBAMAAAAAAAAAAAAAAAABAAIREiExUf/aAAwDAQACEQMRAD8Azz13QVFvUSH7e2ntyFlEDjTTZGhN8KGCwu1d2evrSfZFDR1MSIdDMnk6ryCayDJN3eeOMYXH7nUF1ptpwgbAQHngUwnejoGwc8jgiYCQ/L0qZTpdCA68zjiSRXS//9k=",
+    "url": "https://preview.redd.it/fy81zisp4wb61.jpg?width=640&crop=smart&auto=webp&s=e40049f1869a9db7213311da8d44e4096059d8f8",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 155,
+    "value": 155
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "The cowshed is another model of a building that has found its place in the village of Teufelsberg",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/kz6100/the_cowshed_is_another_model_of_a_building_that/"
+}

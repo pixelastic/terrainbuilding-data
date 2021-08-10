@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4jtlk",
+    "name": "Lorc"
+  },
+  "date": {
+    "day": 1617580800,
+    "full": 1617616299,
+    "month": 1617235200,
+    "week": 1617494400
+  },
+  "id": "t3_mkgzuu",
+  "picture": {
+    "filesize": 34526,
+    "fullUrl": "https://preview.redd.it/bnzuqjc7ubr61.jpg?width=1931&format=pjpg&auto=webp&s=46db6d9f208a63a211b802f41e98e3d9cbcd8718",
+    "hash": "2925e27ec5",
+    "height": 306,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAIABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAME/8QAIhAAAQMEAgIDAAAAAAAAAAAAAQIDBAAFESEGURUxQWFx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAWEQEBAQAAAAAAAAAAAAAAAAARACH/2gAMAwEAAhEDEQA/AK8qXM5JfZl1ZdYYjOKCWm3MhxKUDQUOz0Pk1tsF08LJjvoXHektgZSMj3nIA/Nb2Dv6pSqEXL//2Q==",
+    "url": "https://preview.redd.it/bnzuqjc7ubr61.jpg?width=640&crop=smart&auto=webp&s=79783a7d2433ec265330ad1ef53153efc571a7aa",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 149,
+    "value": 149
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Heavily fortified bus stop",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/mkgzuu/heavily_fortified_bus_stop/"
+}

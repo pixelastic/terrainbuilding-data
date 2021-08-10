@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4tf50p1o",
+    "name": "Medical-Breakfast-40"
+  },
+  "date": {
+    "day": 1623542400,
+    "full": 1623599525,
+    "month": 1622505600,
+    "week": 1623542400
+  },
+  "id": "t3_nyz9gn",
+  "picture": {
+    "filesize": 114319,
+    "fullUrl": "https://preview.redd.it/yyv1ysed12571.jpg?width=2268&format=pjpg&auto=webp&s=5ce4cb8cd2c18d819cbfb1a03fc033a055a78489",
+    "hash": "8445708721",
+    "height": 1138,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgEF/8QAKBAAAQIEAgsBAAAAAAAAAAAAAQIDAAQFERIiBhQWITFBU1WRktGh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABkRAAIDAQAAAAAAAAAAAAAAAAEDABEhAv/aAAwDAQACEQMRAD8Ai9O5p6Uqb66kUOVBxC3lyyVthJSnDhBG+x5wW2xqnUT7H7BR2szTNPmmQZZ4PWzhGBQzXtbgR4jO1+S7YPz7BU2hhqLtQJ0XP//Z",
+    "url": "https://preview.redd.it/yyv1ysed12571.jpg?width=640&crop=smart&auto=webp&s=e69fb3dc2b3651dd05a3707dd703693cdc0e60f3",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 60,
+    "value": 60
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Day 3, primed and ready for detailing.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/nyz9gn/day_3_primed_and_ready_for_detailing/"
+}

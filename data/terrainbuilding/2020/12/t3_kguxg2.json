@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4dj5m8ma",
+    "name": "spkelly94"
+  },
+  "date": {
+    "day": 1608422400,
+    "full": 1608474717,
+    "month": 1606780800,
+    "week": 1608422400
+  },
+  "id": "t3_kguxg2",
+  "picture": {
+    "filesize": 59481,
+    "fullUrl": "https://preview.redd.it/yl6qywnmrc661.jpg?width=3024&format=pjpg&auto=webp&s=8fcfb413d11ba63a8ddd7d3f5ae43db4de777d89",
+    "hash": "d1309e7a3a",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABwX/xAAmEAABAwMDAgcAAAAAAAAAAAABAgMFBBEhAAYScYEHExQxQWGx/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABYRAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEQMRAD8AQd5brk4STj1RzdM5SVHIVHnuFICgMG+eI6C5/asbMPvULTtUtK3li6ilPFPYe9uudF/i9uOkpZ6MiS+lpshDy1leCSqwHHsc/elP0zBygjj8aKE0/9k=",
+    "url": "https://preview.redd.it/yl6qywnmrc661.jpg?width=640&crop=smart&auto=webp&s=41417902263ac242158740aad772648bfe193e46",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.95,
+    "ups": 26,
+    "value": 26
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Small terradon diorama",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/kguxg2/small_terradon_diorama/"
+}

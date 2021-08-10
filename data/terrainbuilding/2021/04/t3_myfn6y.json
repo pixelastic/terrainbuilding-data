@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5hu5a4rn",
+    "name": "Royal_Cheddar"
+  },
+  "date": {
+    "day": 1619308800,
+    "full": 1619379110,
+    "month": 1617235200,
+    "week": 1619308800
+  },
+  "id": "t3_myfn6y",
+  "picture": {
+    "filesize": 73070,
+    "fullUrl": "https://preview.redd.it/h6da9kpzfdv61.jpg?width=4032&format=pjpg&auto=webp&s=671399ac9aefe2ea83a5177a74d4fa7396b3c489",
+    "hash": "282eaaf8e9",
+    "height": 395,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAKABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwIF/8QAIhAAAgIBBAMAAwAAAAAAAAAAAQIDBBEABRIhBhMxFEFR/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAaEQACAgMAAAAAAAAAAAAAAAABIQACAxES/9oADAMBAAIRAxEAPwDH8X2rYjTlp4haGBoZR71V3POMMwye+PLPzVwUIas9ndNu3BY3SCGutSIc3UQ5UMO+z9OMaQ9s2ygfO7QNKqQ6ozD1L2f6etKH4FNk5NUrliuCTGM4I7/Wpls5BY3G8JT/2Q==",
+    "url": "https://preview.redd.it/h6da9kpzfdv61.jpg?width=640&crop=smart&auto=webp&s=aa55e2c4214414357ca7757343eacfd7857cbc8a",
+    "width": 640
+  },
+  "score": {
+    "comments": 10,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 101,
+    "value": 101
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My 1st & 2nd Build -- Learning a LOT",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/myfn6y/my_1st_2nd_build_learning_a_lot/"
+}

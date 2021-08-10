@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_591a7zdw",
+    "name": "Pfeifenhuber"
+  },
+  "date": {
+    "day": 1627430400,
+    "full": 1627493289,
+    "month": 1625097600,
+    "week": 1627171200
+  },
+  "id": "t3_otencr",
+  "picture": {
+    "filesize": 56732,
+    "fullUrl": "https://preview.redd.it/0edslmsknzd71.jpg?width=5056&format=pjpg&auto=webp&s=5af853171c82d4227470f1b48630cf4bfec56192",
+    "hash": "c054e43ee9",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFBv/EACMQAAEEAQMEAwAAAAAAAAAAAAECAwQFEQASIQcTMlEiMXH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABgRAQEBAQEAAAAAAAAAAAAAABEBAAIS/9oADAMBAAIRAxEAPwDD9JYddFmIVesPCwsWBKhBt9bQKQSNqwkjO7yGfWn+sFMmfXSX2XHGpsNoSZDCn+4OfpCUjxwkk5PrnUK8uZcKTMs4xQiVHcKGSE4DaR8AB6G3jQqqyfnMQpUkNuPuqcQ6pSd3dCt2QrOc+I/NLwVdPbA3/9k=",
+    "url": "https://preview.redd.it/0edslmsknzd71.jpg?width=640&crop=smart&auto=webp&s=e9aaf6a6a0fb6d2916ec0fae38db6e581822c25b",
+    "width": 640
+  },
+  "score": {
+    "comments": 25,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 304,
+    "value": 304
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP medieval building with playable interior",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/otencr/wip_medieval_building_with_playable_interior/"
+}

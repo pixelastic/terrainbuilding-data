@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_152tmu",
+    "name": "GeorgeTRamos"
+  },
+  "date": {
+    "day": 1612396800,
+    "full": 1612399741,
+    "month": 1612137600,
+    "week": 1612051200
+  },
+  "id": "t3_lc3793",
+  "picture": {
+    "filesize": 136955,
+    "fullUrl": "https://preview.redd.it/n52xjzypycf61.jpg?width=1080&format=pjpg&auto=webp&s=56999ac0b362b74c8a59b36f792403981d9a94ec",
+    "hash": "0d61130d5a",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFAABAAAAAAAAAAAAAAAAAAAABf/EACEQAAICAQQCAwAAAAAAAAAAAAEDAhEEAAUSIWGhEzFx/8QAFAEBAAAAAAAAAAAAAAAAAAAABf/EABoRAAEFAQAAAAAAAAAAAAAAAAEAAgMSIQT/2gAMAwEAAhEDEQA/ADoEYq5Wh0xCu6FRJ8VZ0Jn7qtnBRx5A8+PQAoXp54VlSb8DqjI2LHG/0WRoHcNkYrMkyTFQUB9RkbPvx70Y4R3OpRp6KjF//9k=",
+    "url": "https://preview.redd.it/n52xjzypycf61.jpg?width=640&crop=smart&auto=webp&s=05fa52ef3841c0442982ccc3089826cb27c51087",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 28,
+    "value": 28
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "New day, new dungeon.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/lc3793/new_day_new_dungeon/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_bgmgbmz2",
+    "name": "GlowingtTable444"
+  },
+  "date": {
+    "day": 1628208000,
+    "full": 1628208028,
+    "month": 1627776000,
+    "week": 1627776000
+  },
+  "id": "t3_oyv4t0",
+  "picture": {
+    "filesize": 51316,
+    "fullUrl": "https://preview.redd.it/6yrtmksvomf71.jpg?width=4000&format=pjpg&auto=webp&s=fd943890d4a197497e861abedc688d2f9c5fc6a0",
+    "hash": "922fc7ab98",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgUGB//EACIQAAIBBAEEAwAAAAAAAAAAAAECAwAEBREGEhQhYRMxQf/EABQBAQAAAAAAAAAAAAAAAAAAAAX/xAAYEQEAAwEAAAAAAAAAAAAAAAABAAIRMf/aAAwDAQACEQMRAD8AmszmLJ4p7MYrru5YWbu2uzGFY7AYDydj716plxbkUK4Oztorj5HhiCyEsxIP7s1meTUTMjybLqNA78ijxqdskhiZx1a3s+qLVTIuVS+nJ//Z",
+    "url": "https://preview.redd.it/6yrtmksvomf71.jpg?width=640&crop=smart&auto=webp&s=09ae2cc6f1e893ad9c6cf19de9cde388793df9bb",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 177,
+    "value": 177
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First post here and first terrain piece.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/oyv4t0/first_post_here_and_first_terrain_piece/"
+}

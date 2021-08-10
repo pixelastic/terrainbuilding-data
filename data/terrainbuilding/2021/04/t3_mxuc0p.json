@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1hu1cnuv",
+    "name": "cosmicshake41"
+  },
+  "date": {
+    "day": 1619222400,
+    "full": 1619302453,
+    "month": 1617235200,
+    "week": 1618704000
+  },
+  "id": "t3_mxuc0p",
+  "picture": {
+    "filesize": 90659,
+    "fullUrl": "https://preview.redd.it/0rx09d6047v61.jpg?width=4032&format=pjpg&auto=webp&s=a36034dfba36dd15e646aaf9087a7221a4686e2b",
+    "hash": "0894ed2daa",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUG/8QAIxAAAgEDBAEFAAAAAAAAAAAAAQIDBAURABIhMVEGExUicf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/8QAGREAAwEBAQAAAAAAAAAAAAAAAQIDAAQx/9oADAMBAAIRAxEAPwCXL6YSK2VNOHoY2mcyNPKnuPCBjCKT0eOc+dDuVjpqCX5GKkoXCRyMqbFwWMZUbh1wftjHjW5u1FTbgxgjZy5G4jkfmhVFupqpTLNGGc9nHeNXXnWgKHw4ShUht//Z",
+    "url": "https://preview.redd.it/0rx09d6047v61.jpg?width=640&crop=smart&auto=webp&s=3b76de935700df771905b21c706d3691f0631a19",
+    "width": 640
+  },
+  "score": {
+    "comments": 12,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 565,
+    "value": 565
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Ancient Ruined Temple",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/mxuc0p/ancient_ruined_temple/"
+}

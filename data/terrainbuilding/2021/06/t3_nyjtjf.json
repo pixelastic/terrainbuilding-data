@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5jfz6",
+    "name": "Superstickfight"
+  },
+  "date": {
+    "day": 1623456000,
+    "full": 1623541313,
+    "month": 1622505600,
+    "week": 1622937600
+  },
+  "id": "t3_nyjtjf",
+  "picture": {
+    "filesize": 113880,
+    "fullUrl": "https://preview.redd.it/vh4nwwhb8x471.jpg?width=1440&format=pjpg&auto=webp&s=a11f76b05aface9196a265f2dc6cd26fcfcd0a45",
+    "hash": "0e26fa0fc2",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQH/8QAJRAAAQMDBAAHAAAAAAAAAAAAAQIDBAUGEQASIVEHExUxQXGh/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABkRAAIDAQAAAAAAAAAAAAAAAAECABIxIf/aAAwDAQACEQMRAD8AZ31c/pldo8R1xtppp0TVvrVgFKQtJRjHvyMfek9vV1m4IKn4TbjSQdp84YIV0RrM/ESx1XBLVPYkPKlJTtDZPBHQ61NY9PqMKsMrjontSGiEvBSTtdSPhWeDn80YknYpVWvNn//Z",
+    "url": "https://preview.redd.it/vh4nwwhb8x471.jpg?width=640&crop=smart&auto=webp&s=987e76cb1bbcd0740dcea38b9db544fcffec95c3",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 117,
+    "value": 117
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Alizar Medical Building, Port Noryxus.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/nyjtjf/alizar_medical_building_port_noryxus/"
+}

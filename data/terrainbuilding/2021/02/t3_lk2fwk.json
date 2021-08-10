@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_7sxtbcmd",
+    "name": "shipentine"
+  },
+  "date": {
+    "day": 1613347200,
+    "full": 1613352466,
+    "month": 1612137600,
+    "week": 1613260800
+  },
+  "id": "t3_lk2fwk",
+  "picture": {
+    "filesize": 47906,
+    "fullUrl": "https://preview.redd.it/kedk9qwnnjh61.jpg?width=3480&format=pjpg&auto=webp&s=87c1563884fe36271b75f6dae1fccff7e6ce94db",
+    "hash": "b8c3498001",
+    "height": 354,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQGB//EACQQAAIBBAECBwAAAAAAAAAAAAEDAgAEESEFBiIxMzRzgrHB/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABoRAAICAwAAAAAAAAAAAAAAAAACAREDEiH/2gAMAwEAAhEDEQA/AKOz6guk8tdsRyT7qzbckBMFqwsDxAlI9ozrON7NPz62g7lLe3kkJQ2ZBmxsJE9uhEROtg5rI+N8j4n6o1z6ZfufooKttFCmx9s//9k=",
+    "url": "https://preview.redd.it/kedk9qwnnjh61.jpg?width=640&crop=smart&auto=webp&s=2a5bab438a403a9cd8a89b84552f1ad189a4458c",
+    "width": 640
+  },
+  "score": {
+    "comments": 12,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 109,
+    "value": 109
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Trash Terrain HV Substation Build and Overpass",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/lk2fwk/trash_terrain_hv_substation_build_and_overpass/"
+}

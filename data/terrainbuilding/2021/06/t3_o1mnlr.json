@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1s5fcpxi",
+    "name": "IrresponsibleAuthor"
+  },
+  "date": {
+    "day": 1623888000,
+    "full": 1623898444,
+    "month": 1622505600,
+    "week": 1623542400
+  },
+  "id": "t3_o1mnlr",
+  "picture": {
+    "filesize": 119047,
+    "fullUrl": "https://preview.redd.it/qxz572o2qq571.jpg?width=1836&format=pjpg&auto=webp&s=844c193451d3b4d643150f195beaaef3218524c6",
+    "hash": "83dcc4b76c",
+    "height": 1138,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwUI/8QAJBAAAQIFBAIDAAAAAAAAAAAAAQMEAAIFBiEREhMXIlQxYYH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAGREAAgMBAAAAAAAAAAAAAAAAAQIAAyER/9oADAMBAAIRAxEAPwCixobd5ctIZlVNJJwFd0nGJ5lNoB0zgD7+cwhdbUL00ozlaN0VlO92j9ZBOZuknxAkjxB11IJyDn9EJnYNb9xrAvZWDpjIlnME/9k=",
+    "url": "https://preview.redd.it/qxz572o2qq571.jpg?width=640&crop=smart&auto=webp&s=b14069fa9f57f88b28233cfe5ca266d83ccd54ab",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 224,
+    "value": 224
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Found some drone propellers in the street one day, added more trash and some paint, voila! wasteland windmill!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/o1mnlr/found_some_drone_propellers_in_the_street_one_day/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_142z5k",
+    "name": "KarelKolder"
+  },
+  "date": {
+    "day": 1627776000,
+    "full": 1627809951,
+    "month": 1627776000,
+    "week": 1627776000
+  },
+  "id": "t3_ovp3ul",
+  "picture": {
+    "filesize": 76061,
+    "fullUrl": "https://preview.redd.it/0cg6iqa7tpe71.jpg?width=1229&format=pjpg&auto=webp&s=3dcdb7d4093899f8b39c20441c1cd0ae31820ef6",
+    "hash": "25ccf80222",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMEBv/EACEQAAICAgIDAAMAAAAAAAAAAAECAwQFEQAhEzFBUWGy/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQP/xAAZEQEAAgMAAAAAAAAAAAAAAAABAAMCMUH/2gAMAwEAAhEDEQA/AMfSxhTGwWngnSCYN45CF02veu+HM46qYrAQOssKBnHWxv1972O+LgyuTnpxUpLVd6VZSsQ6391/R5Rl7FeOnIIQFnZGWRvICH/Guvn7J5Mszdxazk//2Q==",
+    "url": "https://preview.redd.it/0cg6iqa7tpe71.jpg?width=640&crop=smart&auto=webp&s=09a5d5ef6793f94418d2ab13b85ca164e2755b43",
+    "width": 640
+  },
+  "score": {
+    "comments": 28,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 1047,
+    "value": 1047
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "'It's safer here.'",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ovp3ul/its_safer_here/"
+}

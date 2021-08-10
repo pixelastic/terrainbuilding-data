@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_8kzey473",
+    "name": "OneGiantPixel"
+  },
+  "date": {
+    "day": 1606003200,
+    "full": 1606081141,
+    "month": 1604188800,
+    "week": 1606003200
+  },
+  "id": "t3_jz4536",
+  "picture": {
+    "filesize": 83282,
+    "fullUrl": "https://preview.redd.it/ot52ipn82v061.jpg?width=1305&format=pjpg&auto=webp&s=bca36487a8f9329eb1b6e777263ec5cae79345bc",
+    "hash": "d741add41d",
+    "height": 550,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAOABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQH/8QAIRAAAQQBBQADAAAAAAAAAAAAAQIDBAURABIhIjEUQaH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EAB4RAAEEAQUAAAAAAAAAAAAAAAIAAQMhERIxQaGx/9oADAMBAAIRAxEAPwAyrgCzTXBqGRGAWl5xtZ7ObQew+sfup7pmjW/bMRW5Tb9eyl1wAgJIUOoyc551lMa+tIkv4bEte8LJ35xk+nONI1V+9NemB0EqeCQ6rJG/HgPPI1DNEYx6hZnrzlqTgYnLh3xdd72v/9k=",
+    "url": "https://preview.redd.it/ot52ipn82v061.jpg?width=640&crop=smart&auto=webp&s=a92a4d1f6883ba0b44811129bc77d7ee4dd24f06",
+    "width": 640
+  },
+  "score": {
+    "comments": 16,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 57,
+    "value": 57
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP Shack; First Cardboard Building. My rust got away from me, not sure what to do with it.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/jz4536/wip_shack_first_cardboard_building_my_rust_got/"
+}

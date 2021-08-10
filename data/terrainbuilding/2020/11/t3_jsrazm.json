@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_2hdbilhk",
+    "name": "ragure"
+  },
+  "date": {
+    "day": 1605139200,
+    "full": 1605170605,
+    "month": 1604188800,
+    "week": 1604793600
+  },
+  "id": "t3_jsrazm",
+  "picture": {
+    "filesize": 69622,
+    "fullUrl": "https://preview.redd.it/smd2fflsury51.jpg?width=1440&format=pjpg&auto=webp&s=2c9ea83255c8a845a167b647f1d3b557da5f7fdb",
+    "hash": "cb4e569349",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGB//EACQQAAICAgEEAQUAAAAAAAAAAAECAwQRIQAFBhMxEgciQVFh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQP/xAAZEQACAwEAAAAAAAAAAAAAAAAAAQIREjH/2gAMAwEAAhEDEQA/AM/6JbmPSbM8ySSVK7srP8TK0Y1sE7GT+Ne+HyQ2bElie0zKkXhiVDKriONhkZ3rAOT72ca5d9jdswntu5YqVF893Fio8krhY1IBVTg7wc/viT6qdISp1Cm8E/xiSUSjyy/fpdg5wPY0f7yGHFWuif/Z",
+    "url": "https://preview.redd.it/smd2fflsury51.jpg?width=640&crop=smart&auto=webp&s=1eda3245c3cf45019eb2f9cefd184fe41137ab0c",
+    "width": 640
+  },
+  "score": {
+    "comments": 26,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 896,
+    "value": 896
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Confronting the beast",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/jsrazm/confronting_the_beast/"
+}

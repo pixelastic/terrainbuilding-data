@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1re72ygk",
+    "name": "PyukyMuky"
+  },
+  "date": {
+    "day": 1623283200,
+    "full": 1623301485,
+    "month": 1622505600,
+    "week": 1622937600
+  },
+  "id": "t3_nwfket",
+  "picture": {
+    "filesize": 89270,
+    "fullUrl": "https://preview.redd.it/ch6ygaa6fd471.jpg?width=4000&format=pjpg&auto=webp&s=ccfcad29ad3df10efc2447e143db7cb02747078d",
+    "hash": "790dfe39ba",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAIxAAAQQBBAEFAAAAAAAAAAAAAQIDBAURAAYTUUESISIxcf/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAbEQACAwADAAAAAAAAAAAAAAABAgADEQQTMf/aAAwDAQACEQMRAD8AUmXUpMD12BkNu8YcDUpsFS1FOQQPOTrJWLEqpg1TVjJQ5MfiJkOpCcqbJP0vxn860bVbisYMlpkOiQxylIbkjkCcdZ9xqXdFpJlXk2a6pJdU8G8AfEJBCQAOsaJyXF9QGZkGyr16PTP/2Q==",
+    "url": "https://preview.redd.it/ch6ygaa6fd471.jpg?width=640&crop=smart&auto=webp&s=43f6f782fde85398719e864cd08d11759001d833",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 31,
+    "value": 31
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Testing What I Learned",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/nwfket/testing_what_i_learned/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_70bn8",
+    "name": "trollsong"
+  },
+  "date": {
+    "day": 1611446400,
+    "full": 1611506906,
+    "month": 1609459200,
+    "week": 1611446400
+  },
+  "id": "t3_l42xxc",
+  "picture": {
+    "filesize": 80347,
+    "fullUrl": "https://preview.redd.it/zbtjm0yv7bd61.jpg?width=800&format=pjpg&auto=webp&s=44ca47c2171b9a748e2c98c450e332111ce360f1",
+    "hash": "b959fb86ff",
+    "height": 400,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAKABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQH/8QAIhAAAQQBAwUBAAAAAAAAAAAAAQIDBBEFABMxEiEiQWGB/8QAFQEBAQAAAAAAAAAAAAAAAAAABQb/xAAdEQACAQQDAAAAAAAAAAAAAAABAwIABBESEyIx/9oADAMBAAIRAxEAPwBDCwuPxq9yJjIYHIUWqV+VY1IzOeYFx0J2A75rcXxfs9XOs1TkJqGHOiXITR7U6oex908whMph9Eo7yFBBKXPIE1z31F36eKMWQJGT5k01brBOrO1f/9k=",
+    "url": "https://preview.redd.it/zbtjm0yv7bd61.jpg?width=640&crop=smart&auto=webp&s=5fd6581811ea177e3b7b2a6594e7f9a20a44ffde",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 0.96,
+    "ups": 19,
+    "value": 19
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Does anyone know of guides that exist for making salt pools of dallol? Thinking of basing in this style",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/l42xxc/does_anyone_know_of_guides_that_exist_for_making/"
+}

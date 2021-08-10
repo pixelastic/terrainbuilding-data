@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_l2cky",
+    "name": "virtualaenigma"
+  },
+  "date": {
+    "day": 1611273600,
+    "full": 1611337699,
+    "month": 1609459200,
+    "week": 1610841600
+  },
+  "id": "t3_l2swdd",
+  "picture": {
+    "filesize": 36805,
+    "fullUrl": "https://preview.redd.it/46gleh1q8xc61.jpg?width=4640&format=pjpg&auto=webp&s=8a7155662d0604176b2a1ff164fba5ad860aa94f",
+    "hash": "0dd9545cea",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQH/8QAJBAAAgEDBAAHAAAAAAAAAAAAAQIEAxEhAAUGEgcTUVJhcYH/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAGhEAAgIDAAAAAAAAAAAAAAAAAQIABBIhMf/aAAwDAQACEQMRAD8Ayfw74RP5IDJrBo+2LdVbIau/tTBx6scD5Oj/ACXjEiJKlNBdZ0OlUcCrSN7KGIFxg3+hp5sM+RX2VqlRz2U2UKSoH4NTyqnQLVVKfmFrduouMaJN1w3IgKq47M//2Q==",
+    "url": "https://preview.redd.it/46gleh1q8xc61.jpg?width=640&crop=smart&auto=webp&s=76378de73de034353168dfe0f8111945314d3f80",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 58,
+    "value": 58
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "The Final Frontier",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/l2swdd/the_final_frontier/"
+}

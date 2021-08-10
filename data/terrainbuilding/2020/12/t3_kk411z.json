@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_141hxr",
+    "name": "Myrshall"
+  },
+  "date": {
+    "day": 1608854400,
+    "full": 1608922620,
+    "month": 1606780800,
+    "week": 1608422400
+  },
+  "id": "t3_kk411z",
+  "picture": {
+    "filesize": 106253,
+    "fullUrl": "https://preview.redd.it/h0iwzf1grd761.jpg?width=3024&format=pjpg&auto=webp&s=a699c3fd35f5a4669c48b5121c62fd1014c302d9",
+    "hash": "81bfa4c706",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQF/8QAIxAAAgEEAQUAAwAAAAAAAAAAAQMCBAURMQAGEhQhIhMyYf/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAGREAAgMBAAAAAAAAAAAAAAAAAAIBERIi/9oADAMBAAIRAxEAPwDVvKl3PyOp7SptYmc1ri2piIyKwDEkxiMCGSf6MA8IpvfT1EWKehbGd5MiyIznR0NZB5BZ75V0FKygt138qhegLKHRIhDMR8g6+SceiNa4WvtKidUoQE1SiqP5I9w/c5Mt+9nk3qXsfGVSj//Z",
+    "url": "https://preview.redd.it/h0iwzf1grd761.jpg?width=640&crop=smart&auto=webp&s=9c4303ba540e9b8a20c415c86dbba5d659dfcc08",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.75,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I’m trying to turn this into a long lost temple-turned bandit hideout, but I don’t know where to start. I want to fill the trough with dirt, but I don’t know how to seal it. Do you have any advice?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/kk411z/im_trying_to_turn_this_into_a_long_lost/"
+}

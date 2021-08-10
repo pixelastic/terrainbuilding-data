@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_11uwrg",
+    "name": "Freebz1"
+  },
+  "date": {
+    "day": 1614038400,
+    "full": 1614045003,
+    "month": 1612137600,
+    "week": 1613865600
+  },
+  "id": "t3_lq63nh",
+  "picture": {
+    "filesize": 107116,
+    "fullUrl": "https://preview.redd.it/q6astudxu4j61.jpg?width=3024&format=pjpg&auto=webp&s=db6c920e2ff5e29257692a75aefd0fb829789db1",
+    "hash": "8e18ccfd35",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQIH/8QAIxAAAgECBgMBAQAAAAAAAAAAAQIDBAUABhETITESIkFigf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAh/9oADAMBAAIRAxEAPwBCpfLOX4ZqK0VNbUBpGaTY90DFCnbd8HoYjL2b75VwVMqvboo97xjimnYMihFAHqNPmv8AcG29rbm62wVO6bdXeWzUTOvBf9qOiRyGHB+642bL9vorJaoaKhRDEo8i/Zdj2xP0nEgHSapjf//Z",
+    "url": "https://preview.redd.it/q6astudxu4j61.jpg?width=640&crop=smart&auto=webp&s=ba5c140f55a5b099579dd647920ccd293f2327a3",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 101,
+    "value": 101
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Made some dungeon tiles inspired by Black Magic Craft",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/lq63nh/made_some_dungeon_tiles_inspired_by_black_magic/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5hek6ri8",
+    "name": "anderssolmor"
+  },
+  "date": {
+    "day": 1614297600,
+    "full": 1614370255,
+    "month": 1612137600,
+    "week": 1613865600
+  },
+  "id": "t3_lt6mm9",
+  "picture": {
+    "filesize": 120487,
+    "fullUrl": "https://preview.redd.it/j7xic023qvj61.jpg?width=4032&format=pjpg&auto=webp&s=862fa0bff625ceb1c92b31a955a1cf73ae1e296c",
+    "hash": "3c240f6ba6",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAjEAACAQMEAgMBAAAAAAAAAAABAwIEBREABhIhMVFCYZHB/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAYEQADAQEAAAAAAAAAAAAAAAAAASERQf/aAAwDAQACEQMRAD8AH2jY7ZU1sVpSlb0p5h0pAESJA5cu+8GR9j80lvfb9ppbgtKZsg4rjJpi6UWN8gMkfkevJ795zqfpiU2W6tUTFgmqHIHvB5H+DSLpG8yp6iuJk2CBDlGRGREdZ+9T3KJWxLp//9k=",
+    "url": "https://preview.redd.it/j7xic023qvj61.jpg?width=640&crop=smart&auto=webp&s=3bb2749498863dbf29cca38d070e4aafaa291411",
+    "width": 640
+  },
+  "score": {
+    "comments": 13,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 114,
+    "value": 114
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Update on my farm collection",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/lt6mm9/update_on_my_farm_collection/"
+}

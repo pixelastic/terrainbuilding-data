@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_9935v90m",
+    "name": "Hunting-and-painting"
+  },
+  "date": {
+    "day": 1607558400,
+    "full": 1607641065,
+    "month": 1606780800,
+    "week": 1607212800
+  },
+  "id": "t3_kapq95",
+  "picture": {
+    "filesize": 82975,
+    "fullUrl": "https://preview.redd.it/mcyjurcrwf461.jpg?width=750&format=pjpg&auto=webp&s=6927e26d588a424ea9f84d2da3772b9bca0d146a",
+    "hash": "ba90899f4d",
+    "height": 637,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAJBAAAQQBAwMFAAAAAAAAAAAAAQIDBAURAAYSEyExQUJRUrH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARMf/aAAwDAQACEQMRAD8AFlT6pncN2b2FKk9Swd4KZlKb4JLhB7AHOPP5nUt7uamsXqtuFUvxrFAZjsvF8lLQGcEpCQFFPrnJPydZR1Vkpcp1yOriXVuFwqHYFR898eTpKZJjNberoqql5q8W+h4PkZC0g5CuX0I9o0VDsvb/2Q==",
+    "url": "https://preview.redd.it/mcyjurcrwf461.jpg?width=640&crop=smart&auto=webp&s=bbb976a4d72744a3e09421f8d2bdffde9455aabb",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.95,
+    "ups": 49,
+    "value": 49
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP Dive Bar",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/kapq95/wip_dive_bar/"
+}

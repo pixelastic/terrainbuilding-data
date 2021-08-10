@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_35se1583",
+    "name": "The_M15"
+  },
+  "date": {
+    "day": 1618876800,
+    "full": 1618907495,
+    "month": 1617235200,
+    "week": 1618704000
+  },
+  "id": "t3_mulvd4",
+  "picture": {
+    "filesize": 65669,
+    "fullUrl": "https://preview.redd.it/rny2xb7bhau61.jpg?width=4000&format=pjpg&auto=webp&s=a98ee6e09f150436e9159b9c45333819b782bedc",
+    "hash": "364ee27917",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwUGCP/EACYQAAEDAgUDBQAAAAAAAAAAAAECAwQFIQAGERJRBxRBEyIxYZH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABgRAAMBAQAAAAAAAAAAAAAAAAABERIh/9oADAMBAAIRAxEAPwCGdyZUaZFgBtQEt1lKno+ntZ+NAVckAkjxg9OyzOm1J9iXJKYxClemQCs2toQPAIJHGuNFU/JlBqshyoyoR7mSS44UvOBJJ+t35xhk707y81skojvh6OoOJV3C7qFwTe+JvV4NZlZ//9k=",
+    "url": "https://preview.redd.it/rny2xb7bhau61.jpg?width=640&crop=smart&auto=webp&s=bbbfb8d5b53554f4dcd15ca14e83ef9776904261",
+    "width": 640
+  },
+  "score": {
+    "comments": 35,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 632,
+    "value": 632
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Stargate still WIP",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/mulvd4/stargate_still_wip/"
+}

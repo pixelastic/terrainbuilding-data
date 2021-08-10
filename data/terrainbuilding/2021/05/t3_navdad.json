@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_2hdbilhk",
+    "name": "ragure"
+  },
+  "date": {
+    "day": 1620777600,
+    "full": 1620843143,
+    "month": 1619827200,
+    "week": 1620518400
+  },
+  "id": "t3_navdad",
+  "picture": {
+    "filesize": 123589,
+    "fullUrl": "https://preview.redd.it/fcan6a3bdqy61.jpg?width=2268&format=pjpg&auto=webp&s=d202304ebecbdba026c916296ec571cc0995cfc7",
+    "hash": "257426c3e6",
+    "height": 1138,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQMG/8QAKRAAAgEDAgENAAAAAAAAAAAAAQIDAAQFBhEhFBUWMUFRUlNWYZSi0v/EABUBAQEAAAAAAAAAAAAAAAAAAAED/8QAHREAAQMFAQAAAAAAAAAAAAAAAQACEQMhIjFh8P/aAAwDAQACEQMRAD8AnpvD2EUls+cvMiWcGWBraIKilTuCxbj2HhSnKcP51/8AShchr/B8xxIb6yiyZQxuFO0KA+FUB3Ht195rF9KrH1Ha/Db81LN27JL6bAIBPuwv/9k=",
+    "url": "https://preview.redd.it/fcan6a3bdqy61.jpg?width=640&crop=smart&auto=webp&s=ccb388ad2517ca3c7fab057652947e8cedee26e6",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 51,
+    "value": 51
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Dragon protecting its eggs from a warrior. Eggs and warior still need to be printed",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/navdad/wip_dragon_protecting_its_eggs_from_a_warrior/"
+}

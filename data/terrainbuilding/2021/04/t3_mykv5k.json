@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_35se1583",
+    "name": "The_M15"
+  },
+  "date": {
+    "day": 1619308800,
+    "full": 1619394748,
+    "month": 1617235200,
+    "week": 1619308800
+  },
+  "id": "t3_mykv5k",
+  "picture": {
+    "filesize": 59503,
+    "fullUrl": "https://preview.redd.it/z6rgzhlfqev61.jpg?width=4000&format=pjpg&auto=webp&s=c0b7c8b0218a93fcecf9271b68013a625f9b329f",
+    "hash": "7541e90837",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwUGB//EACMQAAIBAwQBBQAAAAAAAAAAAAEDAgQFEQAGEiExBxVCUaH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABoRAAEFAQAAAAAAAAAAAAAAAAEAAgMREiH/2gAMAwEAAhEDEQA/AGW5rruGmvDrbSqTKhS+EDKUSeWIgkHB7iSfzRtvXtzpin3NxkiWIKauOeHXzGex47GT1rWFeme3J3WpuD6d7nObJsozaeIMuzgDHWT4zqZRWMte9mpoYJVTe4xpikLjw4kgePsZJzqDpZA6weJZFL//2Q==",
+    "url": "https://preview.redd.it/z6rgzhlfqev61.jpg?width=640&crop=smart&auto=webp&s=da347d9face713ce97cf3d466a3435779119c85a",
+    "width": 640
+  },
+  "score": {
+    "comments": 15,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 208,
+    "value": 208
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Stargate",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/mykv5k/stargate/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4lnblxx4",
+    "name": "stuie82"
+  },
+  "date": {
+    "day": 1625443200,
+    "full": 1625510871,
+    "month": 1625097600,
+    "week": 1625356800
+  },
+  "id": "t3_oedm72",
+  "picture": {
+    "filesize": 50809,
+    "fullUrl": "https://preview.redd.it/x7vpvbbtwf971.jpg?width=4032&format=pjpg&auto=webp&s=fdb7161593d2b9d08a819385ea5eed5cd8e0129e",
+    "hash": "4c2ed1146f",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQGB//EACMQAAIBAwQBBQAAAAAAAAAAAAIDAQQFEQAGEjEiM1FigaH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAHBEAAgAHAAAAAAAAAAAAAAAAAAECAxITITHh/9oADAMBAAIRAxEAPwAtW5NsoLUa6laJmoHmMs4wQ+xfHvUpvS6wjZu4bpLZllS4UIGGSQgRcp8c9YGfzWNUG5bjSk8iNdQTvUmoHnM/felbzeam5LUDoWCxnlwXEiOes4zoyltRiHTa1np//9k=",
+    "url": "https://preview.redd.it/x7vpvbbtwf971.jpg?width=640&crop=smart&auto=webp&s=2923275abac717e3ad03861d544bcfb075d9e520",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 36,
+    "value": 36
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My first piece of terrain I've ever made. Need to work on the weathering and lots of other things, but as a first attempt I'm very proud.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/oedm72/my_first_piece_of_terrain_ive_ever_made_need_to/"
+}

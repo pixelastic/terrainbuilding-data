@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_591a7zdw",
+    "name": "Pfeifenhuber"
+  },
+  "date": {
+    "day": 1628294400,
+    "full": 1628323877,
+    "month": 1627776000,
+    "week": 1627776000
+  },
+  "id": "t3_ozpdlj",
+  "picture": {
+    "filesize": 54207,
+    "fullUrl": "https://preview.redd.it/5awe9ar99wf71.jpg?width=5056&format=pjpg&auto=webp&s=df68ea0e74cbfba5268ede3913158e40a83a2c0e",
+    "hash": "fdf1fec8be",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwUG/8QAIxAAAgIBBAICAwAAAAAAAAAAAQMCBBEABRIhBgcTIjFBkf/EABUBAQEAAAAAAAAAAAAAAAAAAAAC/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERA//aAAwDAQACEQMRAD8AOvWstlvbzRnvdB06c7M1rWGkLXkRxmOPuMnvvSRQNPxOzb3Lx2umvYLPiLlI59GWORB/AGR2NZTw6qpfr+nOMRzjubwJfsDhHVd65N218VvciRifumXGQyO/6NFnVSXpHD//2Q==",
+    "url": "https://preview.redd.it/5awe9ar99wf71.jpg?width=640&crop=smart&auto=webp&s=952eb42d493e7121440ab51d60ec8ab6136c72ef",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 49,
+    "value": 49
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP 3 medival house with playable interior (finished structure)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ozpdlj/wip_3_medival_house_with_playable_interior/"
+}

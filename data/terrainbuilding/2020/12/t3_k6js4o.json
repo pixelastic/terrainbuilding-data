@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_hzlby",
+    "name": "torealis"
+  },
+  "date": {
+    "day": 1607040000,
+    "full": 1607083930,
+    "month": 1606780800,
+    "week": 1606608000
+  },
+  "id": "t3_k6js4o",
+  "picture": {
+    "filesize": 86586,
+    "fullUrl": "https://preview.redd.it/l0unlwg0w5361.jpg?width=4032&format=pjpg&auto=webp&s=1664d42e709d13157319d064d1df7d746b199133",
+    "hash": "9133d69ac4",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUG/8QAJBAAAgECBQQDAAAAAAAAAAAAAQIDBBEABRIhMQYTFFEHQXH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABcRAQEBAQAAAAAAAAAAAAAAAAECABH/2gAMAwEAAhEDEQA/AG9cwz6aPLaVvKl8hZJAjALZeV35O6m35g+XSV9RHQnMIYTUFZdJgXuRqWckDY+lv75xf6SyWnhhiVZJys9KFl1PcsVIjDX5DaTYkHewxifjmMp1VPlvckehV1bsudSne9jfnc/eLMkHAxpp67//2Q==",
+    "url": "https://preview.redd.it/l0unlwg0w5361.jpg?width=640&crop=smart&auto=webp&s=683dcc466c1941f493f8bd300cce1b5db9e6da5a",
+    "width": 640
+  },
+  "score": {
+    "comments": 54,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 1122,
+    "value": 1122
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Finally \"finished\" my LOTR Osgiliath board. Lots of snagging work to take care of, but very happy to get it to a playable state!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/k6js4o/finally_finished_my_lotr_osgiliath_board_lots_of/"
+}

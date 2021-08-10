@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_2nppj90l",
+    "name": "pixelastic"
+  },
+  "date": {
+    "day": 1618876800,
+    "full": 1618952504,
+    "month": 1617235200,
+    "week": 1618704000
+  },
+  "id": "t3_mv0bc5",
+  "picture": {
+    "filesize": 160830,
+    "fullUrl": "https://preview.redd.it/slynbv287eu61.png?width=1089&format=png&auto=webp&s=fa7d2436b887bf95c309317ccad20529d82491f9",
+    "hash": "931c80f0fb",
+    "height": 345,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAABuUlEQVQYlQXBz2/SUAAA4P4/nnSJGUs2qKPrSlvaPtoCr699baH0F6XbGDS0jMyZhYCbLkr0QGQmetOLO3gwmYboAbN4M2o08eq/4fcRP1fXf26Wv74uf3/78uPm8/fVp9X7Nx9ePbt+PXs7e3B1eXG1eLyYpk+GviYVu6ZI/Fu+mDxKwlEwGkUnJ3tWFx8mTn/oHaXOaF/nDGZXIrfLWzvcxrSLz4YR8ffdxI014KmnvdZhr9FowyQ25bAWB/XjAJqmaEPWQbyh0pMYXk6HxMf5oOrK5RaI93DQ0d02zGLT7CDbFjNHEcxy2wZApmihIAJyPu4Ti/M45wNlH+pR3TrQvZ51f+DXD/QwqI07iG2IkVvFiFsr5fLM+suHCTE/8u95oNdvPh8EF4n3NPHTAAlNyW2pqQVCCwRYTJsKo1IkvznLXELU2XWDZg12EOOKA3i4SyNm2xXIBkfVaQmxZa1UkPJr3MYtLgdMhsjj0h2T0Ry5HcK7Oq34ihXUdoKK4Mm6I0NLRLakIl53lNvCZgmVCKlWhIg6dWUF87lqMevgSCkaKtmsFDxAZiafYjYzmLFfceStRKP+Ayb9sFAPkpfLAAAAAElFTkSuQmCC",
+    "url": "https://preview.redd.it/slynbv287eu61.png?width=640&crop=smart&auto=webp&s=fdb3280de09409f403b7e7f46401ea1ecb6974f0",
+    "width": 640
+  },
+  "score": {
+    "comments": 9,
+    "downs": 0,
+    "ratio": 0.93,
+    "ups": 28,
+    "value": 28
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "An attempt at magnetic sewer tiles (timelapse and details in comments)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/mv0bc5/an_attempt_at_magnetic_sewer_tiles_timelapse_and/"
+}

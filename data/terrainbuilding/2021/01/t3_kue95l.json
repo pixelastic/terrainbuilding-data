@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_3qiwdte4",
+    "name": "Tallandclueless"
+  },
+  "date": {
+    "day": 1610236800,
+    "full": 1610284431,
+    "month": 1609459200,
+    "week": 1610236800
+  },
+  "id": "t3_kue95l",
+  "picture": {
+    "filesize": 50173,
+    "fullUrl": "https://preview.redd.it/y8zbke9i8ia61.jpg?width=1599&format=pjpg&auto=webp&s=4156746a432c5784d5803352417a6dea5fc4c0a4",
+    "hash": "89206647e4",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQH/8QAKBAAAgIABAILAAAAAAAAAAAAAQIDBAAFERIGIQcUIjEzNkFRdJGx/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABkRAAIDAQAAAAAAAAAAAAAAAAECAAMRMf/aAAwDAQACEQMRAD8ALR27NCTMGzRqc7zI3VIomMhK7jorBT2Tp74U9E/D5l4atQBbEFvdudim0MCOWhPr38sR5F5oo/Pb8ONrg8T7wIXDsVrA3J//2Q==",
+    "url": "https://preview.redd.it/y8zbke9i8ia61.jpg?width=640&crop=smart&auto=webp&s=3cc5a3475d0a58022309444702962f4cf6beec2b",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 58,
+    "value": 58
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Dice tower inspired by Lasse Brenn's YT tutorial",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/kue95l/dice_tower_inspired_by_lasse_brenns_yt_tutorial/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_80v01zog",
+    "name": "892xaero"
+  },
+  "date": {
+    "day": 1621900800,
+    "full": 1621969370,
+    "month": 1619827200,
+    "week": 1621728000
+  },
+  "id": "t3_nkxcx0",
+  "picture": {
+    "filesize": 78009,
+    "fullUrl": "https://preview.redd.it/o8ogs1g5eb171.jpg?width=4032&format=pjpg&auto=webp&s=eabd8f3ddc66a920c65b99dbd2ec490b1604e9db",
+    "hash": "b68a51d0d2",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQMG/8QAJxAAAQMDAQcFAAAAAAAAAAAAAgEDBQAEERIGExQhNUFhMUJyc7P/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABkRAQADAQEAAAAAAAAAAAAAAAEAAhEDEv/aAAwDAQACEQMRAD8AXmpSMtLY2OBade3mgBtyBnSmOfMUyvt7dvFSs5QJCYZjXFetbUkEDA3UMdS+qr4VcJis1tR16P8Aqc/Wjo/rVx8KlfmGkdb+gcn/2Q==",
+    "url": "https://preview.redd.it/o8ogs1g5eb171.jpg?width=640&crop=smart&auto=webp&s=0b4b4ac8c3242f98ef410e31a151a9b9459b497e",
+    "width": 640
+  },
+  "score": {
+    "comments": 26,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 248,
+    "value": 248
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First attempt at a wire tree.... wip.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/nkxcx0/first_attempt_at_a_wire_tree_wip/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_6jlulvci",
+    "name": "Purplewormslayer"
+  },
+  "date": {
+    "day": 1614038400,
+    "full": 1614124444,
+    "month": 1612137600,
+    "week": 1613865600
+  },
+  "id": "t3_lqx4po",
+  "picture": {
+    "filesize": 74402,
+    "fullUrl": "https://preview.redd.it/mwpy6fr5fbj61.jpg?width=4032&format=pjpg&auto=webp&s=6b37a95418344cc70dfd2c2a735db33fe32810c4",
+    "hash": "daa724d9cd",
+    "height": 288,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAX/xAAhEAACAQMEAwEAAAAAAAAAAAABAgMABBEFBiExEkFhkf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAECESH/2gAMAwEAAhEDEQA/AJW6J2vN3arqNrGjJdASIJVAUHC8sASSMc4+00s3dtuKxjnEUYwt0qCFCg99g+XX7xSlQlvMDXT/2Q==",
+    "url": "https://preview.redd.it/mwpy6fr5fbj61.jpg?width=640&crop=smart&auto=webp&s=208f330f73dd5e4bd5178741b107ebb7a0c285cf",
+    "width": 640
+  },
+  "score": {
+    "comments": 22,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 410,
+    "value": 410
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Making Underdark terrain! Used UV paint to give the fungi bioluminescence effects.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/lqx4po/making_underdark_terrain_used_uv_paint_to_give/"
+}

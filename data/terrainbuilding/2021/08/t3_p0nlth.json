@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_tppqs",
+    "name": "epicamytime"
+  },
+  "date": {
+    "day": 1628380800,
+    "full": 1628458800,
+    "month": 1627776000,
+    "week": 1628380800
+  },
+  "id": "t3_p0nlth",
+  "picture": {
+    "filesize": 113287,
+    "fullUrl": "https://preview.redd.it/5t57s37je7g71.jpg?width=3024&format=pjpg&auto=webp&s=57adc7ce40ace52a6c92bf93010475668c452ee4",
+    "hash": "c23400f51c",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEBf/EACQQAAIBAwMDBQAAAAAAAAAAAAECAwQFEQAGIRJBcRMxUWGB/8QAFQEBAQAAAAAAAAAAAAAAAAAABQb/xAAeEQABAwQDAAAAAAAAAAAAAAABAAMhAgQREkFRcf/aAAwDAQACEQMRAD8AwLLYaismMRZECtGrvnPp9ftkd/zSd22So2/dFpGmjqeqJZQ6qVHOeMHxorJuM08080ka9E0scjqrc4QjABPjv86r3dueivdyiqI6SoiCQiIh2Uk4JOeD96Sode3AqEYn1Tb1pZBolsznnpf/2Q==",
+    "url": "https://preview.redd.it/5t57s37je7g71.jpg?width=640&crop=smart&auto=webp&s=52b98f0839c0fa9f258e35ce712078f3d2eaec6f",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 24,
+    "value": 24
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I made this jig for making corrugated metal with a comb, epoxy putty, and some popsicle sticks",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/p0nlth/i_made_this_jig_for_making_corrugated_metal_with/"
+}

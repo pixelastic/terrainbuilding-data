@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_yf9qv",
+    "name": "Timago"
+  },
+  "date": {
+    "day": 1628467200,
+    "full": 1628532323,
+    "month": 1627776000,
+    "week": 1628380800
+  },
+  "id": "t3_p16vxc",
+  "picture": {
+    "filesize": 44993,
+    "fullUrl": "https://preview.redd.it/9tf5d6u6hdg71.jpg?auto=webp&s=189d5494de33dfd35cf63e21f02310eb3bcc6859",
+    "hash": "46ef54da20",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwUGB//EACcQAAEDAgUDBQEAAAAAAAAAAAECAxEEBQAGEiFBBxOBFCIyYXGh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAXEQEBAQEAAAAAAAAAAAAAAAABAAJh/9oADAMBAAIRAxEAPwBtfs33mhzk243W1bDDDwmiELS42TAkDjefPEY2OgvTVbToU2sdwoClIndPG/kEYgL906Vdcwrr/WKaYUzo0o+UxBBkbg/vGDdOcs3C01t0NUpSWQ4Gmu4CNSUz7h9HV/DhmU1yiol//9k=",
+    "url": "https://preview.redd.it/9tf5d6u6hdg71.jpg?width=640&crop=smart&auto=webp&s=6ece882ac2bfb505b1fa45f0ca13bd67aecd3054",
+    "width": 640
+  },
+  "score": {
+    "comments": 27,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 670,
+    "value": 670
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I painted up a simple MDF ruin",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/p16vxc/i_painted_up_a_simple_mdf_ruin/"
+}

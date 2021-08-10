@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_3dhi1",
+    "name": "kagius"
+  },
+  "date": {
+    "day": 1627084800,
+    "full": 1627121801,
+    "month": 1625097600,
+    "week": 1626566400
+  },
+  "id": "t3_oqnbrk",
+  "picture": {
+    "filesize": 51927,
+    "fullUrl": "https://preview.redd.it/t0w40j7oy4d71.jpg?width=1280&format=pjpg&auto=webp&s=c9e3b826db3ba7551bc574175d5551949d66ab09",
+    "hash": "0fef011b64",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgMH/8QAJRAAAgECBAYDAAAAAAAAAAAAAQIEAAMREhMhBTI2QUJhcYHB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAwDAQACEQMRAD8AxDVS4+gllnIPMxIU+8RTitCeXejnUtybgyhA2ZThuCDgN+1KB4fBqXEOo4H3+1YV/9k=",
+    "url": "https://preview.redd.it/t0w40j7oy4d71.jpg?width=640&crop=smart&auto=webp&s=45105d85674f6f4df93c1885ceae89b11153401d",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 42,
+    "value": 42
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Built a 4ft long ravine and detachable bridge for a Moria table collab",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/oqnbrk/built_a_4ft_long_ravine_and_detachable_bridge_for/"
+}

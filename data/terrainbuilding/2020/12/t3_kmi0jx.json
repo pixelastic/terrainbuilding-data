@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_11w82z",
+    "name": "TragedyTomorrow"
+  },
+  "date": {
+    "day": 1609200000,
+    "full": 1609260834,
+    "month": 1606780800,
+    "week": 1609027200
+  },
+  "id": "t3_kmi0jx",
+  "picture": {
+    "filesize": 100036,
+    "fullUrl": "https://preview.redd.it/x5elthd5p5861.jpg?width=4032&format=pjpg&auto=webp&s=99b78e0e7a534788e1fe634f0203da4b46bb9189",
+    "hash": "fea567678b",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFB//EACUQAAEDAwMDBQAAAAAAAAAAAAIBAwQAERIFE0EUIWExMlFxgf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/8QAHBEAAQQDAQAAAAAAAAAAAAAAAgABAyEEEhNh/9oADAMBAAIRAxEAPwBE5E7URcbc1AlxRDwFmyiXdPVePjmjwZMkGGITs0WSdBEYTaUciXtjfhfusbOVJEjPqZCrlayukqcefNWdJmyRs5vuqTfsVXCW1/2pihhKtUGWcJOXWn8X/9k=",
+    "url": "https://preview.redd.it/x5elthd5p5861.jpg?width=640&crop=smart&auto=webp&s=d165be5476db36c4271e23e97abb6d5ca39361a5",
+    "width": 640
+  },
+  "score": {
+    "comments": 12,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 78,
+    "value": 78
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My first set of ruins is almost complete, highlight and detail work is left.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/kmi0jx/my_first_set_of_ruins_is_almost_complete/"
+}

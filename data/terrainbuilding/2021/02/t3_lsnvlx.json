@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1jtx134m",
+    "name": "RedRightRepost"
+  },
+  "date": {
+    "day": 1614297600,
+    "full": 1614307425,
+    "month": 1612137600,
+    "week": 1613865600
+  },
+  "id": "t3_lsnvlx",
+  "picture": {
+    "filesize": 47760,
+    "fullUrl": "https://preview.redd.it/ize7onq9jqj61.jpg?width=4032&format=pjpg&auto=webp&s=4f78f4830df0e69a0b0bf3d6b848e742220f303e",
+    "hash": "e79e75df32",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABwP/xAAkEAACAQIFBAMAAAAAAAAAAAABAgMEEQAGEiExBRMUYQdBUf/EABQBAQAAAAAAAAAAAAAAAAAAAAX/xAAbEQACAQUAAAAAAAAAAAAAAAABAgADBRESFP/aAAwDAQACEQMRAD8AE4Mudijaepi1xghWseL8YRsi/GcWb4i/neOyLoUvchbC4BFuPeL5boYayCOOo1NHdbrfY2GxPvCR0F36bRdqjcxxuXUqAPv822OBBdUWroykxTiLJkGf/9k=",
+    "url": "https://preview.redd.it/ize7onq9jqj61.jpg?width=640&crop=smart&auto=webp&s=e40568d84fdfceae9e5b63f9d587411ae1ab4bf0",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 67,
+    "value": 67
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "When you magnetize, anything can be anything",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/lsnvlx/when_you_magnetize_anything_can_be_anything/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1atkch4o",
+    "name": "Wololoi"
+  },
+  "date": {
+    "day": 1623542400,
+    "full": 1623549769,
+    "month": 1622505600,
+    "week": 1623542400
+  },
+  "id": "t3_nymbg7",
+  "picture": {
+    "filesize": 102210,
+    "fullUrl": "https://preview.redd.it/m4gn8jmexx471.jpg?width=3888&format=pjpg&auto=webp&s=b31d022fae71130a59204de56077e983389efb97",
+    "hash": "44c974d408",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQAG/8QAIxAAAgEDBAEFAAAAAAAAAAAAAQIDAAQRBRMhMQYSFUFRcf/EABUBAQEAAAAAAAAAAAAAAAAAAAIF/8QAGxEAAgIDAQAAAAAAAAAAAAAAAQIAAwUhIlH/2gAMAwEAAhEDEQA/AMt4gtm+lrJO8u4IwSAPSFPHBzzVe6hZpcMDfQRKcFVZSTj74or22eGVxbtNtTAxqVPecdj4P5Ti6bJaKsMjAMo6ByBU23GIw5G4jlFqAdtg+T//2Q==",
+    "url": "https://preview.redd.it/m4gn8jmexx471.jpg?width=640&crop=smart&auto=webp&s=2104076d723ba6563af603b92d930b1fd8269c87",
+    "width": 640
+  },
+  "score": {
+    "comments": 18,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 491,
+    "value": 491
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Scratch-built poorhammer terrain",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/nymbg7/scratchbuilt_poorhammer_terrain/"
+}

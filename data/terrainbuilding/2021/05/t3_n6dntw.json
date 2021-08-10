@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4lttfk6y",
+    "name": "quidamcorvus"
+  },
+  "date": {
+    "day": 1620259200,
+    "full": 1620324764,
+    "month": 1619827200,
+    "week": 1619913600
+  },
+  "id": "t3_n6dntw",
+  "picture": {
+    "filesize": 102967,
+    "fullUrl": "https://preview.redd.it/0zc3d2svjjx61.jpg?width=1500&format=pjpg&auto=webp&s=bb27189600d94c942a7c17cefdc48f364f76bff2",
+    "hash": "ee7e239c4b",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUH/8QAIhAAAgIBBAEFAAAAAAAAAAAAAQIDEQQABSFhBhIiQ5Hh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAL/xAAZEQACAwEAAAAAAAAAAAAAAAABEQACEiH/2gAMAwEAAhEDEQA/AMNws0h2LmaWQu3yMSeT3peRN647UTRsWHBkawbH1q54eMKGKVp4Gx8lHLPJJal0JPtUEcHvvT/IhtGZjQptly7gZhEkESWCtkk3Q/dULnSXINQm5//Z",
+    "url": "https://preview.redd.it/0zc3d2svjjx61.jpg?width=640&crop=smart&auto=webp&s=0d3e4806cafe61cc914bb87b8579b515f9abdb9b",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 68,
+    "value": 68
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A hill of old ruins and a lonely tree.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/n6dntw/a_hill_of_old_ruins_and_a_lonely_tree/"
+}

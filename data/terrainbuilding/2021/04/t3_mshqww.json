@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_a2xa0plj",
+    "name": "Mica-13"
+  },
+  "date": {
+    "day": 1618617600,
+    "full": 1618624799,
+    "month": 1617235200,
+    "week": 1618099200
+  },
+  "id": "t3_mshqww",
+  "picture": {
+    "filesize": 53629,
+    "fullUrl": "https://preview.redd.it/tnzv26qz4nt61.jpg?width=5312&format=pjpg&auto=webp&s=c8e99aaaeca35d5ee9e24a95f2fe7dab5824fb56",
+    "hash": "c116cc23d3",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFBv/EACYQAAEDAwIFBQAAAAAAAAAAAAIBAwQABREGMRIVIVFxMjRB0fD/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EAB0RAAEDBQEAAAAAAAAAAAAAAAEAAhEDBBMxQSH/2gAMAwEAAhEDEQA/AMi3G5VHRxLVHucV1sUN8BQ3RxuJZ64TxQUW0TXH34lrZtiAAtNuIwKlx7kfZe2KuaV981++Kf1l64fj6qqrTi8wE79nXCgY+bfIOL//2Q==",
+    "url": "https://preview.redd.it/tnzv26qz4nt61.jpg?width=640&crop=smart&auto=webp&s=88a6238fa7380644da717a97e939e20f31398c17",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 107,
+    "value": 107
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Mushroom boxes for building",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/mshqww/mushroom_boxes_for_building/"
+}

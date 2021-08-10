@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1birtqn6",
+    "name": "Greatnesstro"
+  },
+  "date": {
+    "day": 1626652800,
+    "full": 1626710589,
+    "month": 1625097600,
+    "week": 1626566400
+  },
+  "id": "t3_onh16m",
+  "picture": {
+    "filesize": 54403,
+    "fullUrl": "https://preview.redd.it/tbvjsme807c71.jpg?width=4032&format=pjpg&auto=webp&s=d13888f3439e221659db8ece65bb4bedf62fb99a",
+    "hash": "ef4bfeb4b1",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQUGB//EACEQAAICAQQCAwAAAAAAAAAAAAEDAhEEAAUSIQYxIkFx/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABkRAAIDAQAAAAAAAAAAAAAAAAABAgMTMf/aAAwDAQACEQMRAD8ATo3tmFYViIycfI4v4zhZviR7BBHX1qO82Y/yXP29CUwx2yIipXyok2aF33+a3DbEJVs+G7HStEnKiyQVEAWRZrRMzNyi0QYVHnAsgJcZD0RY6OiO+T6IxR//2Q==",
+    "url": "https://preview.redd.it/tbvjsme807c71.jpg?width=640&crop=smart&auto=webp&s=c28dea4ed811e0dc257c66717ea27287c43871f1",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.83,
+    "ups": 12,
+    "value": 12
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Brass Pillar Walls with shields and other iconography.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/onh16m/brass_pillar_walls_with_shields_and_other/"
+}

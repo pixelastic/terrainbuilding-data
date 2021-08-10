@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_8moz0",
+    "name": "TheLoolee"
+  },
+  "date": {
+    "day": 1625961600,
+    "full": 1626023509,
+    "month": 1625097600,
+    "week": 1625961600
+  },
+  "id": "t3_oi8ea7",
+  "picture": {
+    "filesize": 131858,
+    "fullUrl": "https://preview.redd.it/u8zrhyyf8ma71.jpg?width=2840&format=pjpg&auto=webp&s=dced7b9ef1bfa2ecc168e202f69e12477768d3ca",
+    "hash": "34595fcb84",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQf/xAAkEAACAgEDAwUBAAAAAAAAAAABAgQRAwAFBhIhUSIyQUJhgf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGxEAAgEFAAAAAAAAAAAAAAAAAQIAAxETITH/2gAMAwEAAhEDEQA/AA9r5ryZc0iQ28McaNQUpjqvIsaaHPuUJ2yTui6ID48YNV4rU6eEdo3fLHzLHRkysCodulkv6sfcCPn+VqpyOI7RyBI8+RnkR3fCvoDAHzbfvfRws3DKCqo1af/Z",
+    "url": "https://preview.redd.it/u8zrhyyf8ma71.jpg?width=640&crop=smart&auto=webp&s=691ec791fcd681b238f39ba880ee07f08be58136",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 0.93,
+    "ups": 26,
+    "value": 26
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Dice tower, WIP, comments would be helpful",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/oi8ea7/dice_tower_wip_comments_would_be_helpful/"
+}

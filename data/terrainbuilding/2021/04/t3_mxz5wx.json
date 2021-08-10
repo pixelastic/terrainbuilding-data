@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_2ug470jc",
+    "name": "Vaegir_Archer"
+  },
+  "date": {
+    "day": 1619308800,
+    "full": 1619318780,
+    "month": 1617235200,
+    "week": 1619308800
+  },
+  "id": "t3_mxz5wx",
+  "picture": {
+    "filesize": 124991,
+    "fullUrl": "https://preview.redd.it/01chq8elg8v61.jpg?width=3024&format=pjpg&auto=webp&s=a7d41f86c025b96076dec48ad9fb6a20bf0c7ca6",
+    "hash": "be1d3e6ec2",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgMF/8QAJhAAAQMBBwQDAAAAAAAAAAAAAQIDBAUABhESITFBBxMVIlGRsf/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAZEQACAwEAAAAAAAAAAAAAAAABIQACAxH/2gAMAwEAAhEDEQA/AATPTFjM21JvAhbCyczsaH6jUDRSsCfy2i10ShyE9yHe5tbR5U0lBB+CFLBHHFqw6ixUKdniLWCFjuxziUkpOuI42s0pd1qxeWN5KMliLHcVlbS8VYqAA9htpv8AViaIK3ImobE//9k=",
+    "url": "https://preview.redd.it/01chq8elg8v61.jpg?width=640&crop=smart&auto=webp&s=2f5a06a89cd1ca2cb41683defe898cbafaddf5bd",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 80,
+    "value": 80
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First pieces of scatter terrain",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/mxz5wx/first_pieces_of_scatter_terrain/"
+}

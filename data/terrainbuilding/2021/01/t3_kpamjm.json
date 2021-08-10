@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1hu1cnuv",
+    "name": "cosmicshake41"
+  },
+  "date": {
+    "day": 1609632000,
+    "full": 1609637469,
+    "month": 1609459200,
+    "week": 1609632000
+  },
+  "id": "t3_kpamjm",
+  "picture": {
+    "filesize": 81125,
+    "fullUrl": "https://preview.redd.it/awq1r8w2t0961.jpg?width=4032&format=pjpg&auto=webp&s=2f59c35c55baff90b5b387665669e5b9ba7296fe",
+    "hash": "5d2f32d141",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgID/8QAIRAAAQQCAgMBAQAAAAAAAAAAAQIDBBEFIQASBiIxExX/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAFxEAAwEAAAAAAAAAAAAAAAAAAQIRAP/aAAwDAQACEQMRAD8Avzvwv+fkJUITp6IRjoU0HCpX5lKrUR7bKqqidXeq4LhQEw4k2MxIbizHnA6wt4p9lmgEABRoUCSd6sfa5jjcnMzGUkQ58hxyPHiLcaSVn1N9dWflcXzvHsPjcRCei4yMHX4ndS1grKVdL7Js6N8BnINzIlE3/9k=",
+    "url": "https://preview.redd.it/awq1r8w2t0961.jpg?width=640&crop=smart&auto=webp&s=773a01e986eff30e5d0653739dbe362b8270e687",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 16,
+    "value": 16
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP Trireme-Styled Ship",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/kpamjm/wip_triremestyled_ship/"
+}

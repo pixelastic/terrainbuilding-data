@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_wdsgo",
+    "name": "Viking_Infidel"
+  },
+  "date": {
+    "day": 1628467200,
+    "full": 1628546325,
+    "month": 1627776000,
+    "week": 1628380800
+  },
+  "id": "t3_p1bjms",
+  "picture": {
+    "filesize": 44518,
+    "fullUrl": "https://preview.redd.it/4p88eqrtmeg71.jpg?auto=webp&s=68838707dd05abb237d9ed6d157ad51be4e3d74e",
+    "hash": "192d91818f",
+    "height": 281,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAX/xAAhEAACAAUFAQEAAAAAAAAAAAABAgADBAURBhIUITETIv/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAXEQEBAQEAAAAAAAAAAAAAAAABEQAC/9oADAMBAAIRAxEAPwCfqe9akvGpptwo6fhU4RuLIR5fz2gZG4Z7LA5Oc+RJq6TUCOlwoJeZ00b3M10dGBXr8nzs+YEIQPJOkMq0rv/Z",
+    "url": "https://preview.redd.it/4p88eqrtmeg71.jpg?width=640&crop=smart&auto=webp&s=6e40c2b35576cc8b5bc82173a015fa77ffe0aa84",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 64,
+    "value": 64
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Finally knocked out my ttcombat terrain.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/p1bjms/finally_knocked_out_my_ttcombat_terrain/"
+}

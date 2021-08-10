@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_610u26xu",
+    "name": "dchap006"
+  },
+  "date": {
+    "day": 1614729600,
+    "full": 1614744152,
+    "month": 1614556800,
+    "week": 1614470400
+  },
+  "id": "t3_lwkokn",
+  "picture": {
+    "filesize": 85645,
+    "fullUrl": "https://preview.redd.it/l8keuavulqk61.jpg?width=4032&format=pjpg&auto=webp&s=c0e83d76817119098832d536175211ea6f616e15",
+    "hash": "d9bad05d1c",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAb/xAAkEAACAQMDAwUAAAAAAAAAAAABAgMABBEFIUETUWExMkJx0f/EABUBAQEAAAAAAAAAAAAAAAAAAAAC/8QAIBEAAQMEAgMAAAAAAAAAAAAAAQIDIQARMVEiYUFxgf/aAAwDAQACEQMRAD8AlLWRUvVa/aOPRoyDPMikzJnhR8iTsB57U+wuLTVkvb3T3hjhhfazkYLPFH6DKn3eT34xU5MpbVUjZmMccXWVCdg+SM/eKWyqGMoVeqFADY34/ahxjkFoUb9yMzHqjbgCSlaR0fO/s7wIFq//2Q==",
+    "url": "https://preview.redd.it/l8keuavulqk61.jpg?width=640&crop=smart&auto=webp&s=0ca665a766ededb3d4d905e5904b7aeba61e9b3c",
+    "width": 640
+  },
+  "score": {
+    "comments": 35,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 418,
+    "value": 418
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Before and after, my first attempt at painting rust. Looking for pointers.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/lwkokn/before_and_after_my_first_attempt_at_painting/"
+}

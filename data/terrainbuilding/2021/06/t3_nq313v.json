@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5t0i3fqc",
+    "name": "Slight-Feature"
+  },
+  "date": {
+    "day": 1622505600,
+    "full": 1622577505,
+    "month": 1622505600,
+    "week": 1622332800
+  },
+  "id": "t3_nq313v",
+  "picture": {
+    "filesize": 148691,
+    "fullUrl": "https://preview.redd.it/qabgc9demp271.jpg?width=1535&format=pjpg&auto=webp&s=cdd9bd6e7b254dcd920e8c5c53eece7853c96a13",
+    "hash": "90694f4ef1",
+    "height": 854,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgf/xAAjEAACAgICAgEFAAAAAAAAAAABAgMEBREAIRIxQQYHIkJh/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABwRAAICAgMAAAAAAAAAAAAAAAEDAAIEERIUIf/aAAwDAQACEQMRAD8Am88EVO3G1VHlAAIeKFRs+idj59g/3fKv9LfcKLB4lalmhfuN5s6vC4bxB/U/kujvfoaIIPzw9iZauRzWZxGMaMxW0FusZGKiEqvkwUjsd7bQPejw2tVG2t+tSadCVLPEj773sEg9He+A7Sl116I44rmW5HRn/9k=",
+    "url": "https://preview.redd.it/qabgc9demp271.jpg?width=640&crop=smart&auto=webp&s=fb08d6a7739569ea1ce51db2b012fca3407278ca",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 68,
+    "value": 68
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First ruins/building. Turned out way better than I anticipated. CC welcome",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/nq313v/first_ruinsbuilding_turned_out_way_better_than_i/"
+}

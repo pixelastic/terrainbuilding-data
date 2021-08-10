@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_6y9lt",
+    "name": "RageToast"
+  },
+  "date": {
+    "day": 1625356800,
+    "full": 1625429543,
+    "month": 1625097600,
+    "week": 1625356800
+  },
+  "id": "t3_ods2i2",
+  "picture": {
+    "filesize": 63308,
+    "fullUrl": "https://preview.redd.it/dryem0fx69971.jpg?width=4032&format=pjpg&auto=webp&s=7912eea9e992f490b4bffd12b1e230521cbb7beb",
+    "hash": "24c80c5b34",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQID/8QAJRAAAgEDAwIHAAAAAAAAAAAAAQIDBBEhAAUxBhITFBVBUZHR/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABgRAAIDAAAAAAAAAAAAAAAAAAABAhIU/9oADAMBAAIRAxEAPwDTY+tI22k+PTMkDkAlgY2sWI7QbfA5t76uDr2pmmFH5eF6cqSGZS0hQHC3vzbFyNJ1+xUNTCzPGVYDlfw40P6HQUro8cPdKuQ7HI+tB2pxuPxNSof/2Q==",
+    "url": "https://preview.redd.it/dryem0fx69971.jpg?width=640&crop=smart&auto=webp&s=a90770b71eef2ef44d6cf8a7f2502b24d02538c0",
+    "width": 640
+  },
+  "score": {
+    "comments": 11,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 543,
+    "value": 543
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I made a ruined arch thing",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ods2i2/i_made_a_ruined_arch_thing/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_npuor",
+    "name": "hvacu"
+  },
+  "date": {
+    "day": 1609113600,
+    "full": 1609198018,
+    "month": 1606780800,
+    "week": 1609027200
+  },
+  "id": "t3_km1q7h",
+  "picture": {
+    "filesize": 94473,
+    "fullUrl": "https://preview.redd.it/3m0qf8n6i0861.jpg?width=1600&format=pjpg&auto=webp&s=bb1d7b56b9491b779279058c60444f07a170cbf4",
+    "hash": "5452b6a3a8",
+    "height": 756,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA4DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgIH/8QAJBAAAQMCBQUBAAAAAAAAAAAAAgEDBQQRABITISIGFDFRYUH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABoRAQADAAMAAAAAAAAAAAAAAAEAAhEDISL/2gAMAwEAAhEDEQA/AB7cY3XwTlQFjeTM2Q5rIIpyW3sl2+fmAFDLg22/rKTQ6vASCy2t5smNolekJGOlWm3qMo6jp39TtxVTB1FDKSEvhUXztfEw/QkPPvPAcGLSByRxoCyL8Vfe+IahxBarmRx6t0z/2Q==",
+    "url": "https://preview.redd.it/3m0qf8n6i0861.jpg?width=640&crop=smart&auto=webp&s=5cc3c16cc8a985f89c70b0c4d2942359ce6ab5e1",
+    "width": 640
+  },
+  "score": {
+    "comments": 15,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 269,
+    "value": 269
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First time making a dice tower",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/km1q7h/first_time_making_a_dice_tower/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5monn",
+    "name": "verekh"
+  },
+  "date": {
+    "day": 1625616000,
+    "full": 1625677737,
+    "month": 1625097600,
+    "week": 1625356800
+  },
+  "id": "t3_ofna4s",
+  "picture": {
+    "filesize": 195321,
+    "fullUrl": "https://preview.redd.it/yeglqld1pt971.jpg?width=720&format=pjpg&auto=webp&s=29e3804c64980b977933362b5e12ba758004ec57",
+    "hash": "09ddc357a0",
+    "height": 1138,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgEH/8QAKBAAAQIDBwMFAAAAAAAAAAAAAQIDAAQFBhESISIxUxQXI5GSscHR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAYEQEBAQEBAAAAAAAAAAAAAAABAwAREv/aAAwDAQACEQMRAD8AM2TptMZnpMmQS3VKeltKZhlw+ZpZwlW+pWo73/UNO2aec+4/sWkWVeXbhU681LtUZOaVhwFShfiyG4JPxGldazyN+sTpT29MoSJib//Z",
+    "url": "https://preview.redd.it/yeglqld1pt971.jpg?width=640&crop=smart&auto=webp&s=f530b6f1c4520b4eb7dca481463bffc50d2f4221",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.92,
+    "ups": 31,
+    "value": 31
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Wooden chapel! One of my first builds",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ofna4s/wooden_chapel_one_of_my_first_builds/"
+}

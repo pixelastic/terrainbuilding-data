@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1jtx134m",
+    "name": "RedRightRepost"
+  },
+  "date": {
+    "day": 1628208000,
+    "full": 1628214962,
+    "month": 1627776000,
+    "week": 1627776000
+  },
+  "id": "t3_oyx27r",
+  "picture": {
+    "filesize": 49539,
+    "fullUrl": "https://preview.redd.it/nnsu8xii9nf71.jpg?width=4032&format=pjpg&auto=webp&s=09cbfd6d2d6296c8c369e3555ce3b8ddaf4b002d",
+    "hash": "c104c6c66d",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQMH/8QAJBAAAQQABQQDAAAAAAAAAAAAAQIDBBEABRIxQQYTITIVUcH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABoRAAICAwAAAAAAAAAAAAAAAAECAAQDERL/2gAMAwEAAhEDEQA/AAvlS/IbW7Ly4NFLCm1B4hSQv1CkhO5P7i3TMqE/1NlTr0lluHGfMqS+rUEduyjWCQLTqJF/eMszSc6knSEp8ja+NueMHJmvFHuQCNJAJqrut9r84gtPGrbEZtsy8mf/2Q==",
+    "url": "https://preview.redd.it/nnsu8xii9nf71.jpg?width=640&crop=smart&auto=webp&s=0f678e5ed2aa2e8187c17c141539de827ad6fa15",
+    "width": 640
+  },
+  "score": {
+    "comments": 39,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 566,
+    "value": 566
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Newest project... haven’t decided if it’s going to be an aqueduct or bridge.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/oyx27r/newest_project_havent_decided_if_its_going_to_be/"
+}

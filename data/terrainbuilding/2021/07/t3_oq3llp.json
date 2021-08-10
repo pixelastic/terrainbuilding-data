@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_7xkbvyob",
+    "name": "shadowedsolo"
+  },
+  "date": {
+    "day": 1626998400,
+    "full": 1627050713,
+    "month": 1625097600,
+    "week": 1626566400
+  },
+  "id": "t3_oq3llp",
+  "picture": {
+    "filesize": 147793,
+    "fullUrl": "https://preview.redd.it/rg37nx9l3zc71.jpg?width=3096&format=pjpg&auto=webp&s=5f819e22a903d9790fab29517c82baa0a0d46c38",
+    "hash": "72a923965d",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwMG/8QAIhAAAgICAgICAwAAAAAAAAAAAQIDBAURAAYhQRIiMWGR/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABgRAQADAQAAAAAAAAAAAAAAAAEAAxEC/9oADAMBAAIRAxEAPwCHboIsvkslWkoRihC7VwoJJKglQS29+fz+vXDvsnU57mS+VTGXZK8caRI0cfyXSqANHjRkukZOTL25Ki1nrzStKrtJors78g+/Prm2wWKfG4mtUdld41+zL4BJOzr+8BsA0j81q4z/2Q==",
+    "url": "https://preview.redd.it/rg37nx9l3zc71.jpg?width=640&crop=smart&auto=webp&s=5901b87a350f5e5032aa22e2cd9a9be3a2300c38",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 78,
+    "value": 78
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My first Ruined Tower",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/oq3llp/my_first_ruined_tower/"
+}

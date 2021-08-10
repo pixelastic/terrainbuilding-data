@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_3ulub",
+    "name": "adchick"
+  },
+  "date": {
+    "day": 1606003200,
+    "full": 1606011344,
+    "month": 1604188800,
+    "week": 1606003200
+  },
+  "id": "t3_jynn5q",
+  "picture": {
+    "filesize": 135855,
+    "fullUrl": "https://preview.redd.it/ofu7jbkpap061.jpg?width=3024&format=pjpg&auto=webp&s=2d6613e385b38194529582cf9221e1d1da955662",
+    "hash": "ab1f28563a",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAJhAAAQQBAQcFAAAAAAAAAAAAAQIDBAURAAYHEiExQVEUMjNhgf/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAGhEAAgIDAAAAAAAAAAAAAAAAAAECAxIiMf/aAAwDAQACEQMRAD8AZ2l3nLasjAjxkBAceaW4tR4zwJyOFPcnl18jWOWV2Zkxbs1lMaSfkbICcH6B7apaWJIi3Fh66YmxrXcAokNgFOM889QR5BB0xH3WVt9GbmIvUQ/cgtBKVYwokZJ74IH5qXK51PZjVjPh/9k=",
+    "url": "https://preview.redd.it/ofu7jbkpap061.jpg?width=640&crop=smart&auto=webp&s=494dbe1b417cc8f6f3307373395fe541be1569dd",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 106,
+    "value": 106
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First build: Still working on our rock edge, but quite pleased with how our water turned out.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/jynn5q/first_build_still_working_on_our_rock_edge_but/"
+}

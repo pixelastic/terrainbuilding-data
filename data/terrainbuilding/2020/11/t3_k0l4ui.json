@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_8z4fx18d",
+    "name": "glimpsesofgrimdark"
+  },
+  "date": {
+    "day": 1606262400,
+    "full": 1606278523,
+    "month": 1604188800,
+    "week": 1606003200
+  },
+  "id": "t3_k0l4ui",
+  "picture": {
+    "filesize": 99826,
+    "fullUrl": "https://preview.redd.it/he30f277db161.jpg?width=3024&format=pjpg&auto=webp&s=d4223037c5b9e8501023a25b52d7cddb3e84f26c",
+    "hash": "28836df011",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQAH/8QAJBAAAgEDAwMFAAAAAAAAAAAAAQIDBAURABIhQVFhBhMVMTL/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABkRAAIDAQAAAAAAAAAAAAAAAAECAAMRMf/aAAwDAQACEQMRAD8AAtdmS4USCnj9qsZjIIjzHICeEB/QwO4Or4GuheRJIlkbced5XHjGOmh7NYvVRSnjhhXYrA7lqQhHlSPrvrQrNRV9toVguMkM85JcvvJPPcnrnOgGK9k7twFZ/9k=",
+    "url": "https://preview.redd.it/he30f277db161.jpg?width=640&crop=smart&auto=webp&s=9a6f64835966b930ca6840f5ebf5221b0d20e526",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 60,
+    "value": 60
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Hazard striping, yo",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/k0l4ui/hazard_striping_yo/"
+}

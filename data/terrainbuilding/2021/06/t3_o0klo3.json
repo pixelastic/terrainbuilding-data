@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_th41s",
+    "name": "GWizRidesAgain"
+  },
+  "date": {
+    "day": 1623715200,
+    "full": 1623780348,
+    "month": 1622505600,
+    "week": 1623542400
+  },
+  "id": "t3_o0klo3",
+  "picture": {
+    "filesize": 63044,
+    "fullUrl": "https://preview.redd.it/qlukb1i0zg571.jpg?width=4032&format=pjpg&auto=webp&s=80457846483283f2b50efb7e35ec74ea4731c49c",
+    "hash": "de644b2047",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFB//EACQQAAIBAwMDBQAAAAAAAAAAAAECAwQFEQASITFBUQYHExQi/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAZEQEAAgMAAAAAAAAAAAAAAAABADECAxP/2gAMAwEAAhEDEQA/ALlV67u1yWJoZ4oI4m3uUiyE285JPjA476Tb3HulegCXB/r42P8AHCE3AkZOSMnoQMedZhXTvHSQyoBunDJIOcEK3HGiW+oklX9Ede2jmNsl3ZFT/9k=",
+    "url": "https://preview.redd.it/qlukb1i0zg571.jpg?width=640&crop=smart&auto=webp&s=727e1112251522a6952cde4ee9603fffa55a0e2e",
+    "width": 640
+  },
+  "score": {
+    "comments": 13,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 121,
+    "value": 121
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Another Mossy Stone Bridge.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/o0klo3/another_mossy_stone_bridge/"
+}

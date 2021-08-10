@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_35se1583",
+    "name": "The_M15"
+  },
+  "date": {
+    "day": 1626566400,
+    "full": 1626645497,
+    "month": 1625097600,
+    "week": 1626566400
+  },
+  "id": "t3_on0e1y",
+  "picture": {
+    "filesize": 41277,
+    "fullUrl": "https://preview.redd.it/jiq7y8del1c71.jpg?width=4000&format=pjpg&auto=webp&s=95e493ba10c1e1fffb74c75e541921d2c47f2ac9",
+    "hash": "b9cc63ded0",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMGB//EACQQAAEDAgYCAwAAAAAAAAAAAAECAwQFEQAGBxIUQRMhUWGR/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABcRAQADAAAAAAAAAAAAAAAAAAABAhL/2gAMAwEAAhEDEQA/AJjTbK0SPOqreYKLGkJPiWzyW9xAIUFWHXsDC9XKLB4cBvL9FjRng6VOGOyE3Tt7+bHG8UaDFcYaU8w264GwjetN1ED7wNVolPEjnJjNpfS0WRYetpO79v3hTQdP/9k=",
+    "url": "https://preview.redd.it/jiq7y8del1c71.jpg?width=640&crop=smart&auto=webp&s=75afeb38044416e76ddd8a9d5d62158167308e56",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 114,
+    "value": 114
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Building a realistic Castle",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/on0e1y/building_a_realistic_castle/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1bsclzgj",
+    "name": "Vertec211"
+  },
+  "date": {
+    "day": 1605312000,
+    "full": 1605378956,
+    "month": 1604188800,
+    "week": 1604793600
+  },
+  "id": "t3_ju6ra4",
+  "picture": {
+    "filesize": 41159,
+    "fullUrl": "https://preview.redd.it/kag4x75c29z51.jpg?width=4656&format=pjpg&auto=webp&s=3997e2d4fdb90db4d0fb02f758c22a6c86c0d2b3",
+    "hash": "6daed2627a",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQf/xAAhEAACAQMEAwEAAAAAAAAAAAABAgMEBiEABRESEzFBcf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGREBAAIDAAAAAAAAAAAAAAAAAQARAxIh/9oADAMBAAIRAxEAPwCRWNa1JW7cazdmKROxVQr9WXggdiCMjlh6yNCXtb0m01bmAeaj7FVkXPVvqtx91d6TbYYLemFO8kSEAFAQVPZ05wQQDgZGhrstrb4KmpqAJXklJZvI/Yck5P7qYyduNqJU/9k=",
+    "url": "https://preview.redd.it/kag4x75c29z51.jpg?width=640&crop=smart&auto=webp&s=1ebb6f952bd5ee1b05e0b801b2af2cee1f9a2215",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 0.95,
+    "ups": 14,
+    "value": 14
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A tiny thatched cottage",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ju6ra4/a_tiny_thatched_cottage/"
+}

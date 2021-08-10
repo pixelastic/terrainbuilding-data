@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_30pi1aiy",
+    "name": "greedo102515"
+  },
+  "date": {
+    "day": 1620691200,
+    "full": 1620768207,
+    "month": 1619827200,
+    "week": 1620518400
+  },
+  "id": "t3_na84sw",
+  "picture": {
+    "filesize": 85795,
+    "fullUrl": "https://preview.redd.it/w55sbvxg6ky61.jpg?width=3024&format=pjpg&auto=webp&s=4763c2cda5b4774afc2aea9f55c950aa7e7ee391",
+    "hash": "59aae17ae6",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGB//EACIQAAEEAQQCAwAAAAAAAAAAAAIBAwQFEQAGEiETUUFhcf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGhEAAgIDAAAAAAAAAAAAAAAAAREAAgMUMf/aAAwDAQACEQMRAD8ACvqbbey5cJ2IzJtLBT5g2b3jQOPfJcJhU61oNdGKwYKdJsUZclEr6ttm4Qjy7wiomF/dLNxbHrr+1ZnOTJMdwRUFFsRITHOcYX5+9XFa2FbAjxGUXxNAgjyLKqie196h2bG7UUYSGDyf/9k=",
+    "url": "https://preview.redd.it/w55sbvxg6ky61.jpg?width=640&crop=smart&auto=webp&s=9fc61eb73defdffe8a634fe3cb08c49ff9785bb9",
+    "width": 640
+  },
+  "score": {
+    "comments": 15,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 537,
+    "value": 537
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Some jungle scatter terrain",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/na84sw/some_jungle_scatter_terrain/"
+}

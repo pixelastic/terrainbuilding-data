@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_10bjw9",
+    "name": "sFAMINE"
+  },
+  "date": {
+    "day": 1615334400,
+    "full": 1615364388,
+    "month": 1614556800,
+    "week": 1615075200
+  },
+  "id": "t3_m1sswv",
+  "picture": {
+    "filesize": 160224,
+    "fullUrl": "https://preview.redd.it/415zqtd5u5m61.jpg?width=3024&format=pjpg&auto=webp&s=272dc788cdf66bd3307d7558132d7c3faba6af58",
+    "hash": "5b371ef9a9",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAjEAACAgICAQQDAAAAAAAAAAABAgMEBREAMSEHEyJhcYGR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAbEQEAAgMBAQAAAAAAAAAAAAABERIAAlEh4f/aAAwDAQACEQMRAD8AnqWPgmginyuRZSxDqqxsY2XWxv4/nhd/0/p5Gy9ipmDCjdoVQgH62ynX65QY7NYienHFFdbH20AUNYQOAeux4I/nHqC+5G7IonQudPE4ZT4HR5PttMtkeR8xi/hUTo5//9k=",
+    "url": "https://preview.redd.it/415zqtd5u5m61.jpg?width=640&crop=smart&auto=webp&s=098f32ef1927855722a766f5a12eb5076a0026d5",
+    "width": 640
+  },
+  "score": {
+    "comments": 21,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 497,
+    "value": 497
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Blue Sci Fi Structure Terrain",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/m1sswv/blue_sci_fi_structure_terrain/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_38ytmohz",
+    "name": "RyRy555"
+  },
+  "date": {
+    "day": 1620000000,
+    "full": 1620052350,
+    "month": 1619827200,
+    "week": 1619913600
+  },
+  "id": "t3_n3xlfs",
+  "picture": {
+    "filesize": 83538,
+    "fullUrl": "https://preview.redd.it/hivnhnlv1xw61.jpg?width=1440&format=pjpg&auto=webp&s=3340d158862ac2e9ee98fb372cdf1d772abc7b31",
+    "hash": "a485bdd4f5",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgME/8QAIxAAAQMCBgMBAAAAAAAAAAAAAQIDEQQFAAYSEyFBFDGRI//EABQBAQAAAAAAAAAAAAAAAAAAAAL/xAAYEQEAAwEAAAAAAAAAAAAAAAABAAIRIf/aAAwDAQACEQMRAD8AAZizSulyM5ZaV9lp2tuG45sQElrSkmOoKh6wAvztdUeCXPzbAWG0hMBPIHPQJiYxdhFLXV/jhQ1qBSiQdJn3x18xuvi2BWJtj6mm0pElxsTpWOACT1wfowSwOEWcn//Z",
+    "url": "https://preview.redd.it/hivnhnlv1xw61.jpg?width=640&crop=smart&auto=webp&s=9320cce99197a9adbc415bd112d7bede0a3a7d1d",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 45,
+    "value": 45
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Quick statue",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/n3xlfs/quick_statue/"
+}

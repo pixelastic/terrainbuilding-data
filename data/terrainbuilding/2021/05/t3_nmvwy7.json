@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_10krl5h4",
+    "name": "MS-06_Borjarnon"
+  },
+  "date": {
+    "day": 1622160000,
+    "full": 1622201814,
+    "month": 1619827200,
+    "week": 1621728000
+  },
+  "id": "t3_nmvwy7",
+  "picture": {
+    "filesize": 59536,
+    "fullUrl": "https://preview.redd.it/g51u54gwot171.jpg?width=1553&format=pjpg&auto=webp&s=34ac2b3cdbe99399f7f314f02a608736a47aa192",
+    "hash": "8fdb732e55",
+    "height": 600,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAPABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABwD/xAAjEAACAgEDAwUAAAAAAAAAAAABAgMFBAAGEhEhMQcTMkHR/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABYRAQEBAAAAAAAAAAAAAAAAAAEAEf/aAAwDAQACEQMRAD8AObTdl4LnOVLPKhQTuoiV+gQdewGlrYO7qzKwKaskzGksnx1VuQPeQD48j5P5o1u9qSy31m5D8Hl5oVK9wwB1entPlY2+aiaeA+1FOXJLL9K3TwdAWSGX/9k=",
+    "url": "https://preview.redd.it/g51u54gwot171.jpg?width=640&crop=smart&auto=webp&s=d14ffae8e192ec906ebdc7a4967c30df885b3340",
+    "width": 640
+  },
+  "score": {
+    "comments": 21,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 53,
+    "value": 53
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Any advice on improving this building I made?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/nmvwy7/any_advice_on_improving_this_building_i_made/"
+}

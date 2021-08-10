@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_c6msi46n",
+    "name": "techno_heretek"
+  },
+  "date": {
+    "day": 1622073600,
+    "full": 1622152097,
+    "month": 1619827200,
+    "week": 1621728000
+  },
+  "id": "t3_nmijmb",
+  "picture": {
+    "filesize": 71605,
+    "fullUrl": "https://preview.redd.it/7ctyii42hq171.jpg?width=2458&format=pjpg&auto=webp&s=4e32f7045081d15968baf293826816853bdd901b",
+    "hash": "495395e743",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQQGB//EACIQAAICAgICAgMAAAAAAAAAAAECAwQFEQASFTEGIRNhsf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDFMTj8GKVVrEkktyU9tlwI1bqGCEDZOz9aOvfFc7cx0Iqvhooa8xezFPECXPUOAvYt72N+gNcFI0IfGV7FiP8AIuSjmmYqwVYdLvZ/RB+uUtX5bWS9JjklXxgx9qqWaJWUylpSjo2uwBBQf3gf/9k=",
+    "url": "https://preview.redd.it/7ctyii42hq171.jpg?width=640&crop=smart&auto=webp&s=2f505331f7673a236f7075fac7c75825658073e0",
+    "width": 640
+  },
+  "score": {
+    "comments": 12,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 76,
+    "value": 76
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Working on some 3d print objects for more details on your 40k terrains",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/nmijmb/working_on_some_3d_print_objects_for_more_details/"
+}

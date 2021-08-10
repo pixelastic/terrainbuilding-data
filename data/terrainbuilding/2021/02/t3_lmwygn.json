@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_ha002is",
+    "name": "JGoodberry"
+  },
+  "date": {
+    "day": 1613606400,
+    "full": 1613681668,
+    "month": 1612137600,
+    "week": 1613260800
+  },
+  "id": "t3_lmwygn",
+  "picture": {
+    "filesize": 62870,
+    "fullUrl": "https://preview.redd.it/7xoqohkjuai61.jpg?width=3024&format=pjpg&auto=webp&s=7637183ba10b5ebcde573f3a0a36870675699671",
+    "hash": "77ed78a881",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAb/xAAiEAABBAICAgMBAAAAAAAAAAABAgMEEQUSACEGMRNRYdH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABoRAAICAwAAAAAAAAAAAAAAAAABBBETISL/2gAMAwEAAhEDEQA/AK57PhzH5BKXY0afHccjAOLtAdCdk9mr6IPX79cN4lMyruBjPZl+O7KdHyApTrSSLANdX/eK8k8amZIJMWUqKdipVNXsTYv2KNGr43D4hcLFxor2rq2UBG4bqwPXXE5+ia4TrR//2Q==",
+    "url": "https://preview.redd.it/7xoqohkjuai61.jpg?width=640&crop=smart&auto=webp&s=43a561eb7561aa2d5b2de0fbe55b4294eb05f4cb",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.81,
+    "ups": 17,
+    "value": 17
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Torterra is the terrain!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/lmwygn/torterra_is_the_terrain/"
+}

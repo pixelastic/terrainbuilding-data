@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_3yt5de75",
+    "name": "The_Goblin_Tinker"
+  },
+  "date": {
+    "day": 1620604800,
+    "full": 1620620103,
+    "month": 1619827200,
+    "week": 1620518400
+  },
+  "id": "t3_n8vo85",
+  "picture": {
+    "filesize": 72585,
+    "fullUrl": "https://preview.redd.it/s32xf0w2y7y61.jpg?width=4032&format=pjpg&auto=webp&s=25f0b3f02037150e473ae00c2b379e8debb91c19",
+    "hash": "4858bfc314",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQH/8QAJBAAAQMDAwQDAAAAAAAAAAAAAQIDBAAFERMhQQYHEjEIUcH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABgRAAIDAAAAAAAAAAAAAAAAAAACAREh/9oADAMBAAIRAxEAPwAW49Py4rshDRLimAS40rZwEcYHv9qRdlkurjKfjlhL2EaK1ZWMc4HJ+uK1b5Cw2rWm13OANGdJktMOOp9lIVkUx2Q6ehaLsyQXZUiK4oMqfIV4eSiSRsN6mWbGbD//2Q==",
+    "url": "https://preview.redd.it/s32xf0w2y7y61.jpg?width=640&crop=smart&auto=webp&s=693d30611258fe1f981b41b6f838547e1817c64f",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "ratio": 0.95,
+    "ups": 77,
+    "value": 77
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "The Versatile Dungeon",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/n8vo85/the_versatile_dungeon/"
+}

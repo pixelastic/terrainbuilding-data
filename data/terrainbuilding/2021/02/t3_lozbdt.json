@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_6jv2lh63",
+    "name": "finenife"
+  },
+  "date": {
+    "day": 1613865600,
+    "full": 1613921331,
+    "month": 1612137600,
+    "week": 1613865600
+  },
+  "id": "t3_lozbdt",
+  "picture": {
+    "filesize": 133946,
+    "fullUrl": "https://preview.redd.it/lhu4daa7nui61.jpg?width=3024&format=pjpg&auto=webp&s=48e70cd29768c31fdf783aa1bab63a0c2e691818",
+    "hash": "7b1c02187a",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgUGB//EACMQAAEEAgEDBQAAAAAAAAAAAAECAwQRBRIAISNhExQxQXH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGBEBAAMBAAAAAAAAAAAAAAAAAgABBRH/2gAMAwEAAhEDEQA/AEmsNxkuuIRsoHZzYBWxqhX14PDfiY7tkZSIm0AkCXXXzR+eUynce5iI6ci1MkS/T7oZbCEuEiiFjolQrpVczDK4KF791UHHy2WFG0tlxI1/KHCPSPYw5iqf/9k=",
+    "url": "https://preview.redd.it/lhu4daa7nui61.jpg?width=640&crop=smart&auto=webp&s=e21fe41e160a1f8628268568c28502a38318e707",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 35,
+    "value": 35
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Got bored, meshed a few STLs I found on the internet together and came up with this. Still WIP, modeled after Moab Utah Rockscape.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/lozbdt/got_bored_meshed_a_few_stls_i_found_on_the/"
+}

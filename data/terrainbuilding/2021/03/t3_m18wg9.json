@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_bo22k",
+    "name": "Alephus"
+  },
+  "date": {
+    "day": 1615248000,
+    "full": 1615304074,
+    "month": 1614556800,
+    "week": 1615075200
+  },
+  "id": "t3_m18wg9",
+  "picture": {
+    "filesize": 181106,
+    "fullUrl": "https://preview.redd.it/28n37f96u0m61.jpg?width=1312&format=pjpg&auto=webp&s=53bc8b3fed7506bf71fcb6ba0d2576d69e386074",
+    "hash": "3b4200f50b",
+    "height": 1024,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwEE/8QAIxAAAQMDAgcAAAAAAAAAAAAAAQIDBAARIQUSIjEyQWGRk//EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAZEQADAAMAAAAAAAAAAAAAAAAAARECMWH/2gAMAwEAAhEDEQA/AKHdQjx2w5OnLU+OFKHTgA474yPVJunjnqkz7KrFqipiZOG3FIQA2EpBG4CwBJtSojSdouEpNum5x4ob0fHbqP/Z",
+    "url": "https://preview.redd.it/28n37f96u0m61.jpg?width=640&crop=smart&auto=webp&s=17efa753786bf7c462ebfce3594ca7a416baf314",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 43,
+    "value": 43
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Stepped Pyramid For Frostgrave",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/m18wg9/stepped_pyramid_for_frostgrave/"
+}

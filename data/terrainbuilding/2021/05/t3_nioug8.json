@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_3pbhvogd",
+    "name": "kroma_geek"
+  },
+  "date": {
+    "day": 1621641600,
+    "full": 1621708074,
+    "month": 1619827200,
+    "week": 1621123200
+  },
+  "id": "t3_nioug8",
+  "picture": {
+    "filesize": 65723,
+    "fullUrl": "https://preview.redd.it/fjliufn6tp071.jpg?width=4032&format=pjpg&auto=webp&s=e5c3041725b59bf7d72a4b5243bd22b28ae628a8",
+    "hash": "a7ab783977",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgMH/8QAJBAAAQQBAwMFAAAAAAAAAAAAAgEDBAURACFBBiIxBxITI2H/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABkRAAMAAwAAAAAAAAAAAAAAAAABAgMRIf/aAAwDAQACEQMRAD8AnK9PXg6dkPyPcjofY1Er2k3LhP1N98Jxo7R1k03G/jrLGUIkoq0omOF5HK4wumfS/V1rKvVrpRtvM7YMx7088ou/jnWlxK5m0cQJROYb7xUCwudTxzL40OoSWz//2Q==",
+    "url": "https://preview.redd.it/fjliufn6tp071.jpg?width=640&crop=smart&auto=webp&s=6dce8b8093a25a056c75eb58301f1440804e5e6c",
+    "width": 640
+  },
+  "score": {
+    "comments": 11,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 55,
+    "value": 55
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Simple reversible cliffs or ravines",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/nioug8/simple_reversible_cliffs_or_ravines/"
+}

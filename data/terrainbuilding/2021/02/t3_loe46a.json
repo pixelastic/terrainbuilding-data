@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_2ep0rgfx",
+    "name": "AcctDept"
+  },
+  "date": {
+    "day": 1613779200,
+    "full": 1613847888,
+    "month": 1612137600,
+    "week": 1613260800
+  },
+  "id": "t3_loe46a",
+  "picture": {
+    "filesize": 111166,
+    "fullUrl": "https://preview.redd.it/59xdcfnqkoi61.jpg?width=3024&format=pjpg&auto=webp&s=1f1661c774e65f4037c19f8980cef841c54ed985",
+    "hash": "633f2c4547",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMFBv/EACQQAAIBAgYCAwEAAAAAAAAAAAECAwQRAAUSEzFRIWEUQXLB/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABsRAQACAgMAAAAAAAAAAAAAAAEAAgMhEUGx/9oADAMBAAIRAxEAPwAKHOXjqZ4KpygnkBgdXJD35H69deRhOZ0GcvWy/ErJ4oQbKu6R7/uJGURJUmfeiEsIAOhydIAPXd+PvG2DNLHFcKyqoC7Z1ADnm/Pm/nvA43pdRbonNTfs/9k=",
+    "url": "https://preview.redd.it/59xdcfnqkoi61.jpg?width=640&crop=smart&auto=webp&s=1d999e67db1755191a911077f8cffc497482cece",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 0.95,
+    "ups": 55,
+    "value": 55
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I finally got around to making some modular ruined walls as seen on Black Magic Craft. However, since these are nowhere near that quality, we’ll say they are a loose interpretation.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/loe46a/i_finally_got_around_to_making_some_modular/"
+}

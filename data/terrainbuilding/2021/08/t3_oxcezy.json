@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_9myq189l",
+    "name": "No_Incident_1219"
+  },
+  "date": {
+    "day": 1627948800,
+    "full": 1628023236,
+    "month": 1627776000,
+    "week": 1627776000
+  },
+  "id": "t3_oxcezy",
+  "picture": {
+    "filesize": 105894,
+    "fullUrl": "https://preview.redd.it/ho7fk94ef7f71.jpg?width=3909&format=pjpg&auto=webp&s=ebc6bfe84ea3397ca95cb63fc15cf70e91619d67",
+    "hash": "3f5abef7dd",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAb/xAAjEAABAwQCAQUAAAAAAAAAAAABAgMEAAUSIRExBhMUI1Fx/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAbEQADAAIDAAAAAAAAAAAAAAABAhEAAxIhYf/aAAwDAQACEQMRAD8AlonlU15MaI9m4lyQlkLZO1oPasSdHk/lUF6uhsFxJvPuEsx3kpxzCnFb0U46GuPvVOsUCIwtgMx20fLiCBsAEdHsd0e8xWLpcXUT2g96juJUonkAHQFTG1ohpHmH4Kos7uf/2Q==",
+    "url": "https://preview.redd.it/ho7fk94ef7f71.jpg?width=640&crop=smart&auto=webp&s=f63b20ba444cbfab295dcb6dcd1413ae8cd58ed5",
+    "width": 640
+  },
+  "score": {
+    "comments": 48,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 833,
+    "value": 833
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I Built a Path through the Forest. Where does it Lead?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/oxcezy/i_built_a_path_through_the_forest_where_does_it/"
+}

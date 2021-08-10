@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_2e6r1mi0",
+    "name": "ArboroUrsus"
+  },
+  "date": {
+    "day": 1604793600,
+    "full": 1604864119,
+    "month": 1604188800,
+    "week": 1604793600
+  },
+  "id": "t3_jqhwei",
+  "picture": {
+    "filesize": 58522,
+    "fullUrl": "https://preview.redd.it/nkktuw3gj2y51.jpg?width=3840&format=pjpg&auto=webp&s=d4aa8fe70555cbd840aaf8a2f389faf9d59415f6",
+    "hash": "a3be781d44",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgf/xAAmEAACAQMCBAcAAAAAAAAAAAABAgMABBEFBhITIbEUMTM0YXGB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAYEQADAQEAAAAAAAAAAAAAAAAAAhIBEf/aAAwDAQACEQMRAD8AEbZ0+x1sK1vezpcpIjnjiwsLEgAFs+WBnPxTXc9+k+37iDxkc+p28iwyXEjA88gktIrMCT0wOpxUUs/VT7h7U50z2Mn73NRRe5Q3bak//9k=",
+    "url": "https://preview.redd.it/nkktuw3gj2y51.jpg?width=640&crop=smart&auto=webp&s=45dd2de525a14232d88b686c658ccef13911712b",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 62,
+    "value": 62
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Cult headquarters for The Family of the New Horizon.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/jqhwei/cult_headquarters_for_the_family_of_the_new/"
+}

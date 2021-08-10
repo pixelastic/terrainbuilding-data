@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5eru5dib",
+    "name": "dethro81"
+  },
+  "date": {
+    "day": 1605312000,
+    "full": 1605376834,
+    "month": 1604188800,
+    "week": 1604793600
+  },
+  "id": "t3_ju654y",
+  "picture": {
+    "filesize": 65167,
+    "fullUrl": "https://preview.redd.it/1bxq1i01w8z51.jpg?width=4624&format=pjpg&auto=webp&s=9ac756a4999fc98d56e01a30d749955efb4dc335",
+    "hash": "2be02562e6",
+    "height": 481,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQF/8QAJBAAAgEDAwMFAAAAAAAAAAAAAQIDBAURABIhBhNhIjFBQnH/xAAVAQEBAAAAAAAAAAAAAAAAAAACBP/EAB0RAAICAQUAAAAAAAAAAAAAAAECABHwBBIxQYH/2gAMAwEAAhEDEQA/ABNb1PLXSwSCpdYUX1QsR2ycYbJ+QeODqBLs0Vir6S3yBGqZ0aSVDtLKNxMakHkcjjxrGMYYLvJfA+2k/R1rpKq4lp4VcRRPMF9gxUZAPj81M+p3MQvecQoKoHPZ/9k=",
+    "url": "https://preview.redd.it/1bxq1i01w8z51.jpg?width=640&crop=smart&auto=webp&s=c4732734f993d44e9b8ebda12ec9de8bf1f26bcc",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 0.88,
+    "ups": 11,
+    "value": 11
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ju654y/wip/"
+}

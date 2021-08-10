@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_3kqvo",
+    "name": "denuo"
+  },
+  "date": {
+    "day": 1606348800,
+    "full": 1606429330,
+    "month": 1604188800,
+    "week": 1606003200
+  },
+  "id": "t3_k1oq6y",
+  "picture": {
+    "filesize": 84491,
+    "fullUrl": "https://preview.redd.it/pyjkuqygtn161.jpg?width=4032&format=pjpg&auto=webp&s=09518cef3e870c57f9ca869ffbf333c7acd53892",
+    "hash": "46ab1b00d7",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgME/8QAIhAAAQQBBAIDAAAAAAAAAAAAAQIDBBEFAAYSITFxIjJB/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABgRAAMBAQAAAAAAAAAAAAAAAAABEQIh/9oADAMBAAIRAxEAPwAvO3Fl4+YXOlPtwJktoJqGOIbA6Sij9q6s33rRH3luATW2E5mO4VA2pyM0sIUPw0AVD0fekG6sTEMxmQGwl202QkGweqIIojUcRj4ynElTSTVBPxA4+fGhWewWRU//2Q==",
+    "url": "https://preview.redd.it/pyjkuqygtn161.jpg?width=640&crop=smart&auto=webp&s=5bb20e4d3abfe204673c651fc526614c7e7db633",
+    "width": 640
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 99,
+    "value": 99
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Made a sci-fi/40k Refinery. Take a look at the video in the comments for how to build it!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/k1oq6y/made_a_scifi40k_refinery_take_a_look_at_the_video/"
+}

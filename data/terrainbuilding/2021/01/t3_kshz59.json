@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_9p8l0qqb",
+    "name": "Rcfretland"
+  },
+  "date": {
+    "day": 1609977600,
+    "full": 1610040357,
+    "month": 1609459200,
+    "week": 1609632000
+  },
+  "id": "t3_kshz59",
+  "picture": {
+    "filesize": 97235,
+    "fullUrl": "https://preview.redd.it/h36scjct2y961.jpg?width=3024&format=pjpg&auto=webp&s=878af8163ea96ee71333160ebb82f4cc2e60e052",
+    "hash": "5d09d39836",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQH/8QAJRAAAQMDAgYDAAAAAAAAAAAAAQIDEQQFIQASBxMxQVFhFIHh/8QAFAEBAAAAAAAAAAAAAAAAAAAABf/EABwRAAEEAwEAAAAAAAAAAAAAAAEAAgORBBQxMv/aAAwDAQACEQMRAD8AjcsjXxmTV1pRzElCkEQQ5AI2qzI69vGjLfZ6VdPKgZBInacx+60U2xp52o56AoPITIjLY2wpPfB64I8e9A3Th/ZrhUh5arjuCAglL6hujE4x6+tF7UbemkmcOR3kWv/Z",
+    "url": "https://preview.redd.it/h36scjct2y961.jpg?width=640&crop=smart&auto=webp&s=eaeb3b9d69ed70a90b38f4d4663636bb5f2fd5b3",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 0.96,
+    "ups": 33,
+    "value": 33
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Next jungle terrain WIP",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/kshz59/next_jungle_terrain_wip/"
+}

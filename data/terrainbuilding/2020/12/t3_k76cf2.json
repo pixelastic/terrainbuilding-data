@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1dizpcv8",
+    "name": "Jagelsdorf"
+  },
+  "date": {
+    "day": 1607126400,
+    "full": 1607169857,
+    "month": 1606780800,
+    "week": 1606608000
+  },
+  "id": "t3_k76cf2",
+  "picture": {
+    "filesize": 64534,
+    "fullUrl": "https://preview.redd.it/j6lqx1qlzc361.jpg?width=2220&format=pjpg&auto=webp&s=af956d788e5182db835772f63a88c7c1ecddce43",
+    "hash": "1040e0e9c6",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAJRAAAQQBAwIHAAAAAAAAAAAAAQIDBBEhAAUxBiISExRBUWGB/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABgRAAMBAQAAAAAAAAAAAAAAAAABEQIi/9oADAMBAAIRAxEAPwBjffTRo8dUmc2wA4AQVkEWR3ivjP1nVMo8uR3Q4hYBBQvBH5rL9f7HubyWJUdovtsJX40Nnvo0ePfjQ/QsXf3SU+S6mChJCVOKNE2Kq88XxjQ1lyjL1D//2Q==",
+    "url": "https://preview.redd.it/j6lqx1qlzc361.jpg?width=640&crop=smart&auto=webp&s=70f84bbf77b4324cf8d3557218f55448b55b712f",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 78,
+    "value": 78
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A Dwarven Observatory, a Steampunk Contraption, an Eberron Creation Forge. Made with trash only.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/k76cf2/a_dwarven_observatory_a_steampunk_contraption_an/"
+}

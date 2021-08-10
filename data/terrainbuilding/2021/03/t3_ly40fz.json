@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4ptb8cyi",
+    "name": "drakeorion413"
+  },
+  "date": {
+    "day": 1614902400,
+    "full": 1614918675,
+    "month": 1614556800,
+    "week": 1614470400
+  },
+  "id": "t3_ly40fz",
+  "picture": {
+    "filesize": 78475,
+    "fullUrl": "https://preview.redd.it/z1ymozot05l61.jpg?width=3024&format=pjpg&auto=webp&s=7686c1ae66c6e9107f0874c4a87cc77045d71aec",
+    "hash": "fedcb3ccfa",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAEH/8QAIxAAAQMDBAIDAAAAAAAAAAAAAQIDEQQFEgATMUEhIgaR8f/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAZEQACAwEAAAAAAAAAAAAAAAABEQADISL/2gAMAwEAAhEDEQA/AMdtfw5dE8A4WXnzMFSkwjE8ieD6+O/vT75UmptLdFfFtAJcU4h1mcnMJGER6qVBAJ8caXVVlueQNy5VTSgvcyRSoAnKeuvzVFXYXEkOX2pSShSVRTIE5Ek9T3zzoYuLbjDTzgn/2Q==",
+    "url": "https://preview.redd.it/z1ymozot05l61.jpg?width=640&crop=smart&auto=webp&s=61e3a4bf04398fc66e1eafe0b3afc39a2aae23d1",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 89,
+    "value": 89
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My second attempt at making a building.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ly40fz/my_second_attempt_at_making_a_building/"
+}

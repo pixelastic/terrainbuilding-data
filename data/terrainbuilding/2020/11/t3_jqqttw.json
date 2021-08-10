@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_9s29w",
+    "name": "ChipStevens"
+  },
+  "date": {
+    "day": 1604880000,
+    "full": 1604895676,
+    "month": 1604188800,
+    "week": 1604793600
+  },
+  "id": "t3_jqqttw",
+  "picture": {
+    "filesize": 98691,
+    "fullUrl": "https://preview.redd.it/hjs8ctq855y51.jpg?width=3024&format=pjpg&auto=webp&s=e1858d3da7d3ae9f4e32c5500c68d5f04512a77d",
+    "hash": "78ae1f7b74",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQME/8QAJRAAAgEDAgUFAAAAAAAAAAAAAQMCBAURAAYSIUFxgQciMVGR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAYEQADAQEAAAAAAAAAAAAAAAAAAQIRIf/aAAwDAQACEQMRAD8AhYNtVdetdwKjGDfdGa0jMufzxd9JsXV0LZ07G3OZgelUF4HYgnzo+1+piqSiRRosN9lBKorAikDGBjPnWa5bjhfKgVUrNeVSEQs8aTmWOvIfRH5oPCzhStl9P//Z",
+    "url": "https://preview.redd.it/hjs8ctq855y51.jpg?width=640&crop=smart&auto=webp&s=0d49233d0d6ff260d24d9ff7ac84b9a9fbce409f",
+    "width": 640
+  },
+  "score": {
+    "comments": 11,
+    "downs": 0,
+    "ratio": 0.93,
+    "ups": 43,
+    "value": 43
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Small test piece for some 40k concrete walls. Thinking of making them modular sections. C&C appreciated and more info in comments.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/jqqttw/small_test_piece_for_some_40k_concrete_walls/"
+}

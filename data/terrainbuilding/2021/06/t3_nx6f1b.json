@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_es0ua",
+    "name": "IskandrAGogo"
+  },
+  "date": {
+    "day": 1623369600,
+    "full": 1623382780,
+    "month": 1622505600,
+    "week": 1622937600
+  },
+  "id": "t3_nx6f1b",
+  "picture": {
+    "filesize": 49225,
+    "fullUrl": "https://preview.redd.it/d9me17uw4k471.jpg?width=4032&format=pjpg&auto=webp&s=7b82945e7d7569d5b1ebc6945afb8c03d7ce667d",
+    "hash": "cbb4d5e438",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFAABAAAAAAAAAAAAAAAAAAAABv/EACMQAAEEAQMEAwAAAAAAAAAAAAECAwQhEQAFEgYHMUETUYH/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAGBEBAAMBAAAAAAAAAAAAAAAAAgARMQH/2gAMAwEAAhEDEQA/AFMvuZt8Lenm3HjDQElAjS1n5EiilSVWMkZr89WS33qhifsMVyNMYDpUtT3BwClGsJzR8A596KdStolqW8+kKdTXI/WfGiL8GO241wbA5XoI9vYyjWT/2Q==",
+    "url": "https://preview.redd.it/d9me17uw4k471.jpg?width=640&crop=smart&auto=webp&s=44d161e0977ffb53bbdadfddd930ea1014f566b9",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 43,
+    "value": 43
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First time building terrain. Thought I'd make a dock/bridge.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/nx6f1b/first_time_building_terrain_thought_id_make_a/"
+}

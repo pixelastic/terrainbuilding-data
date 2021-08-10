@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_xfbqv",
+    "name": "moby_dyckens"
+  },
+  "date": {
+    "day": 1622505600,
+    "full": 1622573578,
+    "month": 1622505600,
+    "week": 1622332800
+  },
+  "id": "t3_nq1hqr",
+  "picture": {
+    "filesize": 95973,
+    "fullUrl": "https://preview.redd.it/wm7iz1ekap271.jpg?width=4032&format=pjpg&auto=webp&s=466512d1c064ef4ef2e01f09957d448a08fdd947",
+    "hash": "96d7da4dde",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQME/8QAIRAAAgIBBQADAQAAAAAAAAAAAQIDEQQABRIhMQZBcWH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABwRAAICAgMAAAAAAAAAAAAAAAEDAhEAIWGh0f/aAAwDAQACEQMRAD8AUzs3Oh3ncGYukqSLZjl4KOVAdf2vry+9Qj3zKl+WR7TNJmK0eUqFhmq6sBZIYce7ABoHw+6cz/im2Zi5GRMspmmPNmD1Rsnr9vWGDZ8fDK5EDzKymwoIC9rxqgPOr/STqY56JroR3XdDk41SWidmWr9z/9k=",
+    "url": "https://preview.redd.it/wm7iz1ekap271.jpg?width=640&crop=smart&auto=webp&s=d339f6fff1643ab40f8b8c8e30b92841be04c9c9",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 153,
+    "value": 153
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Modular Jungle Ruins, part 1",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/nq1hqr/oc_modular_jungle_ruins_part_1/"
+}

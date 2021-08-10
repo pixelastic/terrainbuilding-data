@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_v7zq4",
+    "name": "t0rche"
+  },
+  "date": {
+    "day": 1610409600,
+    "full": 1610480913,
+    "month": 1609459200,
+    "week": 1610236800
+  },
+  "id": "t3_kvz4hi",
+  "picture": {
+    "filesize": 63937,
+    "fullUrl": "https://preview.redd.it/pabr1qp6gya61.jpg?width=1600&format=pjpg&auto=webp&s=4e8e302cdcd33876e2b5964fe466621531769777",
+    "hash": "c2e7b0ba09",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQAG/8QAIhAAAgICAgICAwAAAAAAAAAAAQIDBAURACEGMRIiQVFh/8QAFAEBAAAAAAAAAAAAAAAAAAAABf/EABsRAAICAwEAAAAAAAAAAAAAAAECABEDEkFR/9oADAMBAAIRAxEAPwALG4bGyeSxVZMZjjA0i/PVQu2jreyDodn3/eVfCVm8smxtjGUGgVpgoWqV2ATrsjsc3fi+FrW7Uti3JYmZbCyRq0pCxlfWgNdd+jvjb4SvBkILFeW1EFmdmiWYmNy4+3yU7/X41rggyl1q+RZk1ex7P//Z",
+    "url": "https://preview.redd.it/pabr1qp6gya61.jpg?width=640&crop=smart&auto=webp&s=5c4af2e1824db9dad2a202ee874f55b22b398607",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 65,
+    "value": 65
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Terrain I made a few years back for the now dead Runewars Miniatures Game. You couldn't just add any custom terrain to the game. It came with pre-made flat terrain pieces, each with its own set of rules. If you wanted your 3D terrain to be \"legit\", you had to copy the shape and dimensions exactly.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/kvz4hi/terrain_i_made_a_few_years_back_for_the_now_dead/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_9vm1zly6",
+    "name": "Wooden_Age7026"
+  },
+  "date": {
+    "day": 1616889600,
+    "full": 1616941537,
+    "month": 1614556800,
+    "week": 1616889600
+  },
+  "id": "t3_mf1psq",
+  "picture": {
+    "filesize": 88161,
+    "fullUrl": "https://preview.redd.it/by53l7gt3sp61.jpg?width=4032&format=pjpg&auto=webp&s=267cbbc45c21c604b2b6d14444c658488e17fee2",
+    "hash": "a4effd398b",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAIG/8QAKRAAAgECBAILAAAAAAAAAAAAAQIDBBEABQYTEkEUIjE0UXN0kbGys//EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAEDAgT/2gAMAwEAAhEDEQA/AMhlM/SdRVSsYkg2tykd4+tKoupIbmBYg/GB6xFFBlcsz0dM8rkJdEtxX5EW9vDFaW7lkvpqn9hgmre2HzV+rYPPFVsky9KPOGf/2Q==",
+    "url": "https://preview.redd.it/by53l7gt3sp61.jpg?width=640&crop=smart&auto=webp&s=2bd518b99537864ba6c031aa831db3b702dec6ef",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 12,
+    "value": 12
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Building an arena for upcoming tournament",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/mf1psq/building_an_arena_for_upcoming_tournament/"
+}

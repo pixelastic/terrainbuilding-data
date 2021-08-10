@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_3wnnrjy2",
+    "name": "dylantregaskis"
+  },
+  "date": {
+    "day": 1617062400,
+    "full": 1617104042,
+    "month": 1614556800,
+    "week": 1616889600
+  },
+  "id": "t3_mgdwan",
+  "picture": {
+    "filesize": 61046,
+    "fullUrl": "https://preview.redd.it/r6mw7ha1j5q61.jpg?width=4160&format=pjpg&auto=webp&s=4920b48820a0cc99067465ca8c48e92f698fec97",
+    "hash": "5b4b92e10f",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUG/8QAIxAAAgEDAwQDAAAAAAAAAAAAAQIDBAURACExBxITUSJBYf/EABQBAQAAAAAAAAAAAAAAAAAAAAX/xAAYEQADAQEAAAAAAAAAAAAAAAAAAQIRIf/aAAwDAQACEQMRAD8Axl4t/jljroYawyQMiSxuAAoLb5XAI3IJ/NLmqZpb/NDLEz0jPiKo7hvtyV5521W6oUaUlEtdTvIky8gN8Wx7H3zoFpKNb7dWGGPzzKe474yDjIGfWiprUKucfD//2Q==",
+    "url": "https://preview.redd.it/r6mw7ha1j5q61.jpg?width=640&crop=smart&auto=webp&s=735901e4db9f2cfd5b2d7bdddcde5dda89749cb4",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 100,
+    "value": 100
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Decided to try out a trench build",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/mgdwan/decided_to_try_out_a_trench_build/"
+}

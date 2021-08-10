@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_y6gja",
+    "name": "Tenurion"
+  },
+  "date": {
+    "day": 1611792000,
+    "full": 1611823301,
+    "month": 1609459200,
+    "week": 1611446400
+  },
+  "id": "t3_l6rzci",
+  "picture": {
+    "filesize": 79483,
+    "fullUrl": "https://preview.redd.it/ecsr0jhnc1e61.jpg?width=4032&format=pjpg&auto=webp&s=ab2b242a2d561374dd46c3f6fedf8d6f55aab920",
+    "hash": "8c4dd69b1a",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQGB//EACMQAAICAgEDBQEAAAAAAAAAAAECAwQFEQASITEiUWFxgZH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBf/EABoRAAICAwAAAAAAAAAAAAAAAAABAgMREiH/2gAMAwEAAhEDEQA/AM0mx92jEJJrEQDdTERMHYKBskD+D95Y5DG17eDqZTEgVkbcVuGRtCNyOxHnX18jjEdSGSNRIoYeNN3HBSUoqTSCsZESZgzx9Z6S3f1a9+TNsoFWwVbUl0//2Q==",
+    "url": "https://preview.redd.it/ecsr0jhnc1e61.jpg?width=640&crop=smart&auto=webp&s=580620c691b78a094843e3555ddf257aea06f8cc",
+    "width": 640
+  },
+  "score": {
+    "comments": 23,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 576,
+    "value": 576
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A frame house made from recycled materials",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/l6rzci/a_frame_house_made_from_recycled_materials/"
+}

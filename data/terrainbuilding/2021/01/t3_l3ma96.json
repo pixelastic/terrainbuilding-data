@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_26ji55u7",
+    "name": "A__Sofa"
+  },
+  "date": {
+    "day": 1611360000,
+    "full": 1611441363,
+    "month": 1609459200,
+    "week": 1610841600
+  },
+  "id": "t3_l3ma96",
+  "picture": {
+    "filesize": 51535,
+    "fullUrl": "https://preview.redd.it/ltmf3e5zs5d61.jpg?width=1440&format=pjpg&auto=webp&s=908dd69e7625b401a64a01c39896ab70d1eef9bc",
+    "hash": "b929e02a4f",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAf/xAAlEAABAwMDBAMBAAAAAAAAAAABAgMEBREhAAYSIjFBkQcTUXH/xAAVAQEBAAAAAAAAAAAAAAAAAAABA//EAB8RAAAGAQUAAAAAAAAAAAAAAAACAwUREiEiMWFx8P/aAAwDAQACEQMRAD8AoO0K+wnalOlTnkspSwA4pw2tYkZ9aTtD5FpdenKhlDkaRyUEc8pWB2z4JHg+9QWvnc1QaSzOW+6hs8kI+gpF7g3PTk486NDom5FNGVFYkFYV1K4m9/3tn+6SuKddUT2Jma1LY29yP//Z",
+    "url": "https://preview.redd.it/ltmf3e5zs5d61.jpg?width=640&crop=smart&auto=webp&s=12f6e513767136e4f4928aa420051829a1d1370f",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.94,
+    "ups": 41,
+    "value": 41
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Made some scorched earth type of terrain",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/l3ma96/made_some_scorched_earth_type_of_terrain/"
+}

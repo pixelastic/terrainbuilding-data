@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_75j3rkc9",
+    "name": "CheddarDeity"
+  },
+  "date": {
+    "day": 1621728000,
+    "full": 1621797364,
+    "month": 1619827200,
+    "week": 1621728000
+  },
+  "id": "t3_njeueu",
+  "picture": {
+    "filesize": 95322,
+    "fullUrl": "https://preview.redd.it/xi1rcl976x071.jpg?width=8000&format=pjpg&auto=webp&s=eb1bd42aa01425c6faf6c080e3e723d0bc1bd0ce",
+    "hash": "4b696c1e4d",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgP/xAAlEAABAwMDAwUAAAAAAAAAAAABAgMEAAURBhIhExQyIjFBcYH/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAHBEAAgICAwAAAAAAAAAAAAAAAQIDEQAxBCGh/9oADAMBAAIRAxEAPwAxMT2si1i5XR8Kz1FiMOoY6T48/Kxj8Bp7om6224v3GAqXPkb3lORHHRsdDQA3KXjyOcnHJIzRw6ViyJDji5k8FZKikOADk+w9NUi6cahzor7M+4hbTiVJBdGBz9UOOdGylwDe9AYkYXWo+q9z/9k=",
+    "url": "https://preview.redd.it/xi1rcl976x071.jpg?width=640&crop=smart&auto=webp&s=cd1d548087b1402ec8356bfe9bcd7b3cfb8b61dc",
+    "width": 640
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 30,
+    "value": 30
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP: Dragon Gate test activation",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/njeueu/wip_dragon_gate_test_activation/"
+}

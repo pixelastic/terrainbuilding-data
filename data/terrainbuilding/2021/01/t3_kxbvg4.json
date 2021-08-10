@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_12kioo",
+    "name": "MediaED2400"
+  },
+  "date": {
+    "day": 1610582400,
+    "full": 1610649961,
+    "month": 1609459200,
+    "week": 1610236800
+  },
+  "id": "t3_kxbvg4",
+  "picture": {
+    "filesize": 84098,
+    "fullUrl": "https://preview.redd.it/5u3eeq0rfcb61.jpg?width=4032&format=pjpg&auto=webp&s=a28b2763ec94b9f64008f795b5db97ade66e9092",
+    "hash": "1429d46fac",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAnEAACAQMCAwkAAAAAAAAAAAABAwIEBREAIQYHMRITFCIyQVFhcf/EABQBAQAAAAAAAAAAAAAAAAAAAAX/xAAaEQACAgMAAAAAAAAAAAAAAAAAAQIRAxMi/9oADAMBAAIRAxEAPwBrmZxZTKShCKR1UWZDIwYYlZABGQM77kal+E7xK51/h6iijSwkvvFMdIx6bY7R9X7pO529FTRzr5CUXMbORjGXlyRgkD26Dpoi3W1TVLg2bZrByYmWBIfBxg4+tF7m42KLFBc0f//Z",
+    "url": "https://preview.redd.it/5u3eeq0rfcb61.jpg?width=640&crop=smart&auto=webp&s=fbd287e2232c15377a433a9c53b12245e279b5e0",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.92,
+    "ups": 24,
+    "value": 24
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Brick Wall in winter (3D print)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/kxbvg4/brick_wall_in_winter_3d_print/"
+}

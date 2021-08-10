@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_dm8uofel",
+    "name": "Zebamunda"
+  },
+  "date": {
+    "day": 1627689600,
+    "full": 1627736433,
+    "month": 1625097600,
+    "week": 1627171200
+  },
+  "id": "t3_ov6qdu",
+  "picture": {
+    "filesize": 51364,
+    "fullUrl": "https://preview.redd.it/0g87qxpjqje71.jpg?width=2992&format=pjpg&auto=webp&s=b6b1535f84ece056645d35878c4725d020289b28",
+    "hash": "9d07cfe869",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQUGB//EACEQAAECBgIDAAAAAAAAAAAAAAECAwAEBRESIRMxIlGh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAZEQEAAgMAAAAAAAAAAAAAAAABAAIREkH/2gAMAwEAAhEDEQA/AM4rNLpMuytxjDLhUTc3F7Cx31vUR7bTaG+QAZqBJFtdQZx5aGnVIKElxGJTq5B9wqlpo5uNrI68d/IFr2U7YQn/2Q==",
+    "url": "https://preview.redd.it/0g87qxpjqje71.jpg?width=640&crop=smart&auto=webp&s=3710e660f45e2dc4454306c992a43c9c746dff53",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 11,
+    "value": 11
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP Vox Tower",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ov6qdu/wip_vox_tower/"
+}

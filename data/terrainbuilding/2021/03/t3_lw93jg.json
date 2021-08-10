@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1u7fewt",
+    "name": "The_Great_Worm"
+  },
+  "date": {
+    "day": 1614643200,
+    "full": 1614710034,
+    "month": 1614556800,
+    "week": 1614470400
+  },
+  "id": "t3_lw93jg",
+  "picture": {
+    "filesize": 149103,
+    "fullUrl": "https://preview.redd.it/wnw348iesnk61.jpg?width=1908&format=pjpg&auto=webp&s=604707ce1ecc2d93c0117f052ab229343e39a634",
+    "hash": "fa2e7f71ad",
+    "height": 1352,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAgDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAf/xAAiEAABAgUEAwAAAAAAAAAAAAABAgMABAYREgUTIUFxkbL/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABkRAAMAAwAAAAAAAAAAAAAAAAABEQMSE//aAAwDAQACEQMRAD8Agp05adODpFyo5EjpJvb5PqEWuuKfcDraqbkJdEhupmG3EcEJORwIPQ457v5hE/tBbx7SI//Z",
+    "url": "https://preview.redd.it/wnw348iesnk61.jpg?width=640&crop=smart&auto=webp&s=14c2b18e62a64f339e9b545f49ef47059cb0bf54",
+    "width": 640
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 206,
+    "value": 206
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Progress on my playable-interior clocktower",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/lw93jg/progress_on_my_playableinterior_clocktower/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_8boe3ig",
+    "name": "Daekony"
+  },
+  "date": {
+    "day": 1606262400,
+    "full": 1606336632,
+    "month": 1604188800,
+    "week": 1606003200
+  },
+  "id": "t3_k10cig",
+  "picture": {
+    "filesize": 65703,
+    "fullUrl": "https://preview.redd.it/mfawcj706g161.jpg?width=1080&format=pjpg&auto=webp&s=942d68da8a095ff09433b940a091860521fd2208",
+    "hash": "20184909bd",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwQF/8QAJBAAAQMEAQMFAAAAAAAAAAAAAwECBAAFESESBiJhEzJBUbH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBf/EABkRAAIDAQAAAAAAAAAAAAAAAAABAwRRUv/aAAwDAQACEQMRAD8ANblb7s7lINGWYjkw5Guc8jfO85x+1RbotsbHGk4whmI5WiaUze76Vyp7UzraeaT5VtLbpD4soSsKPStX4rBjdF2ZXmLIAQxyv5+s8i827z2qmMUKk0pOvyz/2Q==",
+    "url": "https://preview.redd.it/mfawcj706g161.jpg?width=640&crop=smart&auto=webp&s=4fb4e6290512e43791ae6284ab44f5cfc7757465",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 0.95,
+    "ups": 27,
+    "value": 27
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Cheap trash terrain idea",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/k10cig/cheap_trash_terrain_idea/"
+}

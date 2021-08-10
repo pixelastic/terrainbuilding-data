@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_ccdsi6im",
+    "name": "Domo_terrain"
+  },
+  "date": {
+    "day": 1624752000,
+    "full": 1624806379,
+    "month": 1622505600,
+    "week": 1624752000
+  },
+  "id": "t3_o8yu7z",
+  "picture": {
+    "filesize": 197654,
+    "fullUrl": "https://preview.redd.it/4antt19lpt771.jpg?width=2600&format=pjpg&auto=webp&s=860fcf96de987dd86050fc62543182acceac7112",
+    "hash": "48b98c8936",
+    "height": 1138,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQMH/8QAJRAAAgEDAwIHAAAAAAAAAAAAAQIDAAQRBRIhMUETFVVjkpPR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQT/xAAaEQEBAAIDAAAAAAAAAAAAAAACAQAEBREh/9oADAMBAAIRAxEAPwBKMyjXobOKxiO0mczSBijKwYZHPDqexz2xTu/2r75n9rG3v9Ytt8El1dW7NJ4xCnYWYkkuW6sScc9MAVXzrX/WNR+00XUL9ZlyN8iD1M//2Q==",
+    "url": "https://preview.redd.it/4antt19lpt771.jpg?width=640&crop=smart&auto=webp&s=d5a133c3979db020cc45771f25972c06698c7a07",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "ratio": 0.96,
+    "ups": 82,
+    "value": 82
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I finished the third building and decided to make a windmill.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/o8yu7z/i_finished_the_third_building_and_decided_to_make/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_591a7zdw",
+    "name": "Pfeifenhuber"
+  },
+  "date": {
+    "day": 1627776000,
+    "full": 1627828961,
+    "month": 1627776000,
+    "week": 1627776000
+  },
+  "id": "t3_ovtcd9",
+  "picture": {
+    "filesize": 73071,
+    "fullUrl": "https://preview.redd.it/0d2bgaiodre71.jpg?width=5056&format=pjpg&auto=webp&s=5838ac2ed9a0a5fff9f9fc8d30596f0d3b9e9f99",
+    "hash": "e0a2db07f3",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgf/xAAkEAACAQMDBAMBAAAAAAAAAAABAgMEBREABjESEyFBByNhcf/EABUBAQEAAAAAAAAAAAAAAAAAAAAC/8QAGREAAgMBAAAAAAAAAAAAAAAAAAECESES/9oADAMBAAIRAxEAPwAzsm4Wq9VVILHYEpI4shpe4pkTgNnJHjBznzpxvSxw7pp5rNdp623qJB0fd3I+4owrFeM4zxznUI+JK6og3WkMUhVJInkOPTIpZSP31/CRq2QzPIaaSU9ZeojZgeCS4BOnNaib1RP/2Q==",
+    "url": "https://preview.redd.it/0d2bgaiodre71.jpg?width=640&crop=smart&auto=webp&s=09a6adc84829e8e74e411817a7746cad46fc2c80",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 40,
+    "value": 40
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP 2 Medival building with playable interior (first floor)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ovtcd9/wip_2_medival_building_with_playable_interior/"
+}

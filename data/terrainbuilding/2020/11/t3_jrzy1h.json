@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_74p1jglc",
+    "name": "Ban_of_the_Valar"
+  },
+  "date": {
+    "day": 1605052800,
+    "full": 1605063604,
+    "month": 1604188800,
+    "week": 1604793600
+  },
+  "id": "t3_jrzy1h",
+  "picture": {
+    "filesize": 75674,
+    "fullUrl": "https://preview.redd.it/z5xf9e0m0jy51.jpg?width=4032&format=pjpg&auto=webp&s=4562392850d94c88098e7d4e003148eeb069600c",
+    "hash": "17bd2c13ef",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQP/xAAkEAACAQMDAwUAAAAAAAAAAAABAgMEBRIABhETFSEiMUFxkf/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAaEQEAAwADAAAAAAAAAAAAAAABAAIDESEx/9oADAMBAAIRAxEAPwAzdO4zYqwNRyGVGcZJyW5H1+6nNPt3d9vemp5O3VrEEswPDH34IGib5TQ1Tqs0YJcNkw8E/OibJRQXBlzXpGJMlMPp85Y6CZGtRfY2m9sng7J//9k=",
+    "url": "https://preview.redd.it/z5xf9e0m0jy51.jpg?width=640&crop=smart&auto=webp&s=2da487dfe91cf5a47382254557615a00ad3f6e13",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 45,
+    "value": 45
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Another satisfied customer.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/jrzy1h/another_satisfied_customer/"
+}

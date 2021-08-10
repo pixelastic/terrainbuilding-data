@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4devhkoh",
+    "name": "SomeJustOkayGuy"
+  },
+  "date": {
+    "day": 1620432000,
+    "full": 1620444852,
+    "month": 1619827200,
+    "week": 1619913600
+  },
+  "id": "t3_n7gd0t",
+  "picture": {
+    "filesize": 99770,
+    "fullUrl": "https://preview.redd.it/5r7k9j6zgtx61.jpg?width=3024&format=pjpg&auto=webp&s=6201b8c72c8ab37f2894eebb61035b3a09fa5671",
+    "hash": "a6c54ac5e8",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQQFBv/EACUQAAIBAgUDBQAAAAAAAAAAAAECAwQRAAUSEyEGMkFRUmFxof/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAZEQEAAwEBAAAAAAAAAAAAAAABAAMSETL/2gAMAwEAAhEDEQA/AMplWSx1xgmk1UUAj3DPvKgDg3UKqi55ueML1OVUyTMtJVRNGONTuoJPm9yMDqOrC7b05jSMoNyGM9lvQ+348fWIRzBm51fuA2358kRlHiT/2Q==",
+    "url": "https://preview.redd.it/5r7k9j6zgtx61.jpg?width=640&crop=smart&auto=webp&s=b257c6580e399c93e7fc235d657eb81265083a06",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 87,
+    "value": 87
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I finally finished my dungeon tile set!!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/n7gd0t/i_finally_finished_my_dungeon_tile_set/"
+}

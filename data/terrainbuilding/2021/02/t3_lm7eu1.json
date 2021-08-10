@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4lttfk6y",
+    "name": "quidamcorvus"
+  },
+  "date": {
+    "day": 1613520000,
+    "full": 1613603308,
+    "month": 1612137600,
+    "week": 1613260800
+  },
+  "id": "t3_lm7eu1",
+  "picture": {
+    "filesize": 120582,
+    "fullUrl": "https://preview.redd.it/rtmjdgwjd4i61.jpg?width=1500&format=pjpg&auto=webp&s=2fb62da620d6e2511283600ca3c966ff7c1553ab",
+    "hash": "2e4bc6fe58",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwAF/8QAJxAAAgIBAwIFBQAAAAAAAAAAAQIDBBEABQYSIRMUFUFRFiIjMTL/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AyOS7vBPtn0hTo7FFRWpEY3aALMXVEJ6nGSDknue+l4FegaL0S1se1inNHYZmeskrP+FjlZCMjBUfHt+tVjlvGLb1LN2K0LsdWOsk8CrMhiCrnrCkHqyPfOki5Pxvz0N2C7ZlmhSZTGK3gxojxshyXI+7+TgD50H/2Q==",
+    "url": "https://preview.redd.it/rtmjdgwjd4i61.jpg?width=640&crop=smart&auto=webp&s=17bc6e5ff9d28a43ce0d91ac4698ea90bcde4620",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 119,
+    "value": 119
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "The diorama 'Citizens of the Old World' is ready to be painted.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/lm7eu1/the_diorama_citizens_of_the_old_world_is_ready_to/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_12qd56",
+    "name": "TerraKast"
+  },
+  "date": {
+    "day": 1619481600,
+    "full": 1619537887,
+    "month": 1617235200,
+    "week": 1619308800
+  },
+  "id": "t3_mzr7ou",
+  "picture": {
+    "filesize": 87621,
+    "fullUrl": "https://preview.redd.it/v1gecq34kqv61.jpg?width=1105&format=pjpg&auto=webp&s=8826897b8001d9b2495042dd69de328747f6c06e",
+    "hash": "68a50f1fae",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAiEAACAQMEAwEBAAAAAAAAAAABAgMEERIABQYhFEFhMVH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABgRAQEAAwAAAAAAAAAAAAAAAAECAARR/9oADAMBAAIRAxEAPwCn3PlUlJX+HtJTyI2Cszjok2sFNrXufeheScpl5Fwjddo3VjLNURCWmN8rOjAqL/SCOv7oTbDDJTGurKiSNmqwx7upxbK2J/O7/dGM1TPNOKdJ3xJdGxxtZ8ge2930J2CBOZStZuh7n//Z",
+    "url": "https://preview.redd.it/v1gecq34kqv61.jpg?width=640&crop=smart&auto=webp&s=79e625f0c2e8ad22a554a039210f3e8ca6e0961d",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.93,
+    "ups": 18,
+    "value": 18
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Homemade Dungeon Tiles",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/mzr7ou/homemade_dungeon_tiles/"
+}

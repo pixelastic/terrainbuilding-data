@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_480jbh09",
+    "name": "Trash_Cabbage"
+  },
+  "date": {
+    "day": 1605312000,
+    "full": 1605332692,
+    "month": 1604188800,
+    "week": 1604793600
+  },
+  "id": "t3_jtwrxa",
+  "picture": {
+    "filesize": 95761,
+    "fullUrl": "https://preview.redd.it/mxjfogqq85z51.jpg?width=3024&format=pjpg&auto=webp&s=d509ca552462ad1d39919365220453f0eb897c8e",
+    "hash": "03f307f39f",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgX/xAAhEAABAwQCAwEAAAAAAAAAAAABAgMEAAUREhNBBiFxFf/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAXEQEBAQEAAAAAAAAAAAAAAAABAgAR/9oADAMBAAIRAxEAPwAPfLjcbo0GYSVPwy5lBbbJLjex1UodH0Diq1m8wusC2sQ/x5KhHTxg87fX0ZoZ4zJEmKuK9eJVtWkYRxnAUCOvWT8pUIbchKVKCl4GoVnXbHZFFoAyonqjv//Z",
+    "url": "https://preview.redd.it/mxjfogqq85z51.jpg?width=640&crop=smart&auto=webp&s=f344253a0c23050e808eba19eeddeb2ea3920cc8",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 52,
+    "value": 52
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Yet another BMC inspired tower!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/jtwrxa/yet_another_bmc_inspired_tower/"
+}

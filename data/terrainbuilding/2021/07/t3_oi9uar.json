@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_fmyy2",
+    "name": "Nazoragoth"
+  },
+  "date": {
+    "day": 1625961600,
+    "full": 1626028198,
+    "month": 1625097600,
+    "week": 1625961600
+  },
+  "id": "t3_oi9uar",
+  "picture": {
+    "filesize": 69441,
+    "fullUrl": "https://preview.redd.it/ln8rw8x3nma71.jpg?width=3840&format=pjpg&auto=webp&s=1b61cb0aed48d44f9b1cfc6f7dc0b9a1c3465e09",
+    "hash": "a8b09af992",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAG/8QAJRAAAgEDAgUFAAAAAAAAAAAAAQIFAAMEQVEREhMhMSI1cXOx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAYEQADAQEAAAAAAAAAAAAAAAAAAQIDEf/aAAwDAQACEQMRAD8AAIaUyofqrkPi3ryN6BaXlUbMDr2G21Kg2vxhvxiZnJJXmXqX1xyiFAASEHnvxOulUn7kn3H9rfP5x/halytpj3PUf//Z",
+    "url": "https://preview.redd.it/ln8rw8x3nma71.jpg?width=640&crop=smart&auto=webp&s=c95d2062a1ddf5a6fdf1a329ee931021e4e1f701",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 162,
+    "value": 162
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Rocky cave formation! Test shots!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/oi9uar/rocky_cave_formation_test_shots/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_94mtqtxu",
+    "name": "damoclesdagod"
+  },
+  "date": {
+    "day": 1617321600,
+    "full": 1617406358,
+    "month": 1617235200,
+    "week": 1616889600
+  },
+  "id": "t3_miwiuo",
+  "picture": {
+    "filesize": 92229,
+    "fullUrl": "https://preview.redd.it/r2s9688yhuq61.jpg?width=3024&format=pjpg&auto=webp&s=daf001eccf342d1b7c8c72b2f35feb68419e7f75",
+    "hash": "a4442c2082",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAJRAAAgEDAwIHAAAAAAAAAAAAAQIDBAURABIhEzEjMkFRYXGR/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABgRAQADAQAAAAAAAAAAAAAAAAEAAhFR/9oADAMBAAIRAxEAPwACx2IUFlmWsSVL48U/TVagFWjZCu0r25DZyMnj01ZW09TDMFlo5xlQV2xlgR9jOl6K4X4V6U1fdkekMw6kU0Ss8AI8qSDt8+x/NbGrt9qaXx7hKsqja6hy2COMZ4zojXsQWdXJ/9k=",
+    "url": "https://preview.redd.it/r2s9688yhuq61.jpg?width=640&crop=smart&auto=webp&s=d7b0e689107ca2f8a69f847dd572535ad337cf5f",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.86,
+    "ups": 10,
+    "value": 10
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My first attempt at an objective point. Any tips?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/miwiuo/my_first_attempt_at_an_objective_point_any_tips/"
+}

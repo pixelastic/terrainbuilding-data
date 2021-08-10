@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_3kqvo",
+    "name": "denuo"
+  },
+  "date": {
+    "day": 1615852800,
+    "full": 1615929819,
+    "month": 1614556800,
+    "week": 1615680000
+  },
+  "id": "t3_m6jtad",
+  "picture": {
+    "filesize": 74102,
+    "fullUrl": "https://preview.redd.it/hs3xpsddjgn61.jpg?width=4032&format=pjpg&auto=webp&s=f3a4cc1a0e65c99d0bfaa1c19f754f1c85506463",
+    "hash": "de27cd3b84",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQH/8QAJBAAAQQBAwMFAAAAAAAAAAAAAQIDBBEFABMxBhIhBxRBUZH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAFREBAQAAAAAAAAAAAAAAAAAAAEH/2gAMAwEAAhEDEQA/ACGM6GZmxhPzrnsUFQAjtrSpyjdE2PHGrsn6Ys5DDtrwCyztdqVGQSd2zz4FXf5rQeo3FTun8ZJkkuObrqqJJHJrn4HaCBpNCZTjIUSHG7i0tncJWbN0OPoaKlj/2Q==",
+    "url": "https://preview.redd.it/hs3xpsddjgn61.jpg?width=640&crop=smart&auto=webp&s=f7f51c3db5efa89f7a216b7bc4dc7024992a1bb1",
+    "width": 640
+  },
+  "score": {
+    "comments": 44,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 1386,
+    "value": 1386
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Some WIP Pictures from my MEGA Cathedral build!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/m6jtad/some_wip_pictures_from_my_mega_cathedral_build/"
+}

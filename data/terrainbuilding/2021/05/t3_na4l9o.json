@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4lttfk6y",
+    "name": "quidamcorvus"
+  },
+  "date": {
+    "day": 1620691200,
+    "full": 1620759424,
+    "month": 1619827200,
+    "week": 1620518400
+  },
+  "id": "t3_na4l9o",
+  "picture": {
+    "filesize": 119955,
+    "fullUrl": "https://preview.redd.it/cyh10l2dgjy61.jpg?width=1500&format=pjpg&auto=webp&s=0eb706395b7396945049db1ab48343f1dc3a04b2",
+    "hash": "fcc99bb4e5",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQf/xAAmEAABBAECBAcAAAAAAAAAAAABAgMEEQUAEgYhMXETFEFRYZGh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAYEQEBAQEBAAAAAAAAAAAAAAABAgARIf/aAAwDAQACEQMRAD8Al+Jxq5OP805LQA4FCnnVghRWQCK60B+6LyTUmOAFpfQSoFJ3qF8++m+D8iiDMcTNefitlKtpMdSxZNEEV2N/GkeI87Gy8duDCjyH5KnBsV4WwdRfKvYev3pm7LRPNIdOu//Z",
+    "url": "https://preview.redd.it/cyh10l2dgjy61.jpg?width=640&crop=smart&auto=webp&s=29d21ee66a8d80e1cb7a68d8bf68dfdc7d61d623",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 0.96,
+    "ups": 32,
+    "value": 32
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "The third hill. This time with dwarven ruins.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/na4l9o/the_third_hill_this_time_with_dwarven_ruins/"
+}

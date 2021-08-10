@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_fab4o",
+    "name": "Capodaster"
+  },
+  "date": {
+    "day": 1621900800,
+    "full": 1621906391,
+    "month": 1619827200,
+    "week": 1621728000
+  },
+  "id": "t3_nkduuj",
+  "picture": {
+    "filesize": 71319,
+    "fullUrl": "https://preview.redd.it/9ndkcqnt56171.jpg?width=2976&format=pjpg&auto=webp&s=6c2824f7ae07244da553b22ac87ab3efd3d4bab6",
+    "hash": "d99d0a0819",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQIG/8QAJhAAAgECBAUFAAAAAAAAAAAAAQMCBAUABgcREiExQWETIkJRUv/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGREAAwADAAAAAAAAAAAAAAAAAAERAiFx/9oADAMBAAIRAxEAPwC85av3Wkvr6K1W9KaVT5U0GNVJhdMfXTmfyN8O5Xvb8z2mFwqbeymaZFZiIECW3yAPMDx4wXqjqKi23R1rp7Z61XTNp3rfNgAWyMuPjiAN9yCYk789yO2NBac4U2YqBVwWltPx+2Sm9Ykddj3HnEFju0b4f//Z",
+    "url": "https://preview.redd.it/9ndkcqnt56171.jpg?width=640&crop=smart&auto=webp&s=ac597190e7f927c77d936c7a13021a1b94b86672",
+    "width": 640
+  },
+  "score": {
+    "comments": 25,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 560,
+    "value": 560
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Tried my hands on making a tree for the first time :)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/nkduuj/tried_my_hands_on_making_a_tree_for_the_first_time/"
+}

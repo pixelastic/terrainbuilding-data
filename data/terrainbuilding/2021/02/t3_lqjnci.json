@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_8446dkkw",
+    "name": "inky_beard"
+  },
+  "date": {
+    "day": 1614038400,
+    "full": 1614090527,
+    "month": 1612137600,
+    "week": 1613865600
+  },
+  "id": "t3_lqjnci",
+  "picture": {
+    "filesize": 103632,
+    "fullUrl": "https://preview.redd.it/1kpgdmzam8j61.jpg?width=3024&format=pjpg&auto=webp&s=40f16220e946907603922882e0557325b2ca9cc0",
+    "hash": "927290f9f8",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMEBf/EACUQAAIBAwMCBwAAAAAAAAAAAAECAwQFEQAGITFhEhNBQlGR0f/EABQBAQAAAAAAAAAAAAAAAAAAAAL/xAAaEQABBQEAAAAAAAAAAAAAAAABAAIREiFR/9oADAMBAAIRAxEAPwCSwW4tb4vIoEqkSRoWBVWIJGV75PPrrM3Lt65U9ZcKoW8xUiMD4ioUAHpgfnTS9sX2rtM90jiklZpQjhS2AAMgk8jt96FZe5pXqlmrI5BKihVjYtg4GcngD3fPXRN7QBiIfJLeL//Z",
+    "url": "https://preview.redd.it/1kpgdmzam8j61.jpg?width=640&crop=smart&auto=webp&s=069cad948e5e57f276d6c015e42236aaa677db84",
+    "width": 640
+  },
+  "score": {
+    "comments": 24,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 509,
+    "value": 509
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Made an exit for a dungeon. New adventures await!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/lqjnci/made_an_exit_for_a_dungeon_new_adventures_await/"
+}

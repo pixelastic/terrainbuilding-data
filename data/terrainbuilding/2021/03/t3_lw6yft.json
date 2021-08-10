@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4mw6sq58",
+    "name": "bitterburger"
+  },
+  "date": {
+    "day": 1614643200,
+    "full": 1614704708,
+    "month": 1614556800,
+    "week": 1614470400
+  },
+  "id": "t3_lw6yft",
+  "picture": {
+    "filesize": 91723,
+    "fullUrl": "https://preview.redd.it/tlezieyjcnk61.jpg?width=3096&format=pjpg&auto=webp&s=409877241c578d620f46ed14375681652bdae023",
+    "hash": "ca6fae0fb7",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgcI/8QAJhAAAQMDAgUFAAAAAAAAAAAAAQIDBQQRIQAGByIxQVETFCRCcf/EABQBAQAAAAAAAAAAAAAAAAAAAAX/xAAbEQABBAMAAAAAAAAAAAAAAAABAAIEEQMhwf/aAAwDAQACEQMRAD8AOe8qZufi4hySaVQUrSHwhq3K8lP2Ob9DjwdMX+Hk0+4XoeneXRu86Vj0QFE5JHe3741LYSQ2+JamqKlYjVA/JeWwsEi4GLYyL9PGtLwW/dpJi6dum3BFhltIQkKfCSAB3Bzo6ZisgAFJxJb2N1XV/9k=",
+    "url": "https://preview.redd.it/tlezieyjcnk61.jpg?width=640&crop=smart&auto=webp&s=99d5d3882b10902f115ffa35332ea55cf751abdc",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 31,
+    "value": 31
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First time making terrain, any tips appreciated, sorry about pic quality",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/lw6yft/first_time_making_terrain_any_tips_appreciated/"
+}

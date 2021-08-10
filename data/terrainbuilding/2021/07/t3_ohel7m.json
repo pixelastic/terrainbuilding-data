@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_134jze",
+    "name": "Ichnich"
+  },
+  "date": {
+    "day": 1625875200,
+    "full": 1625903892,
+    "month": 1625097600,
+    "week": 1625356800
+  },
+  "id": "t3_ohel7m",
+  "picture": {
+    "filesize": 53190,
+    "fullUrl": "https://preview.redd.it/l0vum1nidca71.jpg?width=4032&format=pjpg&auto=webp&s=4844dc07cf62ca55f1c0f31b7e94b77ebb050327",
+    "hash": "8368402fa3",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQEE/8QAJhAAAgEDAgQHAAAAAAAAAAAAAQIDBAURACESEzFxBiJBUWGRof/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGBEBAAMBAAAAAAAAAAAAAAAAAQACIRH/2gAMAwEAAhEDEQA/AC/E8b0d3rrPDLVpSJLyFqTLspYcec46jiP5rCtthnrZTcrhR1NE8aIsM8bHDKclmyu5Pv8AepdrxPV3u6RTRwnkoiqwBB6AZO+Ce40LeLjLFZUqkSISzqyny5ClSNx8n1zkdtTrzI1Rdn//2Q==",
+    "url": "https://preview.redd.it/l0vum1nidca71.jpg?width=640&crop=smart&auto=webp&s=1ab58e364aa37d3b1ea5fd8f86fbe2132d50f68c",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 39,
+    "value": 39
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP Gloomhaven 3D conversion - Looking for 3D printable dungeon scatter",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ohel7m/wip_gloomhaven_3d_conversion_looking_for_3d/"
+}

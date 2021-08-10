@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_2ug470jc",
+    "name": "Vaegir_Archer"
+  },
+  "date": {
+    "day": 1619568000,
+    "full": 1619580422,
+    "month": 1617235200,
+    "week": 1619308800
+  },
+  "id": "t3_n05v4q",
+  "picture": {
+    "filesize": 144987,
+    "fullUrl": "https://preview.redd.it/uocn6gok2uv61.jpg?width=1440&format=pjpg&auto=webp&s=81c390da9b23c7faca1835023c1a444b1f0f5799",
+    "hash": "8185c6a8c3",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQIE/8QAJRAAAgIABAUFAAAAAAAAAAAAAQMCBAAFETESEyEiUQYUQWFx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQT/xAAeEQABAwQDAAAAAAAAAAAAAAABAgMRAAQSISJB8f/aAAwDAQACEQMRAD8Aweorr83gtao1lGDgYhqgUgcJkTwDyTv5OKy/NpogsLHtp9BMJ6rJ2HaRt+7ecH2LVRPKldcqquchGLWDtB0+ZAHQYfpLr2kZaqqivZWJFlq2iXNjCQB4QZA6gykB9aDAVLQvEDVTttM3FuHCrkBMg7nvyv/Z",
+    "url": "https://preview.redd.it/uocn6gok2uv61.jpg?width=640&crop=smart&auto=webp&s=a6868872be6640fed35447d67c45442b5d0ed345",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 27,
+    "value": 27
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First few functional pieces of terrain!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/n05v4q/first_few_functional_pieces_of_terrain/"
+}

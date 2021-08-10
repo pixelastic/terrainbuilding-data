@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_3dqah9lk",
+    "name": "DiceChatter"
+  },
+  "date": {
+    "day": 1620086400,
+    "full": 1620127399,
+    "month": 1619827200,
+    "week": 1619913600
+  },
+  "id": "t3_n4lwr7",
+  "picture": {
+    "filesize": 71732,
+    "fullUrl": "https://preview.redd.it/1v7jx79z83x61.jpg?width=1920&format=pjpg&auto=webp&s=62bcaa0b8451820e164e4a01191d8cf5ecdd8ebc",
+    "hash": "2ca331319f",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwYH/8QAJBAAAQIFAwUBAAAAAAAAAAAAAQIDAAQFEVEGIXISFDU2wXH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABkRAQEBAAMAAAAAAAAAAAAAAAECAAMSUf/aAAwDAQACEQMRAD8AVS6xSnu1lJqflZhYUppK1G7hN9yq+Bb8G0Q+qKTW3K01UKo6gOvPdTqnVEgC24CjkZxGgo9iRxPyF1t4tvkPsTXk6NWe5ZJUA7//2Q==",
+    "url": "https://preview.redd.it/1v7jx79z83x61.jpg?width=640&crop=smart&auto=webp&s=4ae8365721cd2cfaf8f5b71495daef05a074de68",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 89,
+    "value": 89
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Made some easy to build modular dirt roads! Video in comments.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/n4lwr7/made_some_easy_to_build_modular_dirt_roads_video/"
+}

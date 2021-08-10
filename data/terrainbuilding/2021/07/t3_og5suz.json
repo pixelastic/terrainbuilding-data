@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_64rmdorp",
+    "name": "matte_makes"
+  },
+  "date": {
+    "day": 1625702400,
+    "full": 1625745774,
+    "month": 1625097600,
+    "week": 1625356800
+  },
+  "id": "t3_og5suz",
+  "picture": {
+    "filesize": 49529,
+    "fullUrl": "https://preview.redd.it/pi015rb2bz971.jpg?width=4928&format=pjpg&auto=webp&s=8a9ad45c0ceb4dfcfc4a84e4d42283cfae6265e7",
+    "hash": "00863271f9",
+    "height": 424,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwMF/8QAIhAAAgEDAwUBAAAAAAAAAAAAAQMCBAUSABEhBgcxQXEi/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAYEQEAAwEAAAAAAAAAAAAAAAABABESAv/aAAwDAQACEQMRAD8AIe69ROo69uzsllbW5QmDuDwB5HzbWdZepLrYKhD7K+aHBZWGFWUjueeJA+9JVLTpS5ClJXFbHZziIj9SPk/dUuaFNq8GwjOI4GXO3PonVWzoWDRmp//Z",
+    "url": "https://preview.redd.it/pi015rb2bz971.jpg?width=640&crop=smart&auto=webp&s=8a1d87dc0af89e717691efaa993622a6e567a0ac",
+    "width": 640
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 108,
+    "value": 108
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First time building/painting some terrain",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/og5suz/first_time_buildingpainting_some_terrain/"
+}

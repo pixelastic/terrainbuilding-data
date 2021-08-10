@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_6y9lt",
+    "name": "RageToast"
+  },
+  "date": {
+    "day": 1627862400,
+    "full": 1627908150,
+    "month": 1627776000,
+    "week": 1627776000
+  },
+  "id": "t3_owdp85",
+  "picture": {
+    "filesize": 77637,
+    "fullUrl": "https://preview.redd.it/s8ugoz23xxe71.jpg?width=4032&format=pjpg&auto=webp&s=ac1aed3a9285d0679b658053062ea6e139b8794f",
+    "hash": "e191f3441c",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgEF/8QAIhAAAgEDBQADAQAAAAAAAAAAAQIDBBEhAAUSEzEGQZHR/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABoRAAICAwAAAAAAAAAAAAAAAAECAAMREzH/2gAMAwEAAhEDEQA/ADs+8p8bkpH6ZpYQpRlqZhI3I2fOPMY/NSfc56qrSraooxF2l4OsqpcMtrgDwC5Hg0cryZ9rpUkN16r+fYawP5rL2ChhSvVV5Dk/G982x/dCFSspjNhVsjs//9k=",
+    "url": "https://preview.redd.it/s8ugoz23xxe71.jpg?width=640&crop=smart&auto=webp&s=8dbedb7f6ac115561bcf8f1b2da9747330335c92",
+    "width": 640
+  },
+  "score": {
+    "comments": 14,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 408,
+    "value": 408
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Just finished up my ruined city board",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/owdp85/just_finished_up_my_ruined_city_board/"
+}

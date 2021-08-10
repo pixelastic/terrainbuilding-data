@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5klur0zb",
+    "name": "cosmicshadowspider15"
+  },
+  "date": {
+    "day": 1612051200,
+    "full": 1612088888,
+    "month": 1609459200,
+    "week": 1612051200
+  },
+  "id": "t3_l99rzv",
+  "picture": {
+    "filesize": 71537,
+    "fullUrl": "https://preview.redd.it/aqs8ocrdane61.jpg?width=4032&format=pjpg&auto=webp&s=dd7aecacac667001c88f1353c0683c8ae778eca4",
+    "hash": "a415d21b4c",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAEG/8QAIBAAAQMDBQEAAAAAAAAAAAAAAQIFEQADBBITMUFhIf/EABUBAQEAAAAAAAAAAAAAAAAAAAAC/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQASMf/aAAwDAQACEQMRAD8ADbZ2fIdxiWmoKSLhRcClqCgB34e6XZZGZDycNTRcTMjTumdMxPMGa2+QoyQPk1MZRC4Jn081IzCnb//Z",
+    "url": "https://preview.redd.it/aqs8ocrdane61.jpg?width=640&crop=smart&auto=webp&s=b5cab013ff46b230d97cc21a3433cce335212091",
+    "width": 640
+  },
+  "score": {
+    "comments": 9,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 102,
+    "value": 102
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My first real attempt at terrain building",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/l99rzv/my_first_real_attempt_at_terrain_building/"
+}

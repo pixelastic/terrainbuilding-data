@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_udr3j",
+    "name": "SM60652"
+  },
+  "date": {
+    "day": 1615161600,
+    "full": 1615162051,
+    "month": 1614556800,
+    "week": 1615075200
+  },
+  "id": "t3_m036yv",
+  "picture": {
+    "filesize": 83660,
+    "fullUrl": "https://preview.redd.it/8o1gtb9i4pl61.jpg?width=4032&format=pjpg&auto=webp&s=999ddf7b28b1cb1b162e9421030a341ccc49aac2",
+    "hash": "19a237d014",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEBf/EACgQAAECBQIEBwAAAAAAAAAAAAMBAgQFBhEhAEESExUiFDEyQlFhkv/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAXEQEBAQEAAAAAAAAAAAAAAAABABEx/9oADAMBAAIRAxEAPwCGU0aTpx5gaHYQ5WONwlb2D7cJdfNUtt96RH0Ead0+GK5kJ1No1YQo097VyipbfGU0VMVtMSeHA+Hg3DV6LZWvXP61pzytI9gT8uFgGO9N2iXfCrbitfHxosSTV7f/2Q==",
+    "url": "https://preview.redd.it/8o1gtb9i4pl61.jpg?width=640&crop=smart&auto=webp&s=48b813d48f661f70ef8ff6f340aa2ff85e1ad41e",
+    "width": 640
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 83,
+    "value": 83
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Been working on this for a long time on and off, calling it finished.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/m036yv/been_working_on_this_for_a_long_time_on_and_off/"
+}

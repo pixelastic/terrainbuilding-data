@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_6er2cxyz",
+    "name": "Echo_32"
+  },
+  "date": {
+    "day": 1611360000,
+    "full": 1611364614,
+    "month": 1609459200,
+    "week": 1610841600
+  },
+  "id": "t3_l31x8r",
+  "picture": {
+    "filesize": 54376,
+    "fullUrl": "https://preview.redd.it/6no8w6srgzc61.jpg?width=4032&format=pjpg&auto=webp&s=c79722199ea181f04e7391979c1ae481407f17de",
+    "hash": "bf14c6e3f3",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFBv/EACYQAAEDAwIFBQAAAAAAAAAAAAECAwQFERIAIQZBYXGBExQyUVP/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAGBEAAwEBAAAAAAAAAAAAAAAAAQIhAAT/2gAMAwEAAhEDEQA/AAL4QgONtSYsqc7K+SZRUAU7b4oFgnn9nrpCsv0RD3tnG1T5qUgJjsrcfWe6QTbrcjxrVSKI1X+LFQpcua1TVxGpi4cZ3021OLuVXIGWN97Zarv0CmUqKG6XEbhJT+AxJ7nn50W3SoAlyK87Emzf/9k=",
+    "url": "https://preview.redd.it/6no8w6srgzc61.jpg?width=640&crop=smart&auto=webp&s=339d4e8e06426d068206bc13a8115ad5d1094ec0",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.96,
+    "ups": 19,
+    "value": 19
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Just playing around...but now gotta figure out how to make these 4x8 and 8x10 plates useful...ideas?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/l31x8r/just_playing_aroundbut_now_gotta_figure_out_how/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5ppp8pi2",
+    "name": "JuiceMountain"
+  },
+  "date": {
+    "day": 1625961600,
+    "full": 1625973556,
+    "month": 1625097600,
+    "week": 1625961600
+  },
+  "id": "t3_ohwttl",
+  "picture": {
+    "filesize": 60063,
+    "fullUrl": "https://preview.redd.it/y3hy7nnn4ia71.jpg?width=4032&format=pjpg&auto=webp&s=09807b3aae613551577c731b141ac1862fc4d1b3",
+    "hash": "f0298a25d1",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwIH/8QAJhAAAgEDBAAGAwAAAAAAAAAAAQIDBAURAAYSUQcTFBUWMSFhsv/EABUBAQEAAAAAAAAAAAAAAAAAAAIE/8QAGREAAgMBAAAAAAAAAAAAAAAAAAIREzEU/9oADAMBAAIRAxEAPwAq6z3Cnoh7RRRTwepZTOQGJOOIJVcEZwPvrrQ3Pa9/SLz1tjiSJgsihGIJx+WH6z9ayiXxH3lUQssm5bmAMY4S8P5xqaXe26WdI/kd24spJzUse+ydT8qxo7GnT//Z",
+    "url": "https://preview.redd.it/y3hy7nnn4ia71.jpg?width=640&crop=smart&auto=webp&s=4b7fe5dcb16678459010ba8429bbe6c61087828a",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 52,
+    "value": 52
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My first terrain! Lots of experimentation with different materials. What a blast!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ohwttl/my_first_terrain_lots_of_experimentation_with/"
+}

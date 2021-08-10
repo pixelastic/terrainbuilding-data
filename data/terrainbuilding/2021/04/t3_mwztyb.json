@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_bo22k",
+    "name": "Alephus"
+  },
+  "date": {
+    "day": 1619136000,
+    "full": 1619197200,
+    "month": 1617235200,
+    "week": 1618704000
+  },
+  "id": "t3_mwztyb",
+  "picture": {
+    "filesize": 71106,
+    "fullUrl": "https://preview.redd.it/lr7a4jqweyu61.jpg?width=2100&format=pjpg&auto=webp&s=bd768985837278ad195f9659e69f7cf2fa8f49eb",
+    "hash": "735d4a1b0c",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFBv/EACIQAAICAQMEAwAAAAAAAAAAAAECAxESAAQxBRMhIgZRcf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAFhEBAQEAAAAAAAAAAAAAAAAAEQAB/9oADAMBAAIRAxEAPwDMzfHoJRNUhO4ZUngM2Kd5CKIHtzZHjyfutHh2C7bauFikQbecytMBa2FCri45NlvzVLrkYmjgEpzXbJhEpA9aoXxzQA0t01n7XaLuYqxwLHGrvjjnUrjNiX//2Q==",
+    "url": "https://preview.redd.it/lr7a4jqweyu61.jpg?width=640&crop=smart&auto=webp&s=3ad5a96c4d9e7f56b88f948951a54ccc760e6b6e",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 96,
+    "value": 96
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Speleothems!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/mwztyb/speleothems/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_p84vz",
+    "name": "PM_ME_YOUR_PINOY"
+  },
+  "date": {
+    "day": 1609718400,
+    "full": 1609729724,
+    "month": 1609459200,
+    "week": 1609632000
+  },
+  "id": "t3_kpzsta",
+  "picture": {
+    "filesize": 146056,
+    "fullUrl": "https://preview.redd.it/dhc9m3pef8961.jpg?width=2268&format=pjpg&auto=webp&s=da088b7c690b533bb72e9f92900d0ebcfb587f69",
+    "hash": "873ea03720",
+    "height": 1138,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABQYHCP/EACYQAAEEAAUCBwAAAAAAAAAAAAECAwURAAQGEjETIRZUVYGSk+H/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAGBEBAQEBAQAAAAAAAAAAAAAAAQIAEUH/2gAMAwEAAhEDEQA/ABOSmmYmULbyGuk44Cp1V7k1YI44IJvE72I8ox8/zGitO6FSZqRdm415xrqqVlVOKGxAs1Y5Uqq79x74bfDMT6dlPpTgEB6Zy6ZB83//2Q==",
+    "url": "https://preview.redd.it/dhc9m3pef8961.jpg?width=640&crop=smart&auto=webp&s=84576bd498dc7e39e90d196c4084c829e6309e58",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.91,
+    "ups": 19,
+    "value": 19
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Starting to Build a Dystopian Board!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/kpzsta/starting_to_build_a_dystopian_board/"
+}

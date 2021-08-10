@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_2boc1zjv",
+    "name": "sebastiankussowski"
+  },
+  "date": {
+    "day": 1623369600,
+    "full": 1623421720,
+    "month": 1622505600,
+    "week": 1622937600
+  },
+  "id": "t3_nxha0p",
+  "picture": {
+    "filesize": 44054,
+    "fullUrl": "https://preview.redd.it/wyh3bpwfcn471.jpg?width=1920&format=pjpg&auto=webp&s=0d06b056f446e7b34b1fe2b7ae5b54dc11f44f26",
+    "hash": "f475d436b0",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQQGB//EACcQAAECBQEIAwAAAAAAAAAAAAIBBAADBREhEgYHIzQ2QVFzcbHC/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAaEQACAwEBAAAAAAAAAAAAAAABAgADBDER/9oADAMBAAIRAxEAPwDCQ2Sc1J64cMAGRTE4glOK2O44z5tD1doj2ZSGwOWINVBNEo9KghjqwS5W65t8IkBjzcn0J+otN4HS1I9Y/UV0ZlYH2BbrYOqgd7P/2Q==",
+    "url": "https://preview.redd.it/wyh3bpwfcn471.jpg?width=640&crop=smart&auto=webp&s=02659734437bba91963d5fc8fe4e3052dd56ff0a",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.91,
+    "ups": 26,
+    "value": 26
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Add some fog terrain to your dungeon!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/nxha0p/add_some_fog_terrain_to_your_dungeon_video_link/"
+}

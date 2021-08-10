@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4lttfk6y",
+    "name": "quidamcorvus"
+  },
+  "date": {
+    "day": 1605744000,
+    "full": 1605806466,
+    "month": 1604188800,
+    "week": 1605398400
+  },
+  "id": "t3_jx6uzh",
+  "picture": {
+    "filesize": 64747,
+    "fullUrl": "https://preview.redd.it/b5hwxo7jd8061.jpg?width=1500&format=pjpg&auto=webp&s=eec8ce6ae1fa0658763bcd300bbbd10c9c549bdd",
+    "hash": "e383bd6e88",
+    "height": 400,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAKABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUH/8QAIxAAAQMDAwUBAAAAAAAAAAAAAQIDBAUREgAhMQYTFEFhof/EABQBAQAAAAAAAAAAAAAAAAAAAAL/xAAaEQACAgMAAAAAAAAAAAAAAAAAEQESAiEi/9oADAMBAAIRAxEAPwDLeg26eiRKk1xYlN4HBpxwglWXq53Nhx903rGNBfc8mkjxYwSlOCVG2QO5vf7+akMstNOrS22hAveyUge9KpQDtdhpcGae5wrccHRicrp6DRdM/9k=",
+    "url": "https://preview.redd.it/b5hwxo7jd8061.jpg?width=640&crop=smart&auto=webp&s=da60c544c19b2caa723b7872b65dbc3943ce3239",
+    "width": 640
+  },
+  "score": {
+    "comments": 13,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 72,
+    "value": 72
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A house, one of the few that you can find in the village of Teufelberg, which I built for skirmish battles.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/jx6uzh/a_house_one_of_the_few_that_you_can_find_in_the/"
+}

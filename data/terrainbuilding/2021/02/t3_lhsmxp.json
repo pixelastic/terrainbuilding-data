@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5cpgt50",
+    "name": "Wreckluce"
+  },
+  "date": {
+    "day": 1613001600,
+    "full": 1613072170,
+    "month": 1612137600,
+    "week": 1612656000
+  },
+  "id": "t3_lhsmxp",
+  "picture": {
+    "filesize": 51920,
+    "fullUrl": "https://preview.redd.it/lh9188h5iwg61.jpg?width=4624&format=pjpg&auto=webp&s=2a4a0b50b996f131f4c086249d83b47c6685a795",
+    "hash": "0648648dbb",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQIDBv/EACUQAAEDAgUEAwAAAAAAAAAAAAECAwQFEQAGEiExB0FCUWGhwf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAXEQEBAQEAAAAAAAAAAAAAAAABAAJB/9oADAMBAAIRAxEAPwCFY6kTafW5sODFpkmK08W23jr3Hsm/b8wMwZvlQ+oD9KqkRIpi1JYZCE2NjbS8D5A37bW+cb5GVcvLDi3KHAUtStZUW+VE88/WEzS1HkBp+REjOuxBqYUtsEtkDa3rAzrrFL//2Q==",
+    "url": "https://preview.redd.it/lh9188h5iwg61.jpg?width=640&crop=smart&auto=webp&s=f0cdc10c392a470112e7bd451a4f0a0bd21d08ce",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 0.95,
+    "ups": 47,
+    "value": 47
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Forest clearing & craters",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/lhsmxp/forest_clearing_craters/"
+}

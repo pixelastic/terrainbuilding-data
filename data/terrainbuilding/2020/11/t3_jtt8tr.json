@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_11fn08",
+    "name": "cmitch3087"
+  },
+  "date": {
+    "day": 1605312000,
+    "full": 1605317948,
+    "month": 1604188800,
+    "week": 1604793600
+  },
+  "id": "t3_jtt8tr",
+  "picture": {
+    "filesize": 137449,
+    "fullUrl": "https://preview.redd.it/znyqzvlx04z51.jpg?width=3024&format=pjpg&auto=webp&s=63244539e415a720bcf262766424a2f31fca542c",
+    "hash": "de845de6b7",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAb/xAAiEAABAwMFAAMAAAAAAAAAAAACAQMEBRESAAYhMUETYXH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAFxEBAQEBAAAAAAAAAAAAAAAAAREAIf/aAAwDAQACEQMRAD8ARUarDiVuIQuPq5HyyQDERK/SKmXN7+9aqNrNLLozTwvHJAlKzhmmXfKLb7vqb29QqVV4RyJqQ3pTy5OIoCuHGKJbzj3RFqRUQzg011s4rZLh8Rril+VT9vonhcxVm//Z",
+    "url": "https://preview.redd.it/znyqzvlx04z51.jpg?width=640&crop=smart&auto=webp&s=c75fcef9dbba13d06947ed803435e3c01932e1a9",
+    "width": 640
+  },
+  "score": {
+    "comments": 15,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 300,
+    "value": 300
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First time making terrain. Leaned heavily on Black Magic Craft's video.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/jtt8tr/first_time_making_terrain_leaned_heavily_on_black/"
+}

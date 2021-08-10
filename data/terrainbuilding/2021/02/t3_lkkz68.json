@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_rg67p",
+    "name": "TheEyeofOrion"
+  },
+  "date": {
+    "day": 1613347200,
+    "full": 1613417183,
+    "month": 1612137600,
+    "week": 1613260800
+  },
+  "id": "t3_lkkz68",
+  "picture": {
+    "filesize": 76901,
+    "fullUrl": "https://preview.redd.it/n8ar37przoh61.jpg?width=1500&format=pjpg&auto=webp&s=c2442b6cf75349d0279a49fac6925ef84bdacc35",
+    "hash": "395f0778ec",
+    "height": 406,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAKABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMFBv/EACcQAAEDAwIEBwAAAAAAAAAAAAECAxEEBSEAEgYiMUETFBUyUWFx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAXEQEAAwAAAAAAAAAAAAAAAAAAARFR/9oADAMBAAIRAxEAPwDaJVdU32313ri/KVNaphSoM7w94eDM+3B6idC2puqrs1Wu3p80puTbCV91FTpSoHMzCQOvz21UqadkcDUcMt8t63p5RhW6ZH3OdMdZab4LtgQ2hIF63iEgZ3nP7poVOv/Z",
+    "url": "https://preview.redd.it/n8ar37przoh61.jpg?width=640&crop=smart&auto=webp&s=5a9cfcfe4962fe1bfa76fd8e791755f792390ae9",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 93,
+    "value": 93
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Paint pouring for terrain",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/lkkz68/paint_pouring_for_terrain/"
+}

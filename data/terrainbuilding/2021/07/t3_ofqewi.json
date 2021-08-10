@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_2s5irwgo",
+    "name": "FatherNurgle8907"
+  },
+  "date": {
+    "day": 1625616000,
+    "full": 1625686815,
+    "month": 1625097600,
+    "week": 1625356800
+  },
+  "id": "t3_ofqewi",
+  "picture": {
+    "filesize": 123471,
+    "fullUrl": "https://preview.redd.it/3gisit61gu971.jpg?width=4000&format=pjpg&auto=webp&s=e66f091dc7c79c5687369a1f1a97942a11db1838",
+    "hash": "576fec79ac",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAb/xAAkEAACAQMCBgMAAAAAAAAAAAABAgMEBREABhITISJhcTEyof/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAZEQEAAgMAAAAAAAAAAAAAAAABABECAyP/2gAMAwEAAhEDEQA/AFU67iqrFVxXe8UzpSxssSRKHwADlSx+AennT7fxVVBTiWtlmjKrmNj2x9v1X1qH2BNLPR7nheQ8uCHMagDAOG8fmrSyxI2yrZNwKJJQEcgYzgdD786HbSRe7Hok/9k=",
+    "url": "https://preview.redd.it/3gisit61gu971.jpg?width=640&crop=smart&auto=webp&s=1d867928b8383bcdf79b4eea56abf6b2b69338a8",
+    "width": 640
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 168,
+    "value": 168
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First attempt at terrain/board building",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ofqewi/first_attempt_at_terrainboard_building/"
+}

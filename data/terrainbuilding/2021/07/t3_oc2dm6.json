@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_cdupr",
+    "name": "Metamaterials"
+  },
+  "date": {
+    "day": 1625184000,
+    "full": 1625198646,
+    "month": 1625097600,
+    "week": 1624752000
+  },
+  "id": "t3_oc2dm6",
+  "picture": {
+    "filesize": 83824,
+    "fullUrl": "https://preview.redd.it/wc503amf4q871.jpg?width=3024&format=pjpg&auto=webp&s=0547a00b51291b3170cb94e860e456fc61230162",
+    "hash": "810b1646d9",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFB//EACcQAAICAAQDCQAAAAAAAAAAAAECAxEABCExBQYSExQjJEFRgZHB/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EAB4RAAIBAwUAAAAAAAAAAAAAAAERAgAD0QQTMWGR/9oADAMBAAIRAxEAPwCtJxqaF3EGcLxq9GLOFHPVWxKgUdBp94H5nQGnjnUgbKEYfBxmvcOMCYeZhygUtJ2MEfhWxs72TfveGoEzqRBZMzH1+tDT8wOWofE/Ril7CKlbY6Oa/9k=",
+    "url": "https://preview.redd.it/wc503amf4q871.jpg?width=640&crop=smart&auto=webp&s=31aea7285bed459f304bfed3eb1aee01e88082ac",
+    "width": 640
+  },
+  "score": {
+    "comments": 11,
+    "downs": 0,
+    "ratio": 0.95,
+    "ups": 24,
+    "value": 24
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Reducing the blocky smoothness on gap-filled 3D printed rocks for realism?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/oc2dm6/reducing_the_blocky_smoothness_on_gapfilled_3d/"
+}

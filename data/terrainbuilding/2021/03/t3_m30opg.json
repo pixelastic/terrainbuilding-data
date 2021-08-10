@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_35se1583",
+    "name": "The_M15"
+  },
+  "date": {
+    "day": 1615420800,
+    "full": 1615496575,
+    "month": 1614556800,
+    "week": 1615075200
+  },
+  "id": "t3_m30opg",
+  "picture": {
+    "filesize": 118848,
+    "fullUrl": "https://preview.redd.it/e73lykd7rgm61.jpg?width=3000&format=pjpg&auto=webp&s=5dff067ec4e034589fb8973bed82d1d26718f876",
+    "hash": "536467a48a",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwMG/8QAKRAAAQMCBAMJAAAAAAAAAAAAAQIDBAURAAYSIQcTMhUjMUFRYYGh0f/EABUBAQEAAAAAAAAAAAAAAAAAAAIE/8QAGhEAAgIDAAAAAAAAAAAAAAAAAQIAAxESIf/aAAwDAQACEQMRAD8AmeHkSDTETF1CX2iplCi8wlKg3qsqyQdzYgeBvtjAZsqs6j1YwpbgU62gd6QTzQd9fsT5j1vhbpWcqZLosZ1MpllxpkodS4oJ0kW+v3ApnmrxK1mORJbcUGEgNtEJ60gdXyScNGYk5k1qLUo05P/Z",
+    "url": "https://preview.redd.it/e73lykd7rgm61.jpg?width=640&crop=smart&auto=webp&s=96656a6246fddc8ab66285a1109efcc8a9674e9d",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 79,
+    "value": 79
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP Artillery Position",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/m30opg/wip_artillery_position/"
+}

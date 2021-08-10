@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_10i59j",
+    "name": "Fatdrunkitty"
+  },
+  "date": {
+    "day": 1610928000,
+    "full": 1610945700,
+    "month": 1609459200,
+    "week": 1610841600
+  },
+  "id": "t3_kznjef",
+  "picture": {
+    "filesize": 61415,
+    "fullUrl": "https://preview.redd.it/shsbkzq3v0c61.jpg?width=4032&format=pjpg&auto=webp&s=e7a9a67c82d40c86b80dc862b6d1d11bef3a3636",
+    "hash": "594a7bfdfb",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFAABAAAAAAAAAAAAAAAAAAAABf/EACUQAAICAQQBAwUAAAAAAAAAAAECAwQRAAUGIQcSEzEVIlFhgf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAR/9oADAMBAAIRAxEAPwAjm9V7G6WF2VdumqKqgyRWA4GCAARnCHOSD3/NMeOZlg3v6XyCxXk20ywpGyuQXmRvWi/OCAx76wc/rRXmjjO28IiqWNoSWRrPuq62JWZcD0nrGPzoXZaFLcuM1L09ZVszFmZo5HXB+Ovu0BhVt//Z",
+    "url": "https://preview.redd.it/shsbkzq3v0c61.jpg?width=640&crop=smart&auto=webp&s=5932f274614201e41b0213f37cb32714bede8c7e",
+    "width": 640
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "ratio": 0.96,
+    "ups": 32,
+    "value": 32
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First attempt at building terrain ever (Advice welcome)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/kznjef/first_attempt_at_building_terrain_ever_advice/"
+}

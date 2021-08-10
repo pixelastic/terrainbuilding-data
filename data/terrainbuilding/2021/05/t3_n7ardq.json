@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_t6mfq",
+    "name": "arcadoodles"
+  },
+  "date": {
+    "day": 1620345600,
+    "full": 1620426406,
+    "month": 1619827200,
+    "week": 1619913600
+  },
+  "id": "t3_n7ardq",
+  "picture": {
+    "filesize": 81909,
+    "fullUrl": "https://preview.redd.it/nuuy5q05yrx61.jpg?width=4032&format=pjpg&auto=webp&s=481a92596651e0754b8f875d2edce5affb5aa5b8",
+    "hash": "e961832403",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEBf/EACYQAAEEAQIEBwAAAAAAAAAAAAECAwQRBQASBiExURMUMmFxgZH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAGBEAAwEBAAAAAAAAAAAAAAAAAQIDABH/2gAMAwEAAhEDEQA/AM3CZvLIjZV2I07CiQ1+CERUbG6I3Fw7lHnQ9q0nGZyRxLiWJcmZJS+kqb3qcojb6bH50+dV5R55+M/BU6oR5FpcSmhYIrt20GH4SwySHfK2o11USBQrkPrSMDOh5lKKygb/2Q==",
+    "url": "https://preview.redd.it/nuuy5q05yrx61.jpg?width=640&crop=smart&auto=webp&s=ddffb1c761d282b40f19c58dd1ae5db3a2bc8300",
+    "width": 640
+  },
+  "score": {
+    "comments": 9,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 80,
+    "value": 80
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "This is my first attempt at building, any advice for shingles welcome!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/n7ardq/this_is_my_first_attempt_at_building_any_advice/"
+}

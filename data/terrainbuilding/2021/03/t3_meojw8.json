@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5hek6ri8",
+    "name": "anderssolmor"
+  },
+  "date": {
+    "day": 1616803200,
+    "full": 1616884973,
+    "month": 1614556800,
+    "week": 1616284800
+  },
+  "id": "t3_meojw8",
+  "picture": {
+    "filesize": 101417,
+    "fullUrl": "https://preview.redd.it/2hh90urmfnp61.jpg?width=4032&format=pjpg&auto=webp&s=463d345b1b7ddad2ed2d3e0aaeb8061c2986246f",
+    "hash": "213505cdc5",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAH/xAAhEAACAgEEAgMAAAAAAAAAAAABAgMEEQAFEiEGMWFxgf/EABUBAQEAAAAAAAAAAAAAAAAAAAIF/8QAGREAAgMBAAAAAAAAAAAAAAAAAAIBERIx/9oADAMBAAIRAxEAPwBW00KClqG17PWpVVwLDJCrEj1jk3ZJ+9J3Tx7xKWKRU2mqskYz3EQTj5H73nQaj8FgjCqY5Ckbg5PIEEnOrYuOJWiKRGNU4hSvQGdQZZr6LZ//2Q==",
+    "url": "https://preview.redd.it/2hh90urmfnp61.jpg?width=640&crop=smart&auto=webp&s=42e453fbae1dbc7cb00f9fab10efc41bcfe8aef3",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 128,
+    "value": 128
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Modular Field / Hill Tiles",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/meojw8/modular_field_hill_tiles/"
+}

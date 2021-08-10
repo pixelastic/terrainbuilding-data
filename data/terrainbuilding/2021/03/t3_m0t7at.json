@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_3x2r56bg",
+    "name": "Fridope"
+  },
+  "date": {
+    "day": 1615161600,
+    "full": 1615246173,
+    "month": 1614556800,
+    "week": 1615075200
+  },
+  "id": "t3_m0t7at",
+  "picture": {
+    "filesize": 40179,
+    "fullUrl": "https://preview.redd.it/mahsikis1wl61.jpg?width=1280&format=pjpg&auto=webp&s=2fb81d30967237dea324744485a0801203512414",
+    "hash": "def1b22e66",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwQG/8QAJxAAAQMDAQcFAAAAAAAAAAAAAgEDEQQFBgASEyMyN0FRcXKBobH/xAAVAQEBAAAAAAAAAAAAAAAAAAABA//EABsRAAEEAwAAAAAAAAAAAAAAAAIAAQMEERIh/9oADAMBAAIRAxEAPwAlHD0PDKfIUqd4DjxtGyDa8PZWJVZ9O3fU1NQ46/jFQdVczt16ZKQByXAfFZhEEUkfE+frT2TpfVe9/wDQ0Unzl8asFmXZ+oKMcMv/2Q==",
+    "url": "https://preview.redd.it/mahsikis1wl61.jpg?width=640&crop=smart&auto=webp&s=afdf86536f9f680c766909b00f0e41884eb0079f",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.95,
+    "ups": 50,
+    "value": 50
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "UPDATE to my campfire - final result",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/m0t7at/update_to_my_campfire_final_result/"
+}

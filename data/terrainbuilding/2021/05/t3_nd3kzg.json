@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_av5ww",
+    "name": "Yield88"
+  },
+  "date": {
+    "day": 1621036800,
+    "full": 1621098608,
+    "month": 1619827200,
+    "week": 1620518400
+  },
+  "id": "t3_nd3kzg",
+  "picture": {
+    "filesize": 36759,
+    "fullUrl": "https://preview.redd.it/5uv9k91zdbz61.jpg?width=1565&format=pjpg&auto=webp&s=ee4c39c311cec1a6e636c8a305bd46e077e5ddaf",
+    "hash": "aed6cd5d30",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQMH/8QAIxAAAgEDBAEFAAAAAAAAAAAAAgMBAAQxBRESIQYUMjRBcf/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAGxEAAQQDAAAAAAAAAAAAAAAAAAEFESESEzH/2gAMAwEAAhEDEQA/ADvILvUwaQKN67gWBCFv58C47zLBgc77xmpaeWqpdaeoZdFdOGRZ2wggYneZ7+8ZzWuL+KFDX/sP9qQrhcYC9FdP/9k=",
+    "url": "https://preview.redd.it/5uv9k91zdbz61.jpg?width=640&crop=smart&auto=webp&s=334d592328fd55d5e0f0fc1dad18f64b46e1cb55",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 69,
+    "value": 69
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My Rooftop Chase Encounter is Very Near Completion!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/nd3kzg/my_rooftop_chase_encounter_is_very_near_completion/"
+}

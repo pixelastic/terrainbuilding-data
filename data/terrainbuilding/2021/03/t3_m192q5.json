@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_pias1",
+    "name": "fearkoodaa"
+  },
+  "date": {
+    "day": 1615248000,
+    "full": 1615304560,
+    "month": 1614556800,
+    "week": 1615075200
+  },
+  "id": "t3_m192q5",
+  "picture": {
+    "filesize": 51414,
+    "fullUrl": "https://preview.redd.it/jmth1bl8w0m61.jpg?width=4160&format=pjpg&auto=webp&s=44447ea7235fdd4f1b682ea4bfb7c9fae1a0d848",
+    "hash": "f16b206279",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwQF/8QAJBAAAgEDAwQDAQAAAAAAAAAAAQIEAwURABIhBggxQRMiobH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABoRAQABBQAAAAAAAAAAAAAAAAEAAgMSISL/2gAMAwEAAhEDEQA/AEbuAvFwt1GwmLJlUYFaswkiJWNKswBUnY3psZ/vrWF0t1lWu0mDHp1TdCoZDIb6v8ZYYaoAMbgByeATwPOqe4ld1xtILNsSizKoOBktyfwaG4l6m2O6Q3gVNpYqCGyQQTyDz451M3OsYpSG5//Z",
+    "url": "https://preview.redd.it/jmth1bl8w0m61.jpg?width=640&crop=smart&auto=webp&s=52c33a1b645d0b58ac36b90c824cfa2d86438aed",
+    "width": 640
+  },
+  "score": {
+    "comments": 15,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 486,
+    "value": 486
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First big creation just to test out techniques!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/m192q5/first_big_creation_just_to_test_out_techniques/"
+}

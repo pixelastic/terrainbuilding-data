@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_86rdrnt8",
+    "name": "MS-Paints"
+  },
+  "date": {
+    "day": 1613952000,
+    "full": 1614031534,
+    "month": 1612137600,
+    "week": 1613865600
+  },
+  "id": "t3_lq1cvh",
+  "picture": {
+    "filesize": 59192,
+    "fullUrl": "https://preview.redd.it/7sr24bjgq3j61.jpg?width=1920&format=pjpg&auto=webp&s=27a4838cc179ca00e38260b3e63c791c079e6384",
+    "hash": "c7d8f66fbc",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAJRAAAgIBAwEJAAAAAAAAAAAAAQQCAwUAETEhEiI0QVFzdLLB/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABwRAAIABwAAAAAAAAAAAAAAAAABAgMEERIhMf/aAAwDAQACEQMRAD8AzdTHBu3CUsIwZSkzO2dlZlMTiQTsY77A9TzydVEorYF3O1Uq3rpX2krSjE1nc19ztcjofL10Ohzjfe/NJEPCOfIP0GiqoMk9iyHxWP/Z",
+    "url": "https://preview.redd.it/7sr24bjgq3j61.jpg?width=640&crop=smart&auto=webp&s=a3a5081a190b722b5cc49e442130d7421781ec66",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.86,
+    "ups": 13,
+    "value": 13
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Tomb Raider Dioramas: Object Source Lighting Tutorial",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/lq1cvh/tomb_raider_dioramas_object_source_lighting/"
+}

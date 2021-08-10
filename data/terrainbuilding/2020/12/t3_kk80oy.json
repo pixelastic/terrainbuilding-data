@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_cnvg4",
+    "name": "GrandmageBob"
+  },
+  "date": {
+    "day": 1608854400,
+    "full": 1608938308,
+    "month": 1606780800,
+    "week": 1608422400
+  },
+  "id": "t3_kk80oy",
+  "picture": {
+    "filesize": 61184,
+    "fullUrl": "https://preview.redd.it/89kjk7232f761.jpg?width=4128&format=pjpg&auto=webp&s=8e47a67bed03a1169bf7e62d6887453a79795999",
+    "hash": "9dc036e35b",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgMF/8QAIhAAAQMDBQADAAAAAAAAAAAAAQIDEQQFBgASITFhQVHR/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABgRAAMBAQAAAAAAAAAAAAAAAAABAhEx/9oADAMBAAIRAxEAPwANieK2l6yovLLrFUsg7y6lS46EbRyFiZ841HMcZZtzVNUuPIbcqeUMhEKI+DHvvp0RwK+VtjyuhVQuAJecAW2qSlR5gxPY+9atxulXe80eduLqnVJWtI56gH80K0516NVK+o//2Q==",
+    "url": "https://preview.redd.it/89kjk7232f761.jpg?width=640&crop=smart&auto=webp&s=2a60c7c18cabc202bea8a5483c7bc08539d7e5f1",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 0.93,
+    "ups": 30,
+    "value": 30
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP: A different type of terrain. Explenation in the comments.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/kk80oy/wip_a_different_type_of_terrain_explenation_in/"
+}

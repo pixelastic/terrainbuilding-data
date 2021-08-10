@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_8w84k4zk",
+    "name": "Old-Man-Ben"
+  },
+  "date": {
+    "day": 1609027200,
+    "full": 1609032505,
+    "month": 1606780800,
+    "week": 1609027200
+  },
+  "id": "t3_kkuecw",
+  "picture": {
+    "filesize": 91703,
+    "fullUrl": "https://preview.redd.it/vfxqass7um761.jpg?width=3024&format=pjpg&auto=webp&s=b7f200126664ddb791648a7c81269ad84e724085",
+    "hash": "d79cd76166",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABQYHCP/EACIQAAEEAgEEAwAAAAAAAAAAAAECAwQRBRIABiFCcRMxsf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGBEAAgMAAAAAAAAAAAAAAAAAAAECEhT/2gAMAwEAAhEDEQA/ADHTeTxUAtsvyG0OaKWQfFKQdifWp5RsRlcbLjMLjyGnEvHVuvI0T+AnmeYfTfzSC5LdfDygdhWoVZv6rjbjMa9jpsWVHkKCmL02AsWNfRFdu/J0Y9MUf//Z",
+    "url": "https://preview.redd.it/vfxqass7um761.jpg?width=640&crop=smart&auto=webp&s=d0e608349988730625a4703319fa546781376d5a",
+    "width": 640
+  },
+  "score": {
+    "comments": 22,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 593,
+    "value": 593
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First Finished Terrain",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/kkuecw/first_finished_terrain/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_137ir3",
+    "name": "weasel_beef"
+  },
+  "date": {
+    "day": 1606348800,
+    "full": 1606414042,
+    "month": 1604188800,
+    "week": 1606003200
+  },
+  "id": "t3_k1k5v6",
+  "picture": {
+    "filesize": 96549,
+    "fullUrl": "https://preview.redd.it/4yz2qij5km161.jpg?width=4608&format=pjpg&auto=webp&s=055bca55f53170ea0f92e03cd1ecbf4476112f26",
+    "hash": "4604eea53f",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQMG/8QAIxAAAgECBgMBAQAAAAAAAAAAAQIDBBEABQYhIjEHEkEUJP/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAERAiL/2gAMAwEAAhEDEQA/AIa5nFA34aRGhH9AKvxN3cte3zsC2/W2AMhgq80L01LNGW9A4EkbMhAIJ2G5v1a2Np5CyemyvX0sdGXWGrgWqeJrMqPb143GwsOsFeK1Nfr6slnYhcup3aCJAFTlxNxa52+X73xPlVwbSS6p/9k=",
+    "url": "https://preview.redd.it/4yz2qij5km161.jpg?width=640&crop=smart&auto=webp&s=8948971d0803da9ac8bc03633db074ef7e2544a2",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.89,
+    "ups": 21,
+    "value": 21
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Tried making a basic LOS-blocking terrain piece.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/k1k5v6/tried_making_a_basic_losblocking_terrain_piece/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_ivc5mif",
+    "name": "eSerys"
+  },
+  "date": {
+    "day": 1618790400,
+    "full": 1618852884,
+    "month": 1617235200,
+    "week": 1618704000
+  },
+  "id": "t3_mu5l5r",
+  "picture": {
+    "filesize": 143557,
+    "fullUrl": "https://preview.redd.it/2mr86ly4z5u61.jpg?width=1536&format=pjpg&auto=webp&s=1ff7e857022d4b9557201ee109d5e63c87ffa1f8",
+    "hash": "b3418fbf85",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwUG/8QAJBAAAgIBAgUFAAAAAAAAAAAAAQMCEQQABQYSITFBIiNRYXH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABgRAQADAQAAAAAAAAAAAAAAAAEAAgPB/9oADAMBAAIRAxEAPwC9uoViPkFZWIqMk+2iXpbd1d31B/NYHI2rOynsYvHawcxBlEWL0WVxNh7qlK895VNMhOJkoMFjzE0eU/dHSDiicQBiweF15j3Pz21PV0LR0zanJ//Z",
+    "url": "https://preview.redd.it/2mr86ly4z5u61.jpg?width=640&crop=smart&auto=webp&s=bcf7e0e8ef969b01a8f56ca958ccf682d7cd3254",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 0.96,
+    "ups": 41,
+    "value": 41
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Edward Emanuel painted some of my models. He did an amazing job, it reminds me of early ID software games, like Doom or Quake 1.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/mu5l5r/edward_emanuel_painted_some_of_my_models_he_did/"
+}

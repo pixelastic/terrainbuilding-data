@@ -6,7 +6,7 @@ const config = require('reddinx/config.js');
   await config.init({
     cachePath: './tmp/cache',
   });
-  const rawData = await postHelper.fromIds('terrainbuilding', ['ovu0ki']);
+  const rawData = await postHelper.fromIds('terrainbuilding', ['kayqfy']);
   const rawPost = rawData[0];
 
   const record = await recordHelper.fromPost(rawPost);
