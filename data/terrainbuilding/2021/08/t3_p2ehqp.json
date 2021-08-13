@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_9vm1zly6",
+    "name": "Wooden_Age7026"
+  },
+  "date": {
+    "day": 1628640000,
+    "full": 1628693138,
+    "month": 1627776000,
+    "week": 1628380800
+  },
+  "id": "t3_p2ehqp",
+  "picture": {
+    "filesize": 48225,
+    "fullUrl": "https://preview.redd.it/ec38050drqg71.jpg?width=4032&format=pjpg&auto=webp&s=858301407d026209d001f7f0f7364b72b93a8e49",
+    "hash": "45c1877915",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgYHCP/EACUQAAIBBAEBCQAAAAAAAAAAAAEDAgAEBREhBwYTMTM1cnSxsv/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/8QAFxEBAQEBAAAAAAAAAAAAAAAAAREAQf/aAAwDAQACEQMRAD8AR8p287l7LbEmDTFsJxuFk6iIncgRrZ5qh9PeqCrB2ZGXQ5KrhoeomYMYkgAiO9cHx4FZ0s/Mn7j9ihX6wn5EP2KYSTSq93//2Q==",
+    "url": "https://preview.redd.it/ec38050drqg71.jpg?width=640&crop=smart&auto=webp&s=1e97737b1b874e9640dfee28271cc309c7e72c87",
+    "width": 640
+  },
+  "score": {
+    "comments": 11,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 90,
+    "value": 90
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP. Looking for advice on making a less homogeneous appearance while retaining modularity",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/p2ehqp/wip_looking_for_advice_on_making_a_less/"
+}

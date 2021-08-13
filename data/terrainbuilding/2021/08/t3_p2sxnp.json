@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1jtx134m",
+    "name": "RedRightRepost"
+  },
+  "date": {
+    "day": 1628726400,
+    "full": 1628743923,
+    "month": 1627776000,
+    "week": 1628380800
+  },
+  "id": "t3_p2sxnp",
+  "picture": {
+    "filesize": 40580,
+    "fullUrl": "https://preview.redd.it/ez2p71vdyug71.jpg?auto=webp&s=8be6610ca2638f68768ac7900f59115c5ac7951b",
+    "hash": "cb97762721",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQf/xAAjEAABAwMEAgMAAAAAAAAAAAABAgMEABESBQYhMRNBB1GB/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABkRAAMAAwAAAAAAAAAAAAAAAAABEQIDIv/aAAwDAQACEQMRAD8AD3DDedmR8EnyKGAA980XMmPSUOadIcfShh4NBDbhGKySOB93FVf5C0WKxqMMMlxsLWoHFXVlAXB791QNp7B2/oSESYkPyS3U5qffOa798cWH4KGuVB23KOn/2Q==",
+    "url": "https://preview.redd.it/ez2p71vdyug71.jpg?width=640&crop=smart&auto=webp&s=0acc9c11da4a080597e60357967245f738edcb22",
+    "width": 640
+  },
+  "score": {
+    "comments": 39,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 594,
+    "value": 594
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Aqueduct progress!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/p2sxnp/aqueduct_progress/"
+}

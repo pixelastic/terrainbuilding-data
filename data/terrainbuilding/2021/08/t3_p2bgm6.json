@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_6cjsdhwq",
+    "name": "Mossy521"
+  },
+  "date": {
+    "day": 1628640000,
+    "full": 1628682455,
+    "month": 1627776000,
+    "week": 1628380800
+  },
+  "id": "t3_p2bgm6",
+  "picture": {
+    "filesize": 89497,
+    "fullUrl": "https://preview.redd.it/76kjbdxlvpg71.jpg?auto=webp&s=1d6d210eef9874ae9a1313a3b0a2f2a04c76368c",
+    "hash": "48e96289e6",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgf/xAAiEAABAwQCAgMAAAAAAAAAAAABAgMEAAURIQYTBxIiMXH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBf/EABgRAQADAQAAAAAAAAAAAAAAAAIAAREh/9oADAMBAAIRAxEAPwCpcj5dFs9snORXGJE5mOXWWSv4OKAyB7CjXDfKzkqz918hMplqcJCW1BISnAwPv9qZKuLLkZSJcFby9nKCjGzvZwaNzYJmvdzfZGRjAbSs6FTw21iOVHRrOXP/2Q==",
+    "url": "https://preview.redd.it/76kjbdxlvpg71.jpg?width=640&crop=smart&auto=webp&s=9d80632f98057dc8caf0a202880f71c09f08a959",
+    "width": 640
+  },
+  "score": {
+    "comments": 24,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 211,
+    "value": 211
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First attempt at terrain. Pretty much copied TheTerrainTutor just to see how I do. Still waiting on some grass tufts to be delivered but here it is so far.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/p2bgm6/first_attempt_at_terrain_pretty_much_copied/"
+}

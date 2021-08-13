@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5qurn",
+    "name": "Escalotes"
+  },
+  "date": {
+    "day": 1628640000,
+    "full": 1628717510,
+    "month": 1627776000,
+    "week": 1628380800
+  },
+  "id": "t3_p2mnkt",
+  "picture": {
+    "filesize": 104768,
+    "fullUrl": "https://preview.redd.it/4apmdgiursg71.jpg?width=2268&format=pjpg&auto=webp&s=9581f05868e9687d6450f17f17dbe9388cbc6ac0",
+    "hash": "1bb6a45db9",
+    "height": 1138,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAwX/xAApEAAABAMECwAAAAAAAAAAAAABAgMEAAUREhMUIQYVMUFCUVJUkZPR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAXEQEBAQEAAAAAAAAAAAAAAAABADEy/9oADAMBAAIRAxEAPwAH7qQM5hq1Bo1XBVwS9Nd2SgbOg13iEVMBLuxJ7TfYoE0dlhJq6maZbThagDa4aZ5BzqO2HwqfSPmJKnMwHb//2Q==",
+    "url": "https://preview.redd.it/4apmdgiursg71.jpg?width=640&crop=smart&auto=webp&s=a1d2a04bbf51032b292cc3572f19e7f8a448e3fc",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 58,
+    "value": 58
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Twenty minutes barricade build",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/p2mnkt/twenty_minutes_barricade_build/"
+}

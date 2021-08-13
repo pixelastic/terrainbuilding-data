@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_jrfg1",
+    "name": "wright_on_"
+  },
+  "date": {
+    "day": 1628726400,
+    "full": 1628795715,
+    "month": 1627776000,
+    "week": 1628380800
+  },
+  "id": "t3_p36p16",
+  "picture": {
+    "filesize": 80723,
+    "fullUrl": "https://preview.redd.it/wd69tnod8zg71.jpg?width=3331&format=pjpg&auto=webp&s=eb8b42c009c68a82bb36f5e7e65a17ed5d973d1a",
+    "hash": "9ceea541bf",
+    "height": 396,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAKABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQF/8QAJBAAAgIBAwIHAAAAAAAAAAAAAQIDEQQABSEGQRITMUJhcdH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBv/EABoRAAIDAQEAAAAAAAAAAAAAAAECAAMRFDH/2gAMAwEAAhEDEQA/AFO+9THH3hceTFmYRhyzrIQACKX4s+gB5+tV9P7zuBygcuNUxyhCIJS7Xfuu+a7/AJrUy40dFV0VlYGwRd6O4EEMO+SeTFHHcfPgUDvqa6FsoYBcIHsBczDP/9k=",
+    "url": "https://preview.redd.it/wd69tnod8zg71.jpg?width=640&crop=smart&auto=webp&s=4d8f98ee153ea59499eb52694bd141dd46e5d111",
+    "width": 640
+  },
+  "score": {
+    "comments": 18,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 388,
+    "value": 388
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Made a hill!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/p36p16/made_a_hill/"
+}

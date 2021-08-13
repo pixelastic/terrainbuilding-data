@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1675u3",
+    "name": "Saro7"
+  },
+  "date": {
+    "day": 1628553600,
+    "full": 1628623744,
+    "month": 1627776000,
+    "week": 1628380800
+  },
+  "id": "t3_p1welj",
+  "picture": {
+    "filesize": 43103,
+    "fullUrl": "https://preview.redd.it/zlup6s4x0lg71.jpg?auto=webp&s=e2f80ead29bf94ee14da0a5a8ed875aeee1da604",
+    "hash": "ed5481bd60",
+    "height": 299,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQF/8QAIhAAAQMEAAcAAAAAAAAAAAAAAQIDBAAGERIFBxMhMVGB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAYEQADAQEAAAAAAAAAAAAAAAAAASIRIf/aAAwDAQACEQMRAD8Aw7Z5htouF2FFSpfTSdm3W8IGoGTsDn5ipZN3S+MXC5FEUiXGjvh10vBSF5UlSdRgHsPGfZFKVGT0WqP/2Q==",
+    "url": "https://preview.redd.it/zlup6s4x0lg71.jpg?width=640&crop=smart&auto=webp&s=1f6998ff6e6a544cf7e5f248ec6dfbb3e4780fa0",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 60,
+    "value": 60
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Little bridge I built for my players to fight elementals.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/p1welj/little_bridge_i_built_for_my_players_to_fight/"
+}

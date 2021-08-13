@@ -6155,10 +6155,10 @@ readdirp@~3.6.0:
   dependencies:
     picomatch "^2.2.1"
 
-reddinx@2.1.0:
-  version "2.1.0"
-  resolved "https://registry.npmjs.org/reddinx/-/reddinx-2.1.0.tgz#410baf1971924cb5871852a7c0dbd1da6ab3dc24"
-  integrity sha512-lndUfw9UtHjAm+NWq6/tFnxrreAOKXaL4wMWitK3ogCXJk6pFYSP/FFR6QYpcQXdtFqTn9iObqbDRsJ8wZkM9g==
+reddinx@2.2.0:
+  version "2.2.0"
+  resolved "https://registry.npmjs.org/reddinx/-/reddinx-2.2.0.tgz#1fc3d2c356efc2825e4b7c1f0caad357d34b2797"
+  integrity sha512-ENKE1wK2ejv+QvrQbdNh5QeUpXZbsWn/OouRngllM7cKYI5YPsryTttwwgFtuxUOE8Q961dbdc0FzKgh3z9Fbg==
   dependencies:
     firost "2.16.2"
     golgoth "2.0.0"

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_d388qio0",
+    "name": "ripper1331"
+  },
+  "date": {
+    "day": 1628553600,
+    "full": 1628629469,
+    "month": 1627776000,
+    "week": 1628380800
+  },
+  "id": "t3_p1ya2e",
+  "picture": {
+    "filesize": 118059,
+    "fullUrl": "https://preview.redd.it/i6p97t70ilg71.jpg?width=3024&format=pjpg&auto=webp&s=4687ef664f30bed04d900f67fc905628a51c1d56",
+    "hash": "db0c535aa8",
+    "height": 753,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA4DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUG/8QAIxAAAgICAQQCAwAAAAAAAAAAAQIDBAURIQASFDEyQQYicf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGREAAgMBAAAAAAAAAAAAAAAAAQMAAjES/9oADAMBAAIRAxEAPwAGR/O7tqFqeOrQ4cuBEEpAA9/9ABCn1vQ5B56xtbK5GOw/jtkIp5CzGGOzKu1B+fcuw2yedcdMihli3XtYsWcWF8cSwShpQxAYhSPip+1++eq+CwdusJ65dMM47ZPKoMA0gIP6MnpfQJ1rfB106GUIHOSRy2CxF9n/2Q==",
+    "url": "https://preview.redd.it/i6p97t70ilg71.jpg?width=640&crop=smart&auto=webp&s=2ab01ca29b0a76db70098036f373bafa3d85b4b5",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I made and 3D printed a Pac Man based voxel dungeon",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/p1ya2e/i_made_and_3d_printed_a_pac_man_based_voxel/"
+}
