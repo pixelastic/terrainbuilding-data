@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_7xfntuyu",
+    "name": "Buy_my_books"
+  },
+  "date": {
+    "day": 1628812800,
+    "full": 1628877071,
+    "month": 1627776000,
+    "week": 1628380800
+  },
+  "id": "t3_p3qcfw",
+  "picture": {
+    "filesize": 73208,
+    "fullUrl": "https://preview.redd.it/wr32byuay5h71.jpg?width=3024&format=pjpg&auto=webp&s=067667204b459e19a13d91134c19ad03a9182caf",
+    "hash": "f667127a56",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwEF/8QAJRAAAgEDAwIHAAAAAAAAAAAAAQIDBAURABIhMVEGBxMUImGx/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABoRAAICAwAAAAAAAAAAAAAAAAIRAAEDBFH/2gAMAwEAAhEDEQA/ACj8M0FZRGzG6OKUfMpFIg3EtkE8Y4JHA7akflVaYl2lauYdQzSlj+DWGt8kqonV6WCZJtrIok9GRlD54U5U8jOBgaWquVvWU+8qKylkPIiNO7bR9FXx1z20S8x9i71xTJT/2Q==",
+    "url": "https://preview.redd.it/wr32byuay5h71.jpg?width=640&crop=smart&auto=webp&s=df318c4ac1174a13efc1e785a2a828994fd815f1",
+    "width": 640
+  },
+  "score": {
+    "comments": 14,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 77,
+    "value": 77
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Still figuring out how to get colors right, but these are close to acceptable :)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/p3qcfw/still_figuring_out_how_to_get_colors_right_but/"
+}

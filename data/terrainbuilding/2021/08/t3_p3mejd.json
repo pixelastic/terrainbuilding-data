@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_b44txumu",
+    "name": "Custodian_Exemplo"
+  },
+  "date": {
+    "day": 1628812800,
+    "full": 1628866852,
+    "month": 1627776000,
+    "week": 1628380800
+  },
+  "id": "t3_p3mejd",
+  "picture": {
+    "filesize": 133230,
+    "fullUrl": "https://preview.redd.it/n5vxs92w35h71.jpg?width=3024&format=pjpg&auto=webp&s=71fe1e69504b16fca0e97188890b3b9005effbe2",
+    "hash": "3b743a0931",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQF/8QAIxAAAgICAAYDAQAAAAAAAAAAAQIDBAURAAYSITFBE2Fxkv/EABQBAQAAAAAAAAAAAAAAAAAAAAL/xAAaEQACAgMAAAAAAAAAAAAAAAAAAQIDESEi/9oADAMBAAIRAxEAPwDdyWdlzto2aCTmTHqkZjY/G4ZiSdq2jvz/ADxPk+cOVbU0c/MBvx35I1ZmqRh0lHp+5GifY+t++DmIy+QozzwXcVftXR0TOoRmdAV0OrSnz0nX5wZymNuQ2AsmHlfa7U2YQGA2ewHUO3n1wIWNcsTjnZ//2Q==",
+    "url": "https://preview.redd.it/n5vxs92w35h71.jpg?width=640&crop=smart&auto=webp&s=9477d4b9827faf21b6e7f50a210cdcc7f8465c57",
+    "width": 640
+  },
+  "score": {
+    "comments": 10,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 142,
+    "value": 142
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "More Progress... still more to do but a big thanks for everyone’s support and ideas as I add to my layout",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/p3mejd/more_progress_still_more_to_do_but_a_big_thanks/"
+}

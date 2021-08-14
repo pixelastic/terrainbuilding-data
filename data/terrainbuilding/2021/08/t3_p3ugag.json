@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1jtx134m",
+    "name": "RedRightRepost"
+  },
+  "date": {
+    "day": 1628812800,
+    "full": 1628889600,
+    "month": 1627776000,
+    "week": 1628380800
+  },
+  "id": "t3_p3ugag",
+  "picture": {
+    "filesize": 50638,
+    "fullUrl": "https://preview.redd.it/uf95hw2kz6h71.jpg?width=4032&format=pjpg&auto=webp&s=e2ba42e4922ba31e808866aba056df72be88aab3",
+    "hash": "ffcf779b87",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwUG/8QAHxAAAgICAwEBAQAAAAAAAAAAAQIDBBEhAAUSMVFh/8QAFAEBAAAAAAAAAAAAAAAAAAAABf/EABoRAAICAwAAAAAAAAAAAAAAAAABAiEDBCL/2gAMAwEAAhEDEQA/AE66vU6Z7N4NZ7CxppKruxSMsfpA35XHwfu+L30wkHVTBUppcXwYt6b0QCM7wda5tpupqtLJaCuk7pj0jY8nGMj+8mdjRhNNIpQZggBDSn02Qcg5/dcDhtcpNCksd0f/2Q==",
+    "url": "https://preview.redd.it/uf95hw2kz6h71.jpg?width=640&crop=smart&auto=webp&s=b434a3661cd759ff0bb8b12d36ddc5b4f66f4a6a",
+    "width": 640
+  },
+  "score": {
+    "comments": 10,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 116,
+    "value": 116
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "How I make my aqueducts",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/p3ugag/how_i_make_my_aqueducts/"
+}
