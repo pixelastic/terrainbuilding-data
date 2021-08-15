@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_41s7ajcx",
+    "name": "SHOPlanB"
+  },
+  "date": {
+    "day": 1628899200,
+    "full": 1628948045,
+    "month": 1627776000,
+    "week": 1628380800
+  },
+  "id": "t3_p484b3",
+  "picture": {
+    "filesize": 106034,
+    "fullUrl": "https://preview.redd.it/ixoz6ik9tbh71.jpg?width=2988&format=pjpg&auto=webp&s=226f5ad3e5e048bf956d34eb98439fbf4f975bc2",
+    "hash": "c21e879fbc",
+    "height": 1138,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgMH/8QAKBAAAQIEAgsBAAAAAAAAAAAAAQIDAAQFERIhBhQVFjFRU1SSk9LR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAaEQABBQEAAAAAAAAAAAAAAAABAAIDESIh/9oADAMBAAIRAxEAPwCVDqOryjaA2yklxt1cwBdZBtdsXNsv2Eu8FE7Sa8T9xmrVUaaSy28cKcQFwkX4gEDLLnCXa+j/AEpj2H4iY+jaJwy8i1//2Q==",
+    "url": "https://preview.redd.it/ixoz6ik9tbh71.jpg?width=640&crop=smart&auto=webp&s=3a95ab6321f3cb4de2d08741040a870d04294c95",
+    "width": 640
+  },
+  "score": {
+    "comments": 15,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 198,
+    "value": 198
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I thought these were gonna be a fail. Turns out I was very wrong.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/p484b3/i_thought_these_were_gonna_be_a_fail_turns_out_i/"
+}

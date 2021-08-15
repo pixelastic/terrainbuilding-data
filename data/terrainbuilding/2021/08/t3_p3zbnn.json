@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_41s7ajcx",
+    "name": "SHOPlanB"
+  },
+  "date": {
+    "day": 1628899200,
+    "full": 1628906921,
+    "month": 1627776000,
+    "week": 1628380800
+  },
+  "id": "t3_p3zbnn",
+  "picture": {
+    "filesize": 98640,
+    "fullUrl": "https://preview.redd.it/uogug1bke8h71.jpg?width=2988&format=pjpg&auto=webp&s=be999be3c42a953252c62e72404f75bb3106049b",
+    "hash": "650bc59c40",
+    "height": 1138,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAJRAAAQMDAgYDAAAAAAAAAAAAAQIDBAAFERUhEjIzUVJTkpPS/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABgRAAIDAAAAAAAAAAAAAAAAAAACARJR/9oADAMBAAIRAxEAPwBWBJtGlsNx27gyytCF9dBWs8wBPDuAdx2oPU43sf8Akn81loV7mWyDHZlRwttpCW0ltQSrYYyQcYzUGrRPGf8AUiiUURDtp//Z",
+    "url": "https://preview.redd.it/uogug1bke8h71.jpg?width=640&crop=smart&auto=webp&s=171270fd560256f7f34b060da85cebbd5d4d7297",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 14,
+    "value": 14
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A painfully slow process. But worth it.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/p3zbnn/a_painfully_slow_process_but_worth_it/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_6fhg5",
+    "name": "Hapez"
+  },
+  "date": {
+    "day": 1628985600,
+    "full": 1628987446,
+    "month": 1627776000,
+    "week": 1628985600
+  },
+  "id": "t3_p4jhr3",
+  "picture": {
+    "filesize": 119896,
+    "fullUrl": "https://external-preview.redd.it/B6kbOcDgpvcc1Uxcd_jf8RmrbJmvtK_DWBuS2Of6N7k.jpg?auto=webp&s=31206e17a0906ec07e5558717ccdb8a4d2096387",
+    "hash": "75203e2197",
+    "height": 854,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwUGB//EACUQAAEDBAIBBAMAAAAAAAAAAAECAwQFBhESAEExBxMVISJRYf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAXEQEBAQEAAAAAAAAAAAAAAAABAAJB/9oADAMBAAIRAxEAPwBTKlUK2L5ffp0dbCWR7KnHnir89SRgnPXXeOWVBo7V0Q1VSMzICXXDsqMyjVSsAlRz2SeDuf02mzat8hSkQXWpCW9mlq10IGCoE+cj9ffnmi2LQhbtuMQJJadkAqW4pvOpJPWf5gdcHWTkot//2Q==",
+    "url": "https://external-preview.redd.it/B6kbOcDgpvcc1Uxcd_jf8RmrbJmvtK_DWBuS2Of6N7k.jpg?width=640&crop=smart&auto=webp&s=258abaaa60ba7dad7ab242c73c06aa98e57d75c4",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 16,
+    "value": 16
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Manafactorum",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/p4jhr3/manafactorum/"
+}
