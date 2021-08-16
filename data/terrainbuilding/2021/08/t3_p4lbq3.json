@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_buhyr",
+    "name": "wizardwes"
+  },
+  "date": {
+    "day": 1628985600,
+    "full": 1628994922,
+    "month": 1627776000,
+    "week": 1628985600
+  },
+  "id": "t3_p4lbq3",
+  "picture": {
+    "filesize": 17625,
+    "fullUrl": "https://preview.redd.it/9zgxtujqofh71.jpg?auto=webp&s=8d3ae1d4a8ebb5af6051137bc11cfa333726b343",
+    "hash": "343f4db543",
+    "height": 302,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAIABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAME/8QAIhAAAQMDBAMBAAAAAAAAAAAAAgEDBAAFIQYREkETMVFh/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABYRAQEBAAAAAAAAAAAAAAAAAAEAEf/aAAwDAQACEQMRAD8ApqeJdRkRI9qtjMgeO/lMB4iqL2v5vvmtUa2MsWtk9QSIsN4MGjKoIknQ5z6+UpRMmjqF/9k=",
+    "url": "https://preview.redd.it/9zgxtujqofh71.jpg?width=640&crop=smart&auto=webp&s=b0145b73411e52c351f5360d690acde62c7da69d",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 0.93,
+    "ups": 13,
+    "value": 13
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I see your generator scatter and raise you mine",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/p4lbq3/i_see_your_generator_scatter_and_raise_you_mine/"
+}
