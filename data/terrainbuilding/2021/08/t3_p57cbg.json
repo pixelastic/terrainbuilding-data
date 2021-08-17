@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1jtx134m",
+    "name": "RedRightRepost"
+  },
+  "date": {
+    "day": 1629072000,
+    "full": 1629081704,
+    "month": 1627776000,
+    "week": 1628985600
+  },
+  "id": "t3_p57cbg",
+  "picture": {
+    "filesize": 73825,
+    "fullUrl": "https://preview.redd.it/5okr2r5sumh71.jpg?auto=webp&s=66c35b1585b1f6c51a69c261d07bf8877cd7eb5f",
+    "hash": "9ef0523b2e",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwQG/8QAIRAAAgEEAgIDAAAAAAAAAAAAAQIDBAURMQAhEnEGEyP/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAECAyH/2gAMAwEAAhEDEQA/AAywWWRZZCtRESyjA8X3vGubOL4jV3daZIa9KVsa+lyCe+i2MA9eu+UWSmgDj8kPscR7AI0VQsMWDseO+FvUXEtdR//Z",
+    "url": "https://preview.redd.it/5okr2r5sumh71.jpg?width=640&crop=smart&auto=webp&s=10c571fadc12389f88ec8f47e67e8aef6dea633c",
+    "width": 640
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 99,
+    "value": 99
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Progress. Now have enough aqueduct to span a 3 foot wide table!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/p57cbg/progress_now_have_enough_aqueduct_to_span_a_3/"
+}
