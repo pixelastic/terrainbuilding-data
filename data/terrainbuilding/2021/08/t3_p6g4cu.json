@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_59vuufge",
+    "name": "PrincessSegata"
+  },
+  "date": {
+    "day": 1629244800,
+    "full": 1629246062,
+    "month": 1627776000,
+    "week": 1628985600
+  },
+  "id": "t3_p6g4cu",
+  "picture": {
+    "filesize": 91825,
+    "fullUrl": "https://preview.redd.it/vw6g6snhf0i71.jpg?width=3000&format=pjpg&auto=webp&s=fcd9c077c5bbbfdac955e7d8766abcf4edceb633",
+    "hash": "516b269636",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQME/8QAJRAAAgECBQMFAAAAAAAAAAAAAQIDBREABAYhQQcxURIWJWGB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQP/xAAeEQABBAEFAAAAAAAAAAAAAAABAAIDERVhkcHR8P/aAAwDAQACEQMRAD8AzaXr2RqNLT3fSMszxtcKtMQcbFUYXJ42xebVfT+B/RDSrr3Pw8K7/q4ZqOk5qnIplnnKICEMUoSwPkEHwO2HctkcykCLPO5cC27Fjb7PJwZBjGA0CfaKzoHSSG727PK//9k=",
+    "url": "https://preview.redd.it/vw6g6snhf0i71.jpg?width=640&crop=smart&auto=webp&s=0e562fc126634b55a8b7f06ab3d8245c801a8c68",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 14,
+    "value": 14
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Magic Menhir",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/p6g4cu/magic_menhir/"
+}

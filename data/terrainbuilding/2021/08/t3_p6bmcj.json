@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_6hcqxs38",
+    "name": "DreadPrivateer"
+  },
+  "date": {
+    "day": 1629158400,
+    "full": 1629231627,
+    "month": 1627776000,
+    "week": 1628985600
+  },
+  "id": "t3_p6bmcj",
+  "picture": {
+    "filesize": 43340,
+    "fullUrl": "https://preview.redd.it/cg3va0rk8zh71.jpg?width=4624&format=pjpg&auto=webp&s=36a9a40b89f3530b6b6686450cb2f67a8fb88274",
+    "hash": "db41e14c07",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGB//EACQQAAEDBAEDBQAAAAAAAAAAAAECAwQABQYREyEiQVFhcaGx/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABcRAQEBAQAAAAAAAAAAAAAAAAEAESH/2gAMAwEAAhEDEQA/AA4+FMIabMlpzgCitqLsPJQtRIJPqCCfHT5pdm2LzpOPyBAlPtcWnSlbJAKEpPZoEkaHX3rFo97uDDpDMp5HjaXFD8NX2KXa6zIr6nLtcU8adgJkK19k0fEdWWC8L//Z",
+    "url": "https://preview.redd.it/cg3va0rk8zh71.jpg?width=640&crop=smart&auto=webp&s=886da6ed747fb33aebcc7d28bde8d3ae7eead9b5",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 43,
+    "value": 43
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Casting dungeon tiles today!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/p6bmcj/casting_dungeon_tiles_today/"
+}
