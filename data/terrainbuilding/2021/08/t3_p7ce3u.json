@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_c3hdd0yu",
+    "name": "Thangaror"
+  },
+  "date": {
+    "day": 1629331200,
+    "full": 1629369774,
+    "month": 1627776000,
+    "week": 1628985600
+  },
+  "id": "t3_p7ce3u",
+  "picture": {
+    "filesize": 88906,
+    "fullUrl": "https://preview.redd.it/mlrnqgoanai71.jpg?auto=webp&s=1e832887bd40cb9e4b0619bebd8159ebc0fb7877",
+    "hash": "b54e1a0f35",
+    "height": 755,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA4DASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGB//EACUQAAEEAQMDBQEAAAAAAAAAAAECAwQRBQAGIRIiQQcTI3GhUf/EABQBAQAAAAAAAAAAAAAAAAAAAAX/xAAgEQABAgUFAAAAAAAAAAAAAAACABEEBRMVMSFB0fDx/9oADAMBAAIRAxEAPwBhgN1CJlMZMlbgxclB9t1TTuafKUlxJJSsKJFprmwRz9atYXrDCIJ6tux+xCrXkyAeq+LDfiv3WTYLcrLO5Fx8qxGcYU4psKVEapNnhR7f5dj60UvPNN5FbpgwBAcR8SBHQVijVkdPn8rQhToRJqZYfblL2WJ0x3xf/9k=",
+    "url": "https://preview.redd.it/mlrnqgoanai71.jpg?width=640&crop=smart&auto=webp&s=f6c2022c724721edd26ca1c7f696b4a14aba0885",
+    "width": 640
+  },
+  "score": {
+    "comments": 20,
+    "downs": 0,
+    "ratio": 0.96,
+    "ups": 596,
+    "value": 596
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I made a meme...",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/p7ce3u/i_made_a_meme/"
+}
