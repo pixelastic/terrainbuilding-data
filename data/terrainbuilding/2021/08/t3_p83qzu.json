@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_14vm43",
+    "name": "robopies"
+  },
+  "date": {
+    "day": 1629417600,
+    "full": 1629460737,
+    "month": 1627776000,
+    "week": 1628985600
+  },
+  "id": "t3_p83qzu",
+  "picture": {
+    "filesize": 61919,
+    "fullUrl": "https://preview.redd.it/7c36ao2r5ii71.jpg?width=4160&format=pjpg&auto=webp&s=d5779e2eb692d118cc739b80274eef8a7bbac7a6",
+    "hash": "b8d6e11bbc",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgMH/8QAJhAAAgEDAgQHAAAAAAAAAAAAAQIDBAURAAYTFDJBBxUhMTNhgf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/8QAFxEBAQEBAAAAAAAAAAAAAAAAEQEAAv/aAAwDAQACEQMRAD8Aabh3ZdLLdWtm16ejq6qOBAYpY8Fqhm+IMSACVII7HGikfiPdq7cqUt7WPy1Q3NlKUK0QOQjDBz14H7rQ6nblsvQTmYDE/GSreSncxvLInQWYepx21BLRSWOGpWiV24071LNNI0jB298MTnH1qS25OR3/2Q==",
+    "url": "https://preview.redd.it/7c36ao2r5ii71.jpg?width=640&crop=smart&auto=webp&s=7ab88f968dbc5e7985766bcb7daa4e42158856b1",
+    "width": 640
+  },
+  "score": {
+    "comments": 13,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 101,
+    "value": 101
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First attempt at mossy ruins. C&C welcome.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/p83qzu/first_attempt_at_mossy_ruins_cc_welcome/"
+}
