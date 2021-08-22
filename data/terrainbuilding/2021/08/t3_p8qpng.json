@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_d9af8yn4",
+    "name": "Mountain_View_1944"
+  },
+  "date": {
+    "day": 1629504000,
+    "full": 1629549462,
+    "month": 1627776000,
+    "week": 1628985600
+  },
+  "id": "t3_p8qpng",
+  "picture": {
+    "filesize": 130774,
+    "fullUrl": "https://preview.redd.it/s2gg96d3hpi71.jpg?width=2592&format=pjpg&auto=webp&s=89189078296f64b658ddc47af5549d0fa9b1c115",
+    "hash": "9e0961e31f",
+    "height": 1138,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAJxAAAAQEBAcBAAAAAAAAAAAAAQIDEQAEBSEGEhMiBxQWIzFVktH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABsRAAEEAwAAAAAAAAAAAAAAAAEAAiLBAxIT/9oADAMBAAIRAxEAPwA7jDSEpSpI1DRMVCcN3JjMGUrFKBQC7vYRuDXiL5WkeyX+yfkaTi6Vqk2eXpyKGvPprusokIKio23aTwVma7eIG6Xxn60PpGJ+4aZUlxjcRtf/2Q==",
+    "url": "https://preview.redd.it/s2gg96d3hpi71.jpg?width=640&crop=smart&auto=webp&s=55df74fbc90bbbcf24a5b58fab093e37fe57f905",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 0.96,
+    "ups": 43,
+    "value": 43
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "1st Ever Try At Modelling Something",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/p8qpng/1st_ever_try_at_modelling_something/"
+}
