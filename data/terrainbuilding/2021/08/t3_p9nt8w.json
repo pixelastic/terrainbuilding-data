@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_59vuufge",
+    "name": "PrincessSegata"
+  },
+  "date": {
+    "day": 1629590400,
+    "full": 1629675958,
+    "month": 1627776000,
+    "week": 1629590400
+  },
+  "id": "t3_p9nt8w",
+  "picture": {
+    "filesize": 50181,
+    "fullUrl": "https://preview.redd.it/1jdp21ksxzi71.jpg?width=4000&format=pjpg&auto=webp&s=e89480cb0a9d576339c1f026849cd2916987ff01",
+    "hash": "fed29d4138",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMF/8QAIhAAAQQCAgEFAAAAAAAAAAAAAgEDBAURIQAGEhUxMmGh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAcEQABAwUAAAAAAAAAAAAAAAACAQMRAAUiYZH/2gAMAwEAAhEDEQA/AAVXRoMvJ+jxUBTVUR911CX7wJYTl7nrVRTnFCdRwVjuDsmTdyKIu12W8c2KSY/4fNde3HXAN2MYQmti6KbTOdfvAxdCEkFxMdTPZqj1vQhVWyy3Eciv/9k=",
+    "url": "https://preview.redd.it/1jdp21ksxzi71.jpg?width=640&crop=smart&auto=webp&s=1c7204cdbcc001e51f6aba971bfadf2301f60b86",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "3D printed river",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/p9nt8w/3d_printed_river/"
+}
