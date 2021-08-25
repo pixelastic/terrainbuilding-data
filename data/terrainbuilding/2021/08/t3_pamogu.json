@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_41s7ajcx",
+    "name": "SHOPlanB"
+  },
+  "date": {
+    "day": 1629763200,
+    "full": 1629809405,
+    "month": 1627776000,
+    "week": 1629590400
+  },
+  "id": "t3_pamogu",
+  "picture": {
+    "filesize": 59013,
+    "fullUrl": "https://preview.redd.it/z6h84xrdyaj71.jpg?width=5312&format=pjpg&auto=webp&s=8170afd36eac30b58a9ad1923c979ab532d0e3ec",
+    "hash": "fcd0b50038",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgf/xAAnEAABAQYDCQAAAAAAAAAAAAABAgADBAUREiExNAYiMlFhcXOxwv/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGREAAwADAAAAAAAAAAAAAAAAAAECESFB/9oADAMBAAIRAxEAPwAPIZpHodLdPrIm7gClHdIqbknMHE0PVqI7nkyioZSIt+BD4haXSE3pzSVVoSBQ0NeYYZI9Unt8tSdn9JE+U+mnL3kVvh//2Q==",
+    "url": "https://preview.redd.it/z6h84xrdyaj71.jpg?width=640&crop=smart&auto=webp&s=71f6e03427fbc38a2385113b0ecf70743989a11d",
+    "width": 640
+  },
+  "score": {
+    "comments": 9,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 141,
+    "value": 141
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Torches...endless torches...",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/pamogu/torchesendless_torches/"
+}
