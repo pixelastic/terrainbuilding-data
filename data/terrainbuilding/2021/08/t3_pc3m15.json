@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_2a3xmizn",
+    "name": "Nussknackerz"
+  },
+  "date": {
+    "day": 1629936000,
+    "full": 1629997039,
+    "month": 1627776000,
+    "week": 1629590400
+  },
+  "id": "t3_pc3m15",
+  "picture": {
+    "filesize": 139849,
+    "fullUrl": "https://preview.redd.it/javtsmsegqj71.jpg?width=3024&format=pjpg&auto=webp&s=69441f4b7d116fb6905904a6365ed67f2f9aed2d",
+    "hash": "67d23f8a0d",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQMH/8QAJBAAAgIABQMFAAAAAAAAAAAAAQIDBAAFETFBBiEiEhZCYqH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABwRAAIBBQEAAAAAAAAAAAAAAAECAAMEERIiof/aAAwDAQACEQMRAD8AnkeZVKfXFvMqVSw2XzRETIgUlHYjYA7dged8Me6sjlZ3SVIwWPjKrht+dBjOcskloTJZgDzINfOM6MB9h8h+9sORyPbjE8tGvIX7hj6lLDgnTnE+hdM41UZMbVstOmOPZ//Z",
+    "url": "https://preview.redd.it/javtsmsegqj71.jpg?width=640&crop=smart&auto=webp&s=3896ea455d1722ebf40f4b35d37ed0975bf5ed72",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 88,
+    "value": 88
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First Terrain Project. Custom Maps for Mythic Battles: Pantheon!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/pc3m15/first_terrain_project_custom_maps_for_mythic/"
+}
