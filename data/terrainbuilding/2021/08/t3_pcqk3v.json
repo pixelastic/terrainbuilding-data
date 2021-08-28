@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_3tlqt",
+    "name": "okawei"
+  },
+  "date": {
+    "day": 1630022400,
+    "full": 1630081102,
+    "month": 1627776000,
+    "week": 1629590400
+  },
+  "id": "t3_pcqk3v",
+  "picture": {
+    "filesize": 69305,
+    "fullUrl": "https://external-preview.redd.it/lsgwGANZBusxtKDoA9sFit1QhdSXRb0ixvrXlxfFPSY.jpg?auto=webp&s=9e084f2338e3563284678c8ef6065bfba25dff50",
+    "hash": "f808376cd9",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQFBv/EACIQAAIBAwQDAQEAAAAAAAAAAAEDAgQFEQAGEjEhIkGBkf/EABUBAQEAAAAAAAAAAAAAAAAAAAIE/8QAGREAAwADAAAAAAAAAAAAAAAAAAIRASFB/9oADAMBAAIRAxEAPwANuboue2mivtKEMc6BXIOl647+fc6r3jdFTvIJRdlUxrYRkFhcyuKfUmUifPIZA/NZyz2qjVBKFJ4JKePESOPGDnvvv+nTlZaUU0XTppuSyS5w5wmRIAg9H8Gpo2HnBXR//9k=",
+    "url": "https://external-preview.redd.it/lsgwGANZBusxtKDoA9sFit1QhdSXRb0ixvrXlxfFPSY.jpg?width=640&crop=smart&auto=webp&s=ae54ce90b0b6f96cb9230bcf9c8b981a2d5fc042",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 20,
+    "value": 20
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First time with a larger build like this and first time attempting water effects. Messed up the coloring of the water but apart from that I think it looks great!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/pcqk3v/first_time_with_a_larger_build_like_this_and/"
+}
