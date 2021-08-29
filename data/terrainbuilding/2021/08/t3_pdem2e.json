@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_12c3f8",
+    "name": "dm0x48"
+  },
+  "date": {
+    "day": 1630108800,
+    "full": 1630173509,
+    "month": 1627776000,
+    "week": 1629590400
+  },
+  "id": "t3_pdem2e",
+  "picture": {
+    "filesize": 44417,
+    "fullUrl": "https://external-preview.redd.it/V7IFDu5budUFdg_vFjZTWmo5eetLwYP2dRS0FbmnnwM.jpg?auto=webp&s=43968f718ca185a229be47e3b08b2112e53a06d2",
+    "hash": "55f91c934c",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAIRAAAgEEAgIDAAAAAAAAAAAAAQIEAwUGEQAxIVESQZH/xAAVAQEBAAAAAAAAAAAAAAAAAAABA//EABkRAAIDAQAAAAAAAAAAAAAAAAECAAMRQf/aAAwDAQACEQMRAD8Aa5nlAti22NCnrRmSapUa0yhQNsWPQ148HvfKmD38Xi1q7z0lzFZhXCqF+BBIAC661o7+98y/D8ahZBj1trTnrq2qh1SYKCTUIJ69KPzjK04PZYslHpJKFYbC1RJcOu/RBHJOStpXgiukbP/Z",
+    "url": "https://external-preview.redd.it/V7IFDu5budUFdg_vFjZTWmo5eetLwYP2dRS0FbmnnwM.jpg?width=640&crop=smart&auto=webp&s=534444b21ac03cbfaa74d767fe47a16c9fe17a9b",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 0.9,
+    "ups": 7,
+    "value": 7
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First terrain I am confident in sharing. Nothing special if compared to the other builds I see here, but I am pretty happy with the result (UV effect included)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/pdem2e/first_terrain_i_am_confident_in_sharing_nothing/"
+}

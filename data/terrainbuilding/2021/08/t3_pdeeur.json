@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4hni8bwm",
+    "name": "andletemin"
+  },
+  "date": {
+    "day": 1630108800,
+    "full": 1630172851,
+    "month": 1627776000,
+    "week": 1629590400
+  },
+  "id": "t3_pdeeur",
+  "picture": {
+    "filesize": 106884,
+    "fullUrl": "https://preview.redd.it/k63czqi8z4k71.jpg?auto=webp&s=bf116212f7d55a55c5e6dde34fed21a5c7ef1719",
+    "hash": "06e7c0218a",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAJhAAAQMCBQMFAAAAAAAAAAAAAQIDBAURAAYhIjETQVESMlJhkf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQACMf/aAAwDAQACEQMRAD8AyXIuV6LPUqTm2st0enaIbWfc4o340NgLd8Qsz01qiV6ZAiTETYra7syWjtdQRcKFtODhS6xJj0iIjptlMdTik+sAgFQte3yG6xPkeMC5ck9c2eKeBZG0fg7/AHgcuntQgX//2Q==",
+    "url": "https://preview.redd.it/k63czqi8z4k71.jpg?width=640&crop=smart&auto=webp&s=d2d8a699296be884165cd2f7b58d5084df8b9180",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 0.9,
+    "ups": 31,
+    "value": 31
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Ruins.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/pdeeur/ruins/"
+}
