@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1vzqf4fk",
+    "name": "insaniakUTC"
+  },
+  "date": {
+    "day": 1630281600,
+    "full": 1630364656,
+    "month": 1627776000,
+    "week": 1630195200
+  },
+  "id": "t3_petfn3",
+  "picture": {
+    "filesize": 101392,
+    "fullUrl": "https://preview.redd.it/2yz8v5tjtkk71.jpg?width=1080&format=pjpg&auto=webp&s=d6904cbccd05b67d0b12d78fc6e0dc3f729b0067",
+    "hash": "fd750f22b3",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgEE/8QAIxAAAQQBBAIDAQAAAAAAAAAAAQIDBBExAAUSIQYiEzNBYf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/8QAGREAAgMBAAAAAAAAAAAAAAAAAQIAAyEx/9oADAMBAAIRAxEAPwDWfJoglIiRocVHo0rgX1LeIcChdAV6kd3f5o/5O8y5ISy05JMddhKm3uDoBOFDBPRxWl0XwdTDjMjZ54cdbAUhbpTyZNULq7sE5/mpP2FPyyHN3itlXPpDH2OCxblmugKxWMaLFsfhlo9ajRs//9k=",
+    "url": "https://preview.redd.it/2yz8v5tjtkk71.jpg?width=640&crop=smart&auto=webp&s=b4daf3e0e7667822bae04a79662e153c78bd674b",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 34,
+    "value": 34
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Communications hub from a toy laser gun!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/petfn3/communications_hub_from_a_toy_laser_gun/"
+}
