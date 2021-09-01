@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_d388qio0",
+    "name": "ripper1331"
+  },
+  "date": {
+    "day": 1630368000,
+    "full": 1630385283,
+    "month": 1627776000,
+    "week": 1630195200
+  },
+  "id": "t3_peyzzp",
+  "picture": {
+    "filesize": 76550,
+    "fullUrl": "https://preview.redd.it/jsyojo9zimk71.jpg?auto=webp&s=0b91a5c650222e63e00cbad606ccab949e7f0edc",
+    "hash": "c024e4a20e",
+    "height": 478,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFBv/EACcQAAEDAwMBCQAAAAAAAAAAAAECAwQABRESEyExBhQWIlFhcYGh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQX/xAAcEQEAAgEFAAAAAAAAAAAAAAACAQMABRESMVH/2gAMAwEAAhEDEQA/AMffoE24XcSLSyiG6hpJSmGnb1YGODkeb1onxJcyHF8Q3FUJbKABurAdVhRKcpByevufipcu8z32UL7ytsK4KWjoH5zSnZ6E1PvUeJIB2nCNZHU/dFVZBg+ZNo041gmZ349Z/9k=",
+    "url": "https://preview.redd.it/jsyojo9zimk71.jpg?width=640&crop=smart&auto=webp&s=c54c533e8b89080ba761f389e27bf50ace481422",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 67,
+    "value": 67
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Voxel style 3D printed Pitfall terrain",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/peyzzp/voxel_style_3d_printed_pitfall_terrain/"
+}
