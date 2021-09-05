@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_2tjpo01c",
+    "name": "the-et-cetera"
+  },
+  "date": {
+    "day": 1630713600,
+    "full": 1630747211,
+    "month": 1630454400,
+    "week": 1630195200
+  },
+  "id": "t3_phobbj",
+  "picture": {
+    "filesize": 52970,
+    "fullUrl": "https://preview.redd.it/vapf5b76fgl71.jpg?auto=webp&s=57964572291ceaf78b7876ac8a5f095bb8080a92",
+    "hash": "541a2ca139",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAIBAAAgIBBAMBAAAAAAAAAAAAAQIDEQQABRIhBjFBUf/EABQBAQAAAAAAAAAAAAAAAAAAAAX/xAAWEQEBAQAAAAAAAAAAAAAAAAABADH/2gAMAwEAAhEDEQA/ADhumZLlti7aiSJCeMtIzNyAvioAq6+3qY5u6GZVmwyVIXlIzBOiO6Fk9fQdaTxqZ45gwYknrv8ANHb+xhn4xgC7PrQYg5Oopt//2Q==",
+    "url": "https://preview.redd.it/vapf5b76fgl71.jpg?width=640&crop=smart&auto=webp&s=aea58cb7fb0e5673c293f80c5873948695d3fc77",
+    "width": 640
+  },
+  "score": {
+    "comments": 18,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 331,
+    "value": 331
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Spent the majority of yesterday testing out new basing with homebrew texture paint",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/phobbj/spent_the_majority_of_yesterday_testing_out_new/"
+}
