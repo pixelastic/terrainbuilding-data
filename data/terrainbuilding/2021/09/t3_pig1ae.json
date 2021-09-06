@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_41s7ajcx",
+    "name": "SHOPlanB"
+  },
+  "date": {
+    "day": 1630800000,
+    "full": 1630858730,
+    "month": 1630454400,
+    "week": 1630800000
+  },
+  "id": "t3_pig1ae",
+  "picture": {
+    "filesize": 49269,
+    "fullUrl": "https://preview.redd.it/cdpopkujmpl71.jpg?width=5312&format=pjpg&auto=webp&s=a86e6caef64d3811cefda594edf85874c39ee9e0",
+    "hash": "e5392115d6",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFAABAAAAAAAAAAAAAAAAAAAABv/EACQQAAEDBAEDBQAAAAAAAAAAAAECAwQABREhMRITcSM0QbGy/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAXEQEBAQEAAAAAAAAAAAAAAAABAAIh/9oADAMBAAIRAxEAPwAHKWxOvU2YxDHrqS52wohHUBsA8jOd73Sq4WWBcIKX7azHjy+2VKjNvOKONAE9eBznQ+N0ftHKPCfzSRr2y/KfsVN1JOX/2Q==",
+    "url": "https://preview.redd.it/cdpopkujmpl71.jpg?width=640&crop=smart&auto=webp&s=fc585a1a35cf5010b88731591cffbfa2acd982b6",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 0.92,
+    "ups": 9,
+    "value": 9
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "For advanced wizardry",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/pig1ae/for_advanced_wizardry/"
+}

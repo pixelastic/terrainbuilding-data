@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_3984ro16",
+    "name": "PlatypusScotsman"
+  },
+  "date": {
+    "day": 1630800000,
+    "full": 1630878907,
+    "month": 1630454400,
+    "week": 1630800000
+  },
+  "id": "t3_pim8bl",
+  "picture": {
+    "filesize": 68896,
+    "fullUrl": "https://preview.redd.it/vlilko5sarl71.jpg?width=2048&format=pjpg&auto=webp&s=194bf2fabfd8bc87252ed65bf0d06c960586fe60",
+    "hash": "74dbe22bf8",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwUG/8QAJhAAAgIBAQYHAAAAAAAAAAAAAQIDBBEABQYHEiFRExQxYYKRof/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAZEQACAwEAAAAAAAAAAAAAAAABAgARIRL/2gAMAwEAAhEDEQA/ADPc7hVHd2QL+2LMIjKl8w2FcJ0GM8pI79sapW+EexpLi1ql+74ix87BQjELnAYjpnPtoWqXbNNy9SxNA59TG5Un61u93+Km9FSeKCezDejyAPNRBmHyGG/dA4cbcVeTlT//2Q==",
+    "url": "https://preview.redd.it/vlilko5sarl71.jpg?width=640&crop=smart&auto=webp&s=bddbbca43ed71df5307d5ff9197a102473b9f885",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 12,
+    "value": 12
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I need some dungeon rooms and hallways.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/pim8bl/i_need_some_dungeon_rooms_and_hallways/"
+}
