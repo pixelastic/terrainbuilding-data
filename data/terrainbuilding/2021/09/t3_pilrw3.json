@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_ea7sh5g0",
+    "name": "DMQuasiphill"
+  },
+  "date": {
+    "day": 1630800000,
+    "full": 1630877293,
+    "month": 1630454400,
+    "week": 1630800000
+  },
+  "id": "t3_pilrw3",
+  "picture": {
+    "filesize": 89967,
+    "fullUrl": "https://preview.redd.it/p5a4yooz5rl71.jpg?auto=webp&s=b65adf72b64d3d86b5abad2f8e5710133d3a228d",
+    "hash": "a1e7c6f8e6",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgMF/8QAIRAAAgEDBAMBAAAAAAAAAAAAAQIDBAURAAYSITEyURX/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABoRAAICAwAAAAAAAAAAAAAAAAABAgQREiH/2gAMAwEAAhEDEQA/AB1k2xHNU26rqXpqiJoneWFw2WLR9LgjA4nvOsfediuBhq7nV3CKoqopApROTcozhVUDAChPHzT78+IUsKc5TyPsW77ycfMag1uglp0ifmVEgU5b2AI6I8ajdjuRFFan/9k=",
+    "url": "https://preview.redd.it/p5a4yooz5rl71.jpg?width=640&crop=smart&auto=webp&s=666c7fb967fbd4df1c18b42287d2eddedcd52b83",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 3,
+    "value": 3
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Gnomish University of Astronomy w/ rotating telescope",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/pilrw3/gnomish_university_of_astronomy_w_rotating/"
+}

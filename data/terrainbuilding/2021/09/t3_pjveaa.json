@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_16t58j",
+    "name": "Projekt_BF"
+  },
+  "date": {
+    "day": 1630972800,
+    "full": 1631046981,
+    "month": 1630454400,
+    "week": 1630800000
+  },
+  "id": "t3_pjveaa",
+  "picture": {
+    "filesize": 35626,
+    "fullUrl": "https://preview.redd.it/sgayhqcj65m71.jpg?auto=webp&s=2f110460c9719f9fe984a6ff7e5e39ad3d3e7898",
+    "hash": "8322c543b3",
+    "height": 504,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAANABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFB//EACcQAAEDAwIFBQEAAAAAAAAAAAECAwQFBhEAIQcSQVFhExQxQnHB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAdEQACAQQDAAAAAAAAAAAAAAABAwIAESExEhNR/9oADAMBAAIRAxEAPwDf7YvamVyOQXmosxBKXGHHAeVQ6Z/hwfGk69aM2tNUwrntNPRlhSnEJUogc/Nlsk7Kxtk9hoHEXhpR7uYkPkrp1UUgj3sZIC1AdFj7du/nVOw7aRb8BtMeY8qP6YSiPuG0D8JO/wA77ZzqUoLYFb8i41caz7TRb1y5rwa//9k=",
+    "url": "https://preview.redd.it/sgayhqcj65m71.jpg?width=640&crop=smart&auto=webp&s=fa597cde8eda695d55475f7ac4c31c392d67bcfc",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 27,
+    "value": 27
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Tutorial Tuesday: Simple LED Wiring",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/pjveaa/tutorial_tuesday_simple_led_wiring/"
+}
