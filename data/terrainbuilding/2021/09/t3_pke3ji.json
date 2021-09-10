@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_eavt6548",
+    "name": "thericalope"
+  },
+  "date": {
+    "day": 1631059200,
+    "full": 1631119075,
+    "month": 1630454400,
+    "week": 1630800000
+  },
+  "id": "t3_pke3ji",
+  "picture": {
+    "filesize": 80486,
+    "fullUrl": "https://preview.redd.it/c4vlfa0t4bm71.jpg?width=4032&format=pjpg&auto=webp&s=a1aa185c7c9406766cad50b36d2368509646c3be",
+    "hash": "6c4893b501",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFAABAAAAAAAAAAAAAAAAAAAABv/EACEQAAICAgICAwEAAAAAAAAAAAECAwQFEQAhMUESE1GR/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABYRAQEBAAAAAAAAAAAAAAAAAAERAP/aAAwDAQACEQMRAD8AA4rDfXTW1TRbMTOUcIpZX9/E7I2N78EaPFT0LjYuexXoR1FhlBUXJydL6ZtdAjr+cL189exNeOvSdVjlRXO12QdkdfnjhS3lr+ZsO2StyzoHJWItqNe/SjrhBmVrv//Z",
+    "url": "https://preview.redd.it/c4vlfa0t4bm71.jpg?width=640&crop=smart&auto=webp&s=dcbfa01607c18ab69b16066f9bca146abadfed13",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 1,
+    "value": 1
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My first modular dungeon setup for my homebrew rpg. My players loved it, hoping you do too.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/pke3ji/my_first_modular_dungeon_setup_for_my_homebrew/"
+}

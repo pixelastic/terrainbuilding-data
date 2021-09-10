@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5hek6ri8",
+    "name": "anderssolmor"
+  },
+  "date": {
+    "day": 1631059200,
+    "full": 1631125539,
+    "month": 1630454400,
+    "week": 1630800000
+  },
+  "id": "t3_pkg7hu",
+  "picture": {
+    "filesize": 73506,
+    "fullUrl": "https://preview.redd.it/yft68ck5obm71.jpg?auto=webp&s=e9bdee5170b0adac76e119ce2c40bac6f58041ea",
+    "hash": "d9ef1e5bbd",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAgX/xAAiEAACAQQCAgMBAAAAAAAAAAABAgQDBQYRACESMQckQWH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAGREBAAMBAQAAAAAAAAAAAAAAAQACAwQh/9oADAMBAAIRAxEAPwBfJkDIrjdUv2N26fJsk8tUptDHmyneiHUdqdg6/COC2XXKbfaTPu8KbEtaukf7hCuzseiq+9dd7/muSbFmOV4zTrQLa0eZDpbenHrkqyA96Vh+e+jyVd8oybMatMXivHjQ6LiqsaiCfJx6LEnfXB16aeox8ufQsCT/2Q==",
+    "url": "https://preview.redd.it/yft68ck5obm71.jpg?width=640&crop=smart&auto=webp&s=67de4800ec4424713e145dcd0639a131abd63d06",
+    "width": 640
+  },
+  "score": {
+    "comments": 9,
+    "downs": 0,
+    "ratio": 0.96,
+    "ups": 60,
+    "value": 60
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP modular round buildings",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/pkg7hu/wip_modular_round_buildings/"
+}
