@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_r21ra",
+    "name": "Johnnybravo3817"
+  },
+  "date": {
+    "day": 1631232000,
+    "full": 1631248083,
+    "month": 1630454400,
+    "week": 1630800000
+  },
+  "id": "t3_pldzvv",
+  "picture": {
+    "filesize": 35272,
+    "fullUrl": "https://preview.redd.it/s55et5pislm71.jpg?width=4032&format=pjpg&auto=webp&s=aeb7dd2003747d0c9bc70aaacad0ba0366a3bfd7",
+    "hash": "82c3d65a63",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQEC/8QAJxAAAQMDAgQHAAAAAAAAAAAAAQIDBAUREgAxBhMhcRQiQWGRstH/xAAVAQEBAAAAAAAAAAAAAAAAAAACBf/EABoRAAICAwAAAAAAAAAAAAAAAAERAAIDBSH/2gAMAwEAAhEDEQA/AJwzWKjHY5Eqmy1upcISt5oozSALbA9e/wA6TY4orD8vkChLdj36uNqKMRe1/OLHt7aLiwoTbYxiNbDcq/dYn02EpvHw+NvVLrgP20hrEOKUDjsS3P/Z",
+    "url": "https://preview.redd.it/s55et5pislm71.jpg?width=640&crop=smart&auto=webp&s=08dd043071f4b46680d669fa4c015398daed077c",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Trying some new concrete textures. Recipe is last picture. C+C welcome.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/pldzvv/trying_some_new_concrete_textures_recipe_is_last/"
+}
