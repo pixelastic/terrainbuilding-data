@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4tp9x7f3",
+    "name": "10Megavolt"
+  },
+  "date": {
+    "day": 1631318400,
+    "full": 1631398317,
+    "month": 1630454400,
+    "week": 1630800000
+  },
+  "id": "t3_pmgjx1",
+  "picture": {
+    "filesize": 75503,
+    "fullUrl": "https://preview.redd.it/r9u2408e6ym71.jpg?width=9207&format=pjpg&auto=webp&s=6421ba3efa7971a44db0c1682e328ea1d6604709",
+    "hash": "4a660d00af",
+    "height": 337,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAIABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAIF/8QAJBAAAgADBwUAAAAAAAAAAAAAAQIAAwQFBhESIjFBEyEyUWH/xAAVAQEBAAAAAAAAAAAAAAAAAAACBP/EABoRAAICAwAAAAAAAAAAAAAAAAARAQITMfD/2gAMAwEAAhEDEQA/AMa4SzKKz6UzllKszXrK5spPrcHgbRd8WmVNl1rq0telNwBzKGZe/iN2OHA+whE+S23zHFYR/9k=",
+    "url": "https://preview.redd.it/r9u2408e6ym71.jpg?width=640&crop=smart&auto=webp&s=dfc135df687d6ff87a77fd35888cd324729cc40b",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 114,
+    "value": 114
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Warhammer Fantasy Dwarf Fortress (Making of)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/pmgjx1/warhammer_fantasy_dwarf_fortress_making_of/"
+}
