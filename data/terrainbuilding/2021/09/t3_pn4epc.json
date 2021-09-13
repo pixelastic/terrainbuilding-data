@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_72bjejot",
+    "name": "ArchonisDM"
+  },
+  "date": {
+    "day": 1631491200,
+    "full": 1631492165,
+    "month": 1630454400,
+    "week": 1631404800
+  },
+  "id": "t3_pn4epc",
+  "picture": {
+    "filesize": 57645,
+    "fullUrl": "https://preview.redd.it/jbgfxnhby5n71.jpg?width=4032&format=pjpg&auto=webp&s=a53bfd0620ba915099a8def968641d5282a7455e",
+    "hash": "53c97c9071",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAb/xAAkEAACAQMDAwUAAAAAAAAAAAABAgQAAxESEzEFBhQyQUNxcv/EABQBAQAAAAAAAAAAAAAAAAAAAAX/xAAeEQABAwQDAAAAAAAAAAAAAAABAAMRAgQSUUGxwf/aAAwDAQACEQMRAD8AnJAhrNjXZcfyN2+qO1x8BVJGcn2GKV2ZA6bJmS78uKdkuURNZa2w1Zzg88UeP62+jVHH+H8igBcGlrATO5PSbqZBcy41Hq//2Q==",
+    "url": "https://preview.redd.it/jbgfxnhby5n71.jpg?width=640&crop=smart&auto=webp&s=26ca42989cfaa63d4faa4e6b17f0b4f459f40bd7",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 3,
+    "value": 3
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Underdark Scatter Terrain",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/pn4epc/underdark_scatter_terrain/"
+}
