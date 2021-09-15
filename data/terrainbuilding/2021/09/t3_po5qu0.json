@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_16t58j",
+    "name": "Projekt_BF"
+  },
+  "date": {
+    "day": 1631577600,
+    "full": 1631635487,
+    "month": 1630454400,
+    "week": 1631404800
+  },
+  "id": "t3_po5qu0",
+  "picture": {
+    "filesize": 52583,
+    "fullUrl": "https://preview.redd.it/ilq8inmfshn71.jpg?auto=webp&s=86cb0f331cb6e6bce14ae2cb38df365b726936cb",
+    "hash": "76c66c37f9",
+    "height": 447,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQEG/8QAIxAAAQIGAgIDAAAAAAAAAAAAAQIDBAUGERIhACITFTEyQf/EABQBAQAAAAAAAAAAAAAAAAAAAAL/xAAXEQADAQAAAAAAAAAAAAAAAAAAARES/9oADAMBAAIRAxEAPwBNFQR8Q5VTsPVaG0tBfgbdbKcAFgHYuQbdRYbvfiVNVRFNz2Ve0qWCiZdHQ+LTQbUF+UdbKunRyB7E75r0UjICJir1cPlGoKXyAQVj7fP5sA6tvkeoqnUwUhxlbIMKcmjkq4J7G5v27b3fhwxVH//Z",
+    "url": "https://preview.redd.it/ilq8inmfshn71.jpg?width=640&crop=smart&auto=webp&s=8fc172c3d5a2d05a118ed31e3442cf93a1ef73b1",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.91,
+    "ups": 27,
+    "value": 27
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Tutorial Tuesdays - Basing Mini's",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/po5qu0/tutorial_tuesdays_basing_minis/"
+}
