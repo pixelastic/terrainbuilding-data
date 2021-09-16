@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_gluet",
+    "name": "timeportalgames"
+  },
+  "date": {
+    "day": 1631664000,
+    "full": 1631675844,
+    "month": 1630454400,
+    "week": 1631404800
+  },
+  "id": "t3_pohyt5",
+  "picture": {
+    "filesize": 106591,
+    "fullUrl": "https://preview.redd.it/rqpxj3ny3ln71.jpg?width=1336&format=pjpg&auto=webp&s=0b3108e244866349929931efba22fcb329913aa9",
+    "hash": "4f7c9eac0e",
+    "height": 583,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAPABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMF/8QAJBAAAQMDAwUBAQAAAAAAAAAAAQIDBAURIQASMQYHE0FRInH/xAAVAQEBAAAAAAAAAAAAAAAAAAAFBv/EABsRAQABBQEAAAAAAAAAAAAAAAEAAgMEESEF/9oADAMBAAIRAxEAPwDY6u7jxq/HTHpaZjSmkeTcy6Eb3DgJIwf4PZI+aPTevJ8GpOsyYb5grIHkdV+gbYNieLhQxzg6i/20kU+qsy6c8lxnekubrXCQb2seeBx802d0+t99KULZQUXBCgcjn1qYPVtAd7E3GrHWp//Z",
+    "url": "https://preview.redd.it/rqpxj3ny3ln71.jpg?width=640&crop=smart&auto=webp&s=a944ad6d3b7223970d24e35f956c2b46a53a08ce",
+    "width": 640
+  },
+  "score": {
+    "comments": 23,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 713,
+    "value": 713
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Generic Evil Temple with short cut outer walls and removable interior walls.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/pohyt5/generic_evil_temple_with_short_cut_outer_walls/"
+}
