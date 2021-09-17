@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_7rooq8w",
+    "name": "B-e-n-e"
+  },
+  "date": {
+    "day": 1631750400,
+    "full": 1631802377,
+    "month": 1630454400,
+    "week": 1631404800
+  },
+  "id": "t3_ppecaj",
+  "picture": {
+    "filesize": 66931,
+    "fullUrl": "https://preview.redd.it/aj04bgtkkvn71.jpg?width=5568&format=pjpg&auto=webp&s=33cde19054091716a564d73a6396a146abc18a25",
+    "hash": "874b630415",
+    "height": 427,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAwf/xAAjEAABBAAGAgMAAAAAAAAAAAABAgMEEQAFEhMhMRRBYXGB/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABsRAAEEAwAAAAAAAAAAAAAAAAEAAhITEWHw/9oADAMBAAIRAxEAPwCSMwYPkvGGiGmDESNaH2lbhWTQIJFkcddijxhIaYct4S58FpcbTadloU0oeyas3dc4rbyEZgpbExtDrRXRBSPXz3h8qy2HEnOORozbSlWDpFAj6/BgIulkJLmVxIPbX//Z",
+    "url": "https://preview.redd.it/aj04bgtkkvn71.jpg?width=640&crop=smart&auto=webp&s=23d5987655a687647011cc64641d0e707524e1a2",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 95,
+    "value": 95
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Terrain from trash part XY",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ppecaj/terrain_from_trash_part_xy/"
+}
