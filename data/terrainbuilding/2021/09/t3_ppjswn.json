@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_eh4fhw3r",
+    "name": "at3sparky"
+  },
+  "date": {
+    "day": 1631750400,
+    "full": 1631819267,
+    "month": 1630454400,
+    "week": 1631404800
+  },
+  "id": "t3_ppjswn",
+  "picture": {
+    "filesize": 100124,
+    "fullUrl": "https://preview.redd.it/48db75zuywn71.jpg?width=4032&format=pjpg&auto=webp&s=d7491992009c8b32258adb8abfdedb03779c689f",
+    "hash": "c108ea664c",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAQAE/8QAIxAAAgIABgIDAQAAAAAAAAAAAQIDBAAFERIhMSJhBhMUgf/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAGhEAAgIDAAAAAAAAAAAAAAAAAAEEEgIiMv/aAAwDAQACEQMRAD8AxH53mkjywpaOWmGzs2BWlDIB2gJ5YMD65GG7m+dXa9OSt+me0bDP9s6qNVOu59D0RqP71iild5WaQ7yNX8ueT2cIsyNcpjXTwc8eyMTnKryh2May2Z//2Q==",
+    "url": "https://preview.redd.it/48db75zuywn71.jpg?width=640&crop=smart&auto=webp&s=f1be9da87e80e645e30cff2ab51676038f832de3",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "More stairs, 3D printed this time",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ppjswn/more_stairs_3d_printed_this_time/"
+}
