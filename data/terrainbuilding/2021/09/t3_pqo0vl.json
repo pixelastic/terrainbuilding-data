@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_381vocbe",
+    "name": "BrianWigginsVO"
+  },
+  "date": {
+    "day": 1631923200,
+    "full": 1631977326,
+    "month": 1630454400,
+    "week": 1631404800
+  },
+  "id": "t3_pqo0vl",
+  "picture": {
+    "filesize": 65350,
+    "fullUrl": "https://preview.redd.it/hni0ujgy0ao71.jpg?width=1440&format=pjpg&auto=webp&s=23d68936d492d6106bcdb879618604edb507b0e1",
+    "hash": "1ec34ffdff",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQEG/8QAJBAAAQMCBQUBAAAAAAAAAAAABAECAxESAAUTITEGFCJBYXH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABgRAQADAQAAAAAAAAAAAAAAAAEAAhIh/9oADAMBAAIRAxEAPwDYZqYGSPIKO5sZNNNs74myOjpyqKtfJMCmh1iGIDPg79kKMQkiGurutrtqNuTf17wFmvUZgkL9NkLreLkcvNfv3EEzw0WDLR3PZOwgZj3LIxKotqbJbRKfuAZJRbNus//Z",
+    "url": "https://preview.redd.it/hni0ujgy0ao71.jpg?width=640&crop=smart&auto=webp&s=0e6fc86c50c96d2b0e04cbe10eb0286a6b3a6c38",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 0.96,
+    "ups": 54,
+    "value": 54
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP: Dungeon Doors & Cave Walls",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/pqo0vl/wip_dungeon_doors_cave_walls/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_8t1fv9ll",
+    "name": "ThruThePorthole"
+  },
+  "date": {
+    "day": 1631923200,
+    "full": 1632006797,
+    "month": 1630454400,
+    "week": 1631404800
+  },
+  "id": "t3_pqwo3n",
+  "picture": {
+    "filesize": 29656,
+    "fullUrl": "https://external-preview.redd.it/NUzcSrUuCeSGXWitJnrz3X8vhL6t5E4I4viqvij33qI.jpg?auto=webp&s=667536dd38a2b49b6093f5e3b62fec79bad3619d",
+    "hash": "adbd196511",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQFBv/EACMQAAIBBAEDBQAAAAAAAAAAAAECBAADBRESFDRyIUFhkcH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAGhEAAgIDAAAAAAAAAAAAAAAAAAECIQMRIv/aAAwDAQACEQMRAD8A1cPCwpWDmROjsG03EALu2eQ9eQZTvYOvegg4nGW4duJfi25BClS8hmdn+CxO/vdWcD2J82/KQk9y3lRYelpjTq0f/9k=",
+    "url": "https://external-preview.redd.it/NUzcSrUuCeSGXWitJnrz3X8vhL6t5E4I4viqvij33qI.jpg?width=640&crop=smart&auto=webp&s=e2b1940abe99b1f9a3fed1a85cab14abce387238",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 2,
+    "value": 2
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Troubles Applying Static Grass (More Info in Comments)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/pqwo3n/troubles_applying_static_grass_more_info_in/"
+}
