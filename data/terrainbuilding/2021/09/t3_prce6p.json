@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_3dhi1",
+    "name": "kagius"
+  },
+  "date": {
+    "day": 1632009600,
+    "full": 1632072605,
+    "month": 1630454400,
+    "week": 1632009600
+  },
+  "id": "t3_prce6p",
+  "picture": {
+    "filesize": 103629,
+    "fullUrl": "https://preview.redd.it/1iymeqw0who71.jpg?width=2600&format=pjpg&auto=webp&s=fd59b377a29862856dfc535f16aadf2d630e2a5b",
+    "hash": "837a8b4539",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgAH/8QAJhAAAQMCBQQDAQAAAAAAAAAAAQIDEQQFAAYHEiETFEFRMTJxgf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGREAAgMBAAAAAAAAAAAAAAAAABECEiJh/9oADAMBAAIRAxEAPwDM9LclWu/01Ei5UnWXWB3YpT/RiJA2qPBIj8wd1Byqxa7LbbzTPNK7t1yndaZaKGkKbgApnnkCTPmfGG+mFDeaWw0VdZaqi7lpQU4i4AqbS0sH6+oiYHzOLUPLSUZNuxFe4/0qwXJttcnYhUoUgehyD/MT3bgnFH//2Q==",
+    "url": "https://preview.redd.it/1iymeqw0who71.jpg?width=640&crop=smart&auto=webp&s=b6ecd3c085efc6378d31290363fd671f62636aec",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 52,
+    "value": 52
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A half-timber house in XPS",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/prce6p/a_halftimber_house_in_xps/"
+}

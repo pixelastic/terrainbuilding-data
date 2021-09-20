@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_41s7ajcx",
+    "name": "SHOPlanB"
+  },
+  "date": {
+    "day": 1632009600,
+    "full": 1632016103,
+    "month": 1630454400,
+    "week": 1632009600
+  },
+  "id": "t3_pqz033",
+  "picture": {
+    "filesize": 66890,
+    "fullUrl": "https://preview.redd.it/bskggj2q7do71.jpg?width=5312&format=pjpg&auto=webp&s=d93d15d053c2641033b8dc340dfa541dfaad9e35",
+    "hash": "dd51d73a60",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwMG/8QAJhAAAQIFAwMFAAAAAAAAAAAAAwECAAQFETEGIVESNDZBcXKxwf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAHBEAAgICAwAAAAAAAAAAAAAAAQIAAxIhMnHw/9oADAMBAAIRAxEAPwCtYBO0EJWSVLGsiF3QA6N3JZNlXnN4zWn9TLRjTBQyTQOJdzgjwRyYuvrleIXa74+P4fjoD9W9y32T7WJ7bEVFGOyPdwRyAn//2Q==",
+    "url": "https://preview.redd.it/bskggj2q7do71.jpg?width=640&crop=smart&auto=webp&s=44021eef8648b31fe363ce23476ff1ff0f324e24",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.96,
+    "ups": 65,
+    "value": 65
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Waves! (It's a w.i.p.)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/pqz033/waves_its_a_wip/"
+}
