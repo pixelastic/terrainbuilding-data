@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5152e",
+    "name": "Byronyk"
+  },
+  "date": {
+    "day": 1632096000,
+    "full": 1632116392,
+    "month": 1630454400,
+    "week": 1632009600
+  },
+  "id": "t3_prok2b",
+  "picture": {
+    "filesize": 114284,
+    "fullUrl": "https://external-preview.redd.it/RBqlPDguRNxNmidW4D66SRro7FuhlVdy12clR8J2Y-g.jpg?auto=webp&s=f463cef462b5b94a1d544da945707f663340fcc0",
+    "hash": "159e0b5909",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQF/8QAJxAAAQQBAgUEAwAAAAAAAAAAAQIDBBEFAFEGEjFBYRMUFTJSgbH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGhEAAQUBAAAAAAAAAAAAAAAAAQADERIxIv/aAAwDAQACEQMRAD8AyYAkYYogOPl1HuiC4plLSmGjVANpqx/P2NQz8RjYWbkfFynQZIDbaEkBla7HMR+Pnte2lUhnGcTxmVRFtuuPNhSQaHN43C9t6PXRTKcO5CHjXzw2027JKiC5MPJ6aLH0FV1Nde17aI50IOJTRobDQv/Z",
+    "url": "https://external-preview.redd.it/RBqlPDguRNxNmidW4D66SRro7FuhlVdy12clR8J2Y-g.jpg?width=640&crop=smart&auto=webp&s=ca80682c8461f1e17d7426d9db77a2bf5ceb0385",
+    "width": 640
+  },
+  "score": {
+    "comments": 10,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 240,
+    "value": 240
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Been working on rust effects on the Octarius terrain! It's a blast to learn some new techniques.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/prok2b/been_working_on_rust_effects_on_the_octarius/"
+}
