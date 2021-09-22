@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_a641qfv5",
+    "name": "NestorsBeard"
+  },
+  "date": {
+    "day": 1632182400,
+    "full": 1632238666,
+    "month": 1630454400,
+    "week": 1632009600
+  },
+  "id": "t3_psl9hf",
+  "picture": {
+    "filesize": 75213,
+    "fullUrl": "https://preview.redd.it/x1dshmq1mvo71.jpg?auto=webp&s=6b0687fbd0fe5e8f4054467e469d09d465699c3a",
+    "hash": "49fcc7cad2",
+    "height": 479,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwUH/8QAIRAAAgEEAgIDAAAAAAAAAAAAAQIDBAURMQAhBhMVQlH/xAAVAQEBAAAAAAAAAAAAAAAAAAAABP/EABoRAAICAwAAAAAAAAAAAAAAAAECAAMREiH/2gAMAwEAAhEDEQA/AJNpT46O01kkQmQuDJkBXAU47TveD1vg+XS1HlsNWY1i97LJU5UnCqv1BwM5UAY3+8zuS83QAKtwqlUdAB9Dj0t3uc0ZiluVY8TAgoZTgg7HJxW7MCzcELUVO2Z//9k=",
+    "url": "https://preview.redd.it/x1dshmq1mvo71.jpg?width=640&crop=smart&auto=webp&s=34aa0e5d993e27033b1c646a74bf08e2cf6c5ddf",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 20,
+    "value": 20
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Very new to terrain building. Could someone please suggest why I have this cracks on my water texture?(description in comments)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/psl9hf/very_new_to_terrain_building_could_someone_please/"
+}
