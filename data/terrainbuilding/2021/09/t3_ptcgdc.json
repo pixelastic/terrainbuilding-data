@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_6t2fn",
+    "name": "Blignaut"
+  },
+  "date": {
+    "day": 1632268800,
+    "full": 1632331619,
+    "month": 1630454400,
+    "week": 1632009600
+  },
+  "id": "t3_ptcgdc",
+  "picture": {
+    "filesize": 56462,
+    "fullUrl": "https://external-preview.redd.it/1uXsr3xYq7IpXWDNLUu-O-15nWSlVHwLwd5hdmJDa4g.jpg?auto=webp&s=a45377fc581df3480261845f5681bc6041b6726d",
+    "hash": "0e12ef158d",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAJRAAAQMDAwMFAAAAAAAAAAAAAgEDBAAGEQUSNQchQVF0gbHB/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABkRAAIDAQAAAAAAAAAAAAAAAAERAAISIf/aAAwDAQACEQMRAD8AG0rULbiRCizrjcZYJ5JRQosc3Gm3FTvtLcmVT1qqYv63mCahzLmuhxZKoEZ0hcYEfGckWFTOKwbQeQD5/KY6y87B9mP2tGDY8cUiieZ//9k=",
+    "url": "https://external-preview.redd.it/1uXsr3xYq7IpXWDNLUu-O-15nWSlVHwLwd5hdmJDa4g.jpg?width=640&crop=smart&auto=webp&s=28b262edc1644d0082a7081104c15fadb8889c7f",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 45,
+    "value": 45
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Bridge fight for my D&D group coming up",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ptcgdc/bridge_fight_for_my_dd_group_coming_up/"
+}
