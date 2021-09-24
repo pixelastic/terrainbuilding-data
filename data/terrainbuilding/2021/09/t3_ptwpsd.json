@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_6t2fn",
+    "name": "Blignaut"
+  },
+  "date": {
+    "day": 1632355200,
+    "full": 1632408074,
+    "month": 1630454400,
+    "week": 1632009600
+  },
+  "id": "t3_ptwpsd",
+  "picture": {
+    "filesize": 69948,
+    "fullUrl": "https://external-preview.redd.it/owjjK5PbXy6RJCxWSp0ykYSgwhV86bVYSqLuSIvZcUE.jpg?auto=webp&s=78bd30ac73c7dc5cb047629f0b02bbb53aa0cef7",
+    "hash": "5c58ad5dae",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABQYHCP/EACQQAAIBAgUEAwAAAAAAAAAAAAECAwQFAAYREiExNUFzI7HB/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABgRAAMBAQAAAAAAAAAAAAAAAAECIQAR/9oADAMBAAIRAxEAPwBIs9puEsTOyUjQy/JsmlVGYddSddwOoHBGKfdrZlpMsUkFji33ZHjaSqq5dWPTezckEnjx4xnGbvUnu/cH7V3yk9q/YwSCczHDMBd//9k=",
+    "url": "https://external-preview.redd.it/owjjK5PbXy6RJCxWSp0ykYSgwhV86bVYSqLuSIvZcUE.jpg?width=640&crop=smart&auto=webp&s=20077c1542ad7ee8b005eec70eb4b3ee05d5c545",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 57,
+    "value": 57
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Finished bridge build ready for session tomorrow",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ptwpsd/finished_bridge_build_ready_for_session_tomorrow/"
+}

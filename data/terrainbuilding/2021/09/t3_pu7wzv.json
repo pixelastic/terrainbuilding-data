@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_8v5500f",
+    "name": "Th_Immrsv_Wrld_Crftr"
+  },
+  "date": {
+    "day": 1632355200,
+    "full": 1632441448,
+    "month": 1630454400,
+    "week": 1632009600
+  },
+  "id": "t3_pu7wzv",
+  "picture": {
+    "filesize": 94622,
+    "fullUrl": "https://preview.redd.it/3spzinf0dcp71.jpg?width=3264&format=pjpg&auto=webp&s=9f78e69f064f70f7b62318a059b8cf6d3f145ca6",
+    "hash": "d2b1ab33de",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAwT/xAAhEAACAgICAQUAAAAAAAAAAAABAgMEESEABRITIjFBUf/EABQBAQAAAAAAAAAAAAAAAAAAAAX/xAAeEQABAgcBAAAAAAAAAAAAAAABABICAwQRFCFRYf/aAAwDAQACEQMRAD8ACG8IOygieeGTBV5Az4J9pAIH5rls1+peXrpoa4Zq87yQShsGNyd4X5yCNnHBWlUaSVmrRlmbLNvJ3ymlSq1wnp14iY3DozL5EHf2eHZTjbiTgpRLLhs+r//Z",
+    "url": "https://preview.redd.it/3spzinf0dcp71.jpg?width=640&crop=smart&auto=webp&s=0ee99cf3fc0a9571deceb88e49de96281f67958b",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 14,
+    "value": 14
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Integrated barrier model into board tile",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/pu7wzv/integrated_barrier_model_into_board_tile/"
+}

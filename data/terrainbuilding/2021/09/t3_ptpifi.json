@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_69p0qqok",
+    "name": "TeaDM"
+  },
+  "date": {
+    "day": 1632355200,
+    "full": 1632379789,
+    "month": 1630454400,
+    "week": 1632009600
+  },
+  "id": "t3_ptpifi",
+  "picture": {
+    "filesize": 115716,
+    "fullUrl": "https://preview.redd.it/nr3i42ho97p71.jpg?auto=webp&s=6b0b9bd81daf347e99cde62f9fd7a0ae1f245298",
+    "hash": "5dcd94faee",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFBv/EACMQAAICAAYCAwEAAAAAAAAAAAECAwQABRESITFhkRMiQXH/xAAVAQEBAAAAAAAAAAAAAAAAAAAABf/EABoRAQEAAgMAAAAAAAAAAAAAAAERAAIDIWH/2gAMAwEAAhEDEQA/AEswu5bTrS5VlTOL0aj5WgP0RtQSDr33pxgNaxmEtZ65iRIF2sJnUgnn989+8UcygikuPIY0B3hyAo5PrxjO3rU0kkcjOdzMUOnAIA06/mIzxEl9xBB27Ruf/9k=",
+    "url": "https://preview.redd.it/nr3i42ho97p71.jpg?width=640&crop=smart&auto=webp&s=2b466069c9d22ea35c883a47091d3ebb1847ba9c",
+    "width": 640
+  },
+  "score": {
+    "comments": 12,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 58,
+    "value": 58
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My DND group is in a swamp terrain. I made this, but I’m not happy with it yet. It does not feel complete, what can I do / create to improve this?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ptpifi/my_dnd_group_is_in_a_swamp_terrain_i_made_this/"
+}

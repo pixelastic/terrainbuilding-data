@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5ky1v9rp",
+    "name": "Stoertebricker"
+  },
+  "date": {
+    "day": 1632355200,
+    "full": 1632408122,
+    "month": 1630454400,
+    "week": 1632009600
+  },
+  "id": "t3_ptwqdq",
+  "picture": {
+    "filesize": 79415,
+    "fullUrl": "https://preview.redd.it/so11niexl9p71.jpg?width=3000&format=pjpg&auto=webp&s=15cda424e2ae1e020785b95d5bea7a02c968b54b",
+    "hash": "cb2093c469",
+    "height": 648,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgX/xAAkEAACAQMEAgIDAAAAAAAAAAABAgMEBREABhJBITEHEyJCgf/EABUBAQEAAAAAAAAAAAAAAAAAAAAD/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEB/9oADAMBAAIRAxEAPwB3vKWlt9tlqam6Pb1I4KyMB+XXHwfP80btF2qbnDE9FPFU0oK/bIzhm7yDjHEgAH15LdAar/I1gXc+3TRLM0FRHMs8MoGQCAwIYdghuvR0N2Ltiu21VXJ6ydHikVI4wv7YyeRHXvGkVuP/2Q==",
+    "url": "https://preview.redd.it/so11niexl9p71.jpg?width=640&crop=smart&auto=webp&s=2ba3caead5c6bce91d281590db283c8cd39beb7f",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 28,
+    "value": 28
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I made some quick-and-easy process demonstration pieces for a (virtual) BarCamp presentation about miniature games at my work",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ptwqdq/i_made_some_quickandeasy_process_demonstration/"
+}
