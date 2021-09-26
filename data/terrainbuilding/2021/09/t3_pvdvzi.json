@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_171x9p",
+    "name": "Quadrante-Isegrim"
+  },
+  "date": {
+    "day": 1632528000,
+    "full": 1632598487,
+    "month": 1630454400,
+    "week": 1632009600
+  },
+  "id": "t3_pvdvzi",
+  "picture": {
+    "filesize": 130952,
+    "fullUrl": "https://preview.redd.it/v243ywfzbpp71.jpg?width=2268&format=pjpg&auto=webp&s=4bed4a315635e6c8d1cb5700014b0b141e98ef33",
+    "hash": "5a3f9c44e8",
+    "height": 1138,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAJhAAAgEDAwEJAAAAAAAAAAAAAQIDAAQFERITIQYXMVJUcZGU0f/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGhEAAgIDAAAAAAAAAAAAAAAAAAECEiEiUf/aAAwDAQACEQMRAD8Ak7fsjdPiYYeRLGcTK00byLpqi7Qinr0BLH3PjSHdtmvS3n2T+Vv6YvHpctPHYW/M53F+IFiaQ0fyN8VHWWWhU6f/2Q==",
+    "url": "https://preview.redd.it/v243ywfzbpp71.jpg?width=640&crop=smart&auto=webp&s=ee468bd30a4c19ae60c4a178b8428ce62e53667c",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 81,
+    "value": 81
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Fence (wip)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/pvdvzi/fence_wip/"
+}
