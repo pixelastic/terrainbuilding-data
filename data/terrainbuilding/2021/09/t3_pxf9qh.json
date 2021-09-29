@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_9umoamj",
+    "name": "sciencep1e"
+  },
+  "date": {
+    "day": 1632787200,
+    "full": 1632861523,
+    "month": 1630454400,
+    "week": 1632614400
+  },
+  "id": "t3_pxf9qh",
+  "picture": {
+    "filesize": 85879,
+    "fullUrl": "https://preview.redd.it/7t7tpub42bq71.jpg?auto=webp&s=3be032dfd1aec68af9fce3fc55e50071187e89f6",
+    "hash": "6db7c48793",
+    "height": 814,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQME/8QAJBAAAgECBQQDAAAAAAAAAAAAAQIEAwUAERIhQQYTUXEUFcH/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAEREkH/2gAMAwEAAhEDEQA/AMrQJ8rtChHLmqNSZMuRGZHnyMQtdvuNdHeZDEcbaV1A+989+MJCRcHvsH4dQ/XtBZ1qlU0qwWpkG5G+W35gu2dU0oVgiSOoK/aqyajmkEokgoAg494NxxCOorT/2Q==",
+    "url": "https://preview.redd.it/7t7tpub42bq71.jpg?width=640&crop=smart&auto=webp&s=e46f714d889732337de05e898dcd8e5b2988f0c6",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 0.87,
+    "ups": 14,
+    "value": 14
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Top floor is for guests.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/pxf9qh/top_floor_is_for_guests/"
+}
