@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_41s7ajcx",
+    "name": "SHOPlanB"
+  },
+  "date": {
+    "day": 1633046400,
+    "full": 1633116720,
+    "month": 1633046400,
+    "week": 1632614400
+  },
+  "id": "t3_pzfbxr",
+  "picture": {
+    "filesize": 58338,
+    "fullUrl": "https://external-preview.redd.it/1ifLLYln7bEJwQi_gk7WAcHLlyZUKzDWz5ooUkPjCfg.jpg?auto=webp&s=447af80b13ce75dfa02c330b423d9e51bac772b6",
+    "hash": "1cb77d87b3",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQMH/8QAJBAAAgEDAgYDAAAAAAAAAAAAAQIEAAMGESEkMTI1QXJRcbH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABoRAAICAwAAAAAAAAAAAAAAAAECAAMSIVH/2gAMAwEAAhEDEQA/AF52OQIWMGC0tn4dlC3HUFAfGp+NSB9UVi86BjeOXYliXaMhSzIHuhSztyBI2A2FWzvs9z1FZWvW/uv5S6lErL8kUnIbn//Z",
+    "url": "https://external-preview.redd.it/1ifLLYln7bEJwQi_gk7WAcHLlyZUKzDWz5ooUkPjCfg.jpg?width=640&crop=smart&auto=webp&s=8afeaf20b86cdfe58f13614024d517b5f1ea3965",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 0.84,
+    "ups": 12,
+    "value": 12
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "The physical pain made it worth it. Like dragging a fingertip across broken glass.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/pzfbxr/the_physical_pain_made_it_worth_it_like_dragging/"
+}
