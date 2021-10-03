@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_f9r8l",
+    "name": "thorlek"
+  },
+  "date": {
+    "day": 1633132800,
+    "full": 1633181715,
+    "month": 1633046400,
+    "week": 1632614400
+  },
+  "id": "t3_pzv9o9",
+  "picture": {
+    "filesize": 54192,
+    "fullUrl": "https://preview.redd.it/d8hji0c7i1r71.jpg?width=4000&format=pjpg&auto=webp&s=24b6ab3db50da7951d3e4ca6af2ea9b888429a0b",
+    "hash": "91168f22d4",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwQG/8QAJBAAAQMDBAEFAAAAAAAAAAAAAQIDBQQRIQAGEjFRExZxobH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAGREBAAIDAAAAAAAAAAAAAAAAAQARMUGR/9oADAMBAAIRAxEAPwAmbheNEalL4fC7JSHGbIVY4NycfOPvWh97TxijGy0zVOs0SG1tsN+ipCrEJQBg9eM9aN29yTTrI5ylVbwFC35qF7cEu3UFSZGo5A4PLrQUyHYS9z//2Q==",
+    "url": "https://preview.redd.it/d8hji0c7i1r71.jpg?width=640&crop=smart&auto=webp&s=13b76253177e623e9e9ba1ef7b58f908f854f362",
+    "width": 640
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 78,
+    "value": 78
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Progress shot of my modular Ork fort using an idea from youtube",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/pzv9o9/progress_shot_of_my_modular_ork_fort_using_an/"
+}
