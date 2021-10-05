@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_738kb72q",
+    "name": "SlothSanders"
+  },
+  "date": {
+    "day": 1633305600,
+    "full": 1633350710,
+    "month": 1633046400,
+    "week": 1633219200
+  },
+  "id": "t3_q14i6r",
+  "picture": {
+    "filesize": 142986,
+    "fullUrl": "https://preview.redd.it/hhvchoaqgfr71.jpg?auto=webp&s=525dfee730f3a982abc2f583063aec639e812b93",
+    "hash": "97baef76a6",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUG/8QAJhAAAgIBAwMDBQAAAAAAAAAAAQMCBBEABRMGEiEHMUEUFiJhof/EABQBAQAAAAAAAAAAAAAAAAAAAAX/xAAXEQADAQAAAAAAAAAAAAAAAAAAAgMB/9oADAMBAAIRAxEAPwBX3DarOupvIUxqJZ7ENiTHAOYE5PkY1S6bsXOpNuN/boL4OSS+2diMJRI+CD84I1grXQe+bkyzJ1H6NLnTbwSdjlMiT+IHmXsfGP5pEPTcUFLXa3wU3TjySUy2tJGf1k5Hj30POa4JPVtP/9k=",
+    "url": "https://preview.redd.it/hhvchoaqgfr71.jpg?width=640&crop=smart&auto=webp&s=8b25efe53760be90f41b57e6cd574aa1effe435e",
+    "width": 640
+  },
+  "score": {
+    "comments": 19,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 351,
+    "value": 351
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First time trying something that’s not from a tutorial online, so I’m pretty proud of it.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/q14i6r/first_time_trying_something_thats_not_from_a/"
+}
