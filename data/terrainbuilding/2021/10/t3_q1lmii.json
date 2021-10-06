@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1iqzfepq",
+    "name": "erikbrandvig"
+  },
+  "date": {
+    "day": 1633392000,
+    "full": 1633401666,
+    "month": 1633046400,
+    "week": 1633219200
+  },
+  "id": "t3_q1lmii",
+  "picture": {
+    "filesize": 34260,
+    "fullUrl": "https://preview.redd.it/1rtlu15sljr71.jpg?width=2000&format=pjpg&auto=webp&s=548d5b0423a59d9180eb9295de84a56301dbf17f",
+    "hash": "595ef6f3eb",
+    "height": 212,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAFABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUG/8QAIBAAAQMEAwEBAAAAAAAAAAAAAQIDBAAFBhETIUESgf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/8QAGREAAgMBAAAAAAAAAAAAAAAAABEBAhIx/9oADAMBAAIRAxEAPwDY5VismBb7rPjZBdDIVyOI5HlKSklXWwFDegdfnlVsdxi4Oy4stvKb0yloJJZQ6FJWeid/W+vNUpU7s+jmEf/Z",
+    "url": "https://preview.redd.it/1rtlu15sljr71.jpg?width=640&crop=smart&auto=webp&s=54520750d072441697d244babc7c186fd6e16adb",
+    "width": 640
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 83,
+    "value": 83
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Modular Bridge System! Because sure, you want a bridge... but you don't always the SAME bridge!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/q1lmii/modular_bridge_system_because_sure_you_want_a/"
+}
