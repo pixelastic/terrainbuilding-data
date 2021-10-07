@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_7a7i5",
+    "name": "DrHotchocolate"
+  },
+  "date": {
+    "day": 1633478400,
+    "full": 1633534591,
+    "month": 1633046400,
+    "week": 1633219200
+  },
+  "id": "t3_q2myof",
+  "picture": {
+    "filesize": 112466,
+    "fullUrl": "https://preview.redd.it/gs12u8egnur71.jpg?width=4032&format=pjpg&auto=webp&s=77856dbaea0f64a3ce99df452ff161d8e4ae1ec7",
+    "hash": "ce6354d32e",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAX/xAAkEAABAwMDBAMAAAAAAAAAAAACAQMRBAUSACEiE0FhgSMxUf/EABUBAQEAAAAAAAAAAAAAAAAAAAMF/8QAHREAAQIHAAAAAAAAAAAAAAAAAQAREhQxMpHB8P/aAAwDAQACEQMRAD8AQjwFcbrc6GlqIuHFwgqUMH0meKbfSrPrzo90rrk/QiDKPA4WLBkLZCg5EnNRySI32Xxqli27b0eVoRQpybCUAv2Rnv30D4a5rqvUtOikqDgAqIwkRxRYX3qDNi5uzpPETVf/2Q==",
+    "url": "https://preview.redd.it/gs12u8egnur71.jpg?width=640&crop=smart&auto=webp&s=33b85e6c12b5c7526b0c21289c65d495c9e3f081",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 0.94,
+    "ups": 31,
+    "value": 31
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Tiered Hill Terrain",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/q2myof/tiered_hill_terrain/"
+}

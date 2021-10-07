@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_cka0zau5",
+    "name": "Gaurdsman"
+  },
+  "date": {
+    "day": 1633478400,
+    "full": 1633549556,
+    "month": 1633046400,
+    "week": 1633219200
+  },
+  "id": "t3_q2rxxv",
+  "picture": {
+    "filesize": 38053,
+    "fullUrl": "https://preview.redd.it/tigyvy30wvr71.jpg?auto=webp&s=0dec3c5fcf87cbe89694806dd70c3274be6b8dbc",
+    "hash": "caac501224",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAIxAAAQMDBAIDAAAAAAAAAAAAAQIDBAURIQAGEjEiUWGBkf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGREAAgMBAAAAAAAAAAAAAAAAAREAAgMh/9oADAMBAAIRAxEAPwDH9s7hepUupCLT2GSxHUtWeQdCVDxPLBFiT9aVQ6hs6cwJEzbyWX15UlAUgE+wOvzGp1DbjCa0kSC2845cuvJTwSADe4Azc2HrSYUB2YpTzdVQoEkEltPfxjrQPsvxqTVFET//2Q==",
+    "url": "https://preview.redd.it/tigyvy30wvr71.jpg?width=640&crop=smart&auto=webp&s=904abc48c8b2a53a11751f780f635b4281a0b0a2",
+    "width": 640
+  },
+  "score": {
+    "comments": 33,
+    "downs": 0,
+    "ratio": 0.5,
+    "ups": 0,
+    "value": 0
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Any ideas how I can incorporate two dented rounds of ammo into a terrain or building?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/q2rxxv/any_ideas_how_i_can_incorporate_two_dented_rounds/"
+}

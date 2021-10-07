@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_14e4bg",
+    "name": "SteinsDomain"
+  },
+  "date": {
+    "day": 1633478400,
+    "full": 1633560075,
+    "month": 1633046400,
+    "week": 1633219200
+  },
+  "id": "t3_q2vchg",
+  "picture": {
+    "filesize": 106424,
+    "fullUrl": "https://preview.redd.it/l3dyxnv9rwr71.jpg?auto=webp&s=06eae1d3f835df285620ffbadb27b94a569977a9",
+    "hash": "ca8a8494a4",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQL/xAAlEAABAwMDAwUAAAAAAAAAAAABAgMEBRESAAZBITFhEyJCUVL/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAERAhL/2gAMAwEAAhEDEQA/AH40GGikxorTDTcNAulsIB9x+R6XKvPfQu5KNTdxxXGnVSEFYKVSGFYG6TbBX7I8jg6tqe7T4NNW0EOevGQ6Q4L4m3HOkwta9vTanmUy27NoUOyculx5+tC5KOsvqH//2Q==",
+    "url": "https://preview.redd.it/l3dyxnv9rwr71.jpg?width=640&crop=smart&auto=webp&s=ebe2b056728948b1f966b792f04e69bed414a68a",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 12,
+    "value": 12
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Just Started Building Modular Terrain For My Weekly Game, Advice On Pieces To Build Next?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/q2vchg/just_started_building_modular_terrain_for_my/"
+}
