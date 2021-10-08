@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_2i54gmt",
+    "name": "Nobo305"
+  },
+  "date": {
+    "day": 1633651200,
+    "full": 1633651615,
+    "month": 1633046400,
+    "week": 1633219200
+  },
+  "id": "t3_q3m228",
+  "picture": {
+    "filesize": 48863,
+    "fullUrl": "https://preview.redd.it/dv1ioiegb4s71.jpg?width=4032&format=pjpg&auto=webp&s=3d5f856a98f03d06eb61f7fc4ea9c89037f81b7e",
+    "hash": "e5479ca6c4",
+    "height": 295,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAYH/8QAIRAAAgICAQQDAAAAAAAAAAAAAQIDBAARBQYSISIxUVL/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAGhEAAQUBAAAAAAAAAAAAAAAAAAIDESFCQ//aAAwDAQACEQMRAD8AgePvU7cMVRZrdS15RZV9w2iD2t5BGvsE7zQOPmbpzpaYnkLEkWzM/eiurHX5YE/C4xgNp3NiOL5xR//Z",
+    "url": "https://preview.redd.it/dv1ioiegb4s71.jpg?width=640&crop=smart&auto=webp&s=81867f2f4594a8b9de179a6341023f970a7dbbf3",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "This is a work in progress. Any suggestions or tips to really make this pop would be appreciated.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/q3m228/this_is_a_work_in_progress_any_suggestions_or/"
+}
