@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_89j31",
+    "name": "Meph248"
+  },
+  "date": {
+    "day": 1633651200,
+    "full": 1633711858,
+    "month": 1633046400,
+    "week": 1633219200
+  },
+  "id": "t3_q41pmf",
+  "picture": {
+    "filesize": 25953,
+    "fullUrl": "https://preview.redd.it/vfky0s6ka9s71.jpg?auto=webp&s=22a73f1e81258c23080cce2330b7a83c80699bc7",
+    "hash": "e6a119a20a",
+    "height": 347,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFBv/EACAQAAICAQMFAAAAAAAAAAAAAAEDAAIRBAYxEyEiM5H/xAAVAQEBAAAAAAAAAAAAAAAAAAAABP/EABsRAQACAgMAAAAAAAAAAAAAAAEAAgNhESLh/9oADAMBAAIRAxEAPwCprd4Lqpq6i9WGpAOe4OOYtot4NqlKmjqNAxZls+XyZt3srD04hoFi+pMGS2R7HBr2f//Z",
+    "url": "https://preview.redd.it/vfky0s6ka9s71.jpg?width=640&crop=smart&auto=webp&s=7eca2ef2cba71d202c8c4bd2042e6c319b28f7de",
+    "width": 640
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 9,
+    "value": 9
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Openforge/Openlock - Why shouldn't I use thin inside walls that don't block a tile?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/q41pmf/openforgeopenlock_why_shouldnt_i_use_thin_inside/"
+}
