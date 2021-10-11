@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_f03b7",
+    "name": "LoonySpoony"
+  },
+  "date": {
+    "day": 1633824000,
+    "full": 1633875004,
+    "month": 1633046400,
+    "week": 1633824000
+  },
+  "id": "t3_q58r6s",
+  "picture": {
+    "filesize": 88219,
+    "fullUrl": "https://preview.redd.it/be6yizyprms71.jpg?auto=webp&s=d15daacbc5e0af98800f6f8f80a457d588d42499",
+    "hash": "9477661229",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgMF/8QAIxAAAQMEAQQDAAAAAAAAAAAAAQIDBAUREiEABhMxcQciYf/EABQBAQAAAAAAAAAAAAAAAAAAAAX/xAAbEQEAAgIDAAAAAAAAAAAAAAABAAIEESExYf/aAAwDAQACEQMRAD8AzolZmopAlPypDEdKV4tIQc1Kxvo3Hi59242+OIM3qKkIqLtTSzDKl/WQ2e9kNX2dCwHn3ytDo1PiyGY7MVoNBQsFJytr94+NKhSYC2XY6O0lBKUpFgNX8cArk8aOiIlBH2f/2Q==",
+    "url": "https://preview.redd.it/be6yizyprms71.jpg?width=640&crop=smart&auto=webp&s=93b8c575eca84c61847113f08ad58036423b0b4a",
+    "width": 640
+  },
+  "score": {
+    "comments": 9,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 402,
+    "value": 402
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Across the bridge, past the peasant house you will find Villa de la Croix.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/q58r6s/across_the_bridge_past_the_peasant_house_you_will/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_6eridk4k",
+    "name": "Nat1Video"
+  },
+  "date": {
+    "day": 1633824000,
+    "full": 1633871024,
+    "month": 1633046400,
+    "week": 1633824000
+  },
+  "id": "t3_q57nj0",
+  "picture": {
+    "filesize": 311757,
+    "fullUrl": "https://preview.redd.it/30sr9e7shls71.png?width=2560&format=png&auto=webp&s=d7a453069c34ab820473937f498c68b88d65af58",
+    "hash": "b2d285b907",
+    "height": 361,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAABc0lEQVQYlTVRXUvCYBQ+79e2ykRR0zWtFmVatnQrk8wiiiAQV7rSzcysiKWIGXVRRHUb0WXQT+iiHxnb6HDO3XPO83EAgAIQBBQhCm5xjM+rymw8oWYW52fkaCTEKA9APCS4QwAwINgprS8lU2a1/Pvz/v3x2uu0BJ4Xo2Hf6Jhz0UMiZw8jhNvW4dfn23WneW/bp0at0zCVheXAeCAaCfl9PoJ4jJhL4gw6s/TXx6GWzRU3Cm2jmVtUerbx8mSn55I8xwECBAQDxcAc0dNT0u2glc8rcTFaN/Tr9vld97LfbWRXUp4rgvHERHBEEDwPoKnpSmVblic3NaVv1q3KYSgQxsBxbCTg9wu8kEiIohghxLXqMExLJ42DOXkmFgxfnR2ZRnmvuFtY1UrFNSk2SSlljPOovGwYAFKXMy1dH/Qunh+Ge6WN1rF5YVpqRmHUFe2mAoC8BQ4jDoAmYpJZq95cNav6/vaWmkrKBHuf+Yc6Tf4AHEQ65F3p9JIAAAAASUVORK5CYII=",
+    "url": "https://preview.redd.it/30sr9e7shls71.png?width=640&crop=smart&auto=webp&s=9b8783cf8ba9d23332217d33f150915365e8d703",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 270,
+    "value": 270
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Have been experimenting with stratified rock textures in my terrain recently. Really happy with how this one turned out. Link in comments how to",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/q57nj0/have_been_experimenting_with_stratified_rock/"
+}
