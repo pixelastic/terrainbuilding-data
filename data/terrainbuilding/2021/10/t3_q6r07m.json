@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5cad9",
+    "name": "firemaster"
+  },
+  "date": {
+    "day": 1633996800,
+    "full": 1634058961,
+    "month": 1633046400,
+    "week": 1633824000
+  },
+  "id": "t3_q6r07m",
+  "picture": {
+    "filesize": 67106,
+    "fullUrl": "https://preview.redd.it/e7bpod4oy1t71.jpg?auto=webp&s=b6f683935e947e8d7b5e6b58eefe3ad5b8a37e83",
+    "hash": "8eb61bd50e",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABwL/xAAjEAABAwQBBAMAAAAAAAAAAAABAgMEAAURIUEHEhQxI5HB/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABkRAAIDAQAAAAAAAAAAAAAAAAIDAAESIf/aAAwDAQACEQMRAD8AOU2wpQpMuQ4xMSv4kKwptYGNkjY5/OaqPaZTUzyrRcFuyA6QlxsdoTz7JB3set4pU6x26JDs1sESO2yHH1lYbSE92EjGfs0IznnIrg8dakEneDQ0GTg3EtClHm+z/9k=",
+    "url": "https://preview.redd.it/e7bpod4oy1t71.jpg?width=640&crop=smart&auto=webp&s=56ccb8d40d469b7d12dd2f9d8131689e51575a82",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 0.95,
+    "ups": 65,
+    "value": 65
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Made some little hills following a Bard’s Craft tutorial, I think they turned out pretty well!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/q6r07m/made_some_little_hills_following_a_bards_craft/"
+}
