@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_d9af8yn4",
+    "name": "Mountain_View_1944"
+  },
+  "date": {
+    "day": 1634169600,
+    "full": 1634230792,
+    "month": 1633046400,
+    "week": 1633824000
+  },
+  "id": "t3_q83vtv",
+  "picture": {
+    "filesize": 43862,
+    "fullUrl": "https://preview.redd.it/iowtmkbl5gt71.jpg?width=4608&format=pjpg&auto=webp&s=951c5eb22612131a9bb502b735c826b754853583",
+    "hash": "92a477d909",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgf/xAAnEAABAgQDCQEAAAAAAAAAAAADAQQAAgURBiHBBxIiMTQ2QVJyc//EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAGxEBAQABBQAAAAAAAAAAAAAAAQMAAhMxQYH/2gAMAwEAAhEDEQA/AAdSreIHzgDGc5UCMMyzJdUWeyW8ZpztFq2ayTucNhbnGRy0KJOEy79/ZFvmsE6J1ovjWK5Re06j+OsT523gmnPePpIkusfM/9k=",
+    "url": "https://preview.redd.it/iowtmkbl5gt71.jpg?width=640&crop=smart&auto=webp&s=797ede727b910f1cfc2c764b1ae5e3652ca5b218",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 38,
+    "value": 38
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Totally Stuck on Mayan Temple",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/q83vtv/totally_stuck_on_mayan_temple/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_113gv5",
+    "name": "Pruedrive"
+  },
+  "date": {
+    "day": 1634169600,
+    "full": 1634219121,
+    "month": 1633046400,
+    "week": 1633824000
+  },
+  "id": "t3_q800xv",
+  "picture": {
+    "filesize": 55329,
+    "fullUrl": "https://preview.redd.it/pmj26fey6ft71.jpg?width=4032&format=pjpg&auto=webp&s=7699898370809644f01cf524ff10f1b9bbcf8ec2",
+    "hash": "1f312e707a",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFBv/EACYQAAIBAwIEBwAAAAAAAAAAAAECAwQFEgAREyExMjM2YXOCscH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAHBEAAgICAwAAAAAAAAAAAAAAAQIAAwQREiHR/9oADAMBAAIRAxEAPwCBNJLfLg1LVUj4tjHwmBOChg2b7EAjlyAO3qemtRYjVW9q953zEaHgwrKzRkbdzZblevaOWjWHyz8x9aUk8Ov9v90LEtZ8niDoeRl9SrTs9z//2Q==",
+    "url": "https://preview.redd.it/pmj26fey6ft71.jpg?width=640&crop=smart&auto=webp&s=2a6872902f5aebbc3d3c6a2a5e7f79051744f9a9",
+    "width": 640
+  },
+  "score": {
+    "comments": 30,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 441,
+    "value": 441
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Built a modular dungeon builder for my friends and their kids who play D&D. How did I do? It's my first build for D&D.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/q800xv/built_a_modular_dungeon_builder_for_my_friends/"
+}
