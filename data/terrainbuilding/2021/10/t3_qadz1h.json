@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1l5teymi",
+    "name": "Thepinkrabbit89"
+  },
+  "date": {
+    "day": 1634515200,
+    "full": 1634526176,
+    "month": 1633046400,
+    "week": 1634428800
+  },
+  "id": "t3_qadz1h",
+  "picture": {
+    "filesize": 178083,
+    "fullUrl": "https://preview.redd.it/dad2lq9zj4u71.jpg?auto=webp&s=c3098bf2e42e21c176a36f767780a2a7992b2422",
+    "hash": "bfef1a5ecf",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwUG/8QAIxAAAgIBAwQDAQAAAAAAAAAAAQIDBBEABSEGEjFBEyJhof/EABUBAQEAAAAAAAAAAAAAAAAAAAQG/8QAGREAAgMBAAAAAAAAAAAAAAAAAREAAgME/9oADAMBAAIRAxEAPwCvNvHUk8IxahdndpzKhBROe0IvvAAPGPOg6Gs7INiEe73twgtxyMGxdkAccEMADwOf5o3ufLA8k0Uf2Hke/wAxrBUb1TaTZqvVZwJ3ZD25wp9Zzqf4tdLiyDMTfRFz/9k=",
+    "url": "https://preview.redd.it/dad2lq9zj4u71.jpg?width=640&crop=smart&auto=webp&s=92236615be319dcd29cfad5b0fa42bb3654d9fb9",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 56,
+    "value": 56
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Grassland Tiles with River",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/qadz1h/grassland_tiles_with_river/"
+}
