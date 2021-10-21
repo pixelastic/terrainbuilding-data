@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_12wv0fk",
+    "name": "Heygul"
+  },
+  "date": {
+    "day": 1634688000,
+    "full": 1634716983,
+    "month": 1633046400,
+    "week": 1634428800
+  },
+  "id": "t3_qbvt17",
+  "picture": {
+    "filesize": 47954,
+    "fullUrl": "https://preview.redd.it/rgpvmkwcbku71.jpg?auto=webp&s=11194065973be5052985400b5d4f62696e063ce6",
+    "hash": "660f0bba59",
+    "height": 470,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAJRAAAgEDAwQCAwAAAAAAAAAAAQIFAwQhBhESAAcTYSJxobHh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAYEQEAAwEAAAAAAAAAAAAAAAABABEhAv/aAAwDAQACEQMRAD8AO9pYrT8tG07m6hrW6vlFNzVuC9VXPMqwKb7DJUYGMn6R91dORUboqTkJa0tKV09PjY0hRSjsxPEcFXOwGf31kHbvVEhpijLvG+Is1BSvlUtwbyL8lyM/j11I1TOSU1IPcSt5Wuq7Nl6rEn+D0MdBzestawn/2Q==",
+    "url": "https://preview.redd.it/rgpvmkwcbku71.jpg?width=640&crop=smart&auto=webp&s=05cb6a79c1022fd3085f0ab302e3615446fe4edb",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 69,
+    "value": 69
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Ground floor and first floor basically done. I'm wondering what to do about the roof.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/qbvt17/ground_floor_and_first_floor_basically_done_im/"
+}
