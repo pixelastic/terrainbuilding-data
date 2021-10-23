@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5feeu1um",
+    "name": "fishtacopainting"
+  },
+  "date": {
+    "day": 1634860800,
+    "full": 1634930165,
+    "month": 1633046400,
+    "week": 1634428800
+  },
+  "id": "t3_qdo30v",
+  "picture": {
+    "filesize": 80164,
+    "fullUrl": "https://preview.redd.it/33tbksk8x1v71.jpg?width=2736&format=pjpg&auto=webp&s=d5703741864e00364cb8ce264c94fd9cf061c6f5",
+    "hash": "fb2a495b0d",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgf/xAAmEAACAQMCBQUBAAAAAAAAAAABAgMEBREABgcSISJRExQVMUHx/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABgRAQADAQAAAAAAAAAAAAAAAAIAATFB/9oADAMBAAIRAxEAPwChcS96QUdv9lt26QfMeuoIhKymMKe4MP740jsV0iulqpquKaOYOg5njII5sdw6fuc9NRHdHD7dAuU9RRLStRtOZVjjcqyLzE4Bx4OPv8084YTi2bVWlvc0dNWrUSsyM4JIZiQTjznRpGuxKC2f/9k=",
+    "url": "https://preview.redd.it/33tbksk8x1v71.jpg?width=640&crop=smart&auto=webp&s=c2c36a0f0e68452d3fa5364ec6477567c27aeae8",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 98,
+    "value": 98
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Nurgle inspired building.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/qdo30v/nurgle_inspired_building/"
+}

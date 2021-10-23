@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_ez86stru",
+    "name": "CustomMiniatureMaker"
+  },
+  "date": {
+    "day": 1634860800,
+    "full": 1634906491,
+    "month": 1633046400,
+    "week": 1634428800
+  },
+  "id": "t3_qdg30c",
+  "picture": {
+    "filesize": 62408,
+    "fullUrl": "https://preview.redd.it/71tsjj2tyzu71.jpg?auto=webp&s=1ab6edb854eab85519072e396c410acdc7d68c41",
+    "hash": "806960bcfd",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQH/8QAIxAAAQQBBAEFAAAAAAAAAAAAAQIDBBEhAAUGEjETFCJBYv/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAFxEBAQEBAAAAAAAAAAAAAAAAAREAAv/aAAwDAQACEQMRAD8A2WGxtEGOGQ0ta0u+h0SypSirr2JArIrN+K1JM4ztu4OiSwG1tLGFIyDk6J5U3P3ZUabxqaG1LTUgKklNeB8ReLSKJGdLsb5B2dhqF7lbwbSKLq+5T+QcWB4F/WqnkluAWzf/2Q==",
+    "url": "https://preview.redd.it/71tsjj2tyzu71.jpg?width=640&crop=smart&auto=webp&s=b75138d070e12782eb2373ee76f76056b2b55b6e",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 0.94,
+    "ups": 42,
+    "value": 42
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Abbadon's Fingers - Free Files, will also make and release more free terrain every week",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/qdg30c/abbadons_fingers_free_files_will_also_make_and/"
+}
