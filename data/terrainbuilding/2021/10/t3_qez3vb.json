@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_6pm13",
+    "name": "bill_gonorrhea"
+  },
+  "date": {
+    "day": 1635033600,
+    "full": 1635103334,
+    "month": 1633046400,
+    "week": 1635033600
+  },
+  "id": "t3_qez3vb",
+  "picture": {
+    "filesize": 100569,
+    "fullUrl": "https://external-preview.redd.it/f2vk4IZFys0waCjOabuYI3XW0pntCQS1QjuOB1Lb4fE.jpg?auto=webp&s=6d7cbf3538f296dd93fa980744a0a716b634bb8f",
+    "hash": "41dee05751",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUG/8QAIRAAAQQBBAMBAAAAAAAAAAAAAQIDBBEFAAYSIUFRYRX/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABcRAQEBAQAAAAAAAAAAAAAAAAECEQD/2gAMAwEAAhEDEQA/AB4rY2fjodONaisIDiQ2QKNmjyAVfY9WdAO3nIbjkbLJZdltLKVFbPYHq/Pu/utZD3P+AtWNyUGZMlocLjsxU8NhZV2KT4AHFNfNQNzZqdMyq5GGMSFHWlJU3ICH1FdUVc77vrQDUuV1Bi73/9k=",
+    "url": "https://external-preview.redd.it/f2vk4IZFys0waCjOabuYI3XW0pntCQS1QjuOB1Lb4fE.jpg?width=640&crop=smart&auto=webp&s=82a45dfa0f5fdd8bab49b0e735f258b63732bf73",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 13,
+    "value": 13
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I build my own hot wire for about $20",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/qez3vb/i_build_my_own_hot_wire_for_about_20/"
+}

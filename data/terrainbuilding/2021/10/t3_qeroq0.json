@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_6eridk4k",
+    "name": "Nat1Video"
+  },
+  "date": {
+    "day": 1635033600,
+    "full": 1635080400,
+    "month": 1633046400,
+    "week": 1635033600
+  },
+  "id": "t3_qeroq0",
+  "picture": {
+    "filesize": 366639,
+    "fullUrl": "https://preview.redd.it/64abv2fdxdv71.png?width=2560&format=png&auto=webp&s=af8840418a6e185a8f459ddc9533854c1d692422",
+    "hash": "1c9aa6cf92",
+    "height": 359,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAABxElEQVQYlQG5AUb+ACUtKBMbGDxDQI2Wl6m4wGd1dh0nJSk0MiUxMTE8PT9KSlRiY1FeXUNPTEJNS0NRTwAgKScWHxxDS0fR2+Xp+f9baWokMC4sODYlMDA4QkNwd3mousR9kJZHVFFJV1RPXlsAERgUExkVBQsHm6Wq4/P/P0tMDxYSGiAdHCUkJzI0foiOo7W+SVZWQ1BNRFNQRVNQABAWERMYFRUeG5GXne79/4CIigICAA8RDiQxMTk+PnZ9hJyyvj9NTUpVUURPS0RRUAAOFRIMEA4ZJCORlprq+//GxscXEw8EBwYWHyBCREV2fYK2vsNvdHAzPzxBTUo9SkgAERcTAwkIKCUev7Cq3Oz+3NXXUkY+AAAABQUDRUFAcG9w0LOk5tjMbW9pM0I/P0xKAA4VEgcNC5aCcMu4tNbm9trY35+HeyAhHyQcGINvaXeDh410aOnUw+DVy1tiXzA+PAAMEg6HfnDWva6giYjV4Ozb6PGbg3p0X1MmHhlyZmOetL1eWll6VUTl0L3LwbY3Q0EAODYu1MGx18K6yK6j1ci/3si9v6qeKiciAwYFNTU0lpyfc2VhXzQjupV97N3OX2Zh0C2qq2jLxAkAAAAASUVORK5CYII=",
+    "url": "https://preview.redd.it/64abv2fdxdv71.png?width=640&crop=smart&auto=webp&s=4ef4549667a1b86d8a93c5a62dd65757e5cd8b79",
+    "width": 640
+  },
+  "score": {
+    "comments": 25,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 561,
+    "value": 561
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "It is now possible to scan your own hand crafted terrain pieces and turn them in to printable STL files! My mind is blown, the possibilities for this are endless. I hand carved this Dwarven pillar on the left, scanned it and printed it out. I made a video for those interested, link in comments",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/qeroq0/it_is_now_possible_to_scan_your_own_hand_crafted/"
+}

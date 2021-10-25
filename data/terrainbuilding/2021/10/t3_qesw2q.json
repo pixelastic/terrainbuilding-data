@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_dn93x7",
+    "name": "LeifWesterholm"
+  },
+  "date": {
+    "day": 1635033600,
+    "full": 1635084518,
+    "month": 1633046400,
+    "week": 1635033600
+  },
+  "id": "t3_qesw2q",
+  "picture": {
+    "filesize": 52962,
+    "fullUrl": "https://preview.redd.it/85f8vnc3nev71.jpg?auto=webp&s=1714dcd0d2b3dc427ca10d75167e3c02b5253881",
+    "hash": "af5bb5a408",
+    "height": 323,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAIABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUG/8QAJBAAAQMCBQUBAAAAAAAAAAAAAQIDBAARBQYhIjESExRBUWH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABwRAAEEAwEAAAAAAAAAAAAAAAEAAhEhBRIxQf/aAAwDAQACEQMRAD8AxuZIWGZmgtvzYKIUtkpZYRBe2ojiwA3m2hKzbT18qCzgEXCwrw3EuuuRixI7gSpBB6SVJvwSdPwcc0pV9pdxDHNDQJu/V//Z",
+    "url": "https://preview.redd.it/85f8vnc3nev71.jpg?width=640&crop=smart&auto=webp&s=0f4e0a5eb77cb3054b2aa1a71df2306e6c8a619a",
+    "width": 640
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 94,
+    "value": 94
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Underdark and Wargaming Crystal Terrain Video Tutorial",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/qesw2q/underdark_and_wargaming_crystal_terrain_video/"
+}
