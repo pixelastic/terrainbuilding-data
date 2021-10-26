@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_7ycaj",
+    "name": "ChrisSwires"
+  },
+  "date": {
+    "day": 1635120000,
+    "full": 1635149903,
+    "month": 1633046400,
+    "week": 1635033600
+  },
+  "id": "t3_qfc11n",
+  "picture": {
+    "filesize": 63257,
+    "fullUrl": "https://preview.redd.it/hpu99len2kv71.jpg?auto=webp&s=20940973ffdc01fdb472cc02ee539a55cf828c4c",
+    "hash": "18bb4a90ff",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQMG/8QAJBAAAQMEAgEFAQAAAAAAAAAAAQIDBAUGESEAEjETFCIyQoH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABkRAAIDAQAAAAAAAAAAAAAAAAERAAIhMf/aAAwDAQACEQMRAD8ATmXc/EqkmBIX6T8dPdYWvBA1kEec7HEI1QqkyO3IjNSnWnBlK20KUk/3HN5ULFt2oy1y36c0JS/s6EhROsfrPK2zbbFuU5UCEse2Diltp+Q6g41jtrefGt8kGz0ZFBdn/9k=",
+    "url": "https://preview.redd.it/hpu99len2kv71.jpg?width=640&crop=smart&auto=webp&s=866f40202c7c3989efa173664e450814d85b3b0b",
+    "width": 640
+  },
+  "score": {
+    "comments": 14,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 547,
+    "value": 547
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WiP Sump Tiny House",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/qfc11n/wip_sump_tiny_house/"
+}
