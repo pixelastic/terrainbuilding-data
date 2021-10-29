@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_6pkuxffh",
+    "name": "hereticpaint"
+  },
+  "date": {
+    "day": 1635379200,
+    "full": 1635447065,
+    "month": 1633046400,
+    "week": 1635033600
+  },
+  "id": "t3_qhtsxv",
+  "picture": {
+    "filesize": 73132,
+    "fullUrl": "https://preview.redd.it/eg806ym9m8w71.jpg?auto=webp&s=6fffb171075e81ad1e15dd95ff828978a66b29af",
+    "hash": "bde13bdcc0",
+    "height": 514,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAANABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQEG/8QAIxAAAQQCAgEFAQAAAAAAAAAAAQIDBBEFIQASMQYTMkFh8P/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGREAAgMBAAAAAAAAAAAAAAAAAAERITEC/9oADAMBAAIRAxEAPwCRMkv05moM3NdUQ2+xRFT81qcFKUboBXUg/l8z+bRCkx15Ca5JKnQ44yHXLJAOgaGr/r4anJSJUhlyaGpCuxCCtG0XXjfnQ3+cHzGdGQMqMuKEOto9pLyV7oqBOq++B8SqwpLTvT//2Q==",
+    "url": "https://preview.redd.it/eg806ym9m8w71.jpg?width=640&crop=smart&auto=webp&s=132b09f9b2a5bd5fd0e30bd2827e6bc50aa7d17b",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 0.94,
+    "ups": 15,
+    "value": 15
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Base for a dwarf flame canon... #parched",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/qhtsxv/base_for_a_dwarf_flame_canon_parched/"
+}
