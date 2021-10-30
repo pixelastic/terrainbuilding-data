@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_69s6qpkc",
+    "name": "A_Pev"
+  },
+  "date": {
+    "day": 1635465600,
+    "full": 1635478105,
+    "month": 1633046400,
+    "week": 1635033600
+  },
+  "id": "t3_qi3nuw",
+  "picture": {
+    "filesize": 36985,
+    "fullUrl": "https://preview.redd.it/ni8t3e7k6bw71.jpg?width=4656&format=pjpg&auto=webp&s=0c0fff921bd7d3476bd5391c98a0ed6d9c2cbec6",
+    "hash": "78b2516674",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQGB//EACQQAAEDAwQBBQAAAAAAAAAAAAECAxEABAUGEiFBMQcTQlGh/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABgRAQADAQAAAAAAAAAAAAAAAAEAAhEh/9oADAMBAAIRAxEAPwA7+q7QFLdsC4pzhEgjcYBgDz3S+cxOo9Q45Vg7bIbRv91LoHHHxJmO/wAqX9In13+UdTdw6UE7VqEqTHiD1WzofeYBDbqwI+6DG3VjaV4E/9k=",
+    "url": "https://preview.redd.it/ni8t3e7k6bw71.jpg?width=640&crop=smart&auto=webp&s=25ab22f1d580ffb37518f4eba15335cef6eb36a5",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 35,
+    "value": 35
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Just glued up a prototype for some modular space station walls. Now that I know the parts fit together, it's time to design some details to fill all that empty space. Laser cut from 1/8\" HDF.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/qi3nuw/just_glued_up_a_prototype_for_some_modular_space/"
+}
