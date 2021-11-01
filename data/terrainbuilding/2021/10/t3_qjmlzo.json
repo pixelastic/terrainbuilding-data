@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5zlwet37",
+    "name": "GravenGuild"
+  },
+  "date": {
+    "day": 1635638400,
+    "full": 1635675268,
+    "month": 1633046400,
+    "week": 1635638400
+  },
+  "id": "t3_qjmlzo",
+  "picture": {
+    "filesize": 89872,
+    "fullUrl": "https://preview.redd.it/7emrs0t1grw71.jpg?width=2014&format=pjpg&auto=webp&s=989735502f8462bf29ac2825e088f0815b61aba2",
+    "hash": "49eab3d1f1",
+    "height": 824,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwUG/8QAIxAAAgEDBAEFAAAAAAAAAAAAAQIRAAMEBRIhQYEGEyIxM//EABQBAQAAAAAAAAAAAAAAAAAAAAX/xAAZEQACAwEAAAAAAAAAAAAAAAABAgAREiH/2gAMAwEAAhEDEQA/AL2RqJtatpnt3yjG703QRj5+q0x1V2/REcjiSYogAzT6vx8pQBj2UOyRPynjzyaSmKud0xPUUcwTAN9iKltET//Z",
+    "url": "https://preview.redd.it/7emrs0t1grw71.jpg?width=640&crop=smart&auto=webp&s=ab9dc7a4ccea4e0f7fbf7bf1f15b5b8b6844a979",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 317,
+    "value": 317
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Graven Tower Free .stl",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/qjmlzo/graven_tower_free_stl/"
+}
