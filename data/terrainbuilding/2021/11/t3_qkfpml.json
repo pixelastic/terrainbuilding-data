@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_9zd9f",
+    "name": "modus666"
+  },
+  "date": {
+    "day": 1635724800,
+    "full": 1635778463,
+    "month": 1635724800,
+    "week": 1635638400
+  },
+  "id": "t3_qkfpml",
+  "picture": {
+    "filesize": 138839,
+    "fullUrl": "https://preview.redd.it/5ua7waugzzw71.jpg?width=3876&format=pjpg&auto=webp&s=7804e417a9439ee82ecc2e59fd12906f4912126a",
+    "hash": "d7e5620d96",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABwX/xAAkEAACAgEEAAcBAAAAAAAAAAABAgMRBAAFBhITITEyQWGx0f/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGxEAAQQDAAAAAAAAAAAAAAAAAgABAxExUYH/2gAMAwEAAhEDEQA/AJHJtjyMTFnZkYdgLJRrI7X/AAaK83FPi2quQb9sZr1OmzkfLJ5YCDNG7NHQ7CuoseX5ob3HcZ0yWEMropskKfmz9aIBFsK6adyC3qu7X//Z",
+    "url": "https://preview.redd.it/5ua7waugzzw71.jpg?width=640&crop=smart&auto=webp&s=420a3476f7bbd4cf69b4051741264bd662ce4d94",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 42,
+    "value": 42
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Getting closer to finishing my dungeons and lasers a. I. Center tiles",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/qkfpml/getting_closer_to_finishing_my_dungeons_and/"
+}
