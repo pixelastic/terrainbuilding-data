@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_9otxv",
+    "name": "ElDoge"
+  },
+  "date": {
+    "day": 1636070400,
+    "full": 1636083349,
+    "month": 1635724800,
+    "week": 1635638400
+  },
+  "id": "t3_qn2e66",
+  "picture": {
+    "filesize": 117642,
+    "fullUrl": "https://preview.redd.it/h8wn1ro86px71.jpg?width=3024&format=pjpg&auto=webp&s=162ed5ed7a3b90c31c70b524bbe21b41e999ba54",
+    "hash": "a0e446af45",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQME/8QAIxAAAQQCAQMFAAAAAAAAAAAAAQIDBBEAIQUGEnEiMUFhof/EABQBAQAAAAAAAAAAAAAAAAAAAAX/xAAXEQEBAQEAAAAAAAAAAAAAAAACAQAD/9oADAMBAAIRAxEAPwCPPci/JdfMN4FpYar1UAoJpXgazBA5IwYqGZCkqftSl/NEk1+VhSOoZTcKY03CYMFi+1HeG0pKvcgAXZ1ZurOAOzZs5ZfdcWFHVA3Q+ydnycKTSMmUPIxW7//Z",
+    "url": "https://preview.redd.it/h8wn1ro86px71.jpg?width=640&crop=smart&auto=webp&s=e2ec19ff6c5cd4378a0706e188d4e6e5cc47e4b8",
+    "width": 640
+  },
+  "score": {
+    "comments": 20,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 485,
+    "value": 485
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Built some roads to tie together my urban boards.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/qn2e66/built_some_roads_to_tie_together_my_urban_boards/"
+}
