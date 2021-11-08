@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_h0141",
+    "name": "Zulathan"
+  },
+  "date": {
+    "day": 1636243200,
+    "full": 1636305473,
+    "month": 1635724800,
+    "week": 1636243200
+  },
+  "id": "t3_qot2c7",
+  "picture": {
+    "filesize": 81477,
+    "fullUrl": "https://preview.redd.it/b3jycr5ri7y71.jpg?auto=webp&s=573f10b227e1b6e03d285770f86f33b10cf7c345",
+    "hash": "d36f424f09",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMFBv/EACQQAAEDBAIBBQEAAAAAAAAAAAECAwQFBhEhABMSIjFBgZHB/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABkRAAEFAAAAAAAAAAAAAAAAAAIAARESMf/aAAwDAQACEQMRAD8ARadWqlTp6zGlKjx+wp9IwSRrW9f355GvGdNjVZDcuY+8vpQpK1EE4OTs/vMtTLum20hTT0OOzGKioKQ6MKJ+s54FUu+DUZXfUac+XvEJBQ9rxHtjhjOQq2pgNB2LF//Z",
+    "url": "https://preview.redd.it/b3jycr5ri7y71.jpg?width=640&crop=smart&auto=webp&s=1b1f5886d0ed32f1dc64fa660460124e4d304eeb",
+    "width": 640
+  },
+  "score": {
+    "comments": 30,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 391,
+    "value": 391
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Hoping to finish this one soon...",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/qot2c7/hoping_to_finish_this_one_soon/"
+}
