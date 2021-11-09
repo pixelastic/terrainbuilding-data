@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_8ds31",
+    "name": "HeyBEK"
+  },
+  "date": {
+    "day": 1636329600,
+    "full": 1636372581,
+    "month": 1635724800,
+    "week": 1636243200
+  },
+  "id": "t3_qpc2bj",
+  "picture": {
+    "filesize": 124076,
+    "fullUrl": "https://preview.redd.it/b56aw1ia2dy71.jpg?auto=webp&s=3aab0ee2927525c600e16e60522ab029dc7418c0",
+    "hash": "1d20ffb9ec",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQL/xAAjEAACAgECBwEBAAAAAAAAAAABAgMEEQASBQYTITFhkUFR/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABkRAAIDAQAAAAAAAAAAAAAAAAARAQMhAv/aAAwDAQACEQMRAD8Aq7xeCSzbtV5uqJJpDWi6hL4LHG7Hk+/AH3TPL1o1OEzmLcbkatKqzKytI+Ccfw58YH5oXi5ApuURIzFI0iFFAIIYn5pjl2/J057GxDK6bSe+O3rOM6FfGJisnXB//9k=",
+    "url": "https://preview.redd.it/b56aw1ia2dy71.jpg?width=640&crop=smart&auto=webp&s=9fcfc24bddef1000a8e45f352fd23ccc48676bd9",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 0.96,
+    "ups": 39,
+    "value": 39
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Making a test piece of road for a cyberpunk build. Tried to make grid lines for use in DnD. C&C welcome.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/qpc2bj/making_a_test_piece_of_road_for_a_cyberpunk_build/"
+}
