@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1kdbdj9j",
+    "name": "kappelikapeli"
+  },
+  "date": {
+    "day": 1636416000,
+    "full": 1636457446,
+    "month": 1635724800,
+    "week": 1636243200
+  },
+  "id": "t3_qq1pvm",
+  "picture": {
+    "filesize": 51401,
+    "fullUrl": "https://preview.redd.it/bg4hsfze2ky71.jpg?width=4000&format=pjpg&auto=webp&s=5575c5fc19a8abdc7e05611144db0720dea78378",
+    "hash": "2feee65324",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQF/8QAJBAAAgEDAwMFAAAAAAAAAAAAAQMCBAURAAYSISJBBxMVgZH/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAGREAAgMBAAAAAAAAAAAAAAAAABIBAhEi/9oADAMBAAIRAxEAPwDd2LZdpQQv3k1PzQMmNWhciRAyPGJ8EYx+DQf1b2tt+0lTrVTxE2My9LImUlxOe7kTnqSAQfrROn3XfFbsoKUXFslOgTLkByB69QcZ8alRu68XCobCrepkHOkmUZIgewgjGSM6C5Zh7ysH/9k=",
+    "url": "https://preview.redd.it/bg4hsfze2ky71.jpg?width=640&crop=smart&auto=webp&s=59d7a9df086b2fcb586c470c33aaf88ac596b9ca",
+    "width": 640
+  },
+  "score": {
+    "comments": 13,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 115,
+    "value": 115
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Hi! I'm building my first terrain for DnD in art class. Does it look like im doing it right?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/qq1pvm/hi_im_building_my_first_terrain_for_dnd_in_art/"
+}
