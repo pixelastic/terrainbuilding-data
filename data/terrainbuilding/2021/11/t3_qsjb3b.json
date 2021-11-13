@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_2boc1zjv",
+    "name": "sebastiankussowski"
+  },
+  "date": {
+    "day": 1636675200,
+    "full": 1636746772,
+    "month": 1635724800,
+    "week": 1636243200
+  },
+  "id": "t3_qsjb3b",
+  "picture": {
+    "filesize": 37793,
+    "fullUrl": "https://external-preview.redd.it/78ENHJK6BYgIugNNcyCmY5_GVtwLZOpKFaPtCqNiXUk.png?format=pjpg&auto=webp&s=e5eb3755c559ae160b3a0a9602624723393d3a59",
+    "hash": "b3dfc1ba4e",
+    "height": 360,
+    "lqip": "data:image/png;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQMI/8QAIxAAAQMDAgcAAAAAAAAAAAAAAQIDEQAEBSGxEzEzNVFyc//EABUBAQEAAAAAAAAAAAAAAAAAAAIE/8QAGhEBAAIDAQAAAAAAAAAAAAAAAQAxAgMREv/aAAwDAQACEQMRAD8Az5ZNv5G6LbUpaLqlAL0AnUc/NRzVlcsWyluRwUEAAEGJgxpSTndmfi1vQuR6Dvsnaq9+T6Vti61P/9k=",
+    "url": "https://external-preview.redd.it/78ENHJK6BYgIugNNcyCmY5_GVtwLZOpKFaPtCqNiXUk.png?width=640&crop=smart&format=pjpg&auto=webp&s=e6cc2c33d4a8679466604bc50e8507be7f1d865d",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 0.9,
+    "ups": 28,
+    "value": 28
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Adding a fog effect to forest terrain",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/qsjb3b/adding_a_fog_effect_to_forest_terrain_link_in/"
+}
