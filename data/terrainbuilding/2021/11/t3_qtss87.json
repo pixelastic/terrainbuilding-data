@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_6eridk4k",
+    "name": "Nat1Video"
+  },
+  "date": {
+    "day": 1636848000,
+    "full": 1636905615,
+    "month": 1635724800,
+    "week": 1636848000
+  },
+  "id": "t3_qtss87",
+  "picture": {
+    "filesize": 49855,
+    "fullUrl": "https://external-preview.redd.it/8p6tOQblCcaD3R-SlaOSSo7K4TX0I8C5x-jpLQ5U-V4.jpg?auto=webp&s=3a18b121c5d384235f1fb7b277594fff448862db",
+    "hash": "4a644ed2f4",
+    "height": 359,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAIxAAAQMDAwUBAAAAAAAAAAAAAQIDBAAFEQYSIRMxMjVxgf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAEhQf/aAAwDAQACEQMRAD8APvsJ26PqQqXtC3CGkMKwlKSOAScDA7YHNWWi6iDFv2n5ayYkiOhluM25jpEEbggEY5ySTRVx9C58RWb054SPyp6NRH//2Q==",
+    "url": "https://external-preview.redd.it/8p6tOQblCcaD3R-SlaOSSo7K4TX0I8C5x-jpLQ5U-V4.jpg?width=640&crop=smart&auto=webp&s=407dae3fa9916746444d548b6d2d46401cc8000a",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 54,
+    "value": 54
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Dice Tower / playable terrain with lights and a spiral stair case. Did a tutorial for this one for those interested, link in comments :)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/qtss87/dice_tower_playable_terrain_with_lights_and_a/"
+}

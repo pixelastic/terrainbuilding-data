@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_ivzyl",
+    "name": "dstroyer123"
+  },
+  "date": {
+    "day": 1636848000,
+    "full": 1636854989,
+    "month": 1635724800,
+    "week": 1636848000
+  },
+  "id": "t3_qtffld",
+  "picture": {
+    "filesize": 72632,
+    "fullUrl": "https://preview.redd.it/224prq5owgz71.jpg?auto=webp&s=421cec4aeaf6eb699a30bdfd86e957fdda746ab5",
+    "hash": "3a10e8066b",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgf/xAAnEAACAQMCBAcBAAAAAAAAAAABAgMEBREABhIiQXEHExQhMlFhkf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAYEQADAQEAAAAAAAAAAAAAAAAAAQJREv/aAAwDAQACEQMRAD8AP2mjuO2b/NLEI1eKUpVRxQqhlz8FwAABgg8vXOqht/eky2Wst17Srjrm9kaZcB1Yg4/MAHQbdcfovESqt1MzpCI1HFnLnC/Z7aa7J2hbb9Tm53VqueUcvltOeA9+p/ujuU5a0SJ5pPD/2Q==",
+    "url": "https://preview.redd.it/224prq5owgz71.jpg?width=640&crop=smart&auto=webp&s=0dafdf06ad45aa8ea991d73a6466f7806cc7269c",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 0.96,
+    "ups": 40,
+    "value": 40
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Miniature Log Cabin",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/qtffld/miniature_log_cabin/"
+}

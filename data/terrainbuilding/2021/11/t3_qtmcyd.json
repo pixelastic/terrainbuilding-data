@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_3dhi1",
+    "name": "kagius"
+  },
+  "date": {
+    "day": 1636848000,
+    "full": 1636882335,
+    "month": 1635724800,
+    "week": 1636848000
+  },
+  "id": "t3_qtmcyd",
+  "picture": {
+    "filesize": 60571,
+    "fullUrl": "https://preview.redd.it/qdxjq6yw5jz71.jpg?width=1440&format=pjpg&auto=webp&s=dc0ecef5f4a21b62d88b8d09f36dd8441e194881",
+    "hash": "ebae7a6ad5",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQf/xAAoEAABAwIEBQUBAAAAAAAAAAABAgMEBREABxNBBhIiMXEUUWFigaH/xAAVAQEBAAAAAAAAAAAAAAAAAAACBf/EABoRAAICAwAAAAAAAAAAAAAAAAECAAMRIZH/2gAMAwEAAhEDEQA/ABsr+C4dRpz06ttFTDqeVlNykpG67j+fuH52VbkZYkQXUzICuoGw50j52PkYn+XvHkyhKbadPqYIsNJSupI+p28dsVesZiUpukxzRn1asonVbAtpgd7p2UT7dxfCBcNJzLQ1Zzojs//Z",
+    "url": "https://preview.redd.it/qdxjq6yw5jz71.jpg?width=640&crop=smart&auto=webp&s=2be39128fb6ffda47de2391642e2d38cc56516a4",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.95,
+    "ups": 15,
+    "value": 15
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Needed to cut some round shapes with my hot wire cutter, so I made a quick and dirty jig from a piece of card and a tack.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/qtmcyd/needed_to_cut_some_round_shapes_with_my_hot_wire/"
+}
