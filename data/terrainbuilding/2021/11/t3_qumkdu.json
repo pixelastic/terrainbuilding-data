@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1bta8mfx",
+    "name": "Stopgoabomb"
+  },
+  "date": {
+    "day": 1636934400,
+    "full": 1636999877,
+    "month": 1635724800,
+    "week": 1636848000
+  },
+  "id": "t3_qumkdu",
+  "picture": {
+    "filesize": 141058,
+    "fullUrl": "https://preview.redd.it/2f6k3q9kvsz71.jpg?auto=webp&s=885ede2a483fa581ddb6a7dbd0ca340fdd240391",
+    "hash": "2a6eaee3ba",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQH/8QAJRAAAgEDAwIHAAAAAAAAAAAAAQMCBBEhAAUGEzESFSIjUYHB/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EAB0RAAAGAwEAAAAAAAAAAAAAAAABAgMEERNRoSH/2gAMAwEAAhEDEQA/ADtC1TK2bGVAU2nuoQZC/iIJGPjt9a0SPPCIxWrZWPiqMV9QOAEiAMjGj9ZxTY0CFV5yuDHTvP3BMxaR6o2GQBa37qpW0pZDrbPzHZmpcTNkqirWJdS9pDscYGghvJYsm/O7CzGFSKynfND/2Q==",
+    "url": "https://preview.redd.it/2f6k3q9kvsz71.jpg?width=640&crop=smart&auto=webp&s=080d86ddd4f0fa9ea364681b916b71a2414b9005",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 104,
+    "value": 104
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My Temple WIP",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/qumkdu/my_temple_wip/"
+}
