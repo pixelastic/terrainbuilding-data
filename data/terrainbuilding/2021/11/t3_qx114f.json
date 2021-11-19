@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_70ewoxny",
+    "name": "professor-jt"
+  },
+  "date": {
+    "day": 1637193600,
+    "full": 1637273550,
+    "month": 1635724800,
+    "week": 1636848000
+  },
+  "id": "t3_qx114f",
+  "picture": {
+    "filesize": 40352,
+    "fullUrl": "https://preview.redd.it/gfdtra7chf081.jpg?width=4032&format=pjpg&auto=webp&s=3281537e445dc52ce7afa8fde35573c2478f7f9b",
+    "hash": "3e83172400",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAIxAAAQQBAwQDAAAAAAAAAAAAAQIDBREEABJBBiExcQcTUf/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAaEQACAgMAAAAAAAAAAAAAAAAAAQIhAxEj/9oADAMBAAIRAxEAPwB75BkI+KgpBh9SXct9047OMBTqbAsrNGvG4AcEeeIGPho6PwF58j96nlbVpbUkm02ADYoXfHr91pmFjsynTOO5ItpynFrW4pbo3KKiau/WjZFKQyW9oKB2CT3GhrWNOFiX0anR/9k=",
+    "url": "https://preview.redd.it/gfdtra7chf081.jpg?width=640&crop=smart&auto=webp&s=132106b97c0b5af9b8b311dc8437759077f27c56",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 24,
+    "value": 24
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Just finished a prototype for buildings made with a laser cutter. Next stage is making sticker sheets to overlay. Would love feedback.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/qx114f/just_finished_a_prototype_for_buildings_made_with/"
+}
