@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1o03vuts",
+    "name": "paladin_bih"
+  },
+  "date": {
+    "day": 1637539200,
+    "full": 1637594076,
+    "month": 1635724800,
+    "week": 1637452800
+  },
+  "id": "t3_qznmyi",
+  "picture": {
+    "filesize": 36190,
+    "fullUrl": "https://preview.redd.it/s5pytwk8y5181.jpg?width=4608&format=pjpg&auto=webp&s=fbb5c40dcac92ff250e6a1edfc245cfbe3bac15d",
+    "hash": "5742831cca",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQf/xAAoEAABAwMCAwkAAAAAAAAAAAACAQMEAAYREjEFByI2QUVhc3SBsbL/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABoRAAIDAQEAAAAAAAAAAAAAAAECAAMSQVH/2gAMAwEAAhEDEQA/ABOXlh8RKVIV4FGLIczIMekWtPcJLvnyT5pK7ofBrfdjvMTZoky5oUWntTThkuxCqZLCJnKbYqk2T2Bie1X81CuYvgXrn9hU57DpQOxy1rlj5P/Z",
+    "url": "https://preview.redd.it/s5pytwk8y5181.jpg?width=640&crop=smart&auto=webp&s=47334a1c17a8229885aa64c2d29300d0431b1b7e",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 127,
+    "value": 127
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Satisfied with my modular hills",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/qznmyi/satisfied_with_my_modular_hills/"
+}

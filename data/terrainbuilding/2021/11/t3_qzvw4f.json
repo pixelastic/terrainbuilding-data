@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_70ewoxny",
+    "name": "professor-jt"
+  },
+  "date": {
+    "day": 1637539200,
+    "full": 1637615306,
+    "month": 1635724800,
+    "week": 1637452800
+  },
+  "id": "t3_qzvw4f",
+  "picture": {
+    "filesize": 42057,
+    "fullUrl": "https://preview.redd.it/wdr2jtckp7181.jpg?width=4032&format=pjpg&auto=webp&s=a2cbe03004942ec6d57a0caa04c1ebd4114daa87",
+    "hash": "aafa9633eb",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAJRAAAQMEAQIHAAAAAAAAAAAAAgEDBAAFBhEhBxITFCIxMkGR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAYEQEAAwEAAAAAAAAAAAAAAAACAAEDYf/aAAwDAQACEQMRAD8Ab6w5LfGMiah2R+4xwmQ/MMti4gKDqD8UTXPttedUTi2YS701DtjzDjlwGNt1x5dbIU9RKv3ta0zJMZtt+CM7PBzxIxiTZNmoqiovFQtpxWBjuQkluOT2IBmIuud6Cpa3rjf6tT6o2O1HzCK5P//Z",
+    "url": "https://preview.redd.it/wdr2jtckp7181.jpg?width=640&crop=smart&auto=webp&s=0ff814dd8b4798c7074d39ddf0ae2dbcd9f36558",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 29,
+    "value": 29
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First attempt at next stage. Need to lighten graphics. Would love more feedback.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/qzvw4f/first_attempt_at_next_stage_need_to_lighten/"
+}
