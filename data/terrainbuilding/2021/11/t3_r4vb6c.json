@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_ez86stru",
+    "name": "CustomMiniatureMaker"
+  },
+  "date": {
+    "day": 1638144000,
+    "full": 1638190771,
+    "month": 1635724800,
+    "week": 1638057600
+  },
+  "id": "t3_r4vb6c",
+  "picture": {
+    "filesize": 43977,
+    "fullUrl": "https://preview.redd.it/5ex4y6uo8j281.jpg?width=1970&format=pjpg&auto=webp&s=79bc714b43524989466a6304ecf5ef2178f1ae89",
+    "hash": "dd04a9266e",
+    "height": 665,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA8DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAEH/8QAJRAAAQMDAwMFAAAAAAAAAAAAAQIDEQQFBgASIRNBURQVIiNy/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABkRAAIDAQAAAAAAAAAAAAAAAAARAhJBIv/aAAwDAQACEQMRAD8A0vKrzWWHLDSOdV+mco+s220jcsuBQTtT2jmT40/AL0MiaFO++2LgllLy0J44JUIAmeABP6Gg5LjGVEpuvqlVtxZWWqdllI+tpRM7lHkyOIHnVrcXrrZlNtrbVbH/AG1NP86dkgdFRSZSkzIEme+lKFVobqzw/9k=",
+    "url": "https://preview.redd.it/5ex4y6uo8j281.jpg?width=640&crop=smart&auto=webp&s=71fa4ba4ab90b968bb2156862141d71d7957514a",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.92,
+    "ups": 22,
+    "value": 22
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Free Fully Supported Stone Pillar STLs",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/r4vb6c/free_fully_supported_stone_pillar_stls/"
+}

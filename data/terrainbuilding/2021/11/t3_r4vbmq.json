@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_g4qt3cx6",
+    "name": "TheMonsterPainter"
+  },
+  "date": {
+    "day": 1638144000,
+    "full": 1638190812,
+    "month": 1635724800,
+    "week": 1638057600
+  },
+  "id": "t3_r4vbmq",
+  "picture": {
+    "filesize": 74529,
+    "fullUrl": "https://preview.redd.it/nkm3l93u8j281.jpg?auto=webp&s=6bdd494d879b177ed874772aa6e3a9b83d6f76ac",
+    "hash": "1b8b6bcbc8",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAIxAAAgAGAQQDAAAAAAAAAAAAAQIDBAUGESEAEhMiMRQyYf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGREAAwADAAAAAAAAAAAAAAAAAAERAgMx/9oADAMBAAIRAxEAPwACwkoNVM0lTkDPzazK4HaZgkMrgHWjls6PIO6JimS14VOXoTOaZCjlIHVnIAxkb3o5G+b/ADtrwKHmNaNJ+PGfcVocZicrtfsSPfDabYVvVKcmItSt8RI5frZvOGxZiWYkhvIknP565KweGtutvh//2Q==",
+    "url": "https://preview.redd.it/nkm3l93u8j281.jpg?width=640&crop=smart&auto=webp&s=4ed1af67c77bb2c1d72616bdcfa56554b2aaf29e",
+    "width": 640
+  },
+  "score": {
+    "comments": 18,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 583,
+    "value": 583
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A sinister monument to an unknowable god.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/r4vbmq/a_sinister_monument_to_an_unknowable_god/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_7ycaj",
+    "name": "ChrisSwires"
+  },
+  "date": {
+    "day": 1638144000,
+    "full": 1638206935,
+    "month": 1635724800,
+    "week": 1638057600
+  },
+  "id": "t3_r50uz5",
+  "picture": {
+    "filesize": 132831,
+    "fullUrl": "https://preview.redd.it/86owvhzrkk281.jpg?width=3000&format=pjpg&auto=webp&s=27a08375c7e3ac960ada9a5e419686bc1365ff87",
+    "hash": "4971cf97d0",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQIDBf/EACUQAAICAgEEAAcAAAAAAAAAAAECAxEEBQYAEiExEyIjUWGBkf/EABQBAQAAAAAAAAAAAAAAAAAAAAL/xAAYEQADAQEAAAAAAAAAAAAAAAAAAQJBA//aAAwDAQACEQMRAD8AXVcoSLNwmTVTJgpA4kyJYiiN3H2D68UP6ep7rZ685gbJhhimZAzR/EQlb8i/P2o/vocU49ibPcLntkNMTYmWZ/ohaFACjQ+UCvdDrL5pgbdeRZTauXXwY7kN2pkMoJqroUB6Hj8dDndahXCWn//Z",
+    "url": "https://preview.redd.it/86owvhzrkk281.jpg?width=640&crop=smart&auto=webp&s=6813d9801406d516526ea36cfba69c0302eb7479",
+    "width": 640
+  },
+  "score": {
+    "comments": 9,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 346,
+    "value": 346
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Lakeside real estate",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/r50uz5/lakeside_real_estate/"
+}
