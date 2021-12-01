@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_dqhly",
+    "name": "SolidSingularity"
+  },
+  "date": {
+    "day": 1638230400,
+    "full": 1638250635,
+    "month": 1635724800,
+    "week": 1638057600
+  },
+  "id": "t3_r5fz4o",
+  "picture": {
+    "filesize": 139250,
+    "fullUrl": "https://preview.redd.it/gvwklnxp6o281.jpg?auto=webp&s=fd38450974dc8537120e65fa7200605b7aefb06c",
+    "hash": "0e3b83bce7",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABwP/xAAmEAACAQIGAgEFAAAAAAAAAAABAgMEBQAGERIhIgdBMRMUUWFx/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAZEQACAwEAAAAAAAAAAAAAAAABAgAEERL/2gAMAwEAAhEDEQA/AK3jxzS5qzWL6JautjmZPrU6BGiIVNNWZuzBtoHwDzrgOzV49vdNmGvSC3RwU5mdoovuYiY0LHap7cED0ecPtrvVgzBHHBSVz1agbwsVUEaRvW5Orac+h/MJFhy7QJbYzGZ4d2rMF6an8kEfP7xMWzwMES6IFAUZs//Z",
+    "url": "https://preview.redd.it/gvwklnxp6o281.jpg?width=640&crop=smart&auto=webp&s=da2b28f40722124fd7e7e78729a692f8814cf2d2",
+    "width": 640
+  },
+  "score": {
+    "comments": 20,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 533,
+    "value": 533
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Destroyed farmhouse.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/r5fz4o/wip_destroyed_farmhouse/"
+}
