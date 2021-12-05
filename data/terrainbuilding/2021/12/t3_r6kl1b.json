@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1bta8mfx",
+    "name": "Stopgoabomb"
+  },
+  "date": {
+    "day": 1638316800,
+    "full": 1638381014,
+    "month": 1638316800,
+    "week": 1638057600
+  },
+  "id": "t3_r6kl1b",
+  "picture": {
+    "filesize": 165147,
+    "fullUrl": "https://preview.redd.it/8wnff6xayy281.jpg?width=3024&format=pjpg&auto=webp&s=54d447150433c90637a596c7324ec015c76140cd",
+    "hash": "443eeaf071",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgED/8QAIxAAAgEDAwQDAAAAAAAAAAAAAQIDBAURACExEhMigRRh0f/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAGxEAAgEFAAAAAAAAAAAAAAAAAAECBBESImH/2gAMAwEAAhEDEQA/AA0NwFxpaNx8aGqSoMQQU4LVKBRg523551nNcLxTFVQywRsvUivAjZU8EE4yPzTlrLbZZo5qmCkapjHb85O2yetuOM6lZYzeHSdIal1Re0Ag8VAJ2GR9596kxqODHgtrn//Z",
+    "url": "https://preview.redd.it/8wnff6xayy281.jpg?width=640&crop=smart&auto=webp&s=c8b2af6dde1222f8ef10e4d7b67ef44e1ab44de1",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 30,
+    "value": 30
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Finished Temple!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/r6kl1b/finished_temple/"
+}
