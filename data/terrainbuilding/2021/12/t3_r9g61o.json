@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_85so9vf8",
+    "name": "KenShinizual"
+  },
+  "date": {
+    "day": 1638662400,
+    "full": 1638712376,
+    "month": 1638316800,
+    "week": 1638662400
+  },
+  "id": "t3_r9g61o",
+  "picture": {
+    "filesize": 60438,
+    "fullUrl": "https://preview.redd.it/6q7k51bpbq381.jpg?width=4624&format=pjpg&auto=webp&s=0748811e11938ff72811ff4dd40ed1d0b7385f03",
+    "hash": "854e651a8b",
+    "height": 481,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQFB//EACQQAAEEAQMDBQAAAAAAAAAAAAIBAwQFEQAGMRIiQRMhMlFh/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAXEQEBAQEAAAAAAAAAAAAAAAABAgAR/9oADAMBAAIRAxEAPwAJd3AtAr5NhRE++2CIQE8o9OeURR5TOmIG6qWmN99iiNibHbMYyJIIh7kX27uM/f7rEtvTZiTBQZb4c/E8eNUH3pMm7QH5kg09MSRSPKovVjzoKUXzUQhju//Z",
+    "url": "https://preview.redd.it/6q7k51bpbq381.jpg?width=640&crop=smart&auto=webp&s=aa81d6d4a1ef05f0a1a36224af805b601c9c5dca",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 100,
+    "value": 100
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Some Terrain for a Final dnd Session.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/r9g61o/some_terrain_for_a_final_dnd_session/"
+}

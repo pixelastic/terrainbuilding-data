@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_8ne7y",
+    "name": "Manrog"
+  },
+  "date": {
+    "day": 1638662400,
+    "full": 1638690864,
+    "month": 1638316800,
+    "week": 1638662400
+  },
+  "id": "t3_r9arhu",
+  "picture": {
+    "filesize": 97773,
+    "fullUrl": "https://preview.redd.it/hs7py95hio381.jpg?width=1440&format=pjpg&auto=webp&s=7c2a0859dc522ef2f10564c769c23a3a7612ddff",
+    "hash": "47348f4fd1",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAIxAAAQQBAwQDAAAAAAAAAAAAAQIDBBEFABIhBhMxQXGBkf/EABQBAQAAAAAAAAAAAAAAAAAAAAL/xAAYEQEAAwEAAAAAAAAAAAAAAAABABESQf/aAAwDAQACEQMRAD8AuH+p2m586KY76hEorcQixRHJ+BY/dHxOq4EyQGC4lt1QTtCjRJN8V59axrLZfJMTsn2loSjtBCOVJO3iwKPuvvRUPOzF5Rio7DWxIT3UhVpAFjm/PgA6OCrjE7P/2Q==",
+    "url": "https://preview.redd.it/hs7py95hio381.jpg?width=640&crop=smart&auto=webp&s=f601dbb09ec3f65965ee8d7dd70fb08a5217241e",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 129,
+    "value": 129
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Barricades!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/r9arhu/barricades/"
+}

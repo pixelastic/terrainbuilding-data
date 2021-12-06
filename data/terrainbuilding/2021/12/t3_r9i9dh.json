@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_78p9vk0y",
+    "name": "madness_hazard"
+  },
+  "date": {
+    "day": 1638662400,
+    "full": 1638718779,
+    "month": 1638316800,
+    "week": 1638662400
+  },
+  "id": "t3_r9i9dh",
+  "picture": {
+    "filesize": 51859,
+    "fullUrl": "https://preview.redd.it/1h37p11ruq381.jpg?width=3468&format=pjpg&auto=webp&s=df7e12c891a5099d8f92264dacb24bb19287efbc",
+    "hash": "15b6561308",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQEI/8QAJBAAAgEDAwQDAQAAAAAAAAAAAQIEAwURABIhBhMxYRRBgfD/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAGREAAgMBAAAAAAAAAAAAAAAAAyEAAhIE/9oADAMBAAIRAxEAPwCxOt4HTlmtcS4LVZ27g3HhUUcqM/ZwcAetJ2rrineYSS4EKgtPJQpIO51IPg49YP7rOVQ/Mo9hqjSKqsGXex2rkYPP9401Z3uMGCtClOrBASRsJA50YTnLhWcSoUenVT//2Q==",
+    "url": "https://preview.redd.it/1h37p11ruq381.jpg?width=640&crop=smart&auto=webp&s=170e9e5cb363c468d6ab00adcdd4c6273fdc8ce3",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.95,
+    "ups": 52,
+    "value": 52
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Some unusual miniature building for me :)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/r9i9dh/some_unusual_miniature_building_for_me/"
+}

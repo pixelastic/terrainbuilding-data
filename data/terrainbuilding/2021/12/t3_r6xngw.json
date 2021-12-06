@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_yqbmj",
+    "name": "DunkinDoNot"
+  },
+  "date": {
+    "day": 1638403200,
+    "full": 1638415935,
+    "month": 1638316800,
+    "week": 1638057600
+  },
+  "id": "t3_r6xngw",
+  "picture": {
+    "filesize": 73222,
+    "fullUrl": "https://external-preview.redd.it/eTDeAJXVQOekTcj5EfKY7_3zx9WWPbz9fnQRyr8HCGc.jpg?auto=webp&s=7524dd22bfe680ace7b2b07751366290ce010468",
+    "hash": "fc4d966d08",
+    "height": 311,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAIABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAX/xAAgEAABBAICAwEAAAAAAAAAAAABAgMEEQAFBiESMUFh/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABkRAQADAQEAAAAAAAAAAAAAAAEAAgMRMf/aAAwDAQACEQMRAD8AhcM4vq48ZDsxhLsgALdV4h5wqvsm7CR3ljdafWy4xd1UFEUtG1PtoCXUivdAij9v8xjA7bXLvHyB11uaIM//2Q==",
+    "url": "https://external-preview.redd.it/eTDeAJXVQOekTcj5EfKY7_3zx9WWPbz9fnQRyr8HCGc.jpg?width=640&crop=smart&auto=webp&s=11d846e433b7a31751008fb730c13f7940dcaa36",
+    "width": 640
+  },
+  "score": {
+    "comments": 14,
+    "downs": 0,
+    "ratio": 0.95,
+    "ups": 33,
+    "value": 33
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Dunkin's D&D Hexmap 2.0",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/r6xngw/oc_dunkins_dd_hexmap_20/"
+}

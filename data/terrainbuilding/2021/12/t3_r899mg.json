@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_blckn",
+    "name": "nrs02004"
+  },
+  "date": {
+    "day": 1638489600,
+    "full": 1638565891,
+    "month": 1638316800,
+    "week": 1638057600
+  },
+  "id": "t3_r899mg",
+  "picture": {
+    "filesize": 79843,
+    "fullUrl": "https://preview.redd.it/lvnuvq5r7e381.jpg?width=4032&format=pjpg&auto=webp&s=39b4e473db487d4f9d5bbff3e3bde37744d3a878",
+    "hash": "e791258f77",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAIxAAAQMDBAIDAAAAAAAAAAAAAQIDBAUREgAGBzEhQZGiwf/EABQBAQAAAAAAAAAAAAAAAAAAAAH/xAAYEQEAAwEAAAAAAAAAAAAAAAABAAMxEv/aAAwDAQACEQMRAD8AA3FvCdUN/Sa/Gfcpk9BxQ0wRdKcbC59nG9zpSHyduFtyO1NrDM1tShkH47TqSm/Vwn996ueUuM6BQaY/UqWJTLywboLoWn7AqHzrHYJBltXAIUAMbeB31oax0h1s/9k=",
+    "url": "https://preview.redd.it/lvnuvq5r7e381.jpg?width=640&crop=smart&auto=webp&s=4e9a9a65f94059a3589a71190ca44ea8937b522b",
+    "width": 640
+  },
+  "score": {
+    "comments": 19,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 489,
+    "value": 489
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Kill team/firefight board",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/r899mg/kill_teamfirefight_board/"
+}
