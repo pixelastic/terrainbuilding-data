@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_dldy7yt4",
+    "name": "NoodlesGotAGun"
+  },
+  "date": {
+    "day": 1638835200,
+    "full": 1638921274,
+    "month": 1638316800,
+    "week": 1638662400
+  },
+  "id": "t3_rbd52x",
+  "picture": {
+    "filesize": 46967,
+    "fullUrl": "https://preview.redd.it/042grtevk7481.jpg?auto=webp&s=1c758995f291e720669ceca491d362585cfcbcac",
+    "hash": "97d980cf44",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgME/8QAIhAAAgEDBAMBAQAAAAAAAAAAAQIDBBESAAUhMQYHE1GB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAaEQACAgMAAAAAAAAAAAAAAAABAgAREkHR/9oADAMBAAIRAxEAPwAD6r8Xpd93eep3UlYoaQxiCJCSzvZCb98Xvx+6y+x4Nnk8zrNvoqNqWnpxikSkFfoq49AXAYgG390J2/OGVfjPPGwUtmkhDCy371CqramXOoeeRpmTNmLXLNkRck9ngaIKaNShiuQvfJ//2Q==",
+    "url": "https://preview.redd.it/042grtevk7481.jpg?width=640&crop=smart&auto=webp&s=7cb7660db221a1792773f2b41dcc95e58e0e1370",
+    "width": 640
+  },
+  "score": {
+    "comments": 14,
+    "downs": 0,
+    "ratio": 0.92,
+    "ups": 23,
+    "value": 23
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First time doing brick texture. Still a WIP but kind of fun",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/rbd52x/first_time_doing_brick_texture_still_a_wip_but/"
+}
