@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_f1b7x2l4",
+    "name": "Prestigious_Big_5817"
+  },
+  "date": {
+    "day": 1639008000,
+    "full": 1639010345,
+    "month": 1638316800,
+    "week": 1638662400
+  },
+  "id": "t3_rc5b61",
+  "picture": {
+    "filesize": 52255,
+    "fullUrl": "https://preview.redd.it/l9lrt7jpxe481.jpg?auto=webp&s=c2eedf4941adc07478d88df34bf1f0401c26d26a",
+    "hash": "59292cbf5e",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAJRAAAgEDAgUFAAAAAAAAAAAAAQIDAAQRBSEGEhQxMhVCUYGh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAaEQACAwEBAAAAAAAAAAAAAAABAgARIQNx/9oADAMBAAIRAxEAPwB9c8NrLaFbPRpraY+4vzD9NFRwlfwSSR9WskwfASfCb98Z8SfsVpsWpK8KNLryIxUEqsK7H47VP1G8tYo2AvPUUnfMsbry428lONjVrKemGx5cNHK5U//Z",
+    "url": "https://preview.redd.it/l9lrt7jpxe481.jpg?width=640&crop=smart&auto=webp&s=603ed9769c1e19c803380fce587b0d02cf8e76c2",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 0.87,
+    "ups": 18,
+    "value": 18
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Let's do easy shingles!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/rc5b61/lets_do_easy_shingles_oc/"
+}

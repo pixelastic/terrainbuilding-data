@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_3bdd52xf",
+    "name": "Treb0rN0ttirb"
+  },
+  "date": {
+    "day": 1638921600,
+    "full": 1638961417,
+    "month": 1638316800,
+    "week": 1638662400
+  },
+  "id": "t3_rbowz6",
+  "picture": {
+    "filesize": 90344,
+    "fullUrl": "https://preview.redd.it/wi6nego8wa481.jpg?width=4000&format=pjpg&auto=webp&s=6337a02283e7b7ca22efc2a40bbc46f08a5432b8",
+    "hash": "1d5e18e827",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwME/8QAIRAAAQQBBAMBAAAAAAAAAAAAAQIDBBEFAAYhMRIUQSL/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAGhEBAAIDAQAAAAAAAAAAAAAAAQACAxExBP/aAAwDAQACEQMRAD8AwZaLNnNbchQ5bTriZBfS20TayivJJJoAAEG+qvVpEDDTWmsjlZMKU1bqPUUVhaFk+N8CiODzf3SztfC49WLw2TVGQZsdKn0OdWtywomu+PnQ0SsyTPh7hbkMsEQpLa45S2ElsOOOBSLHafyDRujeiPPQqaORHNds7ez/2Q==",
+    "url": "https://preview.redd.it/wi6nego8wa481.jpg?width=640&crop=smart&auto=webp&s=474dfe5165d1dafe39e6b2fdf29eaf22a21123de",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 114,
+    "value": 114
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Some snow scatter, perhaps?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/rbowz6/some_snow_scatter_perhaps/"
+}

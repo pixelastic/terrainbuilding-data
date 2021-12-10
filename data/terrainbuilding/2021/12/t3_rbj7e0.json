@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1vzqf4fk",
+    "name": "insaniakUTC"
+  },
+  "date": {
+    "day": 1638921600,
+    "full": 1638939539,
+    "month": 1638316800,
+    "week": 1638662400
+  },
+  "id": "t3_rbj7e0",
+  "picture": {
+    "filesize": 102006,
+    "fullUrl": "https://preview.redd.it/0urck7wt19481.jpg?auto=webp&s=18c8c380adc8143dd8e57cb08c164a72752ce7d1",
+    "hash": "760a5ae675",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwIG/8QAJhAAAgECBQMFAQAAAAAAAAAAAQIEAwUABhETMRIhQQciMlFhcf/EABUBAQEAAAAAAAAAAAAAAAAAAAED/8QAHBEBAAICAwEAAAAAAAAAAAAAAgERAAMSIXGR/9oADAMBAAIRAxEAPwC6MJ7p6gpuxKUijFtxkRVclUVw+jMPBbQgd+MFmy/XyxZotMQsY8VgHrrTqkBh1EFRqekHQdiOcbKfYLpHlbkE0t8oTuUwUQA/JPv+fg74IZKq3aosq7yqpmK4PsbqQgcAg8+cU2lPTwir87+4BkuFN1n/2Q==",
+    "url": "https://preview.redd.it/0urck7wt19481.jpg?width=640&crop=smart&auto=webp&s=93720e3698ac85cabd5ad784e8c5e570fbed6dc1",
+    "width": 640
+  },
+  "score": {
+    "comments": 15,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 445,
+    "value": 445
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Air purifier built from a plastic fruit jar.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/rbj7e0/air_purifier_built_from_a_plastic_fruit_jar/"
+}
