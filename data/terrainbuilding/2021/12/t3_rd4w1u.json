@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5kihsshj",
+    "name": "Sir_Sieumon"
+  },
+  "date": {
+    "day": 1639094400,
+    "full": 1639128232,
+    "month": 1638316800,
+    "week": 1638662400
+  },
+  "id": "t3_rd4w1u",
+  "picture": {
+    "filesize": 69388,
+    "fullUrl": "https://preview.redd.it/q7laep89oo481.jpg?width=1600&format=pjpg&auto=webp&s=f457358e089b2fd2df7b42ebc9d7232caf2df336",
+    "hash": "67f86c58e8",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAb/xAAlEAABAwMDAwUAAAAAAAAAAAABAgMEBRESAAYhIjFBBzJRYZH/xAAVAQEBAAAAAAAAAAAAAAAAAAACBP/EABoRAAICAwAAAAAAAAAAAAAAAAABAiEDERP/2gAMAwEAAhEDEQA/AJ2hRorjUrJgOusqZdDceQSFFQAV0diSAeSPOm70oVMl1NhuVMLi1zGkIhpfSkJTngbIxyKcbkc2Bvp+/wCIuiiUafMltFaeqyxb3WPFrc/PfUZvKGG/Tqnzg/IMlDpTmpwnIff541JHI52Dpemj/9k=",
+    "url": "https://preview.redd.it/q7laep89oo481.jpg?width=640&crop=smart&auto=webp&s=a8f9e71a43889501b913c733492fc24b2de98b9e",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 23,
+    "value": 23
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "(Reupload do to image quality) I made my first terrain pieces, made the flocking, grass and trees from scratch. How did I do? And what can I improve? Critique and tips are welcome!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/rd4w1u/reupload_do_to_image_quality_i_made_my_first/"
+}

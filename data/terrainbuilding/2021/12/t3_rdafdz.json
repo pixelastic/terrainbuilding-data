@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_171x9p",
+    "name": "Quadrante-Isegrim"
+  },
+  "date": {
+    "day": 1639094400,
+    "full": 1639148203,
+    "month": 1638316800,
+    "week": 1638662400
+  },
+  "id": "t3_rdafdz",
+  "picture": {
+    "filesize": 176241,
+    "fullUrl": "https://preview.redd.it/mu72xwhnbq481.jpg?width=2268&format=pjpg&auto=webp&s=6aea5e4c96a3e16cbea24926a60c3044d782e0e6",
+    "hash": "054530630c",
+    "height": 1138,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQF/8QAJxAAAQMDAgQHAAAAAAAAAAAAAgEDBQAEEhETBhYhYSJRUlOVodH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAHBEAAgICAwAAAAAAAAAAAAAAAQMAAgQREiFR/9oADAMBAAIRAxEAPwCWL4rjQlW4SWtX7I2thzNwidRFNOhuFp4UEcOnekXNT3uWfyjf5RaQur14JGeN9BvXsY/cZFB3QLIyQvNETRO2qVp8uJ6m/qgdhobbkyoPm+4Fc14Glz//2Q==",
+    "url": "https://preview.redd.it/mu72xwhnbq481.jpg?width=640&crop=smart&auto=webp&s=9a7dbce2015595db59650b74b147ecf2b068b3db",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 9,
+    "value": 9
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Evergreen",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/rdafdz/evergreen/"
+}
