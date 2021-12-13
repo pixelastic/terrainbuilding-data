@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5ujtrmoe",
+    "name": "butterdrinker"
+  },
+  "date": {
+    "day": 1639267200,
+    "full": 1639342398,
+    "month": 1638316800,
+    "week": 1639267200
+  },
+  "id": "t3_rey0yu",
+  "picture": {
+    "filesize": 65784,
+    "fullUrl": "https://preview.redd.it/x9332itzc6581.jpg?auto=webp&s=9dfdba853b559775346aa3fa0d50ab5c3525e269",
+    "hash": "65aca5a7ca",
+    "height": 479,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFAABAAAAAAAAAAAAAAAAAAAABv/EACAQAAICAgICAwAAAAAAAAAAAAECAwQFEQAxEiEiMkH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABwRAQABBAMAAAAAAAAAAAAAAAEDAAIEERMhQf/aAAwDAQACEQMRAD8AD4e1croiU5nCkFmJSMgez1sbPGVWnetYKzk7sEU1aIjUpjWP5/mtdngTGOwSM7+w98TyTSPhrEZY+Mfmq6PQA2OSot3iLTM4gxZLJ+M23Hftf//Z",
+    "url": "https://preview.redd.it/x9332itzc6581.jpg?width=640&crop=smart&auto=webp&s=2633b34d59418883fc6a82945914a7a407643d92",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.9,
+    "ups": 14,
+    "value": 14
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Making of leaves with zig-zag scissors",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/rey0yu/making_of_leaves_with_zigzag_scissors/"
+}
