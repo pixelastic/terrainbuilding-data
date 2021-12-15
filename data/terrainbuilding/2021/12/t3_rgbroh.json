@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_aa5aqfyz",
+    "name": "spike191"
+  },
+  "date": {
+    "day": 1639440000,
+    "full": 1639500919,
+    "month": 1638316800,
+    "week": 1639267200
+  },
+  "id": "t3_rgbroh",
+  "picture": {
+    "filesize": 57561,
+    "fullUrl": "https://preview.redd.it/52dps0gggj581.jpg?width=4032&format=pjpg&auto=webp&s=f227134631b9a4e780672b40369935ed9bca12ce",
+    "hash": "5e38410683",
+    "height": 288,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAIG/8QAIhAAAQMDBAMBAAAAAAAAAAAAAgEDBAARIQUSMVEGE0Fh/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAbEQACAgMBAAAAAAAAAAAAAAABAwACBBGRof/aAAwDAQACEQMRAD8ArW50qWDIE+gAJbjT1CW63CZTGefzqsd5BqLItHFmSHVbJsQRpEwg3Revqje1KUh4C6bAkfBc3IbVd7HXvZ//2Q==",
+    "url": "https://preview.redd.it/52dps0gggj581.jpg?width=640&crop=smart&auto=webp&s=90a0e4a8ff04ecc9fc1c1cc7f01825f7c5dbfcb7",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 40,
+    "value": 40
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Homemade junk barricade",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/rgbroh/homemade_junk_barricade/"
+}

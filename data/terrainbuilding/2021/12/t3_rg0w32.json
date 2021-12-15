@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_9s8sdrq",
+    "name": "OGKwapple"
+  },
+  "date": {
+    "day": 1639440000,
+    "full": 1639462075,
+    "month": 1638316800,
+    "week": 1639267200
+  },
+  "id": "t3_rg0w32",
+  "picture": {
+    "filesize": 60064,
+    "fullUrl": "https://preview.redd.it/b2b7d61y8g581.jpg?auto=webp&s=a4821dabfd57350fef5b11c3a02474fe3b0dbc4b",
+    "hash": "9b8794e221",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgX/xAAkEAABBAEDBAMBAAAAAAAAAAABAgMEBREABiESEzGBBxQiUf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGREBAQADAQAAAAAAAAAAAAAAAgEAA0ER/9oADAMBAAIRAxEAPwC7aQ5W23KGjpg5HqHYbheeYc7bri0pGApeMjJPVnRL6i7rdztfazp86OW1dtbjoKwE4I5A5/mdGlfLe6l1AhqkRi0tktqPZHUUkYPPvQuNfWkavlSos55lcYNtspQfyhK+okAevPnk6GoQqNcuU3euUHsz/9k=",
+    "url": "https://preview.redd.it/b2b7d61y8g581.jpg?width=640&crop=smart&auto=webp&s=ed4b2cee0bba2705dcfa266281ff69ac0e9fec71",
+    "width": 640
+  },
+  "score": {
+    "comments": 19,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 625,
+    "value": 625
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Latest bit of graffiti I'm happy with.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/rg0w32/latest_bit_of_graffiti_im_happy_with/"
+}

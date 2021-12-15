@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1m0esm0e",
+    "name": "DethKomedy"
+  },
+  "date": {
+    "day": 1639440000,
+    "full": 1639471414,
+    "month": 1638316800,
+    "week": 1639267200
+  },
+  "id": "t3_rg37ba",
+  "picture": {
+    "filesize": 68878,
+    "fullUrl": "https://preview.redd.it/x00wuwbc0h581.jpg?width=4000&format=pjpg&auto=webp&s=6066e465487bf457c1c34b2ea91446b8b77f2f22",
+    "hash": "ea5c6121d8",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAYH/8QAIhAAAgEDBAIDAAAAAAAAAAAAAQMCBAURAAYSIQcxFEGB/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABkRAAIDAQAAAAAAAAAAAAAAAAECAAMRQf/aAAwDAQACEQMRAD8ALbN5NorWVUKaKc1dz+S5nIDvBxj33+406l3FfKOckKD7k1C5rW2CzFQYYgCZkYgHBJPROcag/GNvRuPci1XISkuMJSMYHjyx6BPvGtu3AsU5ClZCwBGMfqIA6A0N8VRkfWS5O9n/2Q==",
+    "url": "https://preview.redd.it/x00wuwbc0h581.jpg?width=640&crop=smart&auto=webp&s=b3f914c39bb79608c9fea4b3aa4fe8160870c1b6",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 31,
+    "value": 31
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Just finished building a scene for my next session!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/rg37ba/just_finished_building_a_scene_for_my_next_session/"
+}

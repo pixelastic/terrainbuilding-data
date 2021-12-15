@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_g247b2x3",
+    "name": "iwanttowrite333"
+  },
+  "date": {
+    "day": 1639440000,
+    "full": 1639479728,
+    "month": 1638316800,
+    "week": 1639267200
+  },
+  "id": "t3_rg552s",
+  "picture": {
+    "filesize": 68756,
+    "fullUrl": "https://preview.redd.it/mv6m33meph581.jpg?width=3456&format=pjpg&auto=webp&s=88feea3dbf5a39beb372ccb2045afd268d098b34",
+    "hash": "169faf8ba9",
+    "height": 960,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUH/8QAIRAAAQQCAwEAAwAAAAAAAAAAAQIDBBEFIQASQQYHE1H/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABgRAAIDAAAAAAAAAAAAAAAAAAABESFR/9oADAMBAAIRAxEAPwBmb+jjYrJxcbKddVLkjukNWoo2AApI2LvWvOMSqaoAqiyEk+Op6qryx5yD+T4Djn0WMjwmH3n5FJXLjsrP6E2B2JA3Wjr+HmmylRVPEv5FtTtAKV1qzQ3XJVtjOH//2Q==",
+    "url": "https://preview.redd.it/mv6m33meph581.jpg?width=640&crop=smart&auto=webp&s=f03569c16b29bf4ef68142c144fdcaa6ef6dea43",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 40,
+    "value": 40
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A windmill!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/rg552s/a_windmill/"
+}

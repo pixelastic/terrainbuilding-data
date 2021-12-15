@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_18orhhy",
+    "name": "pluto755"
+  },
+  "date": {
+    "day": 1639440000,
+    "full": 1639447166,
+    "month": 1638316800,
+    "week": 1639267200
+  },
+  "id": "t3_rfw9d7",
+  "picture": {
+    "filesize": 128594,
+    "fullUrl": "https://preview.redd.it/4gk2icvl0f581.jpg?auto=webp&s=02ff0809c446724ceeb9aa91ef09579f03645d69",
+    "hash": "808710efb8",
+    "height": 1317,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAgDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQG/8QAHxAAAQMEAwEAAAAAAAAAAAAAAQIDBAAFERIhMVEi/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAaEQACAwEBAAAAAAAAAAAAAAABEQACAyGh/9oADAMBAAIRAxEAPwDPNWyPGQ03JeenbK2KQFgowc8ZyNiAOvKVEt6fbr4xGRIkNzmn0ttxsD4cKgBsT0M+8Uo530o2U5U6VK54J//Z",
+    "url": "https://preview.redd.it/4gk2icvl0f581.jpg?width=640&crop=smart&auto=webp&s=66b792f6150623a1e7adaf0711358a5071c15c3f",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.95,
+    "ups": 35,
+    "value": 35
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Working on a 3D printed building!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/rfw9d7/working_on_a_3d_printed_building/"
+}
