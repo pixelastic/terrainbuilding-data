@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_ainw1",
+    "name": "nefarioushero"
+  },
+  "date": {
+    "day": 1639526400,
+    "full": 1639584876,
+    "month": 1638316800,
+    "week": 1639267200
+  },
+  "id": "t3_rh2nj7",
+  "picture": {
+    "filesize": 54628,
+    "fullUrl": "https://preview.redd.it/5bso9s0hdq581.jpg?width=4032&format=pjpg&auto=webp&s=8bf01c15a9b17682dc90501ec34038975658b501",
+    "hash": "46d5be1e9a",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgL/xAAiEAACAgICAgIDAAAAAAAAAAABAgMEBREAIQYSE1EHMUH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABkRAQADAQEAAAAAAAAAAAAAAAEAAgQRUf/aAAwDAQACEQMRAD8ATfkrzJGxuSFOq09KGu5NlZFA36nZUHvo9b+98JYLx+zVpfNk8tNaMkKSLA8LIqEjZOwTv675WRwcVzH2YLFy+1eRmrtH8x9SgbpeEsrVs0oXSHL5Yx+yoUe2zAqDvXf86H6475qoHkpXSBzk/9k=",
+    "url": "https://preview.redd.it/5bso9s0hdq581.jpg?width=640&crop=smart&auto=webp&s=588ee153cd28c7ef781ae9ad22f11f47f660c239",
+    "width": 640
+  },
+  "score": {
+    "comments": 12,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 95,
+    "value": 95
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP My first attempt at playable interiors. Two-story fantasy tavern/inn.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/rh2nj7/wip_my_first_attempt_at_playable_interiors/"
+}

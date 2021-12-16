@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_8w84k4zk",
+    "name": "Old-Man-Ben"
+  },
+  "date": {
+    "day": 1639526400,
+    "full": 1639540305,
+    "month": 1638316800,
+    "week": 1639267200
+  },
+  "id": "t3_rgprwp",
+  "picture": {
+    "filesize": 67576,
+    "fullUrl": "https://preview.redd.it/ndaqn7qjpm581.jpg?width=3024&format=pjpg&auto=webp&s=90c040723d088fba1962daa8acc4857acad958f0",
+    "hash": "e61a719173",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAjEAACAgAGAQUAAAAAAAAAAAABAgMEAAUGERIxISJBUXGB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAZEQACAwEAAAAAAAAAAAAAAAABEQACIQT/2gAMAwEAAhEDEQA/AENI2s1qV42euYo2UMryyKgIPuNzhHUGdB4EZrCSzHcOiHlx+DuPBxPUdKZ/fuPPZMEZlYyNM6gDcnrh2PzFjlekIKk8Fq3dlmsxHkpT0qD9YSqtOyB6FoE//9k=",
+    "url": "https://preview.redd.it/ndaqn7qjpm581.jpg?width=640&crop=smart&auto=webp&s=617c3e431055cb906ad534f3849f0d1590e8b23c",
+    "width": 640
+  },
+  "score": {
+    "comments": 10,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 66,
+    "value": 66
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Sci-fi Garage",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/rgprwp/scifi_garage/"
+}
