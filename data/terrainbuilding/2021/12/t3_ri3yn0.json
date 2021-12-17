@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_o0khg",
+    "name": "omalike"
+  },
+  "date": {
+    "day": 1639699200,
+    "full": 1639699568,
+    "month": 1638316800,
+    "week": 1639267200
+  },
+  "id": "t3_ri3yn0",
+  "picture": {
+    "filesize": 27768,
+    "fullUrl": "https://preview.redd.it/zvhvk8s4vz581.jpg?width=4000&format=pjpg&auto=webp&s=56867658cbd81c7e7f3604f139b4603625ef5b68",
+    "hash": "3b42e8be70",
+    "height": 288,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUG/8QAIBAAAQMDBQEAAAAAAAAAAAAAAQIDBAAFEQYSEzFRB//EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAGBEBAAMBAAAAAAAAAAAAAAAAAgABBBH/2gAMAwEAAhEDEQA/AJ+vpkSNYd8hl8zlJ447zTykBpedwJwfR4TWy+fv3iVaEy0uuS4skBbYkPHkaT1tGSQRnokg+0pUqtTPFUe84n//2Q==",
+    "url": "https://preview.redd.it/zvhvk8s4vz581.jpg?width=640&crop=smart&auto=webp&s=3879c135a2b967d3557823ae1ed9f023d62c09c0",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 9,
+    "value": 9
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Actually pretty happy the experiment worked, one step closer to being able to create a hyper realistic tree!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ri3yn0/actually_pretty_happy_the_experiment_worked_one/"
+}
