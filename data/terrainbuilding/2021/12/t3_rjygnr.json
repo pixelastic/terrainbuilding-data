@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_th41s",
+    "name": "GWizRidesAgain"
+  },
+  "date": {
+    "day": 1639872000,
+    "full": 1639926139,
+    "month": 1638316800,
+    "week": 1639872000
+  },
+  "id": "t3_rjygnr",
+  "picture": {
+    "filesize": 45187,
+    "fullUrl": "https://preview.redd.it/b5qs9aooki681.jpg?width=4032&format=pjpg&auto=webp&s=40f59a90c6cd1904f49e62fdc292b81aaa0fd568",
+    "hash": "91bb69d92e",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQIH/8QAJBAAAQMDBAEFAAAAAAAAAAAAAQIDBAUGEQASIUExEyJhcaH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAFxEBAQEBAAAAAAAAAAAAAAAAEQEAAv/aAAwDAQACEQMRAD8A1SqV+FQKO/JlvBs7SlsAZKlkcAD70FYV5IuKloZdTsnR2UetlQ5PjJHkEnrGPnQd80GPVYwfkvykhhPsaQsBGeyRjk6q27ZplACZFPaWJD7QDri1lRX3z1+aJrmJOXf/2Q==",
+    "url": "https://preview.redd.it/b5qs9aooki681.jpg?width=640&crop=smart&auto=webp&s=093d4bbf636a9af57abd720daff04222e67e4efc",
+    "width": 640
+  },
+  "score": {
+    "comments": 17,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 360,
+    "value": 360
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Scrapyard Incinerator (My First Foray into the Grim Dark Future)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/rjygnr/scrapyard_incinerator_my_first_foray_into_the/"
+}
