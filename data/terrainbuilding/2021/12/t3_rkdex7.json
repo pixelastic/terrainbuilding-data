@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_ffee4agw",
+    "name": "YelanaDay"
+  },
+  "date": {
+    "day": 1639958400,
+    "full": 1639970546,
+    "month": 1638316800,
+    "week": 1639872000
+  },
+  "id": "t3_rkdex7",
+  "picture": {
+    "filesize": 67175,
+    "fullUrl": "https://preview.redd.it/f7dwb2el8m681.jpg?auto=webp&s=a8b41d5665b82900a77ee9dc69d4dbeff6fb97bb",
+    "hash": "988390f283",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABwb/xAAlEAABAwMDAwUAAAAAAAAAAAABAgMEABEhBRITBhRRIiMzQbH/xAAUAQEAAAAAAAAAAAAAAAAAAAAG/8QAHREAAAUFAAAAAAAAAAAAAAAAAAEDBBECEiFB8P/aAAwDAQACEQMRAD8AO4itJ1d6BHZZRAVvCX33SFA5IKrHAwBirWM/pXTUWRCXxS33JBQiQkAJRkpGB9en8oY5Fd0EhRHu7ceN1OEBbkbi01TncQ3B8byEkJsBa1gPNEnjYrInHbCZCVKjMf/Z",
+    "url": "https://preview.redd.it/f7dwb2el8m681.jpg?width=640&crop=smart&auto=webp&s=200e2695f21bd74633ef56ca05356527b5ecb3dc",
+    "width": 640
+  },
+  "score": {
+    "comments": 37,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 1370,
+    "value": 1370
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Miniature oil painting I made for my castle diorama",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/rkdex7/miniature_oil_painting_i_made_for_my_castle/"
+}
