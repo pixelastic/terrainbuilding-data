@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_2969xj0t",
+    "name": "trialsta"
+  },
+  "date": {
+    "day": 1640044800,
+    "full": 1640108151,
+    "month": 1638316800,
+    "week": 1639872000
+  },
+  "id": "t3_rljr52",
+  "picture": {
+    "filesize": 72142,
+    "fullUrl": "https://preview.redd.it/31qnncdulx681.jpg?width=4000&format=pjpg&auto=webp&s=eb195890a06811df03b7e8fa60b2c7af448fb576",
+    "hash": "f2707c1180",
+    "height": 314,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAIABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAEE/8QAIRAAAgECBgMAAAAAAAAAAAAAAQIDAAQFESExMkESE5H/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABgRAAMBAQAAAAAAAAAAAAAAAAABAhEh/9oADAMBAAIRAxEAPwCyjEpLueBYWlSBmVpn8VVQeObE77dfSKzT4di900aC1X15gM4KnTPU8uhSlTzbbwalnUf/2Q==",
+    "url": "https://preview.redd.it/31qnncdulx681.jpg?width=640&crop=smart&auto=webp&s=487128a3d03c2fcc5b46b0e31b69400bddb30779",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 0.94,
+    "ups": 46,
+    "value": 46
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Modified Kill Team Octarius Buildings",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/rljr52/modified_kill_team_octarius_buildings/"
+}
