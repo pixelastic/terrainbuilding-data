@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_8y6457oi",
+    "name": "Wr3k3m"
+  },
+  "date": {
+    "day": 1640131200,
+    "full": 1640183325,
+    "month": 1638316800,
+    "week": 1639872000
+  },
+  "id": "t3_rm6bzd",
+  "picture": {
+    "filesize": 116552,
+    "fullUrl": "https://preview.redd.it/wnzsfeglt3781.jpg?auto=webp&s=8e29e7c81026a14b18f25b7a2307d8029f2ea957",
+    "hash": "cff2797262",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAb/xAAlEAABBAECBQUAAAAAAAAAAAACAQMEBREAUQYSITFBBxMUYbH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAGhEAAgIDAAAAAAAAAAAAAAAAAQIAEQMSMf/aAAwDAQACEQMRAD8ABd8Eu0thSHSIcu/juE9LecxjkJETfAoiZwn3q5jQmGo7YyxZfkYy44oIvMW/XQKS8q6mpaNo1OjkKifKc6uxHcIntvL5HYvHbtjUvxL6l1dfaFHiiUoRFOYwLCIW35ocm7UvaioVAuf/2Q==",
+    "url": "https://preview.redd.it/wnzsfeglt3781.jpg?width=640&crop=smart&auto=webp&s=e463a559531791220f2f8b269195266ad6b5abb6",
+    "width": 640
+  },
+  "score": {
+    "comments": 13,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 13,
+    "value": 13
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "It’s alive! Finally got this fine tuned! Terrain will be next!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/rm6bzd/its_alive_finally_got_this_fine_tuned_terrain/"
+}
