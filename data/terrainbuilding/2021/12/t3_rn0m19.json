@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_2hdbilhk",
+    "name": "ragure"
+  },
+  "date": {
+    "day": 1640217600,
+    "full": 1640280391,
+    "month": 1638316800,
+    "week": 1639872000
+  },
+  "id": "t3_rn0m19",
+  "picture": {
+    "filesize": 157398,
+    "fullUrl": "https://preview.redd.it/8dkdvoq7ub781.jpg?width=2268&format=pjpg&auto=webp&s=82ee6dcd4c0134e8cb50f4c927fb2f4c6f660aee",
+    "hash": "71ca6f9e8e",
+    "height": 1138,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFAABAAAAAAAAAAAAAAAAAAAABf/EACgQAAEEAQICCwAAAAAAAAAAAAECAwQRAAUhBhMSFCMxUVJWYZKT0f/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAbEQABBAMAAAAAAAAAAAAAAAACAAEDMUGh8P/aAAwDAQACEQMRAD8AJh8PyH0uGdJdYksuB0tv9nYKe6xYs0AB74P1CR5mPuGPKlaW9N1J88XwozUh3mpabSvpBNqIbFprYEDY1t4YZyNB9TH4I/MGMXymKVhvtL//2Q==",
+    "url": "https://preview.redd.it/8dkdvoq7ub781.jpg?width=640&crop=smart&auto=webp&s=db01e70d2ef97276b084d82bb7e567fd47902309",
+    "width": 640
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 417,
+    "value": 417
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP. Spider model from the lord of the print. Needs alot of work tho.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/rn0m19/wip_spider_model_from_the_lord_of_the_print_needs/"
+}
