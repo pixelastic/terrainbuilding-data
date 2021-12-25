@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1o03vuts",
+    "name": "paladin_bih"
+  },
+  "date": {
+    "day": 1640304000,
+    "full": 1640361015,
+    "month": 1638316800,
+    "week": 1639872000
+  },
+  "id": "t3_rnowp3",
+  "picture": {
+    "filesize": 69318,
+    "fullUrl": "https://preview.redd.it/h9r17fkwhi781.jpg?width=1080&format=pjpg&auto=webp&s=d95e349e3a6c73b060f3e87044f50b71c21de39d",
+    "hash": "76580e8549",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQF/8QAKBAAAQIEAwgDAAAAAAAAAAAAAQIDAAQFERIhQQYTMTU2UXN0scLR/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABcRAQEBAQAAAAAAAAAAAAAAAAEAEiH/2gAMAwEAAhEDEQA/AJ0TVWlZTBLz024pxRViUsm5B1sbagHtGZtJUnXG96kBCG5dxLzjzhWHybZJHADLIfkK5zl7wn7wld6Dq3qo+YOQlpe3/9k=",
+    "url": "https://preview.redd.it/h9r17fkwhi781.jpg?width=640&crop=smart&auto=webp&s=ee62efaaee03ad0e2483f67dbd3de4264279eb63",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.95,
+    "ups": 53,
+    "value": 53
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Props to Black Magic Craft on YouTube for inspiring me to make my own mountain terrain.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/rnowp3/props_to_black_magic_craft_on_youtube_for/"
+}
