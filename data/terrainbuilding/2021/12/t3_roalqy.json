@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5ujtrmoe",
+    "name": "butterdrinker"
+  },
+  "date": {
+    "day": 1640390400,
+    "full": 1640441985,
+    "month": 1638316800,
+    "week": 1639872000
+  },
+  "id": "t3_roalqy",
+  "picture": {
+    "filesize": 58459,
+    "fullUrl": "https://preview.redd.it/zit8v06o6p781.jpg?width=4640&format=pjpg&auto=webp&s=41239b62bb348e5d0c6f2e546831d67d4366755c",
+    "hash": "e14c052ef2",
+    "height": 479,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwQG/8QAJBAAAQMDAwQDAAAAAAAAAAAAAQIDBAURIQAGExQxUYEyQWH/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAGREBAAMBAQAAAAAAAAAAAAAAAQACAxEh/9oADAMBAAIRAxEAPwCs7coZhsKagF5qK6sPuNLKltYKlAC+ST6v3+9HtYZojNBM5IepaXHlmHGWOoD6RYXKlC4wbW/PWtrWtvwn6O7VY/NBqXGl0yYThaUpWMm2D38aI570mpbgXHqMp+UmGUNoU6q6lDPy86PyVuNHkT0BzS/s/9k=",
+    "url": "https://preview.redd.it/zit8v06o6p781.jpg?width=640&crop=smart&auto=webp&s=4544cc919de47a9faa225bc23989b0277c1f9f78",
+    "width": 640
+  },
+  "score": {
+    "comments": 9,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 105,
+    "value": 105
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Experimenting with boomerang shaped bridges",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/roalqy/experimenting_with_boomerang_shaped_bridges/"
+}

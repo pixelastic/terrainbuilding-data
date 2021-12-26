@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_av01xl1",
+    "name": "cronenbergbliss"
+  },
+  "date": {
+    "day": 1640390400,
+    "full": 1640469545,
+    "month": 1638316800,
+    "week": 1639872000
+  },
+  "id": "t3_roidu8",
+  "picture": {
+    "filesize": 94292,
+    "fullUrl": "https://preview.redd.it/di045clngr781.jpg?auto=webp&s=f956ccdc4f03afa65f1965f08ee5ab1a8191a59f",
+    "hash": "1b594e1158",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgj/xAAjEAABBAEDBAMAAAAAAAAAAAABAgMEBREABkETFSJxIVGB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAYEQADAQEAAAAAAAAAAAAAAAAAASERAv/aAAwDAQACEQMRAD8Aabg31S1wdjwpcSVYoWWukpZGCMZzj9HsaQbXsu6UrMxxKG1OFXinOPhRHPrUpz7mvkXsmeXipx19TpDbRB8iTgEnGlNXvexbgMtV859uM2ClKcAcknj7Op3wso+2H//Z",
+    "url": "https://preview.redd.it/di045clngr781.jpg?width=640&crop=smart&auto=webp&s=48e0d28894f0fcebf0d8293edd82a612a1b9fab8",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.95,
+    "ups": 47,
+    "value": 47
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First time build - text in the comments.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/roidu8/first_time_build_text_in_the_comments/"
+}
