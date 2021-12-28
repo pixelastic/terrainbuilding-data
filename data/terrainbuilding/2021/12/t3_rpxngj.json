@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_2vumj4ef",
+    "name": "kokonl"
+  },
+  "date": {
+    "day": 1640563200,
+    "full": 1640640079,
+    "month": 1638316800,
+    "week": 1640476800
+  },
+  "id": "t3_rpxngj",
+  "picture": {
+    "filesize": 75979,
+    "fullUrl": "https://preview.redd.it/tky4c21rj5881.jpg?width=2231&format=pjpg&auto=webp&s=1d25c4aaff25c3a12bdb2bd3db8416fc6ec4bc99",
+    "hash": "ba56350c9a",
+    "height": 945,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwMF/8QAIRAAAgEDBAMBAAAAAAAAAAAAAQIDBAURAAYSQSEigWH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQIAIf/aAAwDAQACEQMRAD8AhveaK/bZSihZC1XgRyMccZFBK+MdkEfdBs1ovUErxSW9o3Q8SrcQQf3J0j2KOpqrfHyoKeaWmUnnUOM4JyB5+9d60ob9bZI1apWiWcj3V1RiD2CSMnQppOZtSO//2Q==",
+    "url": "https://preview.redd.it/tky4c21rj5881.jpg?width=640&crop=smart&auto=webp&s=8d40d0444c6e3e3fb7f075d546ec3c62c7763b1d",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.96,
+    "ups": 20,
+    "value": 20
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP Baba Yaga hut (with playable interior)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/rpxngj/wip_baba_yaga_hut_with_playable_interior/"
+}
