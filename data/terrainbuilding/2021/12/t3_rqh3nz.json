@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_2hdbilhk",
+    "name": "ragure"
+  },
+  "date": {
+    "day": 1640649600,
+    "full": 1640701764,
+    "month": 1638316800,
+    "week": 1640476800
+  },
+  "id": "t3_rqh3nz",
+  "picture": {
+    "filesize": 75534,
+    "fullUrl": "https://preview.redd.it/wng1loa6na881.jpg?width=1080&format=pjpg&auto=webp&s=627ad3c87ebd1bd723b711fac987ccc284447891",
+    "hash": "f4e0f399ef",
+    "height": 958,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAJxAAAgIABAMJAAAAAAAAAAAAAQIDBAAFERIGIjEHFCEjMkGBscH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAERAhL/2gAMAwEAAhEDEQA/AJd/tClya0+W3KKRS7eWRHDeocpH3hH3qOVVdiQWUE7hoenvjBrlt8wtPLPBJK5bVSjABfk+PXCAcV3kUL5I0AGm0n9wWOKCMN19H//Z",
+    "url": "https://preview.redd.it/wng1loa6na881.jpg?width=640&crop=smart&auto=webp&s=4a15fbe6f14aa0fcc8328f465f9aa2b3d0e94021",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 43,
+    "value": 43
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Finished this model with custom base. The model is a 3d printed model from lord of the print.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/rqh3nz/finished_this_model_with_custom_base_the_model_is/"
+}
