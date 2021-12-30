@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_2l0frov9",
+    "name": "badbadradbad"
+  },
+  "date": {
+    "day": 1640736000,
+    "full": 1640805856,
+    "month": 1638316800,
+    "week": 1640476800
+  },
+  "id": "t3_rrga8o",
+  "picture": {
+    "filesize": 49663,
+    "fullUrl": "https://preview.redd.it/ve5hd7no8j881.jpg?auto=webp&s=9fe31e1480de14a81cc1c17ad399e332b528e28a",
+    "hash": "fa69ffcede",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAIxAAAgIBBAICAwAAAAAAAAAAAQIDBAUAERIhBkEHMRMicf/EABQBAQAAAAAAAAAAAAAAAAAAAAX/xAAaEQEAAgMBAAAAAAAAAAAAAAABADECERJB/9oADAMBAAIRAxEAPwB3xvM10oV/yQbyCw0SSOQTJGAGZh747kjv3qxxGXpXzIaqOEQ7BnHHl/B96wzxOJ8/LHUv2LAATmssMhjdSBv0R17P2NOfG2SunPZqhNYaaKmiGJnUcv2Ox3IA36UaLS9+RBUyOW5//9k=",
+    "url": "https://preview.redd.it/ve5hd7no8j881.jpg?width=640&crop=smart&auto=webp&s=0b5f6d880c692bb5fa0677c66cfdee26d69135a6",
+    "width": 640
+  },
+  "score": {
+    "comments": 10,
+    "downs": 0,
+    "ratio": 0.91,
+    "ups": 29,
+    "value": 29
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "It’s all coming together",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/rrga8o/its_all_coming_together/"
+}

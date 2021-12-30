@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4h7hepgr",
+    "name": "Malikalikestacos"
+  },
+  "date": {
+    "day": 1640736000,
+    "full": 1640776244,
+    "month": 1638316800,
+    "week": 1640476800
+  },
+  "id": "t3_rr5sq3",
+  "picture": {
+    "filesize": 33029,
+    "fullUrl": "https://preview.redd.it/u2rvsuslsg881.jpg?width=2000&format=pjpg&auto=webp&s=daf8787965a3fa7e86141212d4576400ccc4d3b1",
+    "hash": "7d64d99ad4",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQMI/8QAIxAAAQQBBAEFAAAAAAAAAAAAAQIDBAURAAYhQRMSIjFRkf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDP+x6WtnJsLPcDryKmubC3G2CA48onCUA9Z7OqX0GksKdy123Hkwkx1BD8WQ95eDwFJVgc5IyPzvQtJZiCp5mShb1fJT45DKFekqGQQUnkBQIBBxprcN7SCjRT7Xr5TEdaw5KkzHAt54j4HtACUj60H//Z",
+    "url": "https://preview.redd.it/u2rvsuslsg881.jpg?width=640&crop=smart&auto=webp&s=74f4050d55b46f8df670c438cb12805be8c4727c",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 0.96,
+    "ups": 69,
+    "value": 69
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Working on some fleetscale terrain (more info in the comment)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/rr5sq3/working_on_some_fleetscale_terrain_more_info_in/"
+}
