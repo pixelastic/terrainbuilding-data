@@ -4,27 +4,27 @@
     "name": "Quadrante-Isegrim"
   },
   "date": {
-    "day": 1640736000,
-    "full": 1640788990,
+    "day": 1640822400,
+    "full": 1640853720,
     "month": 1638316800,
     "week": 1640476800
   },
-  "id": "t3_rr9pak",
+  "id": "t3_rrwxyi",
   "picture": {
     "filesize": 26404,
-    "fullUrl": "https://preview.redd.it/nwikrqzjuh881.jpg?width=4032&format=pjpg&auto=webp&s=2ee4df6048750af892d8c90794fd82c18033fe6c",
+    "fullUrl": "https://preview.redd.it/h0s1zyy07n881.jpg?width=4032&format=pjpg&auto=webp&s=2098c830b46ea4c63d831dbe1aaf32e9188be433",
     "hash": "509fc51023",
     "height": 360,
     "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUH/8QAJRAAAQMEAAUFAAAAAAAAAAAAAQIDBAAFESEGEhNhcRQxMkJR/8QAFAEBAAAAAAAAAAAAAAAAAAAABf/EABYRAQEBAAAAAAAAAAAAAAAAAAASYf/aAAwDAQACEQMRAD8AXeYPFNukLlsrE6CTlbTbY6rYxjIH2Gs632oUAz71B9UhMmOAopKH2eQ5H5kbHetYc9x5qfdPkrxRF4Sl/9k=",
-    "url": "https://preview.redd.it/nwikrqzjuh881.jpg?width=640&crop=smart&auto=webp&s=d4901f8f67a33e0255e329afdc89e7afc5e37cf2",
+    "url": "https://preview.redd.it/h0s1zyy07n881.jpg?width=640&crop=smart&auto=webp&s=7badbdee104c7ae317d73ef998b64012e0e24e47",
     "width": 640
   },
   "score": {
-    "comments": 11,
+    "comments": 1,
     "downs": 0,
-    "ratio": 1,
-    "ups": 288,
-    "value": 288
+    "ratio": 0.98,
+    "ups": 81,
+    "value": 81
   },
   "subreddit": {
     "id": "t5_2xy5e",
@@ -32,5 +32,5 @@
   },
   "tags": [],
   "title": "Fence",
-  "url": "https://www.reddit.com/r/TerrainBuilding/comments/rr9pak/fence/"
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/rrwxyi/fence/"
 }
