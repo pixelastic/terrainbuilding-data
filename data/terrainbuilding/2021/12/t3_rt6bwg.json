@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_tz6x6",
+    "name": "ArtDeve"
+  },
+  "date": {
+    "day": 1640908800,
+    "full": 1640994055,
+    "month": 1638316800,
+    "week": 1640476800
+  },
+  "id": "t3_rt6bwg",
+  "picture": {
+    "filesize": 61501,
+    "fullUrl": "https://preview.redd.it/v2s8wa3jny881.jpg?width=5184&format=pjpg&auto=webp&s=0d6e16307eb0ccdbdd7cc578793abf508d2df101",
+    "hash": "b2f3f28688",
+    "height": 427,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwYI/8QAIxAAAQMEAQQDAAAAAAAAAAAAAQIDEQAEEjEFBgchQRMjYf/EABQBAQAAAAAAAAAAAAAAAAAAAAX/xAAYEQEBAQEBAAAAAAAAAAAAAAACAQADEf/aAAwDAQACEQMRAD8Ai+g+AZuLl1SFlFo4oDFySoROx7iDWhO09ozYI5Nq0cbW0VoKiVEuAx4B9aJ/aCuEHx3V8htSkpzSICj4lMml3s06vPkGZ+vLOIEzMb3qih1qeQZMnkm//9k=",
+    "url": "https://preview.redd.it/v2s8wa3jny881.jpg?width=640&crop=smart&auto=webp&s=84d0f5b9859db2cc0e4cc0ef45b7b937c43c96c7",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 0.96,
+    "ups": 32,
+    "value": 32
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Finally finished it!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/rt6bwg/finally_finished_it/"
+}

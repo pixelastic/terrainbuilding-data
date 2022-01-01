@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_bdocbcq0",
+    "name": "Comment_Loose"
+  },
+  "date": {
+    "day": 1640908800,
+    "full": 1640987266,
+    "month": 1638316800,
+    "week": 1640476800
+  },
+  "id": "t3_rt441l",
+  "picture": {
+    "filesize": 94608,
+    "fullUrl": "https://preview.redd.it/l0liia0z7y881.jpg?width=9000&format=pjpg&auto=webp&s=cc29077c9f7ee4af039166482b3eebd8d77cc003",
+    "hash": "6c5bb069b0",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgX/xAAhEAACAQMEAwEAAAAAAAAAAAABAgMABBEFBhIhBxMxUf/EABQBAQAAAAAAAAAAAAAAAAAAAAX/xAAdEQAABgMBAAAAAAAAAAAAAAAAAQIDBBEFEiIx/9oADAMBAAIRAxEAPwAr5AsZ9Q3dcpbyIINVtouUkeSASoDEgfnHNBX2Bfq7gJI6hjhgU7Gej9pZZRxDUpZpYipDD1KrDsAfRVNst3zkGaGenuErmgzHxyDve/R//9k=",
+    "url": "https://preview.redd.it/l0liia0z7y881.jpg?width=640&crop=smart&auto=webp&s=6d4777ae5b65e490d75ddb3ae808305cac61bc36",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 11,
+    "value": 11
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I started my terrain painting journey a few weeks ago. I am really excited about how it's going.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/rt441l/i_started_my_terrain_painting_journey_a_few_weeks/"
+}

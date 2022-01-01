@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_53toidry",
+    "name": "foamcraftdm"
+  },
+  "date": {
+    "day": 1640908800,
+    "full": 1640967128,
+    "month": 1638316800,
+    "week": 1640476800
+  },
+  "id": "t3_rsx6rb",
+  "picture": {
+    "filesize": 37587,
+    "fullUrl": "https://preview.redd.it/25ft8db8kw881.jpg?width=4032&format=pjpg&auto=webp&s=b3b71c163262d5e5286d3d93ee02587c55880e91",
+    "hash": "45323a88a6",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFBv/EACYQAAEDAwEIAwAAAAAAAAAAAAECAwQABhESBQchNDVhc5GCscH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGREAAwADAAAAAAAAAAAAAAAAAAECAwQR/9oADAMBAAIRAxEAPwBd9bclpuSQqO9JSh0N6EIJIBKcHtjIrVbtrqcmRDCkqUppoh1LqznSDkFHvj7qc/zXw/aLd6e75FfZoEbNDqxS1w//2Q==",
+    "url": "https://preview.redd.it/25ft8db8kw881.jpg?width=640&crop=smart&auto=webp&s=476f593967bbeea21933131df31030de4aedfa77",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 50,
+    "value": 50
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First attempt at a building",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/rsx6rb/first_attempt_at_a_building/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_9up06",
+    "name": "bishmanrock"
+  },
+  "date": {
+    "day": 1640908800,
+    "full": 1640969143,
+    "month": 1638316800,
+    "week": 1640476800
+  },
+  "id": "t3_rsxwjk",
+  "picture": {
+    "filesize": 62779,
+    "fullUrl": "https://preview.redd.it/vtpxfb68ow881.jpg?auto=webp&s=20573dc4c9f9b7d7271eb2beac1056821cfd9584",
+    "hash": "be27410c93",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwUGB//EACQQAAEEAQQCAgMAAAAAAAAAAAIBAwQFEQAGEyEHEhRxMcHh/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABkRAAEFAAAAAAAAAAAAAAAAAAIAAQMiMf/aAAwDAQACEQMRAD8AbUG2Ki4sZwzrGU1OaeH5FeaA2iN9+vqophUz+/vQ/I+26Cno1fmT2pMhkuRIzrgcoqefUhT8L/NY5P8ALm5Dli6LdY3IBMA+MROQfolyupu23xeXUkZFlIbfkgueUmhUl66zlMLjK460OONzG2pJkwlXF//Z",
+    "url": "https://preview.redd.it/vtpxfb68ow881.jpg?width=640&crop=smart&auto=webp&s=6bd69907c8452227bef73a9519a377767cb4ed58",
+    "width": 640
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 64,
+    "value": 64
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Starting my first larger terrain conversion - looking for tips/suggestions before moving ahead",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/rsxwjk/starting_my_first_larger_terrain_conversion/"
+}
