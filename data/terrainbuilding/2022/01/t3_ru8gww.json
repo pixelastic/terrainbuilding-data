@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_arlj5ieu",
+    "name": "WeltenbauerClub"
+  },
+  "date": {
+    "day": 1641081600,
+    "full": 1641125665,
+    "month": 1640995200,
+    "week": 1641081600
+  },
+  "id": "t3_ru8gww",
+  "picture": {
+    "filesize": 90429,
+    "fullUrl": "https://preview.redd.it/5grb4zonn9981.jpg?width=1440&format=pjpg&auto=webp&s=6989dde548046c80fb7a5e627f9b778c7927c7fa",
+    "hash": "4d649d6a58",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFB//EACQQAAIBAwMEAwEAAAAAAAAAAAECBAMFEQAhMRITFDJCUVKR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAYEQADAQEAAAAAAAAAAAAAAAAAARECIv/aAAwDAQACEQMRAD8AzaZZpMQx0dVZ67dKhDkcZ3bgao3OM89LNZ0KURApuK1bt9PcbPrn5Y330Xec1eJY/BlP5EPqZ3JOQ5KkE59hgMAP7tpiZdo8u1TI8mM3kSEKM9Mgq5/RzweOPoagunHB+j//2Q==",
+    "url": "https://preview.redd.it/5grb4zonn9981.jpg?width=640&crop=smart&auto=webp&s=0fdcfa57d89a85ca3adeb1c41db5841fe3ed9e1a",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 81,
+    "value": 81
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Made some small jungle scatter terrain for my gaming table of drowned earth and freebooters fate",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ru8gww/made_some_small_jungle_scatter_terrain_for_my/"
+}
