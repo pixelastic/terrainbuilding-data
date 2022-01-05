@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_12wv0fk",
+    "name": "Heygul"
+  },
+  "date": {
+    "day": 1641254400,
+    "full": 1641285733,
+    "month": 1640995200,
+    "week": 1641081600
+  },
+  "id": "t3_rvprwn",
+  "picture": {
+    "filesize": 33484,
+    "fullUrl": "https://preview.redd.it/sugq1vhmvm981.jpg?auto=webp&s=e2140a9013675d704f2b90952bf9e3496ec9235a",
+    "hash": "b36302f694",
+    "height": 507,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAANABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABwX/xAAlEAACAQMDAgcAAAAAAAAAAAABAgMEBREABiEHEhMVIkFRYfD/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAHhEAAgEDBQAAAAAAAAAAAAAAAQIDABEhBBNRgZH/2gAMAwEAAhEDEQA/ADHo55O73B6+gimLOqgTMGRF7Wbju98qf2dJt7tm1qjZFxutHZ0hnjhUxskPhyAkjAxn7PGhvY9pWfa13uKTyRT0swKgcq4CHKsDwQQxGq1Ru+4XLZz25hHApkRHaH0h07ThSPjR8unR5twEgg848pFFdYs2sR3X/9k=",
+    "url": "https://preview.redd.it/sugq1vhmvm981.jpg?width=640&crop=smart&auto=webp&s=ab37a0dc914ba8b617600bab2d18104b6178ac85",
+    "width": 640
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 131,
+    "value": 131
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A little house in progress",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/rvprwn/a_little_house_in_progress/"
+}
