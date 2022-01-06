@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_qti6ew7",
+    "name": "pogre"
+  },
+  "date": {
+    "day": 1641340800,
+    "full": 1641372557,
+    "month": 1640995200,
+    "week": 1641081600
+  },
+  "id": "t3_rwic19",
+  "picture": {
+    "filesize": 128115,
+    "fullUrl": "https://preview.redd.it/zskcjtss1u981.jpg?width=3024&format=pjpg&auto=webp&s=1719757d692a5d92f5a1d5e18ba002c4b8a0cfb0",
+    "hash": "bc98c62b10",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAJBAAAQQBAwMFAAAAAAAAAAAAAQIDBBEGAAUhEhNBFCMxYbH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABkRAAIDAQAAAAAAAAAAAAAAAAIRAAMSIf/aAAwDAQACEQMRAD8ABi4Dt7iCvcJ0l0rbSB2glAqgT4N86Gk4xI2p9bEeI/JbWe4HEEC745++NaN3EswbbQPXOIbKR0+8V38eRVeNSDZ8sbtLk6QFA80/Q/NTiOlZfI8AubU//9k=",
+    "url": "https://preview.redd.it/zskcjtss1u981.jpg?width=640&crop=smart&auto=webp&s=95588543d6f42dd4ef1f4703b086c19534ff6369",
+    "width": 640
+  },
+  "score": {
+    "comments": 10,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 275,
+    "value": 275
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A Big Ziggurat for D&D",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/rwic19/a_big_ziggurat_for_dd/"
+}
