@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_3m7gsia7",
+    "name": "burnt-dough"
+  },
+  "date": {
+    "day": 1641600000,
+    "full": 1641679659,
+    "month": 1640995200,
+    "week": 1641081600
+  },
+  "id": "t3_rzbeix",
+  "picture": {
+    "filesize": 189217,
+    "fullUrl": "https://preview.redd.it/19cnggyyeja81.jpg?auto=webp&s=bc528982ca806fead40197a1b29052b153a83f5a",
+    "hash": "c80ed85287",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQF/8QAIxAAAQQBBAIDAQAAAAAAAAAAAQIDBAUSAAYRMSFBIlFxsf/EABUBAQEAAAAAAAAAAAAAAAAAAAIE/8QAGxEAAgMAAwAAAAAAAAAAAAAAAQIAAxEEEiH/2gAMAwEAAhEDEQA/AB1g9P2vc0TFcA3DeLqVpdZIxUSCvHLyR0B+aQW0+xh2DrFTMmtxEYhIkoClE4jk/ApABPPj196ttI0S3fdfsHHEzG3lK89oIPXHrrjjWxt/bUi3gGSVHHNSEEnsD3/dQLyFZzggstu6AD3J/9k=",
+    "url": "https://preview.redd.it/19cnggyyeja81.jpg?width=640&crop=smart&auto=webp&s=166c4b3c5ac135f889c92e55b546e63d44d841d6",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.88,
+    "ups": 6,
+    "value": 6
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A boring wizards tower I made",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/rzbeix/a_boring_wizards_tower_i_made/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_8yxdjjnw",
+    "name": "Boiz_Station"
+  },
+  "date": {
+    "day": 1641600000,
+    "full": 1641650045,
+    "month": 1640995200,
+    "week": 1641081600
+  },
+  "id": "t3_rz0cgv",
+  "picture": {
+    "filesize": 44214,
+    "fullUrl": "https://preview.redd.it/qezfhd64yga81.jpg?width=4535&format=pjpg&auto=webp&s=c6473dc3d9ffeb9c744a3a1880a7127508eb639f",
+    "hash": "46e5d01b43",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAYH/8QAJRAAAgEEAQEJAAAAAAAAAAAAAQIDAAQFEUEhBhITIjE0c4Gx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAP/xAAYEQEBAAMAAAAAAAAAAAAAAAABAAIDEf/aAAwDAQACEQMRAD8AjJrjtTlUKyWd0lxIQI45V8IMOSWfQHGhzuhNgMi+BuZsjBeRZHvssMS6bflBXYGz16itVb2kvyGjt6fZ/aOPSi7Ub//Z",
+    "url": "https://preview.redd.it/qezfhd64yga81.jpg?width=640&crop=smart&auto=webp&s=567c0e6171f8b18b14985ae1cb71a0d40e44cce4",
+    "width": 640
+  },
+  "score": {
+    "comments": 33,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 667,
+    "value": 667
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Hello everyone, I made a \"Godzilla vs Cthulhu\" diorama with clay and resin, I hope you like it.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/rz0cgv/hello_everyone_i_made_a_godzilla_vs_cthulhu/"
+}

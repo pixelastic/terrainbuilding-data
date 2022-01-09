@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_12qd56",
+    "name": "TerraKast"
+  },
+  "date": {
+    "day": 1641600000,
+    "full": 1641672685,
+    "month": 1640995200,
+    "week": 1641081600
+  },
+  "id": "t3_rz8rei",
+  "picture": {
+    "filesize": 92852,
+    "fullUrl": "https://preview.redd.it/mq6qk108uia81.jpg?width=3000&format=pjpg&auto=webp&s=8e02ad614a7b89b12384b3641fb47c6cc40ed0dc",
+    "hash": "6d4ccc0d6e",
+    "height": 800,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFAABAAAAAAAAAAAAAAAAAAAABv/EACUQAAEDAwMDBQAAAAAAAAAAAAECAwUEERIABjETISIHUWFxof/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGREBAQADAQAAAAAAAAAAAAAAAQIABBGR/9oADAMBAAIRAxEAPwAv6TbVhJ2BZq5Slcqap1BQo5G6vLGw9sQAfzS+YgNw00g8zCSrr7AVctMt59EcJSrxPfEDR/ZzLsGA1SJadQh9a2VipSkpQSSBcm4I4P2dMKl2Vpat1uPR12XLPlWfcKWO4JHPFh8anjbgpKe+4961MjJzP//Z",
+    "url": "https://preview.redd.it/mq6qk108uia81.jpg?width=640&crop=smart&auto=webp&s=e885a9fafcc2111cf2bfbd481e5d91695e8fe0ad",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.96,
+    "ups": 19,
+    "value": 19
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Just needs a quick clean before painting",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/rz8rei/just_needs_a_quick_clean_before_painting/"
+}
