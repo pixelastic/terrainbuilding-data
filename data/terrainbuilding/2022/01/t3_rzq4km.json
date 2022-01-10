@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_ve9na",
+    "name": "MickBuck"
+  },
+  "date": {
+    "day": 1641686400,
+    "full": 1641729293,
+    "month": 1640995200,
+    "week": 1641686400
+  },
+  "id": "t3_rzq4km",
+  "picture": {
+    "filesize": 35355,
+    "fullUrl": "https://preview.redd.it/exoylp5gina81.jpg?auto=webp&s=24f4decebcc779fce28f8fbd54f78846b4801d6c",
+    "hash": "2354c19093",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQf/xAAmEAABAgQFBAMAAAAAAAAAAAACAQUAAwQRBhITITEHNkGBUXKx/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABwRAAEEAwEAAAAAAAAAAAAAAAEAAgMhERITMf/aAAwDAQACEQMRAD8ASYcBvTtSTJr7QN5EaJolNmLdAXlEyrt7vAL/ANMqtqKqJtZ9SnmKCGGoU0SQVvsl8w7/ABz5i0YA7akfcv2Gqrj3BoHlsY1pNmA6HN+hf//Z",
+    "url": "https://preview.redd.it/exoylp5gina81.jpg?width=640&crop=smart&auto=webp&s=e26d44ddf87e05910780b5bacb22a0ac233c33fc",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 19,
+    "value": 19
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First attempt at making terrain using foam (Black Magic Crafts method for cutting and weathering!) WIP",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/rzq4km/first_attempt_at_making_terrain_using_foam_black/"
+}

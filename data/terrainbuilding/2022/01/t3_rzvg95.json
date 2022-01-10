@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_3b3862dw",
+    "name": "z_munny"
+  },
+  "date": {
+    "day": 1641686400,
+    "full": 1641746080,
+    "month": 1640995200,
+    "week": 1641686400
+  },
+  "id": "t3_rzvg95",
+  "picture": {
+    "filesize": 75362,
+    "fullUrl": "https://preview.redd.it/lafo0iqgwoa81.jpg?width=4032&format=pjpg&auto=webp&s=bd8aa8b2ad91a9370278a80a8617f48b306307a2",
+    "hash": "de270030ff",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQEH/8QAIxAAAgEDAwQDAAAAAAAAAAAAAgMBBAURACExBgcSUSJxsf/EABQBAQAAAAAAAAAAAAAAAAAAAAX/xAAZEQEAAwEBAAAAAAAAAAAAAAABAAIhEzH/2gAMAwEAAhEDEQA/ABrV0kq6UVEuoJiSpAJAtX4iTY9zmJ3jiJjU6qsVXZKd1RSBNfTCHyB0CcrxziIj1P3rQk25TbyUGx+GTkoFsj+aA7kpG0RD6EmC3BD5Ewi24xvOjRuPuRDk2dn/2Q==",
+    "url": "https://preview.redd.it/lafo0iqgwoa81.jpg?width=640&crop=smart&auto=webp&s=7080753e1df135320a881c209dfed5cd758a2c36",
+    "width": 640
+  },
+  "score": {
+    "comments": 17,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 331,
+    "value": 331
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "D&D Terrain",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/rzvg95/dd_terrain/"
+}

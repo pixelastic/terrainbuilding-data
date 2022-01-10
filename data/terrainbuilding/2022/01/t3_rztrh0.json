@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_16t58j",
+    "name": "Projekt_BF"
+  },
+  "date": {
+    "day": 1641686400,
+    "full": 1641741286,
+    "month": 1640995200,
+    "week": 1641686400
+  },
+  "id": "t3_rztrh0",
+  "picture": {
+    "filesize": 32872,
+    "fullUrl": "https://preview.redd.it/kjhh15o4ioa81.jpg?auto=webp&s=fc6dcfd6b50f4afec1e13bfdce182844970572eb",
+    "hash": "01002651eb",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQH/8QAIRAAAgEDBQADAAAAAAAAAAAAAQIEAxEhAAUGEjETQVH/xAAUAQEAAAAAAAAAAAAAAAAAAAAB/8QAGxEAAgIDAQAAAAAAAAAAAAAAAQIAEQMEQXH/2gAMAwEAAhEDEQA/AMP4UkKnTlU90kmKQoYFaoQscj8z9ahgmZum5iNHkPUJBCl/PMnzy2jyOfl7HJY5vp5xSJSdWqkHv1sLG2nY2FGAIEFjvT7FEtruf//Z",
+    "url": "https://preview.redd.it/kjhh15o4ioa81.jpg?width=640&crop=smart&auto=webp&s=b262a612d09bd4880658e9420aaacfdbfba8179b",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 26,
+    "value": 26
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Working on a building for 5 Parsecs from Home, 28mm. Vid screen is done, lots more left.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/rztrh0/working_on_a_building_for_5_parsecs_from_home/"
+}

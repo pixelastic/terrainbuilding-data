@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_76iz0h",
+    "name": "HonorabruSudoku"
+  },
+  "date": {
+    "day": 1641686400,
+    "full": 1641730512,
+    "month": 1640995200,
+    "week": 1641686400
+  },
+  "id": "t3_rzqg3h",
+  "picture": {
+    "filesize": 102533,
+    "fullUrl": "https://preview.redd.it/5aiuwybklna81.jpg?width=2560&format=pjpg&auto=webp&s=37f85f554d84194fa3678fc843075fca1054e428",
+    "hash": "9888b14965",
+    "height": 689,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA8DASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIFB//EACUQAAIBAwMCBwAAAAAAAAAAAAECAwQFEQAhMUFRBgcSExQiof/EABUBAQEAAAAAAAAAAAAAAAAAAAIE/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQACBP/aAAwDAQACEQMRAD8ArWfzOtslknY29KOtWJGQA+6Mt3240tr8fWS9zNFfqEUUrZVCoyGK852GOus1rY5KulemTNJQgqsVOgAJwMl333OeM8dtFZAfiJE8UldGvpEDlA7IcfYEnpnj81IdgMjI3//Z",
+    "url": "https://preview.redd.it/5aiuwybklna81.jpg?width=640&crop=smart&auto=webp&s=6ec106ad892dd048f5b731a677e73a570806809a",
+    "width": 640
+  },
+  "score": {
+    "comments": 23,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 391,
+    "value": 391
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Monolithic Expansion and Improvements",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/rzqg3h/monolithic_expansion_and_improvements/"
+}
