@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_8n8jsfub",
+    "name": "DrPsyched"
+  },
+  "date": {
+    "day": 1641772800,
+    "full": 1641833508,
+    "month": 1640995200,
+    "week": 1641686400
+  },
+  "id": "t3_s0oibo",
+  "picture": {
+    "filesize": 104928,
+    "fullUrl": "https://preview.redd.it/6hossewf4wa81.jpg?auto=webp&s=7bce6fa40ef12c219c31c147295b6c2b81e3f4a7",
+    "hash": "d2e7e5c432",
+    "height": 815,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGB//EACUQAAEDAwMEAwEAAAAAAAAAAAECAwQFERIABiEiMUFxExQyUf/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAYEQEBAQEBAAAAAAAAAAAAAAABAgARA//aAAwDAQACEQMRAD8Ayl+W8Zcdx4qLTLCXHXc8V5KGSl2/RUTf0Lf3TaXuB7bVVkx41RqhjuJQtBju2PIJ6gojmxHa/vQ9Jaj1OA1nPjRXkpIeFk5uI8tkkgkW7eNU27GNurnRmqf9J+A1FaS18zoK0nHqCiSOq45tx20WyV4mWeVM93//2Q==",
+    "url": "https://preview.redd.it/6hossewf4wa81.jpg?width=640&crop=smart&auto=webp&s=309eb4bf5c99c8c23c71e3b84e07334233b8607c",
+    "width": 640
+  },
+  "score": {
+    "comments": 12,
+    "downs": 0,
+    "ratio": 0.95,
+    "ups": 17,
+    "value": 17
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "How can I recreat the diamonds?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/s0oibo/how_can_i_recreat_the_diamonds/"
+}

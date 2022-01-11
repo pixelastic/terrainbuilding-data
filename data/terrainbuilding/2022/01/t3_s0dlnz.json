@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_75zu7w6v",
+    "name": "Independence-Salt"
+  },
+  "date": {
+    "day": 1641772800,
+    "full": 1641797365,
+    "month": 1640995200,
+    "week": 1641686400
+  },
+  "id": "t3_s0dlnz",
+  "picture": {
+    "filesize": 47661,
+    "fullUrl": "https://preview.redd.it/g3eo0y7v4ta81.jpg?width=4032&format=pjpg&auto=webp&s=99b197d6aa31d7795479b6fb6b9abb936c2431a8",
+    "hash": "2ee01e010c",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwIE/8QAIRAAAgIBBAIDAAAAAAAAAAAAAQMEEQIABQYhEzESQYH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABoRAAICAwAAAAAAAAAAAAAAAAARAQMTIUH/2gAMAwEAAhEDEQA/ADyVyNyoMlUqKybk2vhJY9g8fXqgaP7rRxPlu67a9boDmJcsEeRZFi/enDZtrgoYqIuGjwrXYBxu/ru9QDHdyp+0MgQTBZBLMsQgAnLKxdjsVXWpoufBsS0z/9k=",
+    "url": "https://preview.redd.it/g3eo0y7v4ta81.jpg?width=640&crop=smart&auto=webp&s=c85c0571af92080af77594af9e9bf1a939ee7625",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 3,
+    "value": 3
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Necromunda Project Goliath Territory",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/s0dlnz/necromunda_project_goliath_territory/"
+}

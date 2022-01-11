@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_b44txumu",
+    "name": "Custodian_Exemplo"
+  },
+  "date": {
+    "day": 1641772800,
+    "full": 1641781620,
+    "month": 1640995200,
+    "week": 1641686400
+  },
+  "id": "t3_s08kk7",
+  "picture": {
+    "filesize": 127805,
+    "fullUrl": "https://preview.redd.it/7zpd0kd5ura81.jpg?width=2733&format=pjpg&auto=webp&s=3a5b6b7c6921bbe10ec56b6045c682909758f81f",
+    "hash": "5d6e4ac24c",
+    "height": 801,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgMH/8QAJBAAAgIBAwMFAQAAAAAAAAAAAQIDBBEFBhIAIUEUFSIxMnH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGhEAAgIDAAAAAAAAAAAAAAAAAQIAERIhUf/aAAwDAQACEQMRAD8AnoGn+u2tbqFE1G3UPACWUvV5BQQxRRyLfIjOePbP9P6nF7XcMWs7HhmtSqJjJUtuVfkP12PnrQtobx2m8zCGKHb12w5SRbKcK1hiviQDBOD9HB6ZtpNjkFrX3ZVUDKopUjxgdBdloZDcQqFieT//2Q==",
+    "url": "https://preview.redd.it/7zpd0kd5ura81.jpg?width=640&crop=smart&auto=webp&s=b3d8a0b5cc25f96bbb717b0f837ecadae2862f19",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 63,
+    "value": 63
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Still Wip but finally using some of my packing Styrofoam pile of shame",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/s08kk7/still_wip_but_finally_using_some_of_my_packing/"
+}
