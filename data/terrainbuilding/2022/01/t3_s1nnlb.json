@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1vzqf4fk",
+    "name": "insaniakUTC"
+  },
+  "date": {
+    "day": 1641859200,
+    "full": 1641935326,
+    "month": 1640995200,
+    "week": 1641686400
+  },
+  "id": "t3_s1nnlb",
+  "picture": {
+    "filesize": 85574,
+    "fullUrl": "https://preview.redd.it/7a2fpk10j4b81.jpg?width=1080&format=pjpg&auto=webp&s=2b4b741535a565f91b6f82bf8ef6b4fe9ed80efc",
+    "hash": "c4abe0925b",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAX/xAAkEAACAQMEAQUBAAAAAAAAAAABAwIEESEABRITUSIxMkFTYf/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAHREAAQQCAwAAAAAAAAAAAAAAEQABEiECBAUxYf/aAAwDAQACEQMRAD8Aos3uBytpkB+a+w288fGgs39a2Qi1xWuRC1hqurkbfQvqM+mrWVUqfZ5TFXKcZSAheHYY2lIAD44ORjH909WyPG+zXubKZ8qS8udQetZmB6bCWck++p78hjLuwQUxtWo+r//Z",
+    "url": "https://preview.redd.it/7a2fpk10j4b81.jpg?width=640&crop=smart&auto=webp&s=c86008276a2366384223dbfb734381614b45a2b4",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 59,
+    "value": 59
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Desert Building made from a plastic candy jar",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/s1nnlb/desert_building_made_from_a_plastic_candy_jar/"
+}
