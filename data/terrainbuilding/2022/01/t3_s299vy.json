@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1ulkhh5w",
+    "name": "K1ll3rfr0st"
+  },
+  "date": {
+    "day": 1641945600,
+    "full": 1642002202,
+    "month": 1640995200,
+    "week": 1641686400
+  },
+  "id": "t3_s299vy",
+  "picture": {
+    "filesize": 47991,
+    "fullUrl": "https://preview.redd.it/qtxsj5n12ab81.jpg?width=4032&format=pjpg&auto=webp&s=c6e38ab592066230a729a34355fd6ea6d6854b3a",
+    "hash": "277c4d0295",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAmEAACAgECBQQDAAAAAAAAAAABAgMEEQAhBQYSIzETFCKBJFFh/8QAFAEBAAAAAAAAAAAAAAAAAAAABf/EABgRAAMBAQAAAAAAAAAAAAAAAAACEQEh/9oADAMBAAIRAxEAPwB2Vqt50/Phqmsqz989Ib5YxvtnxpPk+6OIcEi9aRfcBQ3QGDYU+Nx9jffbUnUqQ3rsCWkWRCHUqwBDDHUMg/1Rqg5UqwUoZRUiSGNiO2gwox+h96JmY0FmXkP/2Q==",
+    "url": "https://preview.redd.it/qtxsj5n12ab81.jpg?width=640&crop=smart&auto=webp&s=9d378a4e22f2638adeee4db8f10eefffe0721233",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 0.96,
+    "ups": 42,
+    "value": 42
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Helgan WIP based off EHW",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/s299vy/helgan_wip_based_off_ehw/"
+}
