@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1hfaewap",
+    "name": "SYStem05p"
+  },
+  "date": {
+    "day": 1642032000,
+    "full": 1642102736,
+    "month": 1640995200,
+    "week": 1641686400
+  },
+  "id": "t3_s37oy3",
+  "picture": {
+    "filesize": 108726,
+    "fullUrl": "https://preview.redd.it/dsygsegzcib81.jpg?width=3024&format=pjpg&auto=webp&s=8b7bed32c5190df9324b08899c56bd76619fec04",
+    "hash": "d3ebaae508",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgAH/8QAJhAAAQIFAwMFAAAAAAAAAAAAAQIEAwUREiEABjEHUWETIkFxkf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAaEQACAgMAAAAAAAAAAAAAAAABAgARITKh/9oADAMBAAIRAxEAPwCaT/dMeQerCaNYiAowkRlGlQAPfTink0rntoe+6iT9DlaYTFCkDAKUXg/RuzpS+6iyGOzU0RLVNzabyIiihYUi34OQKk0pzrOUyja0QXLdurj5hY7c5/dCoYbRi6NRTuJ//9k=",
+    "url": "https://preview.redd.it/dsygsegzcib81.jpg?width=640&crop=smart&auto=webp&s=88243d254fee48c0e8f353093ea18b00ea9bf9d5",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 24,
+    "value": 24
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Rust effect on bridge",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/s37oy3/rust_effect_on_bridge/"
+}

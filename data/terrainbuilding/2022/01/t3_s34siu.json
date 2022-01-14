@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_171x9p",
+    "name": "Quadrante-Isegrim"
+  },
+  "date": {
+    "day": 1642032000,
+    "full": 1642095184,
+    "month": 1640995200,
+    "week": 1641686400
+  },
+  "id": "t3_s34siu",
+  "picture": {
+    "filesize": 40548,
+    "fullUrl": "https://preview.redd.it/3xmp3hejqhb81.jpg?width=4032&format=pjpg&auto=webp&s=0bf16f8490d6bdcfa02a964f271324ec7df61e6e",
+    "hash": "67290bbc04",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAYHCP/EACIQAAEEAgEEAwAAAAAAAAAAAAECAwURAAQxBhYiMkGBsf/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAXEQEBAQEAAAAAAAAAAAAAAAARAAEC/9oADAMBAAIRAxEAPwB36sjZB6Ajm29VSnmHSt5OumwrxNEDnn9yfaHezM3JCJjXlaRcSkJ2WqQKSASCqvm7rNCqwfY9vrCBJ3rAL//Z",
+    "url": "https://preview.redd.it/3xmp3hejqhb81.jpg?width=640&crop=smart&auto=webp&s=270e93279fee4a4b3cb331efc362c01ac0528a76",
+    "width": 640
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 29,
+    "value": 29
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "House",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/s34siu/house/"
+}

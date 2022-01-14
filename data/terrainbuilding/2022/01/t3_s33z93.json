@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_a5fnb",
+    "name": "nonegenuine"
+  },
+  "date": {
+    "day": 1642032000,
+    "full": 1642093070,
+    "month": 1640995200,
+    "week": 1641686400
+  },
+  "id": "t3_s33z93",
+  "picture": {
+    "filesize": 108632,
+    "fullUrl": "https://preview.redd.it/td1t20s8khb81.jpg?width=3024&format=pjpg&auto=webp&s=4a4b229bdc85734285d485dcb55bf538aa9163dd",
+    "hash": "bd0c6f2d34",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQf/xAAjEAABBAEEAQUAAAAAAAAAAAABAgMEEQAFEiExBiJBUYHw/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAaEQACAwEBAAAAAAAAAAAAAAABAwACEiET/9oADAMBAAIRAxEAPwAGA+yZaHNaVG1NxbQbbQ6omhYG48Drr4oYivxmGultQozjahaS2hNV9j9xk9gFpU1xxjVI0krBHpXRNkHo8jFmpEphOwrKvcW71k57/a2rW7GKUVjIHJ//2Q==",
+    "url": "https://preview.redd.it/td1t20s8khb81.jpg?width=640&crop=smart&auto=webp&s=9f091cf028f050e3786703bb2808a904933c1b53",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 46,
+    "value": 46
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A Simple Church",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/s33z93/a_simple_church/"
+}

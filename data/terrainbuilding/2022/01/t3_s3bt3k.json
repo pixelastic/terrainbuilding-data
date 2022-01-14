@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_i0qqdmpc",
+    "name": "Dudley_Central"
+  },
+  "date": {
+    "day": 1642032000,
+    "full": 1642113589,
+    "month": 1640995200,
+    "week": 1641686400
+  },
+  "id": "t3_s3bt3k",
+  "picture": {
+    "filesize": 50572,
+    "fullUrl": "https://preview.redd.it/odiu9jw89jb81.jpg?width=4128&format=pjpg&auto=webp&s=1b0a278954b5834b66769c5e02797f2ba4506295",
+    "hash": "e5d36dbff6",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgUGCP/EACEQAAICAgEEAwAAAAAAAAAAAAECAxEEBQAGEjFBExRR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQT/xAAYEQADAQEAAAAAAAAAAAAAAAABAhEABP/aAAwDAQACEQMRAD8AotxugmwZUz1+sIbJje1DX+j3x/0Hs5dh05BJNOZpe51tjbUGIF+/FczpnbHKxc+SESmRVftHf5qr9Vw022YsvzJMySK1AqSKrk69LWzJQETf/9k=",
+    "url": "https://preview.redd.it/odiu9jw89jb81.jpg?width=640&crop=smart&auto=webp&s=bd142efd90b090ff67bc7ecd056c79d540eb2fe9",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 57,
+    "value": 57
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Castle scene taking shape!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/s3bt3k/castle_scene_taking_shape/"
+}
