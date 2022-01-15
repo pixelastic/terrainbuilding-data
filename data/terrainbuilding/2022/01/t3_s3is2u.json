@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_8p3tj",
+    "name": "thamosw"
+  },
+  "date": {
+    "day": 1642118400,
+    "full": 1642133043,
+    "month": 1640995200,
+    "week": 1641686400
+  },
+  "id": "t3_s3is2u",
+  "picture": {
+    "filesize": 87008,
+    "fullUrl": "https://external-preview.redd.it/10Dj9M8_ZBURMTqRwHUc_x959Kg9yocYyKkbEDDeiBM.jpg?auto=webp&s=eb68e2adee2c81dc84b4bc71e4a7a86d993ebb19",
+    "hash": "40da34fb2e",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQID/8QAJRAAAgIBBAEDBQAAAAAAAAAAAQIDBBEABSExBgcSQRMiUWHh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAP/xAAZEQEAAwEBAAAAAAAAAAAAAAABAAISIUH/2gAMAwEAAhEDEQA/ACN18W2yr5W71zOaMkUTyVfacNI4y4yehggkfBJA41Vej4/NdrXdpqy0kjYOUEhMcig9FG5A+eD1oX1J3i9tsSmhYeBiD9yd9fzWnp5aa3u9f60aNHbghmaPkrG55JTJyufxnH61AW5z2HVzQz//2Q==",
+    "url": "https://external-preview.redd.it/10Dj9M8_ZBURMTqRwHUc_x959Kg9yocYyKkbEDDeiBM.jpg?width=640&crop=smart&auto=webp&s=41bae2cf34835872af73018119dfac7f018c6656",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 10,
+    "value": 10
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Abandon building",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/s3is2u/abandon_building/"
+}
