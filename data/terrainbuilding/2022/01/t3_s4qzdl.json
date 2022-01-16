@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_qii7tly",
+    "name": "kvothesel"
+  },
+  "date": {
+    "day": 1642204800,
+    "full": 1642272030,
+    "month": 1640995200,
+    "week": 1641686400
+  },
+  "id": "t3_s4qzdl",
+  "picture": {
+    "filesize": 72464,
+    "fullUrl": "https://preview.redd.it/rudo0v5ecwb81.jpg?auto=webp&s=1a27198673e9b33e0aae465db9895be330e5cf74",
+    "hash": "7f5fdb9764",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAgT/xAAiEAACAQQCAgMBAAAAAAAAAAABAgMEBREhABIxUQYTI5H/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGxEAAQQDAAAAAAAAAAAAAAAAAQACBRESFEH/2gAMAwEAAhEDEQA/AJrnPXUC1AN1WSrCKz06sR1BHgezr+DivFwj+TXShq6WvmS5iBfzmi6pmNCoBZTok7BxvXK0stI4l7fYWdhKzl8tn1n1vxwpa4bfdFFM8oU57KWyG0fPBmQeW11L0xla/9k=",
+    "url": "https://preview.redd.it/rudo0v5ecwb81.jpg?width=640&crop=smart&auto=webp&s=0b995dc1a477f96222bd5f57002275cdf3ce9090",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.96,
+    "ups": 48,
+    "value": 48
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Starting to get some pieces made for zona alfa",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/s4qzdl/starting_to_get_some_pieces_made_for_zona_alfa/"
+}
