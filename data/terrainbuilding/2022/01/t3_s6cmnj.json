@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_12v6ck",
+    "name": "Cult-Promethean"
+  },
+  "date": {
+    "day": 1642377600,
+    "full": 1642448053,
+    "month": 1640995200,
+    "week": 1642291200
+  },
+  "id": "t3_s6cmnj",
+  "picture": {
+    "filesize": 84621,
+    "fullUrl": "https://preview.redd.it/fnk7gc5svac81.jpg?width=4624&format=pjpg&auto=webp&s=8e550c942d991ba4630b331ce4632b5452c7d302",
+    "hash": "46bbf9a747",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQQFBv/EACkQAAEDAgQDCQAAAAAAAAAAAAECAwQFEQAGEiEiMUEHExQjMlFhgaH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABoRAAICAwAAAAAAAAAAAAAAAAEDAAIREkH/2gAMAwEAAhEDEQA/AM7SstRVU+O1IgpedQxqfeU1oAO3Ffrf49sNnJdLcST4NUcAcTrQvptz1C52xb7PnVIqcNpzz2EnV3LpJQSR1H3gZhkLRUZ0dFksKkJbLfMFBPp36fuJzgwWqQexa9cGf//Z",
+    "url": "https://preview.redd.it/fnk7gc5svac81.jpg?width=640&crop=smart&auto=webp&s=dc5a7f2dc503138b3ded76309a8463300e7a6e8e",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 84,
+    "value": 84
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP on a few swamp features",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/s6cmnj/wip_on_a_few_swamp_features/"
+}

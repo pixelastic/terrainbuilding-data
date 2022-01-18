@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1fi8g9jx",
+    "name": "marvelousmonk"
+  },
+  "date": {
+    "day": 1642377600,
+    "full": 1642408922,
+    "month": 1640995200,
+    "week": 1642291200
+  },
+  "id": "t3_s5zadh",
+  "picture": {
+    "filesize": 64843,
+    "fullUrl": "https://external-preview.redd.it/0ke1AJGznAP2lHMyGu1TJ9Lm5PewQKSOaf9Y23FfyWQ.jpg?auto=webp&s=0cc70e753b6c28ec22359035487f5b483131771c",
+    "hash": "fe3296aeb3",
+    "height": 477,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQH/8QAIBAAAgICAgMBAQAAAAAAAAAAAQIDBAURABIGIZEHwf/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAGBEBAAMBAAAAAAAAAAAAAAAAAgARITL/2gAMAwEAAhEDEQA/ALoP0GbHvFFjTCKy9QgcHtr7xPI+dS5ShZxctmFw0LdFVx27D2PW98y2fIivqdKVEysBtmi3/eFZTy29UmQwV6KtIdFhDoj4eTysQW3Ho8s5U//Z",
+    "url": "https://external-preview.redd.it/0ke1AJGznAP2lHMyGu1TJ9Lm5PewQKSOaf9Y23FfyWQ.jpg?width=640&crop=smart&auto=webp&s=d96005acfdc027bace0643c900aafccae96c6f5c",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 6,
+    "value": 6
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First time building dungeon tiles",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/s5zadh/first_time_building_dungeon_tiles/"
+}
