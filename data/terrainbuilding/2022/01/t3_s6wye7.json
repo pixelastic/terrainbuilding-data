@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4beo6nrq",
+    "name": "1GalacticCactus1"
+  },
+  "date": {
+    "day": 1642464000,
+    "full": 1642510705,
+    "month": 1640995200,
+    "week": 1642291200
+  },
+  "id": "t3_s6wye7",
+  "picture": {
+    "filesize": 77517,
+    "fullUrl": "https://preview.redd.it/9f8cd0d32gc81.jpg?width=4032&format=pjpg&auto=webp&s=31f88ed272ab7c19565622b6c572446841ee96e5",
+    "hash": "01de4dc18a",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwUH/8QAJhAAAQQABQIHAAAAAAAAAAAAAQIDBBEABQYhMRJxExQVIjJBYv/EABQBAQAAAAAAAAAAAAAAAAAAAAL/xAAaEQACAgMAAAAAAAAAAAAAAAABAgAhERIx/9oADAMBAAIRAxEAPwBNJ6wnegxoMdpl2Wpl1Jce+aG0mkq270L5q8IjONQTZ+ZMefLqmU+MtpLfSpxACRaKvqAog8HmsY9n2e5oWi8qa4pK7CWulIQ0LOyQBYG1c4mQta59CzCPLhT1x1R1gpQ2PYo/offY7YAKhDgXFqxbtT//2Q==",
+    "url": "https://preview.redd.it/9f8cd0d32gc81.jpg?width=640&crop=smart&auto=webp&s=a6a6b56fd65d37ebb1a202ee9c128b2ae02294ba",
+    "width": 640
+  },
+  "score": {
+    "comments": 23,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 240,
+    "value": 240
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Tile number 4 is finished. Additional weathering will probably be done once the board is finished",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/s6wye7/tile_number_4_is_finished_additional_weathering/"
+}

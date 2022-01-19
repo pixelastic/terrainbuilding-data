@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_c3hdd0yu",
+    "name": "Thangaror"
+  },
+  "date": {
+    "day": 1642464000,
+    "full": 1642548748,
+    "month": 1640995200,
+    "week": 1642291200
+  },
+  "id": "t3_s7bafq",
+  "picture": {
+    "filesize": 53730,
+    "fullUrl": "https://preview.redd.it/12oh9g507jc81.jpg?width=5184&format=pjpg&auto=webp&s=3d4bd0b743fc62f5cabd4da7e5dbd84d854a14b1",
+    "hash": "af9823241a",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgII/8QAJhAAAQIFAwMFAAAAAAAAAAAAAQIDAAQFBhESIVEHEzEUI3Gxwf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAcEQACAgIDAAAAAAAAAAAAAAABAgADBBIRQbH/2gAMAwEAAhEDEQA/ADlp2TRaQnXUGVTD7gGCsrAT8BJ++IquWoylh5T9NLfrj7Hczlo58b7+N8HmNC2fLMFps9pGQniDXWGdVTWWRLtMnWrfWCf2Bry2Q7BR35EsqDLpzP/Z",
+    "url": "https://preview.redd.it/12oh9g507jc81.jpg?width=640&crop=smart&auto=webp&s=5b607c3b0502fee90b1ae3c2c32f10a4f76c28b5",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 0.96,
+    "ups": 18,
+    "value": 18
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "New 40k terrain piece: But what is this building?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/s7bafq/new_40k_terrain_piece_but_what_is_this_building/"
+}
