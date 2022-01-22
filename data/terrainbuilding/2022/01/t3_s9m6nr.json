@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5eia5wd5",
+    "name": "Radiumminis"
+  },
+  "date": {
+    "day": 1642723200,
+    "full": 1642802443,
+    "month": 1640995200,
+    "week": 1642291200
+  },
+  "id": "t3_s9m6nr",
+  "picture": {
+    "filesize": 104435,
+    "fullUrl": "https://external-preview.redd.it/GzALtg1fDXMn-oMqFKdnmsdprhnXhVHF-Kbai1IDdvE.jpg?auto=webp&s=7c8bffeea1888629deb2c34a2800a7e83e4aac77",
+    "hash": "c8791a1cc8",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgIF/8QAIxAAAgECBgIDAAAAAAAAAAAAAQIDBBEABQYSITFh4RNxwf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAYEQEBAQEBAAAAAAAAAAAAAAABAgARMf/aAAwDAQACEQMRAD8A2avKdJwxCrlz5EilVWSJoQWVgLEEDmx7/cA9fzadmoHlydlaRSNkccbqEUG24liefHnF5vFHIhcvH8SE9XuB9H3g5WS020xICIjfdYd+8BKr1y1BPi7/2Q==",
+    "url": "https://external-preview.redd.it/GzALtg1fDXMn-oMqFKdnmsdprhnXhVHF-Kbai1IDdvE.jpg?width=640&crop=smart&auto=webp&s=7e3a7fa0253c5730ae1df1542b3f241680b327b5",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Undercity Corridors - Painted!!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/s9m6nr/undercity_corridors_painted/"
+}

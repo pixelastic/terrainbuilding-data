@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_6pkuxffh",
+    "name": "hereticpaint"
+  },
+  "date": {
+    "day": 1642723200,
+    "full": 1642743397,
+    "month": 1640995200,
+    "week": 1642291200
+  },
+  "id": "t3_s93frx",
+  "picture": {
+    "filesize": 88958,
+    "fullUrl": "https://preview.redd.it/6auoh9pz9zc81.jpg?width=2502&format=pjpg&auto=webp&s=a8395bea675cba4d6e099908bd73834719df2dd8",
+    "hash": "81a4f32e05",
+    "height": 671,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA8DASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMFBv/EACcQAAEDAgUCBwAAAAAAAAAAAAECAwQFEQAGByExEkEUIjJRYXGx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAZEQEAAgMAAAAAAAAAAAAAAAABAAIREiH/2gAMAwEAAhEDEQA/AF5pz/WaRNlM01yLHQwbJW6hJCgQDe5P5gsq5yqNaZluVlERvpUChbajdR7+XsnbbGm1W0ndmuO1KkRvH9RC1shKQ43a3pHCk/HP3iRo/QUt5hk02VSJJiFm7r0mOQG1DjdQA3498TltXsccz//Z",
+    "url": "https://preview.redd.it/6auoh9pz9zc81.jpg?width=640&crop=smart&auto=webp&s=6a3d9433d96222d9c6454a0f848d002a18dc1583",
+    "width": 640
+  },
+  "score": {
+    "comments": 41,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 248,
+    "value": 248
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Done! But unsure on what the sign should read?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/s93frx/done_but_unsure_on_what_the_sign_should_read/"
+}

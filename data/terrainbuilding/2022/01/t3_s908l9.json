@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_ajoh8",
+    "name": "TDR0018"
+  },
+  "date": {
+    "day": 1642723200,
+    "full": 1642733799,
+    "month": 1640995200,
+    "week": 1642291200
+  },
+  "id": "t3_s908l9",
+  "picture": {
+    "filesize": 120590,
+    "fullUrl": "https://external-preview.redd.it/hlDSzoe4QftbR7lLyelOCQM8YoCysZTDt7e5htegcu4.jpg?auto=webp&s=a6553f22b2f34d5af0eb17a31fb610871b7ef77e",
+    "hash": "59341474ee",
+    "height": 606,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAPABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAYH/8QAIhAAAgEDBAIDAAAAAAAAAAAAAQIDBBExAAUhQRITBiJR/8QAFAEBAAAAAAAAAAAAAAAAAAAABf/EABwRAAEFAAMAAAAAAAAAAAAAAAEAAgMRIQQiQf/aAAwDAQACEQMRAD8AB8xaSjmpKCOWmSOoDSn2NZSoGL2PfR1DVatDtNbLG6qIo3dJKSWyz2IB+oyOc8Y71p9d6IK5V3CSKRp1JF4iQzcEkG3ZbvQN82yGtgqAsSReUDRNLGo8wtsKMWt+6MPIbH1OV4kTG6U2dJX/2Q==",
+    "url": "https://external-preview.redd.it/hlDSzoe4QftbR7lLyelOCQM8YoCysZTDt7e5htegcu4.jpg?width=640&crop=smart&auto=webp&s=1005eb2d2f0d1371a46181ba06116d687953c61a",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 24,
+    "value": 24
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First real build! Ruined tower inspired by Black Magic Craft!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/s908l9/first_real_build_ruined_tower_inspired_by_black/"
+}
