@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5jf74e60",
+    "name": "RayMoCos"
+  },
+  "date": {
+    "day": 1642809600,
+    "full": 1642867484,
+    "month": 1640995200,
+    "week": 1642291200
+  },
+  "id": "t3_sa5mht",
+  "picture": {
+    "filesize": 196128,
+    "fullUrl": "https://preview.redd.it/c2g6zhzyi9d81.jpg?width=2896&format=pjpg&auto=webp&s=c61dab6f797cd32f8dae000ef50c496baa73ac12",
+    "hash": "2f1b19b7e0",
+    "height": 671,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA8DASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAX/xAAlEAABAwQBAgcAAAAAAAAAAAABAgMRAAQSIQUUUSQxQVNhocH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABgRAQADAQAAAAAAAAAAAAAAAAEAAhFB/9oADAMBAAIRAxEAPwBDykNcWuAmcCdttkzj3yn6qTeu2CrVaXC8YI8koAG+4qhy1w+iwfCtthHuMEERHoJ/aNyKz04QwtpOcR4pqNfAAqlLru9hCBk//9k=",
+    "url": "https://preview.redd.it/c2g6zhzyi9d81.jpg?width=640&crop=smart&auto=webp&s=4c7b1f82be8dea483e59f920f72f04d132a2c7cf",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.91,
+    "ups": 29,
+    "value": 29
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "12 basic castle walls done! Very modular, stackable, easy to use. Followed BardCraft’s basic approach. Can’t recommend his channel enough.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/sa5mht/12_basic_castle_walls_done_very_modular_stackable/"
+}

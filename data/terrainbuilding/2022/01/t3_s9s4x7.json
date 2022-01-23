@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_7fqs5wt",
+    "name": "stuffy236"
+  },
+  "date": {
+    "day": 1642809600,
+    "full": 1642819506,
+    "month": 1640995200,
+    "week": 1642291200
+  },
+  "id": "t3_s9s4x7",
+  "picture": {
+    "filesize": 37927,
+    "fullUrl": "https://preview.redd.it/qckdh2bbk5d81.jpg?width=4032&format=pjpg&auto=webp&s=4d1b26fce1275d0a3560c1a67dedffb6b64c0965",
+    "hash": "b33bc4b01f",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwAF/8QAIxAAAQQCAgAHAAAAAAAAAAAAAQIDBBEABQYSExUhQWFxsf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAFxEBAAMAAAAAAAAAAAAAAAAAAQARIf/aAAwDAQACEQMRAD8AtpL8r0itlMjKebZKQVJQCU2aB+rrM3WcufmxCpDzqU9iCnuRfyRfv64qcaZYncXlMTI7TzS2yFJWmwQcGtvBj6yW+xCb8NvsTVk/uAlbKBvJ/9k=",
+    "url": "https://preview.redd.it/qckdh2bbk5d81.jpg?width=640&crop=smart&auto=webp&s=06b4f6d73d6532ff0bd26b6cbbc3a6c044380c17",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "ratio": 0.87,
+    "ups": 15,
+    "value": 15
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Help: My goblin camp is too brown",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/s9s4x7/help_my_goblin_camp_is_too_brown/"
+}
