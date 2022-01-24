@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_azdbdor",
+    "name": "DarthMorsus"
+  },
+  "date": {
+    "day": 1642896000,
+    "full": 1642901358,
+    "month": 1640995200,
+    "week": 1642896000
+  },
+  "id": "t3_sahplm",
+  "picture": {
+    "filesize": 70758,
+    "fullUrl": "https://preview.redd.it/dxj8yohpbcd81.jpg?auto=webp&s=6d9e692e5dac1e800dd93b4740b6e91525da35a9",
+    "hash": "b6feda2ff6",
+    "height": 571,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAOABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAJRAAAQMDAwMFAAAAAAAAAAAAAQIDBAUREgAxQQYhIgcTFBVC/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAeEQABAwQDAAAAAAAAAAAAAAACAAEDBBESoSExQf/aAAwDAQACEQMRAD8Ap9RQqc/Xp9R6wi/PUjAsIjqUlKgpSyjI3BsEpIFt+2sk9RotKi1Zn6dLqIkloOstvXyTfcE8gEGx5vp1XpsiXLmHNBcccQVLcTl5IyGVr2/RsDcCw0OrtITU5cNyc6twRWvaxT459ybk8b7DU4gkHgn82gdXCY5N3fS//9k=",
+    "url": "https://preview.redd.it/dxj8yohpbcd81.jpg?width=640&crop=smart&auto=webp&s=cf5028a9a6467d4be4d0ed308af5b9d5f713cdff",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.96,
+    "ups": 20,
+    "value": 20
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Mural of the Emprah WIP",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/sahplm/mural_of_the_emprah_wip/"
+}
