@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_68jvpvmm",
+    "name": "radeczex"
+  },
+  "date": {
+    "day": 1643155200,
+    "full": 1643206194,
+    "month": 1640995200,
+    "week": 1642896000
+  },
+  "id": "t3_sd6ti6",
+  "picture": {
+    "filesize": 111214,
+    "fullUrl": "https://preview.redd.it/rbbzxoh4i1e81.jpg?auto=webp&s=41c27abbd24eb3dcb7c4d12b30d9eb4636d95424",
+    "hash": "35bd6cdedd",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQMH/8QAJBAAAgEDAwQDAQAAAAAAAAAAAQIDBAURACExBhITcSIyYXL/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EAB4RAAEDBAMAAAAAAAAAAAAAAAIAETEBAxLwI0GR/9oADAMBAAIRAxEAPwCcFHJUqYnuD+enkYIWhyJM77vwhDc/1o2us9BV2c/JK6dmLiNmCkO3d9mAHYQM7ehzou4dQ3K71cq1FR441UMqQjsAJO/vP7rYOl+m7alnp55YTUSzhXkaU5yw4O2NTzuVAcz81k0HLjCN6hf/2Q==",
+    "url": "https://preview.redd.it/rbbzxoh4i1e81.jpg?width=640&crop=smart&auto=webp&s=6b42a699e2136dda43de731b427259e7108d7821",
+    "width": 640
+  },
+  "score": {
+    "comments": 18,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 243,
+    "value": 243
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Matt Varnish before or after application of Turf?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/sd6ti6/matt_varnish_before_or_after_application_of_turf/"
+}
