@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_45dcpp41",
+    "name": "Redfaint"
+  },
+  "date": {
+    "day": 1643500800,
+    "full": 1643502294,
+    "month": 1640995200,
+    "week": 1643500800
+  },
+  "id": "t3_sfvzwd",
+  "picture": {
+    "filesize": 57396,
+    "fullUrl": "https://preview.redd.it/4lrblm2kype81.jpg?width=4000&format=pjpg&auto=webp&s=28cfc3003e1e0472c464630e0227ddc7cf719efb",
+    "hash": "707d2c8d5c",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAiEAACAQQCAgMBAAAAAAAAAAABAgQDBREhAAYSIhMUMTL/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAGhEAAQUBAAAAAAAAAAAAAAAAAAECERIhUf/aAAwDAQACEQMRAD8Akrb1G3V+qfalzXQunrTdSoGgV0NkHfDr51L4bEztXZ5iL5UaYT1dCTgDG/L1bZ1xKx9hly3vkSRTjvRiRftUvTaurYxnP5g/nJGT2+9TbfWSTLLEhQtQDDU0yx8FI/lc7wOC3g1o1D//2Q==",
+    "url": "https://preview.redd.it/4lrblm2kype81.jpg?width=640&crop=smart&auto=webp&s=ce84527555d076d4371f6362109e5740940c6995",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "More Work in my modular board",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/sfvzwd/more_work_in_my_modular_board/"
+}

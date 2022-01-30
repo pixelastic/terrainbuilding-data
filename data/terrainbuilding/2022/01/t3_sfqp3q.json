@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_ihqk9s1",
+    "name": "Grant_Helmreich"
+  },
+  "date": {
+    "day": 1643414400,
+    "full": 1643487493,
+    "month": 1640995200,
+    "week": 1642896000
+  },
+  "id": "t3_sfqp3q",
+  "picture": {
+    "filesize": 75675,
+    "fullUrl": "https://preview.redd.it/b62zqjj0poe81.jpg?width=5184&format=pjpg&auto=webp&s=af9042d57dc31af4dad15919b4a569f01773d75d",
+    "hash": "9aa2ecfa15",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUG/8QAJRAAAQQBAgUFAAAAAAAAAAAAAQIDBBEFAFEGEhQhMRYiYXGB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAZEQACAwEAAAAAAAAAAAAAAAAAAgEDEmH/2gAMAwEAAhEDEQA/ADwOJs6qEApnHKiOslPTtNDlBSRalAdxvto3quMk3Pxji44IUOmeqq72UqJFfRGoi5C8eDMi0h0q9w8pVZ8kb/OsfnMrJnSC66oIKm6UG7AP5eksaIvZFa9P/9k=",
+    "url": "https://preview.redd.it/b62zqjj0poe81.jpg?width=640&crop=smart&auto=webp&s=9ddcd0920682d6a59cdbb6e872eda0fee68119d4",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 81,
+    "value": 81
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My players just cleared Wave Echo Cave to conclude the Lost Mines of Phandelver. It was my biggest build yet!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/sfqp3q/my_players_just_cleared_wave_echo_cave_to/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_eiyct6tl",
+    "name": "ShaperMaku"
+  },
+  "date": {
+    "day": 1643328000,
+    "full": 1643345299,
+    "month": 1640995200,
+    "week": 1642896000
+  },
+  "id": "t3_seigh8",
+  "picture": {
+    "filesize": 82071,
+    "fullUrl": "https://preview.redd.it/huk624trzce81.jpg?auto=webp&s=ca487272ca909e8621bf117d836b86bdb25e027f",
+    "hash": "cd3aa91fff",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGB//EACIQAAIBAwUAAwEAAAAAAAAAAAECAwQFEQAGEiExEyNBYf/EABQBAQAAAAAAAAAAAAAAAAAAAAX/xAAYEQADAQEAAAAAAAAAAAAAAAAAAQIDEf/aAAwDAQACEQMRAD8ASNYdkGzwSQi4z18kEbOshHBmwGbHfLvsaJpLNsqqoplue26i3AH6ZGqnkIXPvnvQGpyzVMj3CMPxYZHq/wB1p2/5zBaqAwxxIfjByF/dHTo6XRF5qaSP/9k=",
+    "url": "https://preview.redd.it/huk624trzce81.jpg?width=640&crop=smart&auto=webp&s=350cacf27633250aa49ba2e845c6ca70ad6f531d",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 62,
+    "value": 62
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP foam core strongpoint",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/seigh8/wip_foam_core_strongpoint/"
+}
