@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_arlj5ieu",
+    "name": "WeltenbauerClub"
+  },
+  "date": {
+    "day": 1643500800,
+    "full": 1643543987,
+    "month": 1640995200,
+    "week": 1643500800
+  },
+  "id": "t3_sg7r1t",
+  "picture": {
+    "filesize": 114140,
+    "fullUrl": "https://preview.redd.it/0afg39ckete81.jpg?width=1440&format=pjpg&auto=webp&s=9f7f9216d84fd820d38b29ee9c348b73f76978d0",
+    "hash": "cb3c90f6d3",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQH/8QAJRAAAgICAQMDBQAAAAAAAAAAAQIDBAUREgAhMRMUYSIjQWJx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAbEQEAAgIDAAAAAAAAAAAAAAABAAIDIRESMf/aAAwDAQACEQMRAD8Az/G4rH4mY1s0VMxkE4KtuJkOhxUjuSQW+N689KsLVw+Zwxerj5KVmK+01Gx6nOZkG/tto/QoIUA/r/ej2cgjzeQibIXa9KpPKYmeOBRwVN65Ad2PL8nzsHq+rctreWhjfdWqi1lgQhRFpg22bggPInt5+epDJbrwu0iGGpbR5P/Z",
+    "url": "https://preview.redd.it/0afg39ckete81.jpg?width=640&crop=smart&auto=webp&s=04fa34b9a9c0c73f983d6ac99f6afebdd21e9dea",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 383,
+    "value": 383
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Made some overgrown jungle / swamp trees",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/sg7r1t/made_some_overgrown_jungle_swamp_trees/"
+}

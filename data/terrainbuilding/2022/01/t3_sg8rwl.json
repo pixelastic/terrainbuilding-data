@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_171x9p",
+    "name": "Quadrante-Isegrim"
+  },
+  "date": {
+    "day": 1643500800,
+    "full": 1643547875,
+    "month": 1640995200,
+    "week": 1643500800
+  },
+  "id": "t3_sg8rwl",
+  "picture": {
+    "filesize": 29720,
+    "fullUrl": "https://preview.redd.it/9t8yduv4qte81.jpg?width=4032&format=pjpg&auto=webp&s=5363c47510ccc0ca9ecacb8c7daf3d88aa45d137",
+    "hash": "906c94a385",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAHxAAAgEEAwEBAAAAAAAAAAAAAQIDAAQFEQYhMXEU/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAXEQEAAwAAAAAAAAAAAAAAAAAAAQIR/9oADAMBAAIRAxEAPwBpzTC8ku8tLdYXN/nheNVEDMyhWA7I1sd/KL42DmNplWTNKt7ZGIgMk0fTbGiSQD5utVuvaiZDxvlSxY+P/9k=",
+    "url": "https://preview.redd.it/9t8yduv4qte81.jpg?width=640&crop=smart&auto=webp&s=e0e243d6b77ced12a8b7056be8c6528e4e9f236e",
+    "width": 640
+  },
+  "score": {
+    "comments": 13,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 252,
+    "value": 252
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Wall, cityscape",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/sg8rwl/wall_cityscape/"
+}

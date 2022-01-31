@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_p84vz",
+    "name": "PM_ME_YOUR_PINOY"
+  },
+  "date": {
+    "day": 1643500800,
+    "full": 1643528471,
+    "month": 1640995200,
+    "week": 1643500800
+  },
+  "id": "t3_sg3ykl",
+  "picture": {
+    "filesize": 58193,
+    "fullUrl": "https://preview.redd.it/gtp3ltkf4se81.jpg?width=4032&format=pjpg&auto=webp&s=914310abc5481773f6da99a449f2373007e31ad7",
+    "hash": "29b1b90d2e",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQF/8QAJRAAAQIFAwQDAAAAAAAAAAAAAQIDAAQFBhETIUEHMTM2cXKy/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EAB8RAAEDBAMBAAAAAAAAAAAAAAEEESEAAgPBBTFBcf/aAAwDAQACEQMRAD8AOVWfqKKTPyD6wXKQvQbZWnUUo8EKO5yNxjEX9PbfpF2MOC4dKTnFLDbBUkpKuN889oQXh7Dcn0Z/RjDe8CPiGcSisVE4jDtPo7OqGqVX4bxLiSz/AAbr/9k=",
+    "url": "https://preview.redd.it/gtp3ltkf4se81.jpg?width=640&crop=smart&auto=webp&s=f20d9bd1819cfaf4923e73979888daa0c30374d2",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 138,
+    "value": 138
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Pumping Out Terrain for My First Tournament Next Week!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/sg3ykl/pumping_out_terrain_for_my_first_tournament_next/"
+}
