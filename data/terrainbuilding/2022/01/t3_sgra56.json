@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_zgoho",
+    "name": "DrOkemon"
+  },
+  "date": {
+    "day": 1643587200,
+    "full": 1643600320,
+    "month": 1640995200,
+    "week": 1643500800
+  },
+  "id": "t3_sgra56",
+  "picture": {
+    "filesize": 107072,
+    "fullUrl": "https://preview.redd.it/s7haoux22ye81.jpg?auto=webp&s=73030f3f4e2ad81cf24089560391b1f637a95e47",
+    "hash": "df99faef4e",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQUGB//EACQQAAIBAwQBBQEAAAAAAAAAAAECAwQFEQAGEiETByIzQVKx/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABsRAAEEAwAAAAAAAAAAAAAAAAIAAQMRBDGB/9oADAMBAAIRAxEAPwAPbFue7bddqmOOqg4v5UU/NhcABl6BA/mpzyW6SaoWWmMzRzyR58hBADkAHGBkaZbp9Qo7XDwswkpDV+x2EA5JxHRQhuj2dZlua9266XV66qFak06h2aOMkSH9Ek9k/ehYcgxhTtfEiYSJ90v/2Q==",
+    "url": "https://preview.redd.it/s7haoux22ye81.jpg?width=640&crop=smart&auto=webp&s=86b885ee68edc6d7805696278fa67252962395fe",
+    "width": 640
+  },
+  "score": {
+    "comments": 25,
+    "downs": 0,
+    "ratio": 0.84,
+    "ups": 27,
+    "value": 27
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "What’s the best way to smooth the surface of styrofoam and seal it? I’m building a cyberpunk bathroom stand terrain thingy",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/sgra56/whats_the_best_way_to_smooth_the_surface_of/"
+}

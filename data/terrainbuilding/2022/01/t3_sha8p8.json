@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_2vumj4ef",
+    "name": "kokonl"
+  },
+  "date": {
+    "day": 1643587200,
+    "full": 1643658498,
+    "month": 1640995200,
+    "week": 1643500800
+  },
+  "id": "t3_sha8p8",
+  "picture": {
+    "filesize": 47509,
+    "fullUrl": "https://preview.redd.it/rvzlp6h2v2f81.jpg?width=4032&format=pjpg&auto=webp&s=a237f4e089994695f3b724f2b10c915ed70bce4b",
+    "hash": "d7350f1418",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgAE/8QAKBAAAQQBAQUJAAAAAAAAAAAAAQIDBAURAAYHEhMhIzEzN1FxcrGz/8QAFAEBAAAAAAAAAAAAAAAAAAAABf/EABkRAAIDAQAAAAAAAAAAAAAAAAECABFBMf/aAAwDAQACEQMRAD8AHtW1hsZGYEx+RZIkO8ZCWSBy0np2gOMY0xqL567oZM6mro63jJLgTnmONoIGAkK7hnPX1Gsdv5ZT/ZX6atyng2vzR9HRPULaIoRThcn/2Q==",
+    "url": "https://preview.redd.it/rvzlp6h2v2f81.jpg?width=640&crop=smart&auto=webp&s=5d0b7a33c8a8cf550cf03ad9b8bb208af9576df6",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 54,
+    "value": 54
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Wip completely modular ballroom",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/sha8p8/wip_completely_modular_ballroom/"
+}
