@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_631hleqq",
+    "name": "AwakeArts"
+  },
+  "date": {
+    "day": 1643760000,
+    "full": 1643827565,
+    "month": 1643673600,
+    "week": 1643500800
+  },
+  "id": "t3_siwdp3",
+  "picture": {
+    "filesize": 78801,
+    "fullUrl": "https://preview.redd.it/sopclwgptgf81.jpg?auto=webp&s=cf7f26fc796ee11fd1ec4187015ab0b8efcf30cc",
+    "hash": "24744e46d1",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgf/xAAkEAABAwMDBAMAAAAAAAAAAAABAgMEBQYRABIhIjE1dGGxsv/EABUBAQEAAAAAAAAAAAAAAAAAAAMF/8QAGREBAQADAQAAAAAAAAAAAAAAAQIABBFR/9oADAMBAAIRAxEAPwAlRKzUbIjsymlPNSWklRiuq6DvGBlOfkHVDtlqHfVGYrlxSiKgnZEUUAoB53J4z3yo86PXf52X64+hpjYHhpvtI/J1IvbLiQjig9x9SVBX3P/Z",
+    "url": "https://preview.redd.it/sopclwgptgf81.jpg?width=640&crop=smart&auto=webp&s=db90b3182b3163e60f08e6be06ce37c1648b3fa1",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.75,
+    "ups": 6,
+    "value": 6
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Finally live on KS!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/siwdp3/finally_live_on_ks/"
+}

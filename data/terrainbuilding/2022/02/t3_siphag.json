@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_171x9p",
+    "name": "Quadrante-Isegrim"
+  },
+  "date": {
+    "day": 1643760000,
+    "full": 1643810579,
+    "month": 1643673600,
+    "week": 1643500800
+  },
+  "id": "t3_siphag",
+  "picture": {
+    "filesize": 34677,
+    "fullUrl": "https://preview.redd.it/xpg7xsfafff81.jpg?width=4032&format=pjpg&auto=webp&s=0a86dbbe3d420070153212b6e6e661a1a7a85d85",
+    "hash": "d944c2439a",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAIhAAAQMDBAMBAAAAAAAAAAAAAQIEEQADBQYSMWETIkFx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAWEQEBAQAAAAAAAAAAAAAAAAAAESH/2gAMAwEAAhEDEQA/AFmrE6uRl3qsYhxeZ7gbItqRxAkQe5oy0OrxmrZyjJ+ceV+w8aVHbAnjuthvcmpzr7+VPNLX/9k=",
+    "url": "https://preview.redd.it/xpg7xsfafff81.jpg?width=640&crop=smart&auto=webp&s=2c3575b3c7122d36c4018ff80d60fc38dcf8cce1",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.95,
+    "ups": 16,
+    "value": 16
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Sound berm",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/siphag/sound_berm/"
+}

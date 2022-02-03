@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_9adt4akq",
+    "name": "Great_North_Armoury"
+  },
+  "date": {
+    "day": 1643760000,
+    "full": 1643775772,
+    "month": 1643673600,
+    "week": 1643500800
+  },
+  "id": "t3_sifc8r",
+  "picture": {
+    "filesize": 44932,
+    "fullUrl": "https://preview.redd.it/7qkwlofrjcf81.jpg?width=5278&format=pjpg&auto=webp&s=b5fb5785a1d620b28ec71473576e3601c72e4cc2",
+    "hash": "7ba9d84b96",
+    "height": 454,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwQG/8QAIxAAAgEDBAEFAAAAAAAAAAAAAQIDBAURABIhQQYiMVFhkf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/8QAGREAAgMBAAAAAAAAAAAAAAAAAAECERIx/9oADAMBAAIRAxEAPwBqt/m1NXQVS22mDzwplFlmVQ7dLxn361MfJ7tbI5pL/QsFaQMkaw4ZEOFAypKsd3Gc/ZAHOtTaJXakoX9IaWFGcqoGTsB60QJW1M9mp4pZ5GjmrqqSRc4DtsU5Pzyx/dRyNsXJbyf/2Q==",
+    "url": "https://preview.redd.it/7qkwlofrjcf81.jpg?width=640&crop=smart&auto=webp&s=cdbfb0d4b174c01e108efc4d0d999e2ad502be2c",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "ratio": 0.94,
+    "ups": 37,
+    "value": 37
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "3D Printed \"Nesting\" Terrain for Infinity",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/sifc8r/3d_printed_nesting_terrain_for_infinity/"
+}
