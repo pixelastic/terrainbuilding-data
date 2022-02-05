@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_jds14",
+    "name": "victorh_"
+  },
+  "date": {
+    "day": 1643932800,
+    "full": 1643942526,
+    "month": 1643673600,
+    "week": 1643500800
+  },
+  "id": "t3_sk214m",
+  "picture": {
+    "filesize": 47354,
+    "fullUrl": "https://preview.redd.it/whbe0ol9bqf81.jpg?width=4032&format=pjpg&auto=webp&s=d1eccdf2ae032f8086822371c528da86ec23e465",
+    "hash": "14004fca20",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQEE/8QAKBAAAQMDAgMJAAAAAAAAAAAAAQIDBQAEEQYhBxNBIjM3UnJzsbLB/8QAFAEBAAAAAAAAAAAAAAAAAAAAAf/EABcRAQEBAQAAAAAAAAAAAAAAAAEAESH/2gAMAwEAAhEDEQA/AEJHU87IBbdpepjS26WwyhtQO3mKt/gVNIPT+oZV+wmnObbstKU6SEkp6J7acZyc7Y6GtPE7xNv/AGx+Uhwu7+e9bX1NGEry/9k=",
+    "url": "https://preview.redd.it/whbe0ol9bqf81.jpg?width=640&crop=smart&auto=webp&s=2cf3eb20abc6bddc0478157d9cb003f6b839b194",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 43,
+    "value": 43
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I made a dungeon board with modular walls",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/sk214m/i_made_a_dungeon_board_with_modular_walls/"
+}

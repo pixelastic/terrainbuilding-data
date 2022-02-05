@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_7cjlal71",
+    "name": "Western-Wasabi-2733"
+  },
+  "date": {
+    "day": 1643932800,
+    "full": 1643942658,
+    "month": 1643673600,
+    "week": 1643500800
+  },
+  "id": "t3_sk22qw",
+  "picture": {
+    "filesize": 53223,
+    "fullUrl": "https://preview.redd.it/8rugo8x0cqf81.jpg?width=4032&format=pjpg&auto=webp&s=8de5f348904e3bc04052a143e4d4379cb64e434e",
+    "hash": "d45bb3cebe",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgf/xAAlEAABAwMDAwUAAAAAAAAAAAABAgQFAwYRABIhBxQxEyJBYXH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGBEAAwEBAAAAAAAAAAAAAAAAAQIhABL/2gAMAwEAAhEDEQA/AEV2SVvw8w4jY62Vysoypne6fLHbt8jIJyfcOfAA1OLBb3bOz4teQfNXkepSlpNekK/aDyFoHGxOOMc/I0x61xzdjNUHdBJ9VxVQmoFHIVnJ5H0RxqmdMIBgwtpu7a0tjlykV6tTjKionI/NEUyZDqeqd//Z",
+    "url": "https://preview.redd.it/8rugo8x0cqf81.jpg?width=640&crop=smart&auto=webp&s=bebf0ebf1349bafca203a06a9733a791354ef0b2",
+    "width": 640
+  },
+  "score": {
+    "comments": 12,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 47,
+    "value": 47
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Prototype Dungeon tiles I made (constructive criticism welcome)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/sk22qw/prototype_dungeon_tiles_i_made_constructive/"
+}
