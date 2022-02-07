@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_6zzejz7f",
+    "name": "NatCon89"
+  },
+  "date": {
+    "day": 1644105600,
+    "full": 1644140645,
+    "month": 1643673600,
+    "week": 1644105600
+  },
+  "id": "t3_slt0wd",
+  "picture": {
+    "filesize": 59084,
+    "fullUrl": "https://preview.redd.it/jif5flcpo6g81.jpg?width=1440&format=pjpg&auto=webp&s=df848cd4f5f047e95f3aa3626c6f334fd903bd5d",
+    "hash": "d2bff25e51",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQFB//EACQQAAIBAwQCAgMAAAAAAAAAAAEDAgQFEQAGITEHExIiIzKB/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABoRAAICAwAAAAAAAAAAAAAAAAEhAAIDgeH/2gAMAwEAAhEDEQA/ANCsfi2jp1bYaq4SbCy1TqlQKR94Mz+Pg8YJ4OoW4/GsEI3O2lr1ipuiGpUJLICvY6TCTjv9sfzTNi8q2NsZqpr1BQ+MIwg8GJGBg98aK87rp30znLuFP6PkfbMsEsQxxIYPZ6xoWOpQNWevcXYFtT//2Q==",
+    "url": "https://preview.redd.it/jif5flcpo6g81.jpg?width=640&crop=smart&auto=webp&s=18b4caecb366e2dcc19895c0c5db3b73a77544e3",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.94,
+    "ups": 45,
+    "value": 45
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Dwarven shelforama - WIP",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/slt0wd/dwarven_shelforama_wip/"
+}

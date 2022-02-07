@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_93mfe",
+    "name": "vilyo"
+  },
+  "date": {
+    "day": 1644105600,
+    "full": 1644159755,
+    "month": 1643673600,
+    "week": 1644105600
+  },
+  "id": "t3_slypvf",
+  "picture": {
+    "filesize": 65540,
+    "fullUrl": "https://preview.redd.it/pzja0fch98g81.jpg?width=4032&format=pjpg&auto=webp&s=fadd298d3ec1b985dc5693ec2777d898b2e51a92",
+    "hash": "36518a4362",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQT/xAAoEAABAwMCAwkAAAAAAAAAAAABAgMEAAUREhMGIXMxMzZCUWGRscH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABsRAQABBQEAAAAAAAAAAAAAAAEAAgMREiHB/9oADAMBAAIRAxEAPwCG4XNyY2qUyh6Pv7RBWrGcDTpBHmz7+lIWSQtm7lV0uGw43HcUuNLcDiHXEkABKT2k8/mhG+6jdQflAcfeIJnXP3U+y6i08j7xuhX3Hk//2Q==",
+    "url": "https://preview.redd.it/pzja0fch98g81.jpg?width=640&crop=smart&auto=webp&s=06cb35469335b37795eecd27970343bbfb3b4b76",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.95,
+    "ups": 32,
+    "value": 32
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Finally finished my dungeon stackers",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/slypvf/finally_finished_my_dungeon_stackers/"
+}

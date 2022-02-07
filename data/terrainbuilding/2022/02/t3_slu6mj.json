@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4zcqc3lg",
+    "name": "Bikuku"
+  },
+  "date": {
+    "day": 1644105600,
+    "full": 1644145339,
+    "month": 1643673600,
+    "week": 1644105600
+  },
+  "id": "t3_slu6mj",
+  "picture": {
+    "filesize": 126097,
+    "fullUrl": "https://preview.redd.it/0rwfhh8p27g81.jpg?width=1440&format=pjpg&auto=webp&s=2af19ebdda8259767f0eaca37f86b4c64b5dcafc",
+    "hash": "67a3cbb1d2",
+    "height": 800,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFAABAAAAAAAAAAAAAAAAAAAABf/EACcQAAEDAwIFBQEAAAAAAAAAAAECAwQFERIhMQAHMkFRBhMVI2Fx/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EAB4RAAIBAwUAAAAAAAAAAAAAAAECAAMSMQQRE1Fh/9oADAMBAAIRAxEAPwB+jem44pqahHlsKgKY928VKlBu2hOFsl3t5Go1FuApFPq7QaVVXYH2IzaIcGZSSepGJwO2l/OptwByy5krRARBrbrq0RAUKxNnANek9rnf9/osF8M1WZsqeZq6ew8u7KVBTilJ13N9h24HwrTBYnb3MUuoqM9ii49Yn//Z",
+    "url": "https://preview.redd.it/0rwfhh8p27g81.jpg?width=640&crop=smart&auto=webp&s=6400aaa8babcb1b4fb0649e1b1c1e2c0e143c6ab",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 0.94,
+    "ups": 21,
+    "value": 21
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Getting started :)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/slu6mj/getting_started/"
+}

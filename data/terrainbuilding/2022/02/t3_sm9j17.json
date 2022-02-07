@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_10bjw9",
+    "name": "sFAMINE"
+  },
+  "date": {
+    "day": 1644105600,
+    "full": 1644186453,
+    "month": 1643673600,
+    "week": 1644105600
+  },
+  "id": "t3_sm9j17",
+  "picture": {
+    "filesize": 113411,
+    "fullUrl": "https://preview.redd.it/1p6rk39tgag81.jpg?auto=webp&s=ed86a20651c537900853953eb047a115b2998c7b",
+    "hash": "46be411065",
+    "height": 749,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA4DASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgX/xAAjEAACAgEDAwUAAAAAAAAAAAABAgMEEQAFIRJBkQYTFDGS/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EACARAAECBQUAAAAAAAAAAAAAAAECEQADBRTBBBMxUWH/2gAMAwEAAhEDEQA/ACW6oj7jQRmCgsz+EONS/U25NQNZwGMi9cJxjBXhhn9HydPht9zbqCXr9ENVnlKfFmr9cka84LAg9hntopu/s2bs0lWMSVSVKRVqrTGLI+iEBC8YwOdM19bu0BcpBCgeQfGxBadRLQ7c1YKSGY9uTmP/2Q==",
+    "url": "https://preview.redd.it/1p6rk39tgag81.jpg?width=640&crop=smart&auto=webp&s=d55bb56ea7be4c972aa4185b274b9db2610e689b",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 31,
+    "value": 31
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Dune II Windtrap Terrain Model (10mm/28mm)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/sm9j17/dune_ii_windtrap_terrain_model_10mm28mm/"
+}
