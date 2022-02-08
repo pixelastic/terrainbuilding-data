@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_doyo3ieu",
+    "name": "warhost_online"
+  },
+  "date": {
+    "day": 1644192000,
+    "full": 1644272584,
+    "month": 1643673600,
+    "week": 1644105600
+  },
+  "id": "t3_sn2v9m",
+  "picture": {
+    "filesize": 52520,
+    "fullUrl": "https://preview.redd.it/crqbdj72lhg81.jpg?auto=webp&s=da7e624555884bc232bcecdb4c1a05e8a709531e",
+    "hash": "84b76ffbbc",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAb/xAAiEAACAgEDBAMAAAAAAAAAAAABAgMEEQAFIQYSEzFBUZH/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQIAIf/aAAwDAQACEQMRAD8AA1NDSe6wZAkmGDD0nGG/TjTIaoaJWUEqwyDj2NI6dksbjslihX801qALDPKjIQ+R3Zy3BB7cZ+9T463j2y5epXhJO9ew0SsACQq4GCePkHRk9pMkygKc3//Z",
+    "url": "https://preview.redd.it/crqbdj72lhg81.jpg?width=640&crop=smart&auto=webp&s=d820df2ea52d3740e0645f81b6460f210c742e97",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 10,
+    "value": 10
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Quick play with a building from sarissa precision, wanted to try some techniques with their stencil range.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/sn2v9m/quick_play_with_a_building_from_sarissa_precision/"
+}

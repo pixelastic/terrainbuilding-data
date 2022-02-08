@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_c6bb9r4c",
+    "name": "klopi_123"
+  },
+  "date": {
+    "day": 1644192000,
+    "full": 1644216357,
+    "month": 1643673600,
+    "week": 1644105600
+  },
+  "id": "t3_smjmgg",
+  "picture": {
+    "filesize": 130751,
+    "fullUrl": "https://preview.redd.it/0stao3bvxcg81.jpg?auto=webp&s=0f6a4e4f338c7eab6d9b4df7284bfcbd350d9aed",
+    "hash": "9dc6630613",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMFBv/EACEQAAICAQQDAQEAAAAAAAAAAAECAwQRAAYSMQUhQRNR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQP/xAAZEQACAwEAAAAAAAAAAAAAAAAAAQIDEkH/2gAMAwEAAhEDEQA/AMr525VpeCFuSqstlwjAGQjiGYgEjroZ/mpdiOjb2gt6Kskd0gORzJPENxJAzjHXz7p1rbc0kUlWZbaSseLMa7sgIOScjvrAxoWtvMlKGhDFdmZEC/sKzhT7yOx6wSc6cMm7o9Z//9k=",
+    "url": "https://preview.redd.it/0stao3bvxcg81.jpg?width=640&crop=smart&auto=webp&s=58949a7e3eacb41ec39186d9bee30be58d5b7a46",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 0.96,
+    "ups": 63,
+    "value": 63
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Dungeon entrance",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/smjmgg/dungeon_entrance/"
+}

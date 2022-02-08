@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5ky1v9rp",
+    "name": "Stoertebricker"
+  },
+  "date": {
+    "day": 1644192000,
+    "full": 1644270321,
+    "month": 1643673600,
+    "week": 1644105600
+  },
+  "id": "t3_sn1wx2",
+  "picture": {
+    "filesize": 63729,
+    "fullUrl": "https://preview.redd.it/dudp932cehg81.jpg?auto=webp&s=932968c907ae8c1ba0b72b28ed634185d444af60",
+    "hash": "8364143de5",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwUG/8QAIxAAAgECBgIDAAAAAAAAAAAAAQIDBBEABhITMVEFISIykf/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAHhEAAgAGAwAAAAAAAAAAAAAAAQIAAxESIUFhobH/2gAMAwEAAhEDEQA/AHzBl9aKlMkNRJKVcBxsG2kfbg34Hq3eBgy/KYpthkiaaLSonBIYEgkHoW9Y2/kII6nRvLq2zcC5H73xiK7M/mq2RmY3RTpv8bsSSbYnPKukMl2Tugwa+cdw9XIYMNR//9k=",
+    "url": "https://preview.redd.it/dudp932cehg81.jpg?width=640&crop=smart&auto=webp&s=b4e5974c39a64e81da486120b356faf0a72a6e1d",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 0.88,
+    "ups": 42,
+    "value": 42
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I advise sci-fi builders to look for nearby Lego flagship stores. They sell cups full of individual pieces, some can be of great use for terrain building and decoration if you're lucky",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/sn1wx2/i_advise_scifi_builders_to_look_for_nearby_lego/"
+}
