@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_54lk3f6",
+    "name": "firefight1337"
+  },
+  "date": {
+    "day": 1644278400,
+    "full": 1644343514,
+    "month": 1643673600,
+    "week": 1644105600
+  },
+  "id": "t3_snqkvr",
+  "picture": {
+    "filesize": 29429,
+    "fullUrl": "https://preview.redd.it/drtjdrmvfng81.jpg?width=5184&format=pjpg&auto=webp&s=3f9c5d432632e3395c00afa3cc44521a45619288",
+    "hash": "ebb132df3e",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFCP/EACIQAAEFAAIABwAAAAAAAAAAAAECAwQFEQASBiFBUnGRof/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAMAwEAAhEDEQA/AM8U3h96yrJElOg6ENb5AnRp+PTi9xQTKqK3IllsIWvonorTvJrE+XHR0ZkuoR7Qo59cLPt5tgy2zLfK20KK0pwAAkYT+cTSv//Z",
+    "url": "https://preview.redd.it/drtjdrmvfng81.jpg?width=640&crop=smart&auto=webp&s=2635b2f1a4b636ed5fd0ab4c8a19a2e744a0393d",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 62,
+    "value": 62
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My beginner attempt at creating Halo Infinite Terrain",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/snqkvr/my_beginner_attempt_at_creating_halo_infinite/"
+}

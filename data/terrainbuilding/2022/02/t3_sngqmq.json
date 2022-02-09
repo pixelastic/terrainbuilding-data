@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_12v6ck",
+    "name": "Cult-Promethean"
+  },
+  "date": {
+    "day": 1644278400,
+    "full": 1644314754,
+    "month": 1643673600,
+    "week": 1644105600
+  },
+  "id": "t3_sngqmq",
+  "picture": {
+    "filesize": 111285,
+    "fullUrl": "https://preview.redd.it/4fv108bf2lg81.jpg?width=3468&format=pjpg&auto=webp&s=57cee3fd820bb677abf7ea137521571e0fa97e6e",
+    "hash": "c6f51d8f98",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQIEBv/EACUQAAEDAwMDBQAAAAAAAAAAAAECAxEEBRIAIXEGBxMVIkFhkf/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAYEQACAwAAAAAAAAAAAAAAAAABAgARMf/aAAwDAQACEQMRAD8AHULthoXGW2GaurZUjIFLwRJy3EkSfj901x6ctfnB9VrFpxhO+MAEiNxuJB31m2+7NIA0m5WHzOpnJaFJIPAUJHE6gqu57Sqhw0lpWlifbk6UqP2QkxPGiW5ORgVL2f/Z",
+    "url": "https://preview.redd.it/4fv108bf2lg81.jpg?width=640&crop=smart&auto=webp&s=c71dcb7691be0eb3d4d9fada4a60209bcefbabed",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 27,
+    "value": 27
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A few more bits of scatter terrain",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/sngqmq/a_few_more_bits_of_scatter_terrain/"
+}
