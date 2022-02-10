@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_eh4fhw3r",
+    "name": "at3sparky"
+  },
+  "date": {
+    "day": 1644364800,
+    "full": 1644428727,
+    "month": 1643673600,
+    "week": 1644105600
+  },
+  "id": "t3_sojd09",
+  "picture": {
+    "filesize": 45326,
+    "fullUrl": "https://preview.redd.it/mqnb9qtchug81.jpg?width=1024&format=pjpg&auto=webp&s=b4a1b4f244b4aec09c49993c1850fa17a1edc254",
+    "hash": "6956b91e52",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwID/8QAJhAAAgECBAUFAAAAAAAAAAAAAQIDBBEABQYSByExQdETIiMyUf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAYEQEAAwEAAAAAAAAAAAAAAAABAAIRIf/aAAwDAQACEQMRAD8ANdaa3qq3PK2HJfihlkZS0abHBDn67bBRyHTtjTSHELUWmcyeFKqZN5KyylPVk2npYnte2D+esmVNwY7rnnc+cTS5vWK/tlYW/GbzgK1A4R2yu7P/2Q==",
+    "url": "https://preview.redd.it/mqnb9qtchug81.jpg?width=640&crop=smart&auto=webp&s=feafcdeb6848dd72cfbd71dbea3af0b60937e2a4",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.85,
+    "ups": 13,
+    "value": 13
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Amber Temple from Curse of Strahd",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/sojd09/amber_temple_from_curse_of_strahd/"
+}

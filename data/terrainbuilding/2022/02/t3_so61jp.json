@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_69s6qpkc",
+    "name": "A_Pev"
+  },
+  "date": {
+    "day": 1644364800,
+    "full": 1644385772,
+    "month": 1643673600,
+    "week": 1644105600
+  },
+  "id": "t3_so61jp",
+  "picture": {
+    "filesize": 58728,
+    "fullUrl": "https://preview.redd.it/zhzzfzrmxqg81.jpg?auto=webp&s=61e57b05d8daa767c3b1dfccdfeaad971dcc0aaf",
+    "hash": "d5fa26d7b3",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAJhAAAgEEAAMJAAAAAAAAAAAAAQIDAAQFERIhMQYUFSMzQWGhsf/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAZEQADAAMAAAAAAAAAAAAAAAAAAQIRFFH/2gAMAwEAAhEDEQA/ABY+z7XNwlne32SgtYon45J/LhGjyA59CfehLDBY+G2nYeorEd8RWmCa2dx6I2fn8rZslBHJA6yIrIw0VYbBqGz8vh+Ple2jjXg6LrQ+qVpy3lMUonh//9k=",
+    "url": "https://preview.redd.it/zhzzfzrmxqg81.jpg?width=640&crop=smart&auto=webp&s=530d5f6732ef87b7b2285eb96b059a3a46aeefe5",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 78,
+    "value": 78
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Sci-fi shanty town work in progress. Finished prototype on the left, starting to block out interesting shapes with the other two. Details and greebles next.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/so61jp/scifi_shanty_town_work_in_progress_finished/"
+}
