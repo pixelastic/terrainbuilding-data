@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4f1aawg1",
+    "name": "Lavamagnus"
+  },
+  "date": {
+    "day": 1644451200,
+    "full": 1644516927,
+    "month": 1643673600,
+    "week": 1644105600
+  },
+  "id": "t3_spd1g9",
+  "picture": {
+    "filesize": 140344,
+    "fullUrl": "https://preview.redd.it/cmv3v9k8r1h81.jpg?width=1536&format=pjpg&auto=webp&s=8f970029558a52be12c11ece677aa33ace22bfee",
+    "hash": "0f38f3c58d",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFBv/EACQQAAIBBAEDBQEAAAAAAAAAAAECAwQFESEAEjFRExQiI0Fh/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAaEQACAwEBAAAAAAAAAAAAAAABAgADESEi/9oADAMBAAIRAxEAPwDK0N4ultuktPYrj7SecMw+0KWQjqxvQOM68cE9roKPpSQ08zsocvI+Cc+BntyVQ3GraL05aJmcKYy6OM+Dn+778ftt4o6S308KsYSqfJTEDvJ/SN6xybda1Y8jY9VVz05P/9k=",
+    "url": "https://preview.redd.it/cmv3v9k8r1h81.jpg?width=640&crop=smart&auto=webp&s=876b44b57dd3827ebb1c1b8a780b6209cc0f33ff",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 142,
+    "value": 142
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Working on a town square",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/spd1g9/working_on_a_town_square/"
+}

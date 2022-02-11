@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5jrjyuys",
+    "name": "PlayfulQuantity5"
+  },
+  "date": {
+    "day": 1644451200,
+    "full": 1644517438,
+    "month": 1643673600,
+    "week": 1644105600
+  },
+  "id": "t3_spd7nt",
+  "picture": {
+    "filesize": 78764,
+    "fullUrl": "https://preview.redd.it/mi5us015t1h81.jpg?width=4032&format=pjpg&auto=webp&s=768a0781aa0b1c1edbb345bb1f40773111402673",
+    "hash": "09544fc8c7",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAYH/8QAIxAAAQQBAwQDAAAAAAAAAAAAAQIDBAURABIxBhMhQSJRYf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAaEQACAgMAAAAAAAAAAAAAAAAAAQISEyEi/9oADAMBAAIRAxEAPwBNhau9wVq7F2ukY+TUkbC4eMpXxj640mnN3GldmRIW5FSjcsOjJwTgAH91fTqCuvKZtm0YEhCkgjdygn2kjyNZD05DNf1pZV7cqU7EhHtstuuZCQVZPjwPQ0eWNHyIoO62f//Z",
+    "url": "https://preview.redd.it/mi5us015t1h81.jpg?width=640&crop=smart&auto=webp&s=0b49ebc035888dafa838a91afab539af484b894d",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.94,
+    "ups": 21,
+    "value": 21
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Magnetic Dungeon Tiles and Walls",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/spd7nt/magnetic_dungeon_tiles_and_walls/"
+}
