@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1hfaewap",
+    "name": "SYStem05p"
+  },
+  "date": {
+    "day": 1644537600,
+    "full": 1644590067,
+    "month": 1643673600,
+    "week": 1644105600
+  },
+  "id": "t3_sq0szc",
+  "picture": {
+    "filesize": 191859,
+    "fullUrl": "https://preview.redd.it/nftkdij3t7h81.jpg?width=3024&format=pjpg&auto=webp&s=187b16cae751d6393096e6eaa481e2073e8dca08",
+    "hash": "51fafc494f",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMG/8QAIhAAAQMDBAMBAAAAAAAAAAAAAQIDBAURIQASIkExMlFx/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABsRAQACAgMAAAAAAAAAAAAAAAEAAhESIoHw/9oADAMBAAIRAxEAPwCSKshlhUGltLjNkJu4wU8V9biRm4zjxb5rOViotTKg6889LDnqrelObY660eHKepsqRGuGVgKCXib9XwPpucnxbRViOFbnai3uXy5jcc/ltF3V5xgDXND3c//Z",
+    "url": "https://preview.redd.it/nftkdij3t7h81.jpg?width=640&crop=smart&auto=webp&s=2c4c95566f4c0d1ec18651f51deffa7a6c0574df",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 26,
+    "value": 26
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Opaque resin advice/question",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/sq0szc/opaque_resin_advicequestion/"
+}

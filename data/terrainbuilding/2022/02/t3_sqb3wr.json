@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_6aajzviy",
+    "name": "Dolinarius"
+  },
+  "date": {
+    "day": 1644537600,
+    "full": 1644617545,
+    "month": 1643673600,
+    "week": 1644105600
+  },
+  "id": "t3_sqb3wr",
+  "picture": {
+    "filesize": 61161,
+    "fullUrl": "https://preview.redd.it/f9m4i9as2ah81.jpg?width=4608&format=pjpg&auto=webp&s=80a3e521b0ef8e4543f1a15104c135f09ffbf1f1",
+    "hash": "f7efa5e5b6",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABwX/xAAmEAABAwMDAgcAAAAAAAAAAAABAgMEBRESAAYhBxQVIjJBYYGC/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABgRAAMBAQAAAAAAAAAAAAAAAAABEQIh/9oADAMBAAIRAxEAPwAopk6S5GKjSw/GSAkuLSTkkGw/IJI99IMPZm36nTmZ0FTyFJ9RxKElYHmFrA8E6gdN6gvcdKb8UYjr7deDeCMbC3wePrjSqxDYp1HbjxEYNJSSBcnk8nRtdoj1VD//2Q==",
+    "url": "https://preview.redd.it/f9m4i9as2ah81.jpg?width=640&crop=smart&auto=webp&s=b430ed921a964f344e46621f0a855e4e82205757",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 32,
+    "value": 32
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Tile City (Warcry project)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/sqb3wr/tile_city_warcry_project/"
+}
