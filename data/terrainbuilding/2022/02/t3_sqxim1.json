@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4f1aawg1",
+    "name": "Lavamagnus"
+  },
+  "date": {
+    "day": 1644624000,
+    "full": 1644689524,
+    "month": 1643673600,
+    "week": 1644105600
+  },
+  "id": "t3_sqxim1",
+  "picture": {
+    "filesize": 106868,
+    "fullUrl": "https://preview.redd.it/cmt5a0wf0gh81.jpg?width=2048&format=pjpg&auto=webp&s=1ec4cbd1af18ab6f05929546167bab1755adef21",
+    "hash": "43a9aab072",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQP/xAAgEAACAgEFAQEBAAAAAAAAAAABAgMRBAAFBhIhMRNR/8QAFAEBAAAAAAAAAAAAAAAAAAAABf/EABoRAAICAwAAAAAAAAAAAAAAAAARAQIDITH/2gAMAwEAAhEDEQA/AAOQzFOR5JgliOFMgiiaMCQBPaevhazd/Rp7A5C8MkmIuU7bbjQ/qoZupBYgdbPlGyaOh+f7PjbLCjbeZIgFMqrfitd+fz0DVeE7jNyTas2HdljlXH69WVepNg/a0LjdZYnrh//Z",
+    "url": "https://preview.redd.it/cmt5a0wf0gh81.jpg?width=640&crop=smart&auto=webp&s=3104350c5a52f956cd7f2f73edc462eccc11cd5e",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 50,
+    "value": 50
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "GW Sigmarite Chapel with a scratch built XPS chimney and creeping vines made from roots and flock",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/sqxim1/gw_sigmarite_chapel_with_a_scratch_built_xps/"
+}

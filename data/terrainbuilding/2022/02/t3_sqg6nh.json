@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_77nfqw",
+    "name": "Codexier"
+  },
+  "date": {
+    "day": 1644624000,
+    "full": 1644631805,
+    "month": 1643673600,
+    "week": 1644105600
+  },
+  "id": "t3_sqg6nh",
+  "picture": {
+    "filesize": 101792,
+    "fullUrl": "https://preview.redd.it/92l3qqt79bh81.jpg?auto=webp&s=440324fd5c01175ce0be47624f0f5e6baa5aa01d",
+    "hash": "e6b2d31ee8",
+    "height": 626,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAIH/8QAJhAAAQQBAgQHAAAAAAAAAAAAAQIDBAURACESE0FRBhQVIjFhcf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGhEAAgIDAAAAAAAAAAAAAAAAABEBEjJBQv/aAAwDAQACEQMRAD8AtuvrPDtQUTKuueahOKbWpDIdedUU5ysKJIHXYgdO2iJhwrmK5F9PqeGYtKEFUcMutggkqbCcE49u+daMxWx4tdznIUh96armPuRmA4v6Bz+dtGsKaLIgokQ4cptUM8afMMlK8k5Vjb466nGSYuLLR//Z",
+    "url": "https://preview.redd.it/92l3qqt79bh81.jpg?width=640&crop=smart&auto=webp&s=0a87f8e33eafba53b00011e0af0a3f52296ad5fb",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 30,
+    "value": 30
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Terrain display for Artisan Guild minotaurs",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/sqg6nh/terrain_display_for_artisan_guild_minotaurs/"
+}

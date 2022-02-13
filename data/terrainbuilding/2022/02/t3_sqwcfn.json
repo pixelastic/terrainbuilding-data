@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5ujtrmoe",
+    "name": "butterdrinker"
+  },
+  "date": {
+    "day": 1644624000,
+    "full": 1644686285,
+    "month": 1643673600,
+    "week": 1644105600
+  },
+  "id": "t3_sqwcfn",
+  "picture": {
+    "filesize": 52516,
+    "fullUrl": "https://external-preview.redd.it/3JO9TMWFq6OlBu9B4Fje7s-Snp5NN0r6ACqL1JUJcJU.jpg?auto=webp&s=7fd61af5b4bb0a5512fab07399bdf11f3f7292bb",
+    "hash": "3e198bb87c",
+    "height": 479,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAJBAAAgIABQMFAAAAAAAAAAAAAQIDBAAFBhEhEjFRExYiYXH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EAB8RAAEEAAcAAAAAAAAAAAAAAAEAAgMEIkFRYXHB8P/aAAwDAQACEQMRAD8AzD2zDLlCZk62Fhk+carsFEe/BPkkntxthXo3TlOnYW7NNHdyqSJngdUDMJACAjLzserjf6/MRVzuzeIrzrF6KqFjQAgRhe3SN8J9G01Z3rJNYiruTM0cUrKC3nALcoiwbezCp065maX6Hjor/9k=",
+    "url": "https://external-preview.redd.it/3JO9TMWFq6OlBu9B4Fje7s-Snp5NN0r6ACqL1JUJcJU.jpg?width=640&crop=smart&auto=webp&s=d9f9caf810bfff928e4f7caf7c34d22979d559a7",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.9,
+    "ups": 7,
+    "value": 7
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Minimal building walls for a tactical urban enviroment",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/sqwcfn/minimal_building_walls_for_a_tactical_urban/"
+}
