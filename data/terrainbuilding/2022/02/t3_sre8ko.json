@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4m30ikpw",
+    "name": "dakasar"
+  },
+  "date": {
+    "day": 1644710400,
+    "full": 1644741876,
+    "month": 1643673600,
+    "week": 1644710400
+  },
+  "id": "t3_sre8ko",
+  "picture": {
+    "filesize": 88766,
+    "fullUrl": "https://preview.redd.it/ys70npohckh81.jpg?auto=webp&s=b5e609aec6a00a92cd8f80f07bcea052621448e0",
+    "hash": "a829b2ce64",
+    "height": 479,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwED/8QAJxAAAgECBQEJAAAAAAAAAAAAAQIDESEABAUGQTEHEhMUIzJRobH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABkRAQACAwAAAAAAAAAAAAAAAAIAEQESMf/aAAwDAQACEQMRAD8AvarNqO1xllyanwGVjLJCxtVjRT0tSn3jPae5dB1/0nhdHjhjq8xqWe4I/CKYSZI01aSbzqB1SFmCiwtwfkW5wNbomEOqd3JwwZVAvshjCgkHqeScSku4hZ1qf//Z",
+    "url": "https://preview.redd.it/ys70npohckh81.jpg?width=640&crop=smart&auto=webp&s=d290a2fb43404bc907a1ae685527412d515547f1",
+    "width": 640
+  },
+  "score": {
+    "comments": 12,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 431,
+    "value": 431
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A small project from a bunch of ideas.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/sre8ko/a_small_project_from_a_bunch_of_ideas/"
+}

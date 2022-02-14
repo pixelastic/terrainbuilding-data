@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_7fqif3dy",
+    "name": "Matth_Le_Squale"
+  },
+  "date": {
+    "day": 1644710400,
+    "full": 1644775345,
+    "month": 1643673600,
+    "week": 1644710400
+  },
+  "id": "t3_sroq0s",
+  "picture": {
+    "filesize": 76154,
+    "fullUrl": "https://preview.redd.it/4djg77jy3nh81.jpg?width=4032&format=pjpg&auto=webp&s=bdf42909faa197152b83272160f05f98f2ecb0a9",
+    "hash": "8256071106",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMG/8QAJBAAAQMDAwQDAAAAAAAAAAAAAQIDBAUGEQASIQcTImExUYH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABsRAAIBBQAAAAAAAAAAAAAAAAABEQIDBBIh/9oADAMBAAIRAxEAPwCVgSbZYsiIisQ5c2YS4t1cmMt4JIIylJPG0DHx96ynVuXb7lvMNw4S4JbdK2AiJ2UuqONwJxz4jSWbzqlPp7MRlENTDA2JS4wFZHvRbrmirWy9JlxYpdwMbUHCfYBPH5qeobWUq1PZP//Z",
+    "url": "https://preview.redd.it/4djg77jy3nh81.jpg?width=640&crop=smart&auto=webp&s=befe6a32100ab742ee26030f43bbbbd8476ea8a2",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 72,
+    "value": 72
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Working on my first building : medieval cottage",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/sroq0s/working_on_my_first_building_medieval_cottage/"
+}
