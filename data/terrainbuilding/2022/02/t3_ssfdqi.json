@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_8gr44bm0",
+    "name": "Mkb008"
+  },
+  "date": {
+    "day": 1644796800,
+    "full": 1644857936,
+    "month": 1643673600,
+    "week": 1644710400
+  },
+  "id": "t3_ssfdqi",
+  "picture": {
+    "filesize": 116097,
+    "fullUrl": "https://preview.redd.it/bp11ktblxth81.jpg?width=3000&format=pjpg&auto=webp&s=b8389b94141cea1837bd94fc77932b410163df53",
+    "hash": "85f1b40714",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQF/8QAJBAAAQQBAwMFAAAAAAAAAAAAAgEDBAURAAYhBxITMVFhkfD/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAwDAQACEQMRAD8AM3dLtmqsAPcdjaPW01lJxFBZbVtFcyuM55/Y1XaVFZtyUkN15+X3tg+JoHKCYoqIqDlEX40d6uE2l/DJHRwNbFDA84VGufT21t7pspJzIbkKQAtHAilhBQufCCLn60Irj//Z",
+    "url": "https://preview.redd.it/bp11ktblxth81.jpg?width=640&crop=smart&auto=webp&s=7760f3db91d3788958fb3722f41490ecf91b4aab",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 12,
+    "value": 12
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Any suggestions on symbol carving? I have printed the symbols to the correct dimensions and tried to use them as stencil but ended up doing it freehand and just using the stencil as a size guide. I also so not like the inner rounding of the portal edges any suggestion on how to round it better?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ssfdqi/any_suggestions_on_symbol_carving_i_have_printed/"
+}

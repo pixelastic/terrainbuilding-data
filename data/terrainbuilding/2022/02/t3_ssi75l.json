@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5r3fmoay",
+    "name": "Wouter-Man"
+  },
+  "date": {
+    "day": 1644796800,
+    "full": 1644864904,
+    "month": 1643673600,
+    "week": 1644710400
+  },
+  "id": "t3_ssi75l",
+  "picture": {
+    "filesize": 96302,
+    "fullUrl": "https://preview.redd.it/q4t6nv1ciuh81.jpg?width=2753&format=pjpg&auto=webp&s=444dcfa39d6ad0e77fab4cc0a1d6cfcd4ca9c78b",
+    "hash": "76aa423cbc",
+    "height": 703,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA8DASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIFBv/EACcQAAEDAwIEBwAAAAAAAAAAAAIBAwUEBhEAMQcSEyEUFSJRYXGR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAaEQEBAAIDAAAAAAAAAAAAAAABAgADERQh/9oADAMBAAIRAxEAPwClwpjIELMbkLiWMdOQfNxpKpseYAH04Ql3zjPxnT3NG2iMJKutM28w4hj0HWyBD5VcHO23bRa/lcbaVFFeLESaUjQqlRNBUlyo75RO3b7XWL4pO1MrAsxkMlNUN1B5fNsOmTaCqEOFX3XP5os015ke1qJKaDnP/9k=",
+    "url": "https://preview.redd.it/q4t6nv1ciuh81.jpg?width=640&crop=smart&auto=webp&s=14135c05e622ba2791863a5598017c9414dd652a",
+    "width": 640
+  },
+  "score": {
+    "comments": 10,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 82,
+    "value": 82
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "The people have spoken. Slate it is. Only done one side so far. To be continued.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ssi75l/the_people_have_spoken_slate_it_is_only_done_one/"
+}
