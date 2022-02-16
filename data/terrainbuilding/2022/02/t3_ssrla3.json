@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_9adt4akq",
+    "name": "Great_North_Armoury"
+  },
+  "date": {
+    "day": 1644883200,
+    "full": 1644890809,
+    "month": 1643673600,
+    "week": 1644710400
+  },
+  "id": "t3_ssrla3",
+  "picture": {
+    "filesize": 325101,
+    "fullUrl": "https://preview.redd.it/7nwqtgg3nwh81.png?width=974&format=png&auto=webp&s=f60db5956a62b34a51c9c8f71b4a05c4425d9a42",
+    "hash": "f8b6b19327",
+    "height": 514,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAANCAIAAAAv2XlzAAAACXBIWXMAAAsTAAALEwEAmpwYAAACBUlEQVQokW2SXWvTYBTH+w0E8SOIlGqrabekpU2WNk2TpumyZH1LdN3s5uiq7XzBN9i1b2xXIjiZCA4ZUy8ERXbhhhfqB5gXjnbFm+7OwSSy8mR5eqSmjCr+rw4HfpzD+R3XQV+sPwGAra1vOzstAHA6B31xHVYIIYyxbdvv3r5R0mJGG15be2/btoP9CyCEAGB398fC/P1CTo2xEXKQ8Hndl2sXt7cbAGDbtoP1AAD4urlZHCvMlC/Mzd2WxLiuZ/VCRlFShay68mLZNE0A6AEIoZerK9pIynfKffVK7fq1KhMhdT1Xmhw3jDwTCRr50alS8cvnTwDgAoDXr1aDJCFLfIDw0WFSz6YVmU9JfFoWkmJ8iA4KcTZE+WerFYw7XWDpySJx2pMUYkHKrw4Ls5Xzl8rF8pQxXdInx/NGXlHkBDVIVGamOxh3gadLi8eOHhkInInHaIFn0zKvqbKmyrLEJ4XYOWNUEjnvyRMLD+72Vmq1Wrdu3vB5PSHKz3MMS4coMkBSA0wkqI1IuYwiJqLz9+783NvDGLssy8IYA8DGxvpE8SzHhpkwxdIhMRFV0iLHhifGCh/XPwAAxtiyrO6VDgWbv8zl58+iQ2GP+3hSiLJ0qFYpf282+939Zdrx2mjUa9UKzzGPHz1st9sAgBD6z2s4oxzl7f39Zr3e6XScNfp/6TdpIZhYWpFClwAAAABJRU5ErkJggg==",
+    "url": "https://preview.redd.it/7nwqtgg3nwh81.png?width=640&crop=smart&auto=webp&s=6653fcec2b25ed3d55a3b5f8126ae7e3398cbddf",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 0.95,
+    "ups": 14,
+    "value": 14
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Nesting Terrain Set 2 (Poll and Set 1 STLs)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ssrla3/nesting_terrain_set_2_poll_and_set_1_stls/"
+}

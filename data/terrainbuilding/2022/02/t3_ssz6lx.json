@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_10bjw9",
+    "name": "sFAMINE"
+  },
+  "date": {
+    "day": 1644883200,
+    "full": 1644917622,
+    "month": 1643673600,
+    "week": 1644710400
+  },
+  "id": "t3_ssz6lx",
+  "picture": {
+    "filesize": 50110,
+    "fullUrl": "https://preview.redd.it/x7iyfsr0vyh81.jpg?auto=webp&s=d53639a6822be958f18cdacf59a7e61154acbdd6",
+    "hash": "c36ecfccde",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAhEAACAgEDBQEAAAAAAAAAAAABAgMEEQAFBhIhIzFhwf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAbEQACAgMBAAAAAAAAAAAAAAABAhEhAARhkf/aAAwDAQACEQMRAD8AH4rPSs1pY2SN4JIgHLDuGHcEH5+6juaz143U1y6qT05YYBOneAb3YXYGomOBoYQShKYYHOfYOpLl+/3t+8F50FeOTqWONcAHGM59+vuibZDuEVYgX6cVdcopdmmTXKGf/9k=",
+    "url": "https://preview.redd.it/x7iyfsr0vyh81.jpg?width=640&crop=smart&auto=webp&s=a9ba7a488c3a5bc9f17e46dc35c39c03110f6ce2",
+    "width": 640
+  },
+  "score": {
+    "comments": 25,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 875,
+    "value": 875
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "DUNE Terrain: Wind Trap finished!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ssz6lx/dune_terrain_wind_trap_finished/"
+}

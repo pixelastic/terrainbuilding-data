@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_ix0qcqc9",
+    "name": "A-up-Z-Down"
+  },
+  "date": {
+    "day": 1644883200,
+    "full": 1644948786,
+    "month": 1643673600,
+    "week": 1644710400
+  },
+  "id": "t3_st9aut",
+  "picture": {
+    "filesize": 42765,
+    "fullUrl": "https://preview.redd.it/8ro2zrhrf1i81.jpg?width=1440&format=pjpg&auto=webp&s=9735660c2d810b89690c45722e9d2fb784ecd6b2",
+    "hash": "0431c53328",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAIxAAAgEEAQMFAAAAAAAAAAAAAQIDBAUGEQAHEiETFDFxsf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAYEQADAQEAAAAAAAAAAAAAAAABAhEAEv/aAAwDAQACEQMRAD8Ak+qFcsWV5FatwmlrCkbM5ZHA7wwIGvnfjh1x6cGuxGy1GNUk1Vc6iap9d0m8PGjaUgOQB+83nLcAsuUVaVVxhk9wihVlRyrAb3xXG8cprFaaeihkeYQl+ySTXcAzEkePvgIvMmVj1STv/9k=",
+    "url": "https://preview.redd.it/8ro2zrhrf1i81.jpg?width=640&crop=smart&auto=webp&s=9b1800fb385082ad7b6e04243b55b8b19b58277e",
+    "width": 640
+  },
+  "score": {
+    "comments": 13,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 149,
+    "value": 149
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Sisters Coffee Shop",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/st9aut/sisters_coffee_shop/"
+}
