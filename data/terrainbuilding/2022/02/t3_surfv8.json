@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1hfaewap",
+    "name": "SYStem05p"
+  },
+  "date": {
+    "day": 1645056000,
+    "full": 1645111730,
+    "month": 1643673600,
+    "week": 1644710400
+  },
+  "id": "t3_surfv8",
+  "picture": {
+    "filesize": 113380,
+    "fullUrl": "https://preview.redd.it/n5afqyn9wei81.jpg?width=3024&format=pjpg&auto=webp&s=43eadee1569c80cdd04cc2e9afd71b1943be75a7",
+    "hash": "977ed629a7",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgX/xAAjEAABBAIBAwUAAAAAAAAAAAABAgMEEQUhAAYSMRMUQVGB/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABkRAAMAAwAAAAAAAAAAAAAAAAABAhEhQv/aAAwDAQACEQMRAD8AKy3pjmdnpixnHA04lQIrsIUj60b+f3ijAM45WMb95gI8mQCQtbwtV3sWFC+Gcr1BmYDsdplmO6yW0i1tdxJA3ZFcptznZbaH5ifTkLSCpKFkJGq0D48cO6rOmLCnpH//2Q==",
+    "url": "https://preview.redd.it/n5afqyn9wei81.jpg?width=640&crop=smart&auto=webp&s=e489b0fb153844add56c1e8d0a98d2cdc9b1d970",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 0.93,
+    "ups": 34,
+    "value": 34
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Concrete bunker from foam card",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/surfv8/concrete_bunker_from_foam_card/"
+}
