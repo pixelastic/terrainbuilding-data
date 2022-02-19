@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_c3hdd0yu",
+    "name": "Thangaror"
+  },
+  "date": {
+    "day": 1645142400,
+    "full": 1645209849,
+    "month": 1643673600,
+    "week": 1644710400
+  },
+  "id": "t3_svp7s1",
+  "picture": {
+    "filesize": 258695,
+    "fullUrl": "https://preview.redd.it/mtp7r0mvzmi81.jpg?width=1152&format=pjpg&auto=webp&s=1bac82c6d4f0c9f9bab7fbf31fb2064aca65d4cc",
+    "hash": "1a2d106203",
+    "height": 1138,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwUGB//EACcQAAEDAgENAAAAAAAAAAAAAAECAwQABQYREhMVQVFUVnGRlNHS/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAWEQADAAAAAAAAAAAAAAAAAAAAIUH/2gAMAwEAAhEDEQA/AASbRAW2pOhDY2LSTl60m1A1xzXYe60C5YPvLLDjkgw47aQVKU7IAAG81FZlp5ksXkn5quBU/9k=",
+    "url": "https://preview.redd.it/mtp7r0mvzmi81.jpg?width=640&crop=smart&auto=webp&s=40c11e2c94fefc92983a7d0a2c76cd359ca2e6df",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.67,
+    "ups": 2,
+    "value": 2
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I finally figured out, where to get some nice mesh",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/svp7s1/i_finally_figured_out_where_to_get_some_nice_mesh/"
+}

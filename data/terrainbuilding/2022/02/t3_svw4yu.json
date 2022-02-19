@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_3m7gsia7",
+    "name": "burnt-dough"
+  },
+  "date": {
+    "day": 1645142400,
+    "full": 1645228554,
+    "month": 1643673600,
+    "week": 1644710400
+  },
+  "id": "t3_svw4yu",
+  "picture": {
+    "filesize": 52010,
+    "fullUrl": "https://preview.redd.it/723i8znnjoi81.jpg?auto=webp&s=81153bfe96638a8e981c63ea1c4f86b63870a78c",
+    "hash": "325d2783a6",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgf/xAAlEAACAgECBAcAAAAAAAAAAAABAgMRBAAFBgcTkRIhIiMyUYH/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAFhEBAQEAAAAAAAAAAAAAAAAAAREA/9oADAMBAAIRAxEAPwBedxli3/AxGlnXxmlNehyVLEdh3rSluoT8tQnh/dscPhz4aR45x/cZIloMxABv8vSPI5gB5T0J1CjyNsq2fsWQa0VKwyVQrv/Z",
+    "url": "https://preview.redd.it/723i8znnjoi81.jpg?width=640&crop=smart&auto=webp&s=ef6bf86fef5156abaa70a086b2f3b2788447031e",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 13,
+    "value": 13
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Wizards tower under construction",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/svw4yu/wizards_tower_under_construction/"
+}
