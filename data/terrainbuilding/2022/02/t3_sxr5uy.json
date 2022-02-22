@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_620cgybg",
+    "name": "Gr3y75"
+  },
+  "date": {
+    "day": 1645401600,
+    "full": 1645442153,
+    "month": 1643673600,
+    "week": 1645315200
+  },
+  "id": "t3_sxr5uy",
+  "picture": {
+    "filesize": 142207,
+    "fullUrl": "https://preview.redd.it/t2s51lps66j81.jpg?auto=webp&s=194f586bace85f3256f955be38197d13cf69b7c2",
+    "hash": "f6be7b0b73",
+    "height": 665,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA8DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQIE/8QAJRAAAgEDAwIHAAAAAAAAAAAAAQMCBBIhAAURBkETIjFRYXGB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAWEQEBAQAAAAAAAAAAAAAAAAABEQD/2gAMAwEAAhEDEQA/ANm99Rnbm1VLSUcZUqpWJqFNEiDjzWkcHJPGfnVVylbRt62V9et7brYycSbBnuM++OdCbt09Oa/EUxyyyd8oGIMRnnvn17aU3SkbXykCpSjI3cHkE/cj+4GNVFmKNm//2Q==",
+    "url": "https://preview.redd.it/t2s51lps66j81.jpg?width=640&crop=smart&auto=webp&s=86dfc466e800e59f609285b1f82d57ac388a4f26",
+    "width": 640
+  },
+  "score": {
+    "comments": 23,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 276,
+    "value": 276
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First building ever done, any C&c to improve ?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/sxr5uy/first_building_ever_done_any_cc_to_improve/"
+}

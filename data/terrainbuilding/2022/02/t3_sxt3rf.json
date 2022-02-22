@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_591a7zdw",
+    "name": "Pfeifenhuber"
+  },
+  "date": {
+    "day": 1645401600,
+    "full": 1645448776,
+    "month": 1643673600,
+    "week": 1645315200
+  },
+  "id": "t3_sxt3rf",
+  "picture": {
+    "filesize": 42936,
+    "fullUrl": "https://preview.redd.it/mwcfcqnhq6j81.jpg?auto=webp&s=d7852525465bc72c00bbfca4442f5562b76a718c",
+    "hash": "ba2a848a6a",
+    "height": 818,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgME/8QAIxAAAgEDBAEFAAAAAAAAAAAAAQIEAwURAAYSIXEHExUxwf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFhEBAQEAAAAAAAAAAAAAAAAAEQAh/9oADAMBAAIRAxEAPwA7uq+Gyy4orhRSrI54scdgjvPg61slWoFdFUow5Ag/YOoetdhn3GDbvjoFSTwdvcekpZkBx1gd4P5pJtaLJqbegm4RWjSBSCGkwwVA6GfIAOowxv/Z",
+    "url": "https://preview.redd.it/mwcfcqnhq6j81.jpg?width=640&crop=smart&auto=webp&s=39b65363e6a9bcc91b8e41925e062fafb3889feb",
+    "width": 640
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "ratio": 0.94,
+    "ups": 37,
+    "value": 37
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "How do I make a water base?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/sxt3rf/how_do_i_make_a_water_base/"
+}
