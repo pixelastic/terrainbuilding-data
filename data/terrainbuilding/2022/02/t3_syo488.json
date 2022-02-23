@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_hhlm36o",
+    "name": "Mr8404"
+  },
+  "date": {
+    "day": 1645488000,
+    "full": 1645537948,
+    "month": 1643673600,
+    "week": 1645315200
+  },
+  "id": "t3_syo488",
+  "picture": {
+    "filesize": 70180,
+    "fullUrl": "https://preview.redd.it/djuwchrl3ej81.jpg?width=4032&format=pjpg&auto=webp&s=bfc5ee77430f6609a558e9864e03150670e9f977",
+    "hash": "bf25cffee1",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgIF/8QAKRAAAgEDAQQLAAAAAAAAAAAAAQIEAAMhBQYRMVESFCIzNUFhc3Sxsv/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAZEQEAAgMAAAAAAAAAAAAAAAABAAIREiH/2gAMAwEAAhEDEQA/AD0t5qXksafI6pKVQEKLnpFsMzcQRvxzPnmsydcnpPAnajIuXXIZxdQ9sDi2c+p5Uk0HutQ96P8AoVe1fh0j5Uj6o7XTsXUwT//Z",
+    "url": "https://preview.redd.it/djuwchrl3ej81.jpg?width=640&crop=smart&auto=webp&s=a19767be2438e160f3a350a2fc7c21232d8f3c6d",
+    "width": 640
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 154,
+    "value": 154
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My modular terrain system, using influence from RParchive, Black Magic Craft, and Wylock",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/syo488/my_modular_terrain_system_using_influence_from/"
+}

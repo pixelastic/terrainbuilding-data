@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_8gr44bm0",
+    "name": "Mkb008"
+  },
+  "date": {
+    "day": 1645488000,
+    "full": 1645516360,
+    "month": 1643673600,
+    "week": 1645315200
+  },
+  "id": "t3_syhxgh",
+  "picture": {
+    "filesize": 118378,
+    "fullUrl": "https://preview.redd.it/ip0b402gbcj81.jpg?auto=webp&s=2537b806eeffae515e40ec82879c42e3990400b4",
+    "hash": "f08a77c43d",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFAABAAAAAAAAAAAAAAAAAAAABv/EACMQAAICAgIBBAMAAAAAAAAAAAECAwQFEQASIQYTFFExQWH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBf/EAB0RAAICAgMBAAAAAAAAAAAAAAEEESEAAwIiMeH/2gAMAwEAAhEDEQA/AB2GxfzI6N61mekt5+4SWMuQwYr40dEE/fD4yVN3lNy0lWUSMvtNI66AOvAG9Dxxb6cpVXpYKvelkr36/djGE7bUOWAJGxvR/HDeUjzUeRspXENqFZGCSNUWfxs6Hf8An1+uGuwxqJANfciLMAMbuLXgPWoqT4QBNRn/2Q==",
+    "url": "https://preview.redd.it/ip0b402gbcj81.jpg?width=640&crop=smart&auto=webp&s=9fc508c53ddea63772b770f6afd3597a0b95d20c",
+    "width": 640
+  },
+  "score": {
+    "comments": 24,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 441,
+    "value": 441
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP, testing portal effect, still not 100% but the effect is \"realistic\".",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/syhxgh/wip_testing_portal_effect_still_not_100_but_the/"
+}

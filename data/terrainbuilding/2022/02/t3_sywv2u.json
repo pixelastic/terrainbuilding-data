@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_7fqif3dy",
+    "name": "Matth_Le_Squale"
+  },
+  "date": {
+    "day": 1645488000,
+    "full": 1645560186,
+    "month": 1643673600,
+    "week": 1645315200
+  },
+  "id": "t3_sywv2u",
+  "picture": {
+    "filesize": 60571,
+    "fullUrl": "https://preview.redd.it/c8aw0x9vvfj81.jpg?width=4032&format=pjpg&auto=webp&s=3a2bf2180d89d41a311a92e25cfeb20060fd5969",
+    "hash": "777d116797",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAIxAAAgICAQQCAwAAAAAAAAAAAgMBEQQFAAYSITETIkJRgf/EABUBAQEAAAAAAAAAAAAAAAAAAAAD/8QAHBEBAAIBBQAAAAAAAAAAAAAAAQACIQMEEhQi/9oADAMBAAIRAxEAPwCbpHB0OhaDdjn4G1zFNg+8DIkrMfxqYgT8xdxFcN3ei6MzgYrDxfiIrZLE5B2MXc1EzX84N1Q1uyazKYyUsM/MIiAGKivVfrmLe1+MYSGQ4pGfr3F6467RMyepveRYD0Yn/9k=",
+    "url": "https://preview.redd.it/c8aw0x9vvfj81.jpg?width=640&crop=smart&auto=webp&s=3e487bc670bf16a5a87cd1dab91eac01087628d6",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 50,
+    "value": 50
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My first real building : a medieval cottage. C&C welcome !",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/sywv2u/my_first_real_building_a_medieval_cottage_cc/"
+}
