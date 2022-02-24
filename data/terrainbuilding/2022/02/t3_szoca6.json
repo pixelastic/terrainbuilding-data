@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_10bjw9",
+    "name": "sFAMINE"
+  },
+  "date": {
+    "day": 1645574400,
+    "full": 1645641065,
+    "month": 1643673600,
+    "week": 1645315200
+  },
+  "id": "t3_szoca6",
+  "picture": {
+    "filesize": 72367,
+    "fullUrl": "https://external-preview.redd.it/YEtJrDmLGU7purrXbInxdybOMBpoEOMCbNFziPj57ro.jpg?auto=webp&s=580e67dd5678b158afcea8abe66dd1758e217342",
+    "hash": "40a81035e2",
+    "height": 516,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAANABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgMF/8QAJRAAAQMEAAUFAAAAAAAAAAAAAQIDEQAEBRIGEyExQRUicZHh/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABcRAQEBAQAAAAAAAAAAAAAAAAEAAmH/2gAMAwEAAhEDEQA/ALYuxtcVbJ9efdSExJJ0bE9ANu81jceYfGvWLtxjrkpeQoBLSnPbJMQZE+DSvJNIv2OXdIS8320dG6fo/FF+KHFPsllyNkKSoKSInr5H7QGtjyZC/9k=",
+    "url": "https://external-preview.redd.it/YEtJrDmLGU7purrXbInxdybOMBpoEOMCbNFziPj57ro.jpg?width=640&crop=smart&auto=webp&s=89f947a45001a70b9304bd224612fa488c862711",
+    "width": 640
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 15,
+    "value": 15
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Reddit Terrain Competition Season 2: Winners",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/szoca6/reddit_terrain_competition_season_2_winners/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_620cgybg",
+    "name": "Gr3y75"
+  },
+  "date": {
+    "day": 1645574400,
+    "full": 1645616901,
+    "month": 1643673600,
+    "week": 1645315200
+  },
+  "id": "t3_szfksc",
+  "picture": {
+    "filesize": 187236,
+    "fullUrl": "https://preview.redd.it/9x99zepemkj81.jpg?width=3023&format=pjpg&auto=webp&s=0791e3a280a4651f89845448d6e1dca8e6e649fe",
+    "hash": "20426faf3b",
+    "height": 789,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUG/8QAIhAAAgIBAwQDAAAAAAAAAAAAAQIDBBEABSExMlFhEkFS/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAXEQADAQAAAAAAAAAAAAAAAAAAASEx/9oADAMBAAIRAxEAPwC5JNcQ1hUsJFFK5jIEYfgfnp4xzpy17Mk0iV5i6IF71VjyPQx51nGi3etbrNWxNQVmYIrj5qSGwSD7xz60Kfa90uymWawyv25VSc8nqRwev1qVtCn/2Q==",
+    "url": "https://preview.redd.it/9x99zepemkj81.jpg?width=640&crop=smart&auto=webp&s=6b1ec660c3f8c48300f5fb793c3387523f821869",
+    "width": 640
+  },
+  "score": {
+    "comments": 36,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 258,
+    "value": 258
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Second building ready for C&C !",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/szfksc/second_building_ready_for_cc/"
+}

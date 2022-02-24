@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_41s7ajcx",
+    "name": "SHOPlanB"
+  },
+  "date": {
+    "day": 1645574400,
+    "full": 1645623779,
+    "month": 1643673600,
+    "week": 1645315200
+  },
+  "id": "t3_szhspi",
+  "picture": {
+    "filesize": 120734,
+    "fullUrl": "https://preview.redd.it/r1uyx8ar6lj81.jpg?width=3072&format=pjpg&auto=webp&s=99018e5bd303071cd78b96fe01f2819ede5b8ca8",
+    "hash": "af97816f5c",
+    "height": 850,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgcI/8QAIxAAAgEDAwQDAAAAAAAAAAAAAQIDBAURAAYSEyExURRhcf/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAcEQACAgIDAAAAAAAAAAAAAAABAgADQdETIjL/2gAMAwEAAhEDEQA/AJRsOw1MtNK0nGPEpJYjLBR6+z71oLbm8jbratG8rSCBuCsyhsrgY8nQSkhewUnx2pOLrIx6k4KKwPgZHc9tHRvu0WZ5KSrttRXzci7TpIoU59Z74/dDCvZY3IOuNxTlFqUJ6zqf/9k=",
+    "url": "https://preview.redd.it/r1uyx8ar6lj81.jpg?width=640&crop=smart&auto=webp&s=2b1b99fe323db1785a2c65589c61e180044f2cba",
+    "width": 640
+  },
+  "score": {
+    "comments": 23,
+    "downs": 0,
+    "ratio": 0.9,
+    "ups": 33,
+    "value": 33
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Looking for input/c&c with lava",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/szhspi/looking_for_inputcc_with_lava/"
+}
