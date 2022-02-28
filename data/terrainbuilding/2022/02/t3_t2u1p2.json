@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_9jmwj13m",
+    "name": "DryAgedSpam"
+  },
+  "date": {
+    "day": 1645920000,
+    "full": 1645985415,
+    "month": 1643673600,
+    "week": 1645920000
+  },
+  "id": "t3_t2u1p2",
+  "picture": {
+    "filesize": 59529,
+    "fullUrl": "https://preview.redd.it/e8mn0gw62fk81.jpg?auto=webp&s=d6b56d03449be08363d98a3393c95d2056d55d64",
+    "hash": "d8c5371ac9",
+    "height": 850,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAIRAAAgICAQQDAAAAAAAAAAAAAQIDBAARBRITIUEGFDH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABYRAQEBAAAAAAAAAAAAAAAAAAEAIf/aAAwDAQACEQMRAD8A3fVadSYiSsY7jeNhVH6cAtckUnZTErEeyMhk+dUuJE1e7FK/26zJH2dEg+97I8awmlzdeWpCzsA3SNgnJTRNv//Z",
+    "url": "https://preview.redd.it/e8mn0gw62fk81.jpg?width=640&crop=smart&auto=webp&s=ab9a68bf97aad5f5210f08f659e2d60032e4a617",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "ratio": 0.67,
+    "ups": 3,
+    "value": 3
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Any ideas on what I can make out of these sauce cups?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/t2u1p2/any_ideas_on_what_i_can_make_out_of_these_sauce/"
+}

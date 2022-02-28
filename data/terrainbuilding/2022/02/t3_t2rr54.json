@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_ihqk9s1",
+    "name": "Grant_Helmreich"
+  },
+  "date": {
+    "day": 1645920000,
+    "full": 1645979106,
+    "month": 1643673600,
+    "week": 1645920000
+  },
+  "id": "t3_t2rr54",
+  "picture": {
+    "filesize": 68200,
+    "fullUrl": "https://preview.redd.it/7793hkjfjek81.jpg?auto=webp&s=07609bd0645070952d1ae0e6173d04edb6739035",
+    "hash": "2983a54436",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQQFBv/EACIQAAICAQQBBQAAAAAAAAAAAAECAxEEAAUSQSEiMUJRgf/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAHhEBAAEEAgMAAAAAAAAAAAAAAQMAAhEhBFEiMbH/2gAMAwEAAhEDEQA/AM9tEm2DEc5s0cBidOMYUgyg3yFj8HVDUPcsyNsp5sbljoTaeok0Plf1pYzMq34NdHvQ3+Wpo4EjjREQvarRYknyT37aOiXafdRoJ7J+Isth4YxjSva/e2v/2Q==",
+    "url": "https://preview.redd.it/7793hkjfjek81.jpg?width=640&crop=smart&auto=webp&s=04b84a85c90c82c883cffdbc0af81acc5debb14b",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 53,
+    "value": 53
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My take on Firefly Cellar in Candlekeep. Library above, kitchen and bedrooms below.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/t2rr54/my_take_on_firefly_cellar_in_candlekeep_library/"
+}
