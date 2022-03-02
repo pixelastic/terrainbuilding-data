@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_k3neqpq7",
+    "name": "Ecktheo"
+  },
+  "date": {
+    "day": 1646179200,
+    "full": 1646182440,
+    "month": 1646092800,
+    "week": 1645920000
+  },
+  "id": "t3_t4ne32",
+  "picture": {
+    "filesize": 62417,
+    "fullUrl": "https://preview.redd.it/w81odsfkbvk81.jpg?width=1080&format=pjpg&auto=webp&s=425ef7ff246b7b06fff9742be0684f75e4dd68d5",
+    "hash": "bd78914f3f",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgf/xAAjEAACAQMEAQUAAAAAAAAAAAABAgMEBREABhIxISIjQWGB/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABgRAQADAQAAAAAAAAAAAAAAAAIAAQMx/9oADAMBAAIRAxEAPwCjVF2kgus1LTRwT05iQxI0fThQX5NkcR6lx4OTnQ2+bctN4q0rq2200NVKnuxgBuLBiCOXz13otdL7VtarrxmETyNhZI2IdVxGDg/h0aWu3iwzFfnVMnAKI2POe8feihGo1YaLlT//2Q==",
+    "url": "https://preview.redd.it/w81odsfkbvk81.jpg?width=640&crop=smart&auto=webp&s=84667ff2af1accf27a70a622f0d616b276928dba",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 3,
+    "value": 3
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Gallows",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/t4ne32/gallows/"
+}

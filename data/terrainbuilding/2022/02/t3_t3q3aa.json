@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_gewz9",
+    "name": "daCatburgla"
+  },
+  "date": {
+    "day": 1646006400,
+    "full": 1646082769,
+    "month": 1643673600,
+    "week": 1645920000
+  },
+  "id": "t3_t3q3aa",
+  "picture": {
+    "filesize": 42499,
+    "fullUrl": "https://preview.redd.it/cwdfoh2o3nk81.jpg?width=4032&format=pjpg&auto=webp&s=3d82a7244fc6213795b63f055209bab149db3cf5",
+    "hash": "56afd0d022",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAJRAAAQQBAwIHAAAAAAAAAAAAAQIDBBEGAAUhBxIiMzVBcrHw/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAYEQACAwAAAAAAAAAAAAAAAAAAAgEDEf/aAAwDAQACEQMRAD8AtM3zbc4eBSZMdtxiSpKQp9NpIBV4ggVZNcXpTA8i3GdhUF2cz3OJa7QuwhxQSSBaFVzQHN86G6i+iyPkfvWFbn56f3tqVbmZRpqjcP/Z",
+    "url": "https://preview.redd.it/cwdfoh2o3nk81.jpg?width=640&crop=smart&auto=webp&s=a0a49b4d758c97e638a899952e10891029d2fcd6",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 60,
+    "value": 60
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My first tudor house build. C&C welcome!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/t3q3aa/my_first_tudor_house_build_cc_welcome/"
+}

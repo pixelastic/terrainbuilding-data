@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_16t58j",
+    "name": "Projekt_BF"
+  },
+  "date": {
+    "day": 1646006400,
+    "full": 1646058470,
+    "month": 1643673600,
+    "week": 1645920000
+  },
+  "id": "t3_t3gudk",
+  "picture": {
+    "filesize": 31249,
+    "fullUrl": "https://preview.redd.it/gew3eayd3lk81.jpg?auto=webp&s=b9eeb747332b772bd2e0699ef959b373c3bd1813",
+    "hash": "d0dd648af5",
+    "height": 415,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAKABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAIRAAAQMEAgMBAAAAAAAAAAAAAQIDBAAFESEScQYHMYH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EAB8RAAIBAgcAAAAAAAAAAAAAAAECEQADBBITISJBkf/aAAwDAQACEQMRAD8AyD1+3bhFlt3iUYhbAUAiQGSokEfu8GokV6XPvDMWNLfeKl8UcjnedH5R+NuQ7nffdKPHSUXGMpBKVDOCNEbFXEX10MgQSO43oicpk+1//9k=",
+    "url": "https://preview.redd.it/gew3eayd3lk81.jpg?width=640&crop=smart&auto=webp&s=5572ce8153f68f7cdf97330ed8c5755aff613a41",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 0.71,
+    "ups": 6,
+    "value": 6
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Tutorial Tuesday are coming back on March 8th",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/t3gudk/tutorial_tuesday_are_coming_back_on_march_8th/"
+}

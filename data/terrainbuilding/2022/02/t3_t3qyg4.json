@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_ji4jqxl9",
+    "name": "HellcastEternals"
+  },
+  "date": {
+    "day": 1646006400,
+    "full": 1646085050,
+    "month": 1643673600,
+    "week": 1645920000
+  },
+  "id": "t3_t3qyg4",
+  "picture": {
+    "filesize": 106891,
+    "fullUrl": "https://preview.redd.it/fdsu05wfank81.jpg?width=3024&format=pjpg&auto=webp&s=223fe2aac0bfe73c0c4dcc37ffb8895a216241cb",
+    "hash": "edba66b96e",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQH/8QAIhAAAgEDBAIDAAAAAAAAAAAAAQMCAAQRBRIhMRVBIjKB/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABcRAAMBAAAAAAAAAAAAAAAAAAABETH/2gAMAwEAAhEDEQA/ADSWSMUz1KLFxmT8YmI3jOOCT2cGovHX75TZ491uuUiVxd9jD0eq1vUtMswwMTaoDRDYBOPG3OcZHI5o9faYu5uZtvWFz5dyOR+AD1RFoxyH/9k=",
+    "url": "https://preview.redd.it/fdsu05wfank81.jpg?width=640&crop=smart&auto=webp&s=5f3f3d6ccedaed486eb6809fca5afa105412d230",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 0.96,
+    "ups": 31,
+    "value": 31
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Burnt down house terrain",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/t3qyg4/burnt_down_house_terrain/"
+}

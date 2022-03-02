@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_57symcmp",
+    "name": "ParaFox_Games"
+  },
+  "date": {
+    "day": 1646006400,
+    "full": 1646029391,
+    "month": 1643673600,
+    "week": 1645920000
+  },
+  "id": "t3_t38vvz",
+  "picture": {
+    "filesize": 56285,
+    "fullUrl": "https://preview.redd.it/txnwi6usoik81.jpg?auto=webp&s=c6e8bf9ca9d03582c0b7ca06cfb704c47f6e9397",
+    "hash": "54d03a7523",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgME/8QAIBAAAgICAgIDAAAAAAAAAAAAAQIDBBEhAAUSMQZhgf/EABQBAQAAAAAAAAAAAAAAAAAAAAH/xAAZEQACAwEAAAAAAAAAAAAAAAABEQACIUH/2gAMAwEAAhEDEQA/ANdN68NqIywxTWWDOZJFDMDnOM+/oDl/mSWIunTsbMBM1K0VkSGIsxhceJIXZJ2rfnDFylJ2TQu1+7XMa5AruFBOdE6OSOJOuE9frDFLdt23LFjNZk8nPrWdaHAUIsuRb0z/2Q==",
+    "url": "https://preview.redd.it/txnwi6usoik81.jpg?width=640&crop=smart&auto=webp&s=14c722275898e9555019e98dde0d4fe41f6f0498",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 20,
+    "value": 20
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My first ever terrain piece! advice?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/t38vvz/my_first_ever_terrain_piece_advice/"
+}

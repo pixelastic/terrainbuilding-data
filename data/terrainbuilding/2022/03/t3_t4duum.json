@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_ix0qcqc9",
+    "name": "A-up-Z-Down"
+  },
+  "date": {
+    "day": 1646092800,
+    "full": 1646157283,
+    "month": 1646092800,
+    "week": 1645920000
+  },
+  "id": "t3_t4duum",
+  "picture": {
+    "filesize": 46308,
+    "fullUrl": "https://preview.redd.it/iw158y989tk81.jpg?width=2410&format=pjpg&auto=webp&s=71c584a6be375b4a3c317f369593d60c8f76f769",
+    "hash": "c6434cdf76",
+    "height": 639,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgT/xAAiEAABBAEEAgMAAAAAAAAAAAABAgMEEQUABhMhEkEiMVH/xAAVAQEBAAAAAAAAAAAAAAAAAAABA//EABgRAQEBAQEAAAAAAAAAAAAAAAIBABEh/9oADAMBAAIRAxEAPwBtKy6YcMOshp14rADTi+MkX8jZHrV+O3tE5mmlwJVKV4lbakuBIvsmvzQ3cOwspmZbfK7ywn/FqQhKvFaWwQRV9Hv791pnhthY/HwWIrfIiIybQ02ooF3fZB779amCZPcpq3k3/9k=",
+    "url": "https://preview.redd.it/iw158y989tk81.jpg?width=640&crop=smart&auto=webp&s=cb3bd92cda7f4145a51b42ecb766de1abe26c4bc",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 0.95,
+    "ups": 66,
+    "value": 66
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Basic bank",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/t4duum/basic_bank/"
+}

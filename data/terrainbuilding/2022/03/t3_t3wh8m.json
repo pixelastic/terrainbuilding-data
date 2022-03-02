@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_13t9pn",
+    "name": "Rock2D2"
+  },
+  "date": {
+    "day": 1646092800,
+    "full": 1646100506,
+    "month": 1646092800,
+    "week": 1645920000
+  },
+  "id": "t3_t3wh8m",
+  "picture": {
+    "filesize": 90041,
+    "fullUrl": "https://preview.redd.it/hwaobib3kok81.jpg?width=1440&format=pjpg&auto=webp&s=fc19016541966bb5cfac3fce2d9131676ff5b177",
+    "hash": "a6278d44be",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgID/8QAIhAAAgICAQQDAQAAAAAAAAAAAQIDBAURABIhMUEGB1ET/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwX/xAAfEQABAwQDAQAAAAAAAAAAAAADAQIRAAQSgQUTUeH/2gAMAwEAAhEDEQA/AAAydx7gyGLmpRVy/wDORWUu7quwF3re9OdAdu3nmpee/lrCy1K08FWMmCeSUxBEY+/1yB49DfJOMqUPiWOs14QLUknQZiSWC6LED1ok/nGNPERP9YX8jJPaks1mkaLrlJVO4B0vjuGYHgtMZ9soM16/NzVgvEhE5LlzUzmJ19Wv/9k=",
+    "url": "https://preview.redd.it/hwaobib3kok81.jpg?width=640&crop=smart&auto=webp&s=ace66a6d81f3cb1c741f4d43575cb616a6f3f7fb",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 107,
+    "value": 107
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I made an LED lava board, and an LED glow cloud for an epic Ancient Red Dragon battle.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/t3wh8m/i_made_an_led_lava_board_and_an_led_glow_cloud/"
+}
