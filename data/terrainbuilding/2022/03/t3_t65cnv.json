@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_16t58j",
+    "name": "Projekt_BF"
+  },
+  "date": {
+    "day": 1646265600,
+    "full": 1646351816,
+    "month": 1646092800,
+    "week": 1645920000
+  },
+  "id": "t3_t65cnv",
+  "picture": {
+    "filesize": 41889,
+    "fullUrl": "https://preview.redd.it/c8dc4xgmb9l81.jpg?auto=webp&s=e5e5bb80bc613f0534400361a140f77df02460b7",
+    "hash": "cc25c630b6",
+    "height": 421,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgIF/8QAIhAAAQQBBAIDAAAAAAAAAAAAAQIDBAURABIhMSJhExVB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAT/xAAZEQACAwEAAAAAAAAAAAAAAAAAAQIhMRH/2gAMAwEAAhEDEQA/ADibKDa132FjTtR2XXBlsYQEpJ8Tt6HPOec8dazoN9Bg2bNlTuyGWGVKacaJBRkjG7APOAe9TGWbKrbamhLrZHKdoH560akVkOM1O+BkJCGypPkTg7k+9U8cVWBJTd6f/9k=",
+    "url": "https://preview.redd.it/c8dc4xgmb9l81.jpg?width=640&crop=smart&auto=webp&s=a141b76490308b72e30c56d7323c7f2bb8f91a75",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 14,
+    "value": 14
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Now the hard part - what color do I want?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/t65cnv/now_the_hard_part_what_color_do_i_want/"
+}

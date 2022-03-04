@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5eia5wd5",
+    "name": "Radiumminis"
+  },
+  "date": {
+    "day": 1646265600,
+    "full": 1646345237,
+    "month": 1646092800,
+    "week": 1645920000
+  },
+  "id": "t3_t630nw",
+  "picture": {
+    "filesize": 63241,
+    "fullUrl": "https://preview.redd.it/42yki2v2s8l81.jpg?width=3000&format=pjpg&auto=webp&s=9177149d6047ba6aa67e25a818863fb0a66f49e9",
+    "hash": "647212269d",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQFB//EACEQAAICAgMAAgMAAAAAAAAAAAECAwQREgAFIQYxYYGx/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABcRAAMBAAAAAAAAAAAAAAAAAAABEVH/2gAMAwEAAhEDEQA/AMF6WvNF2LwS23WMPpsWIUkA+/zj8Vv5DWh1knZVCnBCqdhnJ1OMn339crr2VGWparXKmGnmklLKBsNj9A8Gze60NVcRyEQrhtowTJ+WIPvArtGeH//Z",
+    "url": "https://preview.redd.it/42yki2v2s8l81.jpg?width=640&crop=smart&auto=webp&s=7b28f7ce41a581482d1080b80420ba7054f8cf85",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 36,
+    "value": 36
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "GrimDark Factory setup",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/t630nw/grimdark_factory_setup/"
+}

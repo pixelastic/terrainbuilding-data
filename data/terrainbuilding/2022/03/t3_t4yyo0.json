@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_7ztje0m4",
+    "name": "AlexCandanga"
+  },
+  "date": {
+    "day": 1646179200,
+    "full": 1646223708,
+    "month": 1646092800,
+    "week": 1645920000
+  },
+  "id": "t3_t4yyo0",
+  "picture": {
+    "filesize": 60956,
+    "fullUrl": "https://preview.redd.it/brzzmfvlpyk81.jpg?width=4000&format=pjpg&auto=webp&s=104a81588e7780b1d74246d385f627555cf1beab",
+    "hash": "e0f7b707b0",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgf/xAAlEAACAQMDAgcAAAAAAAAAAAABAgMEBREABhITISMxQVFhcaH/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAGREBAAIDAAAAAAAAAAAAAAAAAQARISJB/9oADAMBAAIRAxEAPwCLVVBJft0yiqAjKqnUMTZVEAGPP1OdNthWWOz77tKRo5jdpGjd+5A4ElT8g/mprFcZobh4rrzbgrEDHPBOm+z95pYJIGuFIaqQrxjy4DR+7d8/WjW4ciHFz//Z",
+    "url": "https://preview.redd.it/brzzmfvlpyk81.jpg?width=640&crop=smart&auto=webp&s=8eeb48d0326817bd9fe47ff6e8c84b0dec8e49f5",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 333,
+    "value": 333
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My dark cathedral build for a call of cthulhu game im working on",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/t4yyo0/my_dark_cathedral_build_for_a_call_of_cthulhu/"
+}

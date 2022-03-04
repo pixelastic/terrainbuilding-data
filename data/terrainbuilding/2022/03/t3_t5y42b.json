@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_e6u9fr",
+    "name": "abscnth"
+  },
+  "date": {
+    "day": 1646265600,
+    "full": 1646331892,
+    "month": 1646092800,
+    "week": 1645920000
+  },
+  "id": "t3_t5y42b",
+  "picture": {
+    "filesize": 72440,
+    "fullUrl": "https://preview.redd.it/flcv9m0bo7l81.jpg?auto=webp&s=a2ccd68b379dee064fd52df35ba8fa87c8cd2beb",
+    "hash": "494d0f8852",
+    "height": 455,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwQF/8QAKBAAAQQBAgILAAAAAAAAAAAAAQIDBAURACEGURITFCIxQUJhcZGx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABsRAAICAwEAAAAAAAAAAAAAAAECADEREiGh/9oADAMBAAIRAxEAPwA24Nq6GxhR5Nax2iU2MvNur3QRzB2H4dVcf11PGrG5ZahNynFdEJRkKWR44KT3vc6Ha6fLrnw/BkOMOj1IOPvnrTtZ8mws3n5bvWOk4zgJAA8gBsB8aAVtr57GWGKn/9k=",
+    "url": "https://preview.redd.it/flcv9m0bo7l81.jpg?width=640&crop=smart&auto=webp&s=fef92a744c30bb40f203e6fdd82d11b3c0067616",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 115,
+    "value": 115
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Finally finished after some trials, my modular river tiles",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/t5y42b/finally_finished_after_some_trials_my_modular/"
+}
