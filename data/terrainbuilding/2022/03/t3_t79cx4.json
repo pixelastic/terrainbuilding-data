@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_80v01zog",
+    "name": "892xaero"
+  },
+  "date": {
+    "day": 1646438400,
+    "full": 1646486599,
+    "month": 1646092800,
+    "week": 1645920000
+  },
+  "id": "t3_t79cx4",
+  "picture": {
+    "filesize": 116549,
+    "fullUrl": "https://preview.redd.it/32kyjblfgkl81.jpg?width=2268&format=pjpg&auto=webp&s=e3c4bbededbac7ebf8a4fd767b94606c1fa799f8",
+    "hash": "e074cea65e",
+    "height": 1138,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgf/xAAlEAACAQMCBQUAAAAAAAAAAAABAgMABBEFUQYSFBUjVXGUocH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAGhEAAgIDAAAAAAAAAAAAAAAAAQIAAxIhMf/aAAwDAQACEQMRAD8AoMNtYtaEzwWzEoGUFFGVCj9o53bSfQZ/jrR7iXXJzZWUEbtJMsbq3jdMDkwQcjBHttR3qrvb7NE9WOgIquD0z//Z",
+    "url": "https://preview.redd.it/32kyjblfgkl81.jpg?width=640&crop=smart&auto=webp&s=872e0aa91a67d31f7dd0c1f23a153b687885fcd7",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.91,
+    "ups": 24,
+    "value": 24
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Realistic wire tree tutorial part 2, creating the \"dead\" branches at the lower part of the tree.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/t79cx4/realistic_wire_tree_tutorial_part_2_creating_the/"
+}

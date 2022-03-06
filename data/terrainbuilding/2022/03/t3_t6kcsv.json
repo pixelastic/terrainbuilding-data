@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_f1lnucsp",
+    "name": "mistakes-were-mad-e"
+  },
+  "date": {
+    "day": 1646352000,
+    "full": 1646404660,
+    "month": 1646092800,
+    "week": 1645920000
+  },
+  "id": "t3_t6kcsv",
+  "picture": {
+    "filesize": 50542,
+    "fullUrl": "https://preview.redd.it/39wbwqiqodl81.jpg?width=3648&format=pjpg&auto=webp&s=a6be582be1615ea6682943b26fac0dc84c728c55",
+    "hash": "495bc89808",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQME/8QAIRAAAQQBBAMBAAAAAAAAAAAAAQIDBBEFAAYSIRMxUaH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABoRAAICAwAAAAAAAAAAAAAAAAESAAIDEUH/2gAMAwEAAhEDEQA/ADYGHdixXTMx3JmbH8zSwUXwAVZFnr1+ay7ojOMYxaHIC2Cl6uRQkCkq4kWD7vrTGG3bLxmPhtxokAlEZTZWtolSwAogq796hvbdM3MYdUWSxEQ2HudtNkKsK+2fugoZpEXXAac1P//Z",
+    "url": "https://preview.redd.it/39wbwqiqodl81.jpg?width=640&crop=smart&auto=webp&s=d7e04f333a147c8f62f9f1359b32ca691f190834",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.96,
+    "ups": 51,
+    "value": 51
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Oldhammer Tower.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/t6kcsv/oldhammer_tower/"
+}

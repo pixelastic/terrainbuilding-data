@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_zvga16v",
+    "name": "SogiIsANoosense"
+  },
+  "date": {
+    "day": 1646438400,
+    "full": 1646497426,
+    "month": 1646092800,
+    "week": 1645920000
+  },
+  "id": "t3_t7cyhd",
+  "picture": {
+    "filesize": 74913,
+    "fullUrl": "https://preview.redd.it/6gr1xyjncll81.jpg?width=4032&format=pjpg&auto=webp&s=c15c301911fd101c60f3c48f4ca2f84f9e8859fd",
+    "hash": "33d365abd1",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAIH/8QAIxAAAQQABgIDAAAAAAAAAAAAAQIDBBEABQYSITEHEyJBof/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAaEQACAgMAAAAAAAAAAAAAAAAAAgEDEiEx/9oADAMBAAIRAxEAPwA2tgNNrQ9mqIcl4MKU1HQ1SWfjQWSSok2ehX3gfiDWEuaXG5q3nW4jiV1vB4qgmj1VXQ4xqMEImBxEtll9JSsH2Ng8DofuIzbKILOVThFjtR/WneCyhKTaQCLNYLY7MsiKoxbfD//Z",
+    "url": "https://preview.redd.it/6gr1xyjncll81.jpg?width=640&crop=smart&auto=webp&s=1d7d863baf3d48c8d226aff613c194a2628c70d1",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 21,
+    "value": 21
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First attempt at a Foamcore House",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/t7cyhd/first_attempt_at_a_foamcore_house/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_37h9j7n6",
+    "name": "mini-bart"
+  },
+  "date": {
+    "day": 1646438400,
+    "full": 1646500650,
+    "month": 1646092800,
+    "week": 1645920000
+  },
+  "id": "t3_t7e3u0",
+  "picture": {
+    "filesize": 118703,
+    "fullUrl": "https://preview.redd.it/vsxaui79mll81.jpg?width=2821&format=pjpg&auto=webp&s=71a9cd3b5afad1b74ead44dffe110e05cb67811d",
+    "hash": "3ee510f5c9",
+    "height": 604,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAPABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQG/8QAJBAAAgEDAwQDAQAAAAAAAAAAAQIDBAURAAYhEhNhgRQxMkH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABgRAQEAAwAAAAAAAAAAAAAAAAEAAhES/9oADAMBAAIRAxEAPwCHb1BHUWija4hGuLB3mdyYyuCVwOeMcH3o6ULPuGqtyUc88/x+/wByFuoNkHo5PJyc8a1922tV0M8nEc6h3aByQMBvtSPQ0Fl2xUQXqC4wCOKVEMckgb9r5H9Hg6kdbZoZF//Z",
+    "url": "https://preview.redd.it/vsxaui79mll81.jpg?width=640&crop=smart&auto=webp&s=fa6868ca806b646c5f52480c76b077bab5da8847",
+    "width": 640
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 269,
+    "value": 269
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Ruiend Tower",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/t7e3u0/ruiend_tower/"
+}
