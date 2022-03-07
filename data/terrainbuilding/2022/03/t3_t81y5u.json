@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_9a6o0k30",
+    "name": "Jannifaktur"
+  },
+  "date": {
+    "day": 1646524800,
+    "full": 1646582986,
+    "month": 1646092800,
+    "week": 1646524800
+  },
+  "id": "t3_t81y5u",
+  "picture": {
+    "filesize": 70532,
+    "fullUrl": "https://preview.redd.it/0fr2mdj2fsl81.jpg?auto=webp&s=51f90659e1ed086e90a365affab8f5591ae35a96",
+    "hash": "2e2faf82b3",
+    "height": 482,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAJBAAAQMDBAEFAAAAAAAAAAAAAQIDBAURIQAGEzFBBxIiMvD/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABgRAQADAQAAAAAAAAAAAAAAAAEAAjEh/9oADAMBAAIRAxEAPwCverMedRqfSK5RnZM+/MEIUUttqUPChbsE3B60XszaO3KVJmu014mc41wLZfFggmxU3knNx3nWed9R6wZbl2IN1G6lcayTjz8tGub1qcl0SeOK08hQQVNII96CfqrOR+Gga82UVRcn/9k=",
+    "url": "https://preview.redd.it/0fr2mdj2fsl81.jpg?width=640&crop=smart&auto=webp&s=4bc524758e57813e702379c1da773755286950a9",
+    "width": 640
+  },
+  "score": {
+    "comments": 18,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 150,
+    "value": 150
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP - Sunday terrain building. Some industrial buildings with walkways and stuff 😁",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/t81y5u/wip_sunday_terrain_building_some_industrial/"
+}
