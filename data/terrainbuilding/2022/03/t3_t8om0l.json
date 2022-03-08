@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_16t58j",
+    "name": "Projekt_BF"
+  },
+  "date": {
+    "day": 1646611200,
+    "full": 1646657777,
+    "month": 1646092800,
+    "week": 1646524800
+  },
+  "id": "t3_t8om0l",
+  "picture": {
+    "filesize": 43483,
+    "fullUrl": "https://preview.redd.it/1pe7lrhdlyl81.jpg?auto=webp&s=4b4f39fa3eec860f7bc87204823760e6cc54535e",
+    "hash": "7505dbcc37",
+    "height": 425,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAIhAAAgIBBAEFAAAAAAAAAAAAAQIDEQQABRIxBhQhQUJh/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABkRAAIDAQAAAAAAAAAAAAAAAAEDAAISIf/aAAwDAQACEQMRAD8Aw/FzsWLJ4YoZIna6QgKOVA9i/jSPxfdUfd/RLKA7kRpIXPFR2TxA79vzRyNVGNCQiWQPqNV/EqjzpHjVFemFhQDWhs0qOhEosM5P/9k=",
+    "url": "https://preview.redd.it/1pe7lrhdlyl81.jpg?width=640&crop=smart&auto=webp&s=2dbfec20b5e698e1e3fbfa30720f1b1ac4b12bab",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 159,
+    "value": 159
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Tutorial Tuesday for March 8th LED's V2.0",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/t8om0l/tutorial_tuesday_for_march_8th_leds_v20/"
+}
