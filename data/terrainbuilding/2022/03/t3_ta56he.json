@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_3qiwdte4",
+    "name": "Tallandclueless"
+  },
+  "date": {
+    "day": 1646784000,
+    "full": 1646822800,
+    "month": 1646092800,
+    "week": 1646524800
+  },
+  "id": "t3_ta56he",
+  "picture": {
+    "filesize": 52716,
+    "fullUrl": "https://preview.redd.it/z6x8o2457cm81.jpg?width=1920&format=pjpg&auto=webp&s=d6d3bce8ff62272212b10340fab9f631ea166338",
+    "hash": "09568ffc09",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgL/xAAlEAACAQMDAgcAAAAAAAAAAAABAgMABAUGBxESITEzNkFxc7H/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABsRAAIDAAMAAAAAAAAAAAAAAAECAAMSETFR/9oADAMBAAIRAxEAPwCNMSw6cxGQzlhdvJeOxjQICwTk92bnsTxyAPAUV1XuZmchcW4jkVWhJcNGOgkj3PzSfZb0fcfefyju4HmvUtdxezLDk+xnTKgr1P/Z",
+    "url": "https://preview.redd.it/z6x8o2457cm81.jpg?width=640&crop=smart&auto=webp&s=67d26ad799480c90ba148f6bef910281ed5cc35f",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 85,
+    "value": 85
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Ruined city terrain",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ta56he/ruined_city_terrain/"
+}
