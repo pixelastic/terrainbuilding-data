@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4t3zj9h5",
+    "name": "mymukluk"
+  },
+  "date": {
+    "day": 1646870400,
+    "full": 1646921169,
+    "month": 1646092800,
+    "week": 1646524800
+  },
+  "id": "t3_tazfr0",
+  "picture": {
+    "filesize": 55486,
+    "fullUrl": "https://preview.redd.it/xfbceuonckm81.jpg?auto=webp&s=6c3c0e39e5f9f3d7cb10147b524bb17f1c175abf",
+    "hash": "80ed8b5793",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQFB//EACUQAAEEAQMCBwAAAAAAAAAAAAECAwQRBQASMQcTISNBUWGR0f/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGBEAAwEBAAAAAAAAAAAAAAAAABESAQL/2gAMAwEAAhEDEQA/AKM/qhjZqH9sSZ2yd9hKaVViwLvx9tIYrqHj4cRDCGpbMVKUAhaR5gHwL9QNYrIyTqBvCG7rZwePvRw8s8pDpU2yaRwUn91NfVDrJR//2Q==",
+    "url": "https://preview.redd.it/xfbceuonckm81.jpg?width=640&crop=smart&auto=webp&s=ea0fbbfb15fdae226e3e06b01beb2ead8db38074",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 194,
+    "value": 194
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Built a new gaming board",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/tazfr0/built_a_new_gaming_board/"
+}

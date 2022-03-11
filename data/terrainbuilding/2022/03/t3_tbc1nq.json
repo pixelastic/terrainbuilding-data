@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_e9b0j9yc",
+    "name": "Blablablablabla-01"
+  },
+  "date": {
+    "day": 1646870400,
+    "full": 1646954592,
+    "month": 1646092800,
+    "week": 1646524800
+  },
+  "id": "t3_tbc1nq",
+  "picture": {
+    "filesize": 49179,
+    "fullUrl": "https://preview.redd.it/f5nzzx424nm81.jpg?width=1170&format=pjpg&auto=webp&s=543e2aa9e94aae554f7f7053e1971952f34d3d8c",
+    "hash": "63312b9384",
+    "height": 845,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGB//EACMQAAICAQMDBQAAAAAAAAAAAAECAwQABREhBjFxEhcyYYH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAExESH/2gAMAwEAAhEDEQA/AIr29qwRLYSBlCn5OxA48nBL3SZ1Gy0/rkTsoVWYbD8zcoY7WohKNaaSxEm4KCQtFF9njjxjCLQkrRiNgpYbkkLsO+A9VEXYf//Z",
+    "url": "https://preview.redd.it/f5nzzx424nm81.jpg?width=640&crop=smart&auto=webp&s=2f7c95f2311ffaf6a6e100da29540d082c514b5f",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 0.95,
+    "ups": 15,
+    "value": 15
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Playing with a raise plexiglass panel and some humidifiers underneath to make some smoke effects. Seems promising. Will paint the plexiglass a darker colour",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/tbc1nq/playing_with_a_raise_plexiglass_panel_and_some/"
+}
