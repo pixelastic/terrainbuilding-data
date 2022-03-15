@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_3kmoqro3",
+    "name": "JMSTMelo"
+  },
+  "date": {
+    "day": 1647302400,
+    "full": 1647304383,
+    "month": 1646092800,
+    "week": 1647129600
+  },
+  "id": "t3_tec62k",
+  "picture": {
+    "filesize": 88743,
+    "fullUrl": "https://preview.redd.it/0q62muk30gn81.jpg?auto=webp&s=de7b4503971c29f2cd46a102eaf9e9eb63bf89f6",
+    "hash": "c981f642f4",
+    "height": 380,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAKABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAEF/8QAIRAAAgEEAgMBAQAAAAAAAAAAAQIDBAURIQATEjEyIiT/xAAVAQEBAAAAAAAAAAAAAAAAAAACBf/EAB0RAAEEAgMAAAAAAAAAAAAAAAEAAgMRBBMxQfH/2gAMAwEAAhEDEQA/AMO/TSVlYInleuWknZRI6BRJCDklQB6zkg7+uW3XxLbcKcrQxCoSYzdXaZFGUGCVwP0NnPvZ9jgqxFNsVioLdke8b++K64/6m8F8iwycb+W4TCKDb4Uw50hZs78X/9k=",
+    "url": "https://preview.redd.it/0q62muk30gn81.jpg?width=640&crop=smart&auto=webp&s=62b0c147209cad889b1213c1ad222d2f9ff347ac",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Alien Garden",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/tec62k/alien_garden/"
+}
