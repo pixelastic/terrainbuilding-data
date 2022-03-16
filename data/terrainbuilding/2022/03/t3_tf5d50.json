@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_kjcrt",
+    "name": "HeavilyBearded"
+  },
+  "date": {
+    "day": 1647388800,
+    "full": 1647392387,
+    "month": 1646092800,
+    "week": 1647129600
+  },
+  "id": "t3_tf5d50",
+  "picture": {
+    "filesize": 76392,
+    "fullUrl": "https://preview.redd.it/5l3grtvt9nn81.jpg?auto=webp&s=213a54988c657457307c2663b3468cc15232f978",
+    "hash": "488d124fd8",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGB//EACMQAAIBAwQCAwEAAAAAAAAAAAECBAMFEQAGIUEHEhMiYXH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABwRAAAGAwAAAAAAAAAAAAAAAAABAhESMQMTQf/aAAwDAQACEQMRAD8ApNjb5t+4IJqfAYlZqzUqNFm92qgHg5wAP0daC3zvahYMpItAlVkqKsh1PqqBu1JBLYH81mDwLt49MaZMi0Lnbkr/AEAZqRDH9GcZxyORpvNk33ytFR0jQ7Tao9UqwUM7VG7JPHtjocDOp0lkmb0FVriTX0f/2Q==",
+    "url": "https://preview.redd.it/5l3grtvt9nn81.jpg?width=640&crop=smart&auto=webp&s=465191903fef9308f4e44932fd434deb1c1beaba",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 1,
+    "value": 1
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A 60mm urban combat base for my (in progress) Steel Legion:",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/tf5d50/a_60mm_urban_combat_base_for_my_in_progress_steel/"
+}
