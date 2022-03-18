@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_8kuimmst",
+    "name": "ham-slap"
+  },
+  "date": {
+    "day": 1647475200,
+    "full": 1647533398,
+    "month": 1646092800,
+    "week": 1647129600
+  },
+  "id": "t3_tgdpnt",
+  "picture": {
+    "filesize": 80738,
+    "fullUrl": "https://preview.redd.it/4k125255xyn81.jpg?auto=webp&s=d838de6d6c1cbd769ed9d6296acb0231e78677d1",
+    "hash": "b295bd3442",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAIF/8QAJhAAAgIBAgUEAwAAAAAAAAAAAQIDBQQAIRESEyIxFTJBUUJxgf/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAYEQADAQEAAAAAAAAAAAAAAAABAhEAA//aAAwDAQACEQMRAD8Am3pLuvrAnLLZ2OeyspgQzNEQNw5ZgC23D8QPj60qmwctsFRncmPIjMixTxOHRQeABL7n9+NBy66hs1isqG6tp4xIHeDGl6jQEDtbpNuV8KRwPwfs617/ADnT05ZhLHIMROZJvevc2zbnf+6B2aC5vJSxm//Z",
+    "url": "https://preview.redd.it/4k125255xyn81.jpg?width=640&crop=smart&auto=webp&s=6c91418087ca876240c9f3cc074c723e71246a90",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 34,
+    "value": 34
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First terrain project! xps foam; should I do a second layer of mod podge?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/tgdpnt/first_terrain_project_xps_foam_should_i_do_a/"
+}

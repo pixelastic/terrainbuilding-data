@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_8a4jazn2",
+    "name": "The_Schwarnold"
+  },
+  "date": {
+    "day": 1647475200,
+    "full": 1647528882,
+    "month": 1646092800,
+    "week": 1647129600
+  },
+  "id": "t3_tgc1qv",
+  "picture": {
+    "filesize": 50407,
+    "fullUrl": "https://preview.redd.it/gsjvcrzojyn81.jpg?width=4032&format=pjpg&auto=webp&s=d444dfeab7cf574049d97d63c17d6954ec1328ce",
+    "hash": "2f3f161d71",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMFBv/EACgQAAECBAMIAwAAAAAAAAAAAAIBAwAEBREGEzEUISIyM0JzgZGhwf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGBEAAgMAAAAAAAAAAAAAAAAAABEBAhP/2gAMAwEAAhEDEQA/ANLLESmZNLlt24QHcifGsEnDYbElPMc7lVLoXrTS0NwzQ0qTAuTFQnRunK2rYJ9BeLxYSpg9Xa3/ACTTn4qRNjeYbH1o0j//2Q==",
+    "url": "https://preview.redd.it/gsjvcrzojyn81.jpg?width=640&crop=smart&auto=webp&s=f0f9c8d3a3c8eacfc451d40b70a4fc06a5cf4fc8",
+    "width": 640
+  },
+  "score": {
+    "comments": 16,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 170,
+    "value": 170
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP (nearly seamless) modular game board",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/tgc1qv/wip_nearly_seamless_modular_game_board/"
+}
