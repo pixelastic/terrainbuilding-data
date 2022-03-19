@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_wvrhq",
+    "name": "SlowSeas"
+  },
+  "date": {
+    "day": 1647561600,
+    "full": 1647607529,
+    "month": 1646092800,
+    "week": 1647129600
+  },
+  "id": "t3_th0hj4",
+  "picture": {
+    "filesize": 43556,
+    "fullUrl": "https://preview.redd.it/8bm4mock15o81.jpg?auto=webp&s=98564ec4b528f1cb43dcc169876930f4389676b0",
+    "hash": "0faeda3ec1",
+    "height": 481,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFAABAAAAAAAAAAAAAAAAAAAABP/EACUQAAEEAQIFBQAAAAAAAAAAAAIBAwQRBQAhBhITMUEUUVJhof/EABUBAQEAAAAAAAAAAAAAAAAAAAAD/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQIRAP/aAAwDAQACEQMRAD8ABw9GlxpuNlnlHXDii5ZPBfWUvJb1f3onH8rLZTByDwUlo48l/wBTItbQ+VEHlC+w2N1+6VlJkiDAFxhxbLZULdNBy8g28UUsUHrE1v8AHZfbt51Ig3XlLJvf/9k=",
+    "url": "https://preview.redd.it/8bm4mock15o81.jpg?width=640&crop=smart&auto=webp&s=6e507ede5449aef0978fe6c4cfa17469644596c8",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.96,
+    "ups": 17,
+    "value": 17
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Battle map in progress, need suggestions on where to go from here.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/th0hj4/battle_map_in_progress_need_suggestions_on_where/"
+}
