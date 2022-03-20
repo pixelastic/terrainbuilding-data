@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_ki3t08vq",
+    "name": "gjosaether"
+  },
+  "date": {
+    "day": 1647648000,
+    "full": 1647729288,
+    "month": 1646092800,
+    "week": 1647129600
+  },
+  "id": "t3_ti6q3d",
+  "picture": {
+    "filesize": 66423,
+    "fullUrl": "https://preview.redd.it/58y6snsl3fo81.jpg?width=4000&format=pjpg&auto=webp&s=b5b62acfc97986e725796923df92ec41ace24bdd",
+    "hash": "c0b2f86d6c",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQf/xAAlEAABBAEDAwUBAAAAAAAAAAABAgMEEQUABiESE1EjJDFhcZH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGhEAAgIDAAAAAAAAAAAAAAAAAAERIQMSMf/aAAwDAQACEQMRAD8AYwUOOlb86PEhZKM8k9t5C+2lkKuwoEkD9HP90NuHPx1ypGJU3NjNyGKTIZUp1tKgeDz9CwONQ3be5Mnhp5YhyLYdFuNujrSvyCD8jVYUPdbeUj02shIp1kcoHSLHTdkXQ4uvFaNvFPoh44tH/9k=",
+    "url": "https://preview.redd.it/58y6snsl3fo81.jpg?width=640&crop=smart&auto=webp&s=dfa43db5d3e07b2bbd1f965f7cbcf02daa0e110e",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 24,
+    "value": 24
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "This is my first piece of crafted terrain !! (BMC modular tiles and dungeon stackers)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ti6q3d/this_is_my_first_piece_of_crafted_terrain_bmc/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_krgljrh2",
+    "name": "Luminous_Spore"
+  },
+  "date": {
+    "day": 1647648000,
+    "full": 1647722470,
+    "month": 1646092800,
+    "week": 1647129600
+  },
+  "id": "t3_ti4cb3",
+  "picture": {
+    "filesize": 104176,
+    "fullUrl": "https://preview.redd.it/r1tc0s0bjeo81.jpg?width=3024&format=pjpg&auto=webp&s=2c196454fa2fd48ab59a079327cb8c8a62cf2f8f",
+    "hash": "d19262f82b",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQH/8QAJRAAAgECBQMFAAAAAAAAAAAAAQIDBBEABQYSIRNhkQcUIjFB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwX/xAAZEQACAwEAAAAAAAAAAAAAAAABAwACITH/2gAMAwEAAhEDEQA/AHcu1vRtIBWUXTO/4NGhVV4vbj6se2E63Vmi+uWzT2S1TDc24BiR+G9sZXVUFTRyyFkkalmZgsyvtA88C3bFb+nVRmyx1ZzWGIuouBEJb991wPGJqnXJ3kUsFtE//9k=",
+    "url": "https://preview.redd.it/r1tc0s0bjeo81.jpg?width=640&crop=smart&auto=webp&s=c3d6a77245a52ab358fea18123a0a47cb0661259",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 3,
+    "value": 3
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Just started work on a terrain project as a display for my minis, anyone know how I can (semi-cheaply) reproduce this rocky base style at a large scale?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ti4cb3/just_started_work_on_a_terrain_project_as_a/"
+}
