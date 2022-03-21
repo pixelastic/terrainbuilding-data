@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_10bjw9",
+    "name": "sFAMINE"
+  },
+  "date": {
+    "day": 1647734400,
+    "full": 1647749206,
+    "month": 1646092800,
+    "week": 1647734400
+  },
+  "id": "t3_ticswk",
+  "picture": {
+    "filesize": 45635,
+    "fullUrl": "https://preview.redd.it/v210ex5eqgo81.jpg?width=6000&format=pjpg&auto=webp&s=d565a5af5642cc6caa02648cbce7c42c03b757c2",
+    "hash": "4fcede3a74",
+    "height": 427,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwYH/8QAIhAAAgIABQUBAAAAAAAAAAAAAQIDEQAEBRIhBgcTMZGx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAYEQACAwAAAAAAAAAAAAAAAAAAAQIREv/aAAwDAQACEQMRAD8AxuHtiGhuXXcqk+1WEIibc1gHi6FC/wBw0PbjKjc02fndEQMWjRQDd0QSeRfH3nEeOrNcSNYo9QkREAA2KqngV7AvATdR61MhSXVc8yH2vnavl4m9sdxR/9k=",
+    "url": "https://preview.redd.it/v210ex5eqgo81.jpg?width=640&crop=smart&auto=webp&s=c921440ee0853a92cc1392e762bbb50f8c0345bf",
+    "width": 640
+  },
+  "score": {
+    "comments": 17,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 366,
+    "value": 366
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "8x4 Terrain Setup for today's game of Warhammer 40k",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ticswk/8x4_terrain_setup_for_todays_game_of_warhammer_40k/"
+}

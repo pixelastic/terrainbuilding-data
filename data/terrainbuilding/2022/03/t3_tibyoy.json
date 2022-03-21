@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_g4qt3cx6",
+    "name": "TheMonsterPainter"
+  },
+  "date": {
+    "day": 1647734400,
+    "full": 1647746193,
+    "month": 1646092800,
+    "week": 1647734400
+  },
+  "id": "t3_tibyoy",
+  "picture": {
+    "filesize": 102256,
+    "fullUrl": "https://preview.redd.it/i6t1nd7whgo81.jpg?auto=webp&s=2783c41a6f980457d565a1bf8e78f166167f1ae6",
+    "hash": "6d16259b30",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQGB//EACQQAAIBAwMDBQAAAAAAAAAAAAEDAgQFEQAGIRIxURMiMnHh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAYEQADAQEAAAAAAAAAAAAAAAAAAQISMf/aAAwDAQACEQMRAD8Av6Tf9vhVOV6DYuEJSHI+IPJB/NEo992y5VS6XNUubYdcSwYjjHYkHjzrJLrRh8ppYp62zxFbFLAMYE+/Micj6GnrdZJo6YNrYqUJBqwqAkRLGMnnx3GotVbHOYXT/9k=",
+    "url": "https://preview.redd.it/i6t1nd7whgo81.jpg?width=640&crop=smart&auto=webp&s=f5a180fe3735c1f7d8098de28349961b5f2fafce",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 85,
+    "value": 85
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A mammoth hunter’s hut by Reaper.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/tibyoy/a_mammoth_hunters_hut_by_reaper/"
+}
