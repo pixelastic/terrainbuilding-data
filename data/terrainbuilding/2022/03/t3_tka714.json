@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_kdpbr",
+    "name": "Iluminatos13"
+  },
+  "date": {
+    "day": 1647907200,
+    "full": 1647975319,
+    "month": 1646092800,
+    "week": 1647734400
+  },
+  "id": "t3_tka714",
+  "picture": {
+    "filesize": 123857,
+    "fullUrl": "https://preview.redd.it/b3xcid37fzo81.jpg?auto=webp&s=4e35cae8c13bf1e16e6ecfd3e64853cebdc87546",
+    "hash": "c277d2a223",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEBv/EACMQAAEEAAUFAQAAAAAAAAAAAAECAwQRAAUGISITMUFxsRL/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAGREAAwADAAAAAAAAAAAAAAAAAAERAhJB/9oADAMBAAIRAxEAPwCPS+qI0aUxElWXyjZRQijRNkkdtvmB1dnKpZcZju9MhAcTSU8iboejjLN5BL6kR5yM44p0q/Ia4uAE1RPn1t3OHv6ZzZmYVuZfIJbPFKklVJArc+T8wTeEtQ0e3Wf/2Q==",
+    "url": "https://preview.redd.it/b3xcid37fzo81.jpg?width=640&crop=smart&auto=webp&s=96b7d5b12a12b69f3c36b342b6c02db85762fc2f",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 433,
+    "value": 433
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My 40K Munitorum Terrain",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/tka714/my_40k_munitorum_terrain/"
+}

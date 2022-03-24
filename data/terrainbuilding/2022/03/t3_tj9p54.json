@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_7euh6p0q",
+    "name": "Remarkable-Wind-6237"
+  },
+  "date": {
+    "day": 1647820800,
+    "full": 1647862404,
+    "month": 1646092800,
+    "week": 1647734400
+  },
+  "id": "t3_tj9p54",
+  "picture": {
+    "filesize": 90250,
+    "fullUrl": "https://preview.redd.it/xiqbqsmf3qo81.jpg?width=3024&format=pjpg&auto=webp&s=159260de008e86d897edac7a4a24b7fe9f0de73b",
+    "hash": "44ff1b73d3",
+    "height": 789,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQF/8QAJRAAAgIABQIHAAAAAAAAAAAAAQIDEQAEBRIhBhMiMUFRYZHw/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEv/aAAwDAQACEQMRAD8AbDrSOYzAZXcI2KFlkrmvkYxNR6rjM1NFtI5q7wP1h54M+6RIrsk/d2q3gux7etcHFmrKc1qM0qpEimgFPmKA/feJoy//2Q==",
+    "url": "https://preview.redd.it/xiqbqsmf3qo81.jpg?width=640&crop=smart&auto=webp&s=16ffe3d10fbe481697dd652dad2cd18778d95323",
+    "width": 640
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 214,
+    "value": 214
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Started working with MDF terrain. Here my progress so far. Would love some CnC.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/tj9p54/started_working_with_mdf_terrain_here_my_progress/"
+}

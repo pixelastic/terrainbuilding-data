@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_453mtdqi",
+    "name": "stars2001"
+  },
+  "date": {
+    "day": 1647734400,
+    "full": 1647817486,
+    "month": 1646092800,
+    "week": 1647734400
+  },
+  "id": "t3_tixeca",
+  "picture": {
+    "filesize": 133355,
+    "fullUrl": "https://preview.redd.it/i77dzmmvdmo81.jpg?width=3468&format=pjpg&auto=webp&s=b24fbd109ee1f19cf632b37f05568dd722b9ca21",
+    "hash": "ca5023283d",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAJBAAAgEDAwMFAAAAAAAAAAAAAQIEAwURABIhBhMUIjFBQmH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAGREBAAIDAAAAAAAAAAAAAAAAAQACAxFB/9oADAMBAAIRAxEAPwA6/XirGk1rfRqq9GrQ2MuASjFBjn4wcHVb1tdT0PPh2mPE85TESu1fslmZmLZLHPLEjJP7rNuoI0a2NU30JJUNnvsp2tu+2QMZyTpWrKtV9iQJVw8qnNWOtKv2yCGcE+rk8E5Htoyxo7EvisKM/9k=",
+    "url": "https://preview.redd.it/i77dzmmvdmo81.jpg?width=640&crop=smart&auto=webp&s=453695d4531db29569ab4e0f75a98daa0031377e",
+    "width": 640
+  },
+  "score": {
+    "comments": 26,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 262,
+    "value": 262
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Any ideas on how to make this look nicer or more realistic? feel like im missing something (im aware of the missing bonfire, its coming up).",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/tixeca/any_ideas_on_how_to_make_this_look_nicer_or_more/"
+}
