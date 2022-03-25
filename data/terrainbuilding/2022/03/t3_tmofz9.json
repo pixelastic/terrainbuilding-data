@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_8seq178e",
+    "name": "Yeti_Funk"
+  },
+  "date": {
+    "day": 1648080000,
+    "full": 1648141796,
+    "month": 1646092800,
+    "week": 1647734400
+  },
+  "id": "t3_tmofz9",
+  "picture": {
+    "filesize": 114230,
+    "fullUrl": "https://preview.redd.it/a90p0mo66dp81.jpg?width=3024&format=pjpg&auto=webp&s=87244f98ffdd68c4fad94a16a9c96ceb8cd84ba9",
+    "hash": "509d682d17",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQP/xAAlEAABAwMDAwUAAAAAAAAAAAABAgMEBREhABIxBgcUM0FRYZH/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAGxEAAgIDAQAAAAAAAAAAAAAAAQIAEQMEEjH/2gAMAwEAAhEDEQA/ACHe4lSapcynsQESZKGlNxpY9RLmdpUCCDwfzRleccfksTZM2sNLmx25AERWxGU24HvcHSUvt3U2qzKRTENxqclKPFKJRCUkEX3AgqGCvj51apdAvuPNjwYkwIbSgOPyVbhYcDGADe31o0bKdEN5Ehgd6CijP//Z",
+    "url": "https://preview.redd.it/a90p0mo66dp81.jpg?width=640&crop=smart&auto=webp&s=05c81f601fdeeb58785cfec1f06668bed2ee7b10",
+    "width": 640
+  },
+  "score": {
+    "comments": 15,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 54,
+    "value": 54
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My first try at building miniature terrain/buildings. Thoughts?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/tmofz9/my_first_try_at_building_miniature/"
+}

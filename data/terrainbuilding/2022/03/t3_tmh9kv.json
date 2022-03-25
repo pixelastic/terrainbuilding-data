@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_10bjw9",
+    "name": "sFAMINE"
+  },
+  "date": {
+    "day": 1648080000,
+    "full": 1648135874,
+    "month": 1646092800,
+    "week": 1647734400
+  },
+  "id": "t3_tmh9kv",
+  "picture": {
+    "filesize": 73580,
+    "fullUrl": "https://preview.redd.it/zkvb3jwhocp81.jpg?auto=webp&s=89da69cd949569c6afef76271b278925ec564aa8",
+    "hash": "eba685d2dc",
+    "height": 507,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAANABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGB//EACMQAAIBAwQCAwEAAAAAAAAAAAEDAgQFEQAGEiEHQSIyYYH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABsRAAICAwEAAAAAAAAAAAAAAAEDAAIRMaFR/9oADAMBAAIRAxEAPwA7cfk3dtxu0nWFraaiU/ghKlRkG/LoTBBlgxGSegO9aFYfJddT0AhuG2rZVrdBTZUWYiIljEiJdE++j+aWVVsXzFQiZS1uIEQ+uT7Iz3qwsuwlAUtRcri+r4ENCorC1g4xgDsgf3UKWWYDjfIrakWHnZ//2Q==",
+    "url": "https://preview.redd.it/zkvb3jwhocp81.jpg?width=640&crop=smart&auto=webp&s=c3094393a08e4f47c2d4d43a0a0b9166f190bc73",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 121,
+    "value": 121
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A failed 3d printed tank alongside a desert Oasis (2020)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/tmh9kv/a_failed_3d_printed_tank_alongside_a_desert_oasis/"
+}

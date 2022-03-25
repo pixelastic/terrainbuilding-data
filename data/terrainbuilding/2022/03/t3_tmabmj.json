@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_j9ldq",
+    "name": "Brutetuba"
+  },
+  "date": {
+    "day": 1648080000,
+    "full": 1648128762,
+    "month": 1646092800,
+    "week": 1647734400
+  },
+  "id": "t3_tmabmj",
+  "picture": {
+    "filesize": 83565,
+    "fullUrl": "https://preview.redd.it/k4gilh3p2cp81.jpg?width=4755&format=pjpg&auto=webp&s=d36a34661296180239046e29f6d7fa715d6eb0a8",
+    "hash": "9f078a2f78",
+    "height": 427,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMFBv/EACAQAAICAQQDAQAAAAAAAAAAAAECAwQRAAUSMRQhUUH/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAECESH/2gAMAwEAAhEDEQA/AMLu+4nfo4vNcR2K0LRkcRlo8E8s/p9aFurLXZLKBZFyoaNUbBAUDHIH2M57GpU1uaqkccDKispJPAE9/SM6XY3C1LfWB5iYjK4IwAcA/e9Hkp2NbTUaf//Z",
+    "url": "https://preview.redd.it/k4gilh3p2cp81.jpg?width=640&crop=smart&auto=webp&s=5abbd5ca5701e38cd06ef93ca079017530b539c5",
+    "width": 640
+  },
+  "score": {
+    "comments": 13,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 696,
+    "value": 696
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Helm's Deep I am working on",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/tmabmj/helms_deep_i_am_working_on/"
+}
