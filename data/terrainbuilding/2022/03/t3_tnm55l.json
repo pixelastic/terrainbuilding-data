@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_9yn37d2y",
+    "name": "Tome_of_Awe"
+  },
+  "date": {
+    "day": 1648166400,
+    "full": 1648215525,
+    "month": 1646092800,
+    "week": 1647734400
+  },
+  "id": "t3_tnm55l",
+  "picture": {
+    "filesize": 148633,
+    "fullUrl": "https://preview.redd.it/jz9grjwe9jp81.jpg?width=3024&format=pjpg&auto=webp&s=1f4a2d524508ee98067bec7baf3f88a7521f9f74",
+    "hash": "ccac388575",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQIG/8QAIxAAAgECBgIDAAAAAAAAAAAAAQIEAxEABRITIUEGMSJRYf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAYEQEAAwEAAAAAAAAAAAAAAAABACExQf/aAAwDAQACEQMRAD8APXyaN4yytJorKaR8ikgbiizdA+sKRMwiU6Wqob7x3VHQDc2H5jHTs3oVawQ5LKkU6bMELgEMNXu56PGKZ50g6hlUmjpuuhuCOfrrAKdyODgXP//Z",
+    "url": "https://preview.redd.it/jz9grjwe9jp81.jpg?width=640&crop=smart&auto=webp&s=71ed3f30635f0e63e566c06bb6eaff75899ed34e",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.91,
+    "ups": 24,
+    "value": 24
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "An update to how CnC terrain making is going.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/tnm55l/an_update_to_how_cnc_terrain_making_is_going/"
+}
