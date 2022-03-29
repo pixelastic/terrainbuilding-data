@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_g4qt3cx6",
+    "name": "TheMonsterPainter"
+  },
+  "date": {
+    "day": 1648425600,
+    "full": 1648436498,
+    "month": 1646092800,
+    "week": 1648339200
+  },
+  "id": "t3_tpzqmm",
+  "picture": {
+    "filesize": 115577,
+    "fullUrl": "https://preview.redd.it/ewq8hewii1q81.jpg?auto=webp&s=65e00ba70352dd3f6fcc1e98970f5e3dc547bcce",
+    "hash": "580dd7c471",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAJRAAAQMDAwMFAAAAAAAAAAAAAQIDBAUGEgARIQcTYSIxUZGh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAZEQACAwEAAAAAAAAAAAAAAAAAAgETIRH/2gAMAwEAAhEDEQA/AM76JQ4tSuOpJnwGZ6GoRcQy6E8r7iQNsuAdidVvXSg0ul0WDKplOjxi4+lJdaQlOQKFenYfGI+9MWtZztlPTZNOafkSHkJaIcIIAy8AefzTN70pu7KRGgPMvYNvB4lBx2ICht7c8HUWRrYzBK8V8P/Z",
+    "url": "https://preview.redd.it/ewq8hewii1q81.jpg?width=640&crop=smart&auto=webp&s=00c4e67f7322468d9abc26777b8ec74064bc4851",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 98,
+    "value": 98
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A little Bronze Age flavour.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/tpzqmm/a_little_bronze_age_flavour/"
+}

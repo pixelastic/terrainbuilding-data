@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_35se1583",
+    "name": "The_M15"
+  },
+  "date": {
+    "day": 1648425600,
+    "full": 1648471233,
+    "month": 1646092800,
+    "week": 1648339200
+  },
+  "id": "t3_tq8eoo",
+  "picture": {
+    "filesize": 39875,
+    "fullUrl": "https://preview.redd.it/x1qkljzqd4q81.jpg?width=4000&format=pjpg&auto=webp&s=679d0acc24af091788c16877505a3d11b5cf5763",
+    "hash": "04c1c6007b",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAEG/8QAJBAAAgIBAwMFAQAAAAAAAAAAAQIEBQMABhESIWEHEyIjMVH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABoRAAICAwAAAAAAAAAAAAAAAAERACECEiL/2gAMAwEAAhEDEQA/AMtsnYFPMtZOExi64cAOQu5PDsfiP3+A6P6gbGh1tzDjxMPtYZSAj7elGdeeVPI8g6DA3NbUl3LjVss4seeSOslFYnvx+kedW73FaXbxI9nKbPjDq69gpUt2JBHg6n9asm49YtAVP//Z",
+    "url": "https://preview.redd.it/x1qkljzqd4q81.jpg?width=640&crop=smart&auto=webp&s=64dd5f3e66c52b71ec8199d3f46c5b8f2a5c949a",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 0.91,
+    "ups": 16,
+    "value": 16
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Zona Alfa Terrain Project WIP pt1",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/tq8eoo/zona_alfa_terrain_project_wip_pt1/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4r72y",
+    "name": "lightfingers"
+  },
+  "date": {
+    "day": 1648425600,
+    "full": 1648491864,
+    "month": 1646092800,
+    "week": 1648339200
+  },
+  "id": "t3_tqfsd0",
+  "picture": {
+    "filesize": 90788,
+    "fullUrl": "https://preview.redd.it/51olxk4536q81.jpg?auto=webp&s=0468a7a90d0b97a82d52bd77f16deaf059e04975",
+    "hash": "70b6ad7dc5",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAX/xAAkEAACAQIFBAMAAAAAAAAAAAABAgMEEQAFBhIhByMxQTVRYf/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAYEQADAQEAAAAAAAAAAAAAAAAAARECA//aAAwDAQACEQMRAD8AkZP0xSSm+UhFRtBJCjYDyLDnEus0CEqZEeuV3U2ZlTg+/vCJdZSZczJUTzdvahkNioYm9v3zgE+ppMxnkqKeYFGNrhtt7e7YKtVURrnHGf/Z",
+    "url": "https://preview.redd.it/51olxk4536q81.jpg?width=640&crop=smart&auto=webp&s=d95db01d125fdcac8e549f44ad7845423c0be517",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.61,
+    "ups": 7,
+    "value": 7
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Some topical graffiti for my terrain",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/tqfsd0/some_topical_graffiti_for_my_terrain/"
+}
