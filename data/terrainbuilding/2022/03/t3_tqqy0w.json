@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_g4qt3cx6",
+    "name": "TheMonsterPainter"
+  },
+  "date": {
+    "day": 1648512000,
+    "full": 1648525430,
+    "month": 1646092800,
+    "week": 1648339200
+  },
+  "id": "t3_tqqy0w",
+  "picture": {
+    "filesize": 93343,
+    "fullUrl": "https://preview.redd.it/usttuloyu8q81.jpg?auto=webp&s=e6c727b5dbc95a3949212a9c391fd5f772dfdf22",
+    "hash": "1e858530b4",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwQF/8QAIhAAAgEEAgEFAAAAAAAAAAAAAQIRAwQFEgAxIQZRcYGR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAYEQADAQEAAAAAAAAAAAAAAAAAARECQv/aAAwDAQACEQMRAD8AJMTam/uy77C3puoLabKTM6n6B+eX5iklmMa1O1agXt6YdthrtrtqB3MEEk+TPsOMZ9L4nBUq4tseKCFQrmmXZmAaQDJ8mT2T0Y65p4jDYTOWoW5tC9LeDQqiKbREN1+GeTVvcG5p/9k=",
+    "url": "https://preview.redd.it/usttuloyu8q81.jpg?width=640&crop=smart&auto=webp&s=bca2f3b856c5f767e85b8fee4fc18573062ef4b6",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 105,
+    "value": 105
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A dead tree made out of empty sprues.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/tqqy0w/a_dead_tree_made_out_of_empty_sprues/"
+}

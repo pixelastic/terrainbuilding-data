@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_kxj4lub2",
+    "name": "WarScenery"
+  },
+  "date": {
+    "day": 1648512000,
+    "full": 1648540398,
+    "month": 1646092800,
+    "week": 1648339200
+  },
+  "id": "t3_tqunsi",
+  "picture": {
+    "filesize": 50041,
+    "fullUrl": "https://preview.redd.it/w7m68bha3aq81.jpg?auto=webp&s=53457e6c68859afc94885f23198d2ea119f11b7d",
+    "hash": "a8cd94988e",
+    "height": 748,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA4DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAJBAAAQIEBgMBAAAAAAAAAAAAAQIDBAURIQAGBxMxYRIVQXH/xAAUAQEAAAAAAAAAAAAAAAAAAAAB/8QAFxEAAwEAAAAAAAAAAAAAAAAAABEhEv/aAAwDAQACEQMRAD8ARzitMJKmFoc23FRDYFwCRetjziLlq4udy1TjUN5Fh4slSfoAsT3jS856STGYRqpnKpnvuU3FsRnJI4SgpFAKfOu8KaZadogZV7OMddVERyQpLQCmthFSfAitz+i2GZCs/9k=",
+    "url": "https://preview.redd.it/w7m68bha3aq81.jpg?width=640&crop=smart&auto=webp&s=3155843388e49142875454e67c7b35b6d87a1cc4",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.85,
+    "ups": 17,
+    "value": 17
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A Grimdark Plasma Generator printed on the CR6SE with 0,12mm Layer Height. Model by War Scenery.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/tqunsi/a_grimdark_plasma_generator_printed_on_the_cr6se/"
+}

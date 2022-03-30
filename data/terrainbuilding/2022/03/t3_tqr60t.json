@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_12uyd7",
+    "name": "GG-YouDied"
+  },
+  "date": {
+    "day": 1648512000,
+    "full": 1648526237,
+    "month": 1646092800,
+    "week": 1648339200
+  },
+  "id": "t3_tqr60t",
+  "picture": {
+    "filesize": 29913,
+    "fullUrl": "https://preview.redd.it/3sqxsq1bx8q81.jpg?auto=webp&s=79ab0973aca2fc3c768b713dc3746a5ec81117fc",
+    "hash": "290d457fd9",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwUG/8QAIxAAAgECBAcAAAAAAAAAAAAAAQIDAAUEESExBhITMjNhgf/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAYEQEAAwEAAAAAAAAAAAAAAAABAAMREv/aAAwDAQACEQMRAD8AILDb5ZRMHwc0kSL1dEOZI2GfvOs9j4JVkfnidddipFIFg8L/ACp/EXdQC97xIlrOdn//2Q==",
+    "url": "https://preview.redd.it/3sqxsq1bx8q81.jpg?width=640&crop=smart&auto=webp&s=e8e0f10e5349b2f65c4b4e19c23356bdd1526969",
+    "width": 640
+  },
+  "score": {
+    "comments": 25,
+    "downs": 0,
+    "ratio": 0.96,
+    "ups": 43,
+    "value": 43
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Suggestions for tutorials on making small trees to make a \"magic sapling\" objective marker?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/tqr60t/suggestions_for_tutorials_on_making_small_trees/"
+}
