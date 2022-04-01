@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1mla4bv",
+    "name": "Nauseant"
+  },
+  "date": {
+    "day": 1648684800,
+    "full": 1648730496,
+    "month": 1646092800,
+    "week": 1648339200
+  },
+  "id": "t3_tsyvtx",
+  "picture": {
+    "filesize": 56998,
+    "fullUrl": "https://preview.redd.it/s4i26awnspq81.jpg?width=3648&format=pjpg&auto=webp&s=a43809fd347db3ec7cc52974ce420be4a452c097",
+    "hash": "33ed368fe9",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQF/8QAIRAAAgIBBAMBAQAAAAAAAAAAAQIDBAUAERIhBjFBFGH/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAGhEAAgIDAAAAAAAAAAAAAAAAAQMABBIhUf/aAAwDAQACEQMRAD8ADZHxOrYyOV3SYI78VlLgJxB35gEAncf096nsY2tSwouU7U9XmoEa16KswK9BmcgnYkHsMO/ms2LL5GTLwxftlWFnBaMbcT367HrTrxnIz3q195yoVZiixIOKLxJG+w+n6dHtea6uxFKRYZidT//Z",
+    "url": "https://preview.redd.it/s4i26awnspq81.jpg?width=640&crop=smart&auto=webp&s=6bbe76f8a88cf5ee81080770eb3fdfc26100980d",
+    "width": 640
+  },
+  "score": {
+    "comments": 11,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 84,
+    "value": 84
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My first terrain, a modular cave system!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/tsyvtx/my_first_terrain_a_modular_cave_system/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_jouy15pe",
+    "name": "Limus-Krok0Alpha"
+  },
+  "date": {
+    "day": 1648684800,
+    "full": 1648740602,
+    "month": 1646092800,
+    "week": 1648339200
+  },
+  "id": "t3_tt2blw",
+  "picture": {
+    "filesize": 53999,
+    "fullUrl": "https://preview.redd.it/ogmetd1omqq81.jpg?width=2400&format=pjpg&auto=webp&s=2eea0a227ba01d8afe5282e0f6e0ec2d6cf99000",
+    "hash": "6c32c395a8",
+    "height": 427,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwUG/8QAJBAAAgEDBAICAwAAAAAAAAAAAQIDBAURAAYhMQcSFGEiQUL/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARIf/aAAwDAQACEQMRAD8AO9gWWaK3VUt1oYAkjIIvkRiTPGOgfYZ46BP1qZPt2mu1duGod5qSktkjIjRxhogv6UEn2LE5xwfvGmLxNWTXq/7ktV0K1Fvp5FeGFkUCNsH8lwMhuBz3rPeb0W20NDQUIEFIxMrRr/TkBixPZJLE5OjnJKl//9k=",
+    "url": "https://preview.redd.it/ogmetd1omqq81.jpg?width=640&crop=smart&auto=webp&s=9e1f936c3337ac6c48431ebaff769a38a22e549b",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 35,
+    "value": 35
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Still WIP",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/tt2blw/still_wip/"
+}

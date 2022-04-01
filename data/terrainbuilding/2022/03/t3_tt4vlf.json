@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_35se1583",
+    "name": "The_M15"
+  },
+  "date": {
+    "day": 1648684800,
+    "full": 1648747536,
+    "month": 1646092800,
+    "week": 1648339200
+  },
+  "id": "t3_tt4vlf",
+  "picture": {
+    "filesize": 43389,
+    "fullUrl": "https://preview.redd.it/sxfrnhja7rq81.jpg?width=4000&format=pjpg&auto=webp&s=3e6938d89840738a43323d4ba5ad460649ceb232",
+    "hash": "d09829dc71",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAgf/xAAgEAACAgICAgMAAAAAAAAAAAABAgMRAAQFIRIxE0Fh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABkRAQACAwAAAAAAAAAAAAAAABEAAQISIf/aAAwDAQACEQMRAD8AjnHcfH8B2G2YEjZiArHur6/Me/oIYDNHLE6x0z+JFqtgXXs+/rDqxIy0R1i2Y1VSBdEUcGmavImp/9k=",
+    "url": "https://preview.redd.it/sxfrnhja7rq81.jpg?width=640&crop=smart&auto=webp&s=ae3d53061786ce0d3385e75ddd1e524dd40aeffd",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 156,
+    "value": 156
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Zon Alfa terrain",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/tt4vlf/zon_alfa_terrain/"
+}
