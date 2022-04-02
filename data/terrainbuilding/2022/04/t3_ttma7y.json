@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_8425b3g2",
+    "name": "Wangey"
+  },
+  "date": {
+    "day": 1648771200,
+    "full": 1648803862,
+    "month": 1648771200,
+    "week": 1648339200
+  },
+  "id": "t3_ttma7y",
+  "picture": {
+    "filesize": 114498,
+    "fullUrl": "https://preview.redd.it/c0m393vvuvq81.jpg?auto=webp&s=71a294b605a75f52b52fd4ab370caa75c0117463",
+    "hash": "7876e05049",
+    "height": 875,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwQG/8QAJRAAAQQBAwMFAQAAAAAAAAAAAgEDBBEFAAYhBxIxFCIjQVFh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAbEQABBQEBAAAAAAAAAAAAAAABAAIDERKBof/aAAwDAQACEQMRAD8Akzsncma3Q4w7kXMfEjqRQ24B0Qki8OLz7lq7vhL8aYOk0vP5Ta7h7lKE7OYkmwjrQJ8oCg0S9q1a2v5ovyaTpBtSo+MbICZEzdJy3VQgRFEQEkVVT8tE/utp0qy0nF7dkR50EoxerMgG+2xUR5pSVfN/ehLOXPGc4rtqrZGygiiHX4v/2Q==",
+    "url": "https://preview.redd.it/c0m393vvuvq81.jpg?width=640&crop=smart&auto=webp&s=2b7a22c15a23f25dbd5423ab0bc62210021d9f95",
+    "width": 640
+  },
+  "score": {
+    "comments": 10,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 302,
+    "value": 302
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Not quite terrain but here a mario castle my sister made for her sons bday",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ttma7y/not_quite_terrain_but_here_a_mario_castle_my/"
+}

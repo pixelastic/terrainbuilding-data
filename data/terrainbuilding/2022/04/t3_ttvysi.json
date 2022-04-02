@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4tui03dr",
+    "name": "msfnc"
+  },
+  "date": {
+    "day": 1648771200,
+    "full": 1648833041,
+    "month": 1648771200,
+    "week": 1648339200
+  },
+  "id": "t3_ttvysi",
+  "picture": {
+    "filesize": 46344,
+    "fullUrl": "https://preview.redd.it/zrknabcn9yq81.jpg?width=1072&format=pjpg&auto=webp&s=c8e00d615b48458ff1a0e6af6902a2958c596302",
+    "hash": "68def3dab3",
+    "height": 448,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQGB//EACQQAAEDBAEDBQAAAAAAAAAAAAECAwUABBEhEgYTMTNBQmPB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAaEQEAAQUAAAAAAAAAAAAAAAACAAEDIcHh/9oADAMBAAIRAxEAPwAnm7YWVtauxbaG2kEobcaS6nPjKRnCT7aqfkY+wRwLEJalPAEq7aUhRxvRGqya86kmzyzK3uvuVSRnJV31JG7Xv5OqP7QkKkrbtrGuz//Z",
+    "url": "https://preview.redd.it/zrknabcn9yq81.jpg?width=640&crop=smart&auto=webp&s=2e3db62c54791719c2ef8b7e1dc7a6565d9eb9ef",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.95,
+    "ups": 16,
+    "value": 16
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "It’s-a-me!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ttvysi/itsame/"
+}

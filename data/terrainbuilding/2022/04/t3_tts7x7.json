@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_35se1583",
+    "name": "The_M15"
+  },
+  "date": {
+    "day": 1648771200,
+    "full": 1648823805,
+    "month": 1648771200,
+    "week": 1648339200
+  },
+  "id": "t3_tts7x7",
+  "picture": {
+    "filesize": 29948,
+    "fullUrl": "https://preview.redd.it/pce2828yhxq81.jpg?width=4000&format=pjpg&auto=webp&s=5e5434e6fde585ea46158ad08b086e196ee90f38",
+    "hash": "eed7ad29f3",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwMG/8QAIxAAAgEEAgAHAAAAAAAAAAAAAQMCAAQGEQUhBxIjMWFxgf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGREAAgMBAAAAAAAAAAAAAAAAAQIAERMS/9oADAMBAAIRAxEAPwASxzGGcvbNZb2tywrgCCkARJ2Ngk/G/aqZvikuE4pF2sPmputTkOhv8pX8NEKGHK9MbKzIkEjvX3WPzm8Y7Arhc4r8qbmSoER7Ed1LuxfmPmAtz//Z",
+    "url": "https://preview.redd.it/pce2828yhxq81.jpg?width=640&crop=smart&auto=webp&s=7f9077d5f09b105df37010c23b4694bab6c1b53a",
+    "width": 640
+  },
+  "score": {
+    "comments": 12,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 64,
+    "value": 64
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Zona Alfa terrain interior",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/tts7x7/zona_alfa_terrain_interior/"
+}

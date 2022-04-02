@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_hzfix2da",
+    "name": "Ficta_Bellator"
+  },
+  "date": {
+    "day": 1648771200,
+    "full": 1648857380,
+    "month": 1648771200,
+    "week": 1648339200
+  },
+  "id": "t3_tu59so",
+  "picture": {
+    "filesize": 55797,
+    "fullUrl": "https://preview.redd.it/qjatm120a0r81.jpg?width=4032&format=pjpg&auto=webp&s=286919f115b47b580fe78d8f0c40774780df870e",
+    "hash": "a65895cf43",
+    "height": 311,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAIABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAYH/8QAIRAAAwABAwQDAAAAAAAAAAAAAQIDBAAFEQYSIUEUMVH/xAAVAQEBAAAAAAAAAAAAAAAAAAACBP/EABkRAAMAAwAAAAAAAAAAAAAAAAABAgNBUf/aAAwDAQACEQMRAD8Az3pTNpPCkmz0b5l7Mjzkrl2CcNNu0ePBJ96qsXI3rpStLZ1hiu/DNK9FFG4PdwVUkgkH3x9fummptNBrI1Urp//Z",
+    "url": "https://preview.redd.it/qjatm120a0r81.jpg?width=640&crop=smart&auto=webp&s=29264328ff80ea4d18cdfdd08082098756f60e42",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 6,
+    "value": 6
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My 3x3 sandbox battle board.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/tu59so/my_3x3_sandbox_battle_board/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_3wnnrjy2",
+    "name": "dylantregaskis"
+  },
+  "date": {
+    "day": 1648771200,
+    "full": 1648787393,
+    "month": 1648771200,
+    "week": 1648339200
+  },
+  "id": "t3_tti99w",
+  "picture": {
+    "filesize": 108834,
+    "fullUrl": "https://preview.redd.it/tzt0ltmwhuq81.jpg?width=3024&format=pjpg&auto=webp&s=a37977be2a1f67bd61cfa0ccab9b9b486da5e268",
+    "hash": "565a98c7bf",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAwb/xAAnEAABAwIEBQUAAAAAAAAAAAABAgMRBAYABRJxBxQhMUETFSIjgf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAaEQACAgMAAAAAAAAAAAAAAAAAAQISEzFC/9oADAMBAAIRAxEAPwAeJ2UMM506Kev5t9qObfUwUhHUKAT1IUR3MQP3BMWrcbiPUpKrK1tuHXqlCpJ3EjbENel0+41dTXZo/SO1aUfVqEGAPjA8Ht5xJt8R7gbBDVYpKSSYQmEjbAxycseVHs//2Q==",
+    "url": "https://preview.redd.it/tzt0ltmwhuq81.jpg?width=640&crop=smart&auto=webp&s=c1a5a3d392cce026b8d77e00cd94e0b925984e1a",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 99,
+    "value": 99
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I built a watch tower for kicks",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/tti99w/i_built_a_watch_tower_for_kicks/"
+}
