@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_78zpv2uw",
+    "name": "vanwimpuy"
+  },
+  "date": {
+    "day": 1649030400,
+    "full": 1649057155,
+    "month": 1648771200,
+    "week": 1648944000
+  },
+  "id": "t3_tvw2wp",
+  "picture": {
+    "filesize": 51224,
+    "fullUrl": "https://preview.redd.it/zyjolzn1sgr81.jpg?width=4032&format=pjpg&auto=webp&s=6ef9c6d6c0a321717b5a97ceafa070e487b929c0",
+    "hash": "00062dd23f",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQMG/8QAKBAAAAQEAwkBAAAAAAAAAAAAAQIDBAAFESEGEjQHFCIzYXN0kbLC/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABkRAAIDAQAAAAAAAAAAAAAAAAECAAMRBP/aAAwDAQACEQMRAD8Ai82kTLeCouGjdoCKnLOmcRMAXrX1Cssx5PQMwUcMAJLlC5q5RLwXATUE1w60vDuNtdKe0r8ljIhrph4ofqBpUixsMfow1Kcn/9k=",
+    "url": "https://preview.redd.it/zyjolzn1sgr81.jpg?width=640&crop=smart&auto=webp&s=ccea65c8d94bf407c3692f01e078706475468ad2",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 268,
+    "value": 268
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First attempt at terrain building after 16 years. Was a fun weekend project! Needs some touching up in a few places but overall happy with it.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/tvw2wp/first_attempt_at_terrain_building_after_16_years/"
+}
