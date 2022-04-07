@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_y6gja",
+    "name": "Tenurion"
+  },
+  "date": {
+    "day": 1649203200,
+    "full": 1649255768,
+    "month": 1648771200,
+    "week": 1648944000
+  },
+  "id": "t3_txnlrr",
+  "picture": {
+    "filesize": 46184,
+    "fullUrl": "https://preview.redd.it/fv3aagim6xr81.jpg?width=4032&format=pjpg&auto=webp&s=f2e3f7bc1f7df01edc10a30f51a898a6d50e0ecf",
+    "hash": "db0729a648",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMFB//EACUQAAIBAgUDBQAAAAAAAAAAAAECAwQRAAUHEjEGISITMlFxof/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAaEQACAgMAAAAAAAAAAAAAAAAAEgEREyIj/9oADAMBAAIRAxEAPwDPdPpqB8tZq+nmnczCMWiLBPG/e3F7Hvxxhuo0uWS9JQT0FK0LvPaJvSK7gPeP0HEWhBhjkETugYWbaxF/u2AzBnnhjSWR2jS+xC3ivzYcDgYIu7XI3LzSoP/Z",
+    "url": "https://preview.redd.it/fv3aagim6xr81.jpg?width=640&crop=smart&auto=webp&s=fd7a91b6fac41a3391ede87d6a51444636ab4940",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 69,
+    "value": 69
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Fully finished but after 5:10h while only using recyclable materials",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/txnlrr/fully_finished_but_after_510h_while_only_using/"
+}

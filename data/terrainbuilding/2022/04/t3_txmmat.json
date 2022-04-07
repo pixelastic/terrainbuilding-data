@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_45dcpp41",
+    "name": "Redfaint"
+  },
+  "date": {
+    "day": 1649203200,
+    "full": 1649252969,
+    "month": 1648771200,
+    "week": 1648944000
+  },
+  "id": "t3_txmmat",
+  "picture": {
+    "filesize": 2447,
+    "fullUrl": "https://external-preview.redd.it/EMyeepYbzsvyOXxGcki2UTBNtk4xdez5y9i8TQM06mY.png?format=pjpg&auto=webp&s=726e657f6e984d477aca3120d7864a77876c417c",
+    "hash": "8a718c1124",
+    "height": 360,
+    "lqip": "data:image/png;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAj/xAAUEAEAAAAAAAAAAAAAAAAAAAAA/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AJUAB//Z",
+    "url": "https://external-preview.redd.it/EMyeepYbzsvyOXxGcki2UTBNtk4xdez5y9i8TQM06mY.png?width=640&crop=smart&format=pjpg&auto=webp&s=ed4568e0faaa6e2f01dabb2e3d9ef96890e1b9d7",
+    "width": 640
+  },
+  "score": {
+    "comments": 16,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 466,
+    "value": 466
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My little Dark Fantasy project over the last months! (almost finished)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/txmmat/my_little_dark_fantasy_project_over_the_last/"
+}
