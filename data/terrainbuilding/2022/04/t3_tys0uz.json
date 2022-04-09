@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_6e2n5",
+    "name": "tyrant88"
+  },
+  "date": {
+    "day": 1649376000,
+    "full": 1649381026,
+    "month": 1648771200,
+    "week": 1648944000
+  },
+  "id": "t3_tys0uz",
+  "picture": {
+    "filesize": 72387,
+    "fullUrl": "https://preview.redd.it/ue3xrbz2j7s81.jpg?width=1680&format=pjpg&auto=webp&s=b26e5302f09963de4ad1c317a3279510990f9ff9",
+    "hash": "2dd5fc95d4",
+    "height": 639,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQAD/8QAJRAAAQMDBAICAwAAAAAAAAAAAQIDEQQFIQAGBzESIhUyQlGh/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABgRAAIDAAAAAAAAAAAAAAAAAAABERIi/9oADAMBAAIRAxEAPwBjfvKTdkepkbfpWLi0pakuPrX6KCcEIjJE9q6xAnOs9jcmC8XBmivJYadqVAUzrSCkFUx4LEmDPRGP5pbdXEdgvBqH7M/8dXrylLa5aUqZjx/Gc/X99ath8VW/bVazX3Z5NdUNAPNshkqSy7P3BHsrrEiAc6DVhElB/9k=",
+    "url": "https://preview.redd.it/ue3xrbz2j7s81.jpg?width=640&crop=smart&auto=webp&s=62bfb96b6a05c5ae7ae8ccfa3d19567770219adc",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 311,
+    "value": 311
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First attempt at painting scatter terrain. Pretty happy with the outcome!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/tys0uz/first_attempt_at_painting_scatter_terrain_pretty/"
+}

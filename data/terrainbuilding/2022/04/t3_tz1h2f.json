@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_dn93x7",
+    "name": "LeifWesterholm"
+  },
+  "date": {
+    "day": 1649376000,
+    "full": 1649417600,
+    "month": 1648771200,
+    "week": 1648944000
+  },
+  "id": "t3_tz1h2f",
+  "picture": {
+    "filesize": 42011,
+    "fullUrl": "https://preview.redd.it/vp79jihtjas81.jpg?auto=webp&s=d48234f5de6c99ccc793721b8b997d48dacae2b6",
+    "hash": "cec10dfbbe",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMH/8QAJRAAAQIEBAcAAAAAAAAAAAAAAgEDAAQREgUhMcEiM1FhcXLh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAMAwEAAhEDEQA/AMNYfBmXw50wEi4zCwrVGlaZp3ziSTZPHMOIRhRUWwFyJaar1+wYOVhvsW0HY1mvO8TsAX//2Q==",
+    "url": "https://preview.redd.it/vp79jihtjas81.jpg?width=640&crop=smart&auto=webp&s=4be23c8e59ee97c2b27280a44826c9cab915f622",
+    "width": 640
+  },
+  "score": {
+    "comments": 9,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 440,
+    "value": 440
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Ruined Tower Terrain Video Tutorial!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/tz1h2f/ruined_tower_terrain_video_tutorial/"
+}

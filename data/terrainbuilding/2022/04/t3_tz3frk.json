@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1131x5",
+    "name": "bad-grammar-comics"
+  },
+  "date": {
+    "day": 1649376000,
+    "full": 1649424120,
+    "month": 1648771200,
+    "week": 1648944000
+  },
+  "id": "t3_tz3frk",
+  "picture": {
+    "filesize": 69661,
+    "fullUrl": "https://preview.redd.it/t54il5353bs81.jpg?width=4032&format=pjpg&auto=webp&s=a3ee0ae247837b3b7e4fb4350be3411de814163e",
+    "hash": "0564665796",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAKRAAAAUDAgMJAAAAAAAAAAAAAQIDBAUAETESIQciURMUFiMyM3GB0f/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAYEQADAQEAAAAAAAAAAAAAAAAAAhEBMf/aAAwDAQACEQMRAD8AAUcvHCfJHuCGE2giPZahGwBcLhtff6CjJyPOlJrtEGKZRTL5ipEynKQfkoDfpnNVnDyJS8YNbuHRu7ribdX3B5vV1wGLYrap+Bio2Ek3kbHtmbxyiKSiyKYFMIGz+0CpLtGd+ZD/2Q==",
+    "url": "https://preview.redd.it/t54il5353bs81.jpg?width=640&crop=smart&auto=webp&s=6f90506993a179449e0fa8d1284656afd82c2703",
+    "width": 640
+  },
+  "score": {
+    "comments": 12,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 113,
+    "value": 113
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Mountain Lair for Dreaded Meardra, the hag",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/tz3frk/mountain_lair_for_dreaded_meardra_the_hag/"
+}
