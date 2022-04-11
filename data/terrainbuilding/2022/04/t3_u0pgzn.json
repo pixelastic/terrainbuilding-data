@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_bnw0kqq1",
+    "name": "Kanti_painting"
+  },
+  "date": {
+    "day": 1649548800,
+    "full": 1649620286,
+    "month": 1648771200,
+    "week": 1649548800
+  },
+  "id": "t3_u0pgzn",
+  "picture": {
+    "filesize": 80808,
+    "fullUrl": "https://preview.redd.it/8g3gec2jars81.jpg?auto=webp&s=2da4cc608047aa17d30a170cf097083bb0232d9d",
+    "hash": "d7a85e1686",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQFB//EACMQAAICAQIHAQEAAAAAAAAAAAECAwQFAAYHERITITHBFEH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABcRAAMBAAAAAAAAAAAAAAAAAAACESL/2gAMAwEAAhEDEQA/AAtcTLOPvWKy4mtOIXKhxZK9wD0QCNO4jidav5OlUbDV4lsShGYWizRg+yV6fus6ye3c89yWzVg/R3pCVRR0lF/nvxqhtLa24pMvVu2a6VYqkys3dcdUg5+QOX3Uq1HmH//Z",
+    "url": "https://preview.redd.it/8g3gec2jars81.jpg?width=640&crop=smart&auto=webp&s=c6c416e28b032c27318e2ae652c0ee55bf9b2d37",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 257,
+    "value": 257
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Warcry ruins. Tutorial in comment section",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/u0pgzn/warcry_ruins_tutorial_in_comment_section/"
+}
