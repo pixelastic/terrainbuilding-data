@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5ipikvqo",
+    "name": "adindaclub"
+  },
+  "date": {
+    "day": 1649635200,
+    "full": 1649681530,
+    "month": 1648771200,
+    "week": 1649548800
+  },
+  "id": "t3_u171nw",
+  "picture": {
+    "filesize": 128919,
+    "fullUrl": "https://preview.redd.it/lqgvi276qss81.jpg?auto=webp&s=c92dc0733b4823da6ea2bc17b1313a2f05e9f340",
+    "hash": "d18de47f8c",
+    "height": 1055,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAJhAAAQMDAwIHAAAAAAAAAAAAAQIDBAUREgAGByExExVBUVJhcf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGBEAAgMAAAAAAAAAAAAAAAAAAAECElH/2gAMAwEAAhEDEQA/AJE7lvdkmquTGK08wcskR220hpI+OJBuP3qffWzUflpcikwnpNHdL7jCFuFtYxyKQTb6voJXeONkw1+bVOrToUVOJfaQtJSo+uJIKkgk9he1+mmkPf2yIsNiPFfgIjstpbbT4JNkgWAuRftqblg6n//Z",
+    "url": "https://preview.redd.it/lqgvi276qss81.jpg?width=640&crop=smart&auto=webp&s=b6ad09728f68a3a3dbd57bf6c363a9da202bae64",
+    "width": 640
+  },
+  "score": {
+    "comments": 14,
+    "downs": 0,
+    "ratio": 0.91,
+    "ups": 127,
+    "value": 127
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "One man’s trash…",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/u171nw/one_mans_trash/"
+}
