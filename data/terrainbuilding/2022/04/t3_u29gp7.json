@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_apmyz5",
+    "name": "Larabic"
+  },
+  "date": {
+    "day": 1649721600,
+    "full": 1649797544,
+    "month": 1648771200,
+    "week": 1649548800
+  },
+  "id": "t3_u29gp7",
+  "picture": {
+    "filesize": 49099,
+    "fullUrl": "https://preview.redd.it/zpebskrkx5t81.jpg?width=4032&format=pjpg&auto=webp&s=8ba9af98b3a55682bfad619c99150f971f3b5a4d",
+    "hash": "f8a68b3587",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAI/8QAIhAAAgICAgAHAAAAAAAAAAAAAQIDEQQFACEiQVFScYHx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAP/xAAYEQEAAwEAAAAAAAAAAAAAAAABAAIRIf/aAAwDAQACEQMRAD8Azo+qli1eRIUjaUshFEEhfUEeXfLba2LExhKVfsCMWQKerIPuoEd/HENOcbQxLFHGGWXp68Xf5wmTsJsvXwYswjMcJd1IWmtgLs/Q4Lt3Q5KOVMn/2Q==",
+    "url": "https://preview.redd.it/zpebskrkx5t81.jpg?width=640&crop=smart&auto=webp&s=24b20728f7980ea9f6344b6aad6bb17917f8d727",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 85,
+    "value": 85
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Some forests are stranger than others...",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/u29gp7/some_forests_are_stranger_than_others/"
+}
