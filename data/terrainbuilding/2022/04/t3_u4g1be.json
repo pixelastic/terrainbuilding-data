@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_bnw0kqq1",
+    "name": "Kanti_painting"
+  },
+  "date": {
+    "day": 1649980800,
+    "full": 1650051688,
+    "month": 1648771200,
+    "week": 1649548800
+  },
+  "id": "t3_u4g1be",
+  "picture": {
+    "filesize": 62978,
+    "fullUrl": "https://preview.redd.it/99niih6bxqt81.jpg?auto=webp&s=3181075eb93251bdec471a86287ebbf079c111d1",
+    "hash": "f02220fde2",
+    "height": 905,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAjEAACAQMDBAMAAAAAAAAAAAABAgQDBREAITEGEhOBQVFh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABkRAAIDAQAAAAAAAAAAAAAAAAABERIhMf/aAAwDAQACEQMRAD8AYu8lqlmjCBcY0KtJKsjV84fI2UEcb/nxqcS2XAKBO6XiTpI2qSUpUSKh+86n71FvkS5B6MNpENWp04j0m7/GowAWHIOdyeNHX3qeWbtJWHLcR6beJD3chR2594z70Iu9waccP//Z",
+    "url": "https://preview.redd.it/99niih6bxqt81.jpg?width=640&crop=smart&auto=webp&s=b7829187f80333c6499035d67c245b6964080c85",
+    "width": 640
+  },
+  "score": {
+    "comments": 11,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 275,
+    "value": 275
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Zdzisław Beksiński is my favourite surrealist. I want to make diorama based on his painting.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/u4g1be/zdzisław_beksiński_is_my_favourite_surrealist_i/"
+}
