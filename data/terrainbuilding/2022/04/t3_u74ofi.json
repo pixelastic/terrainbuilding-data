@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_813kxd7z",
+    "name": "ValnyrJLM"
+  },
+  "date": {
+    "day": 1650326400,
+    "full": 1650373432,
+    "month": 1648771200,
+    "week": 1650153600
+  },
+  "id": "t3_u74ofi",
+  "picture": {
+    "filesize": 95274,
+    "fullUrl": "https://preview.redd.it/egbep0ruhhu81.jpg?width=3968&format=pjpg&auto=webp&s=1ffbf07bd042d0dcaee2e97c90653f93db34e6fa",
+    "hash": "2d4d364fd8",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgIF/8QAJRAAAQMDAwMFAAAAAAAAAAAAAQIDBAUGEQAhMQdBYRIiMoHx/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABoRAAICAwAAAAAAAAAAAAAAAAECABEhMkH/2gAMAwEAAhEDEQA/AANp2dTrobDWZCGY7XrODlSd9kgHAI++51V0dN48F9pht9oLcSVIC3MnOficDnHHgaOWVWJtMW5JivEOEAb8futu7K5Plw41RedzIake0AYTx3HjQoV1AzEZSKPJ/9k=",
+    "url": "https://preview.redd.it/egbep0ruhhu81.jpg?width=640&crop=smart&auto=webp&s=43934693ff42006054d624774a20be672cbbfd50",
+    "width": 640
+  },
+  "score": {
+    "comments": 21,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 463,
+    "value": 463
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Stormcast Summoning Temple",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/u74ofi/stormcast_summoning_temple/"
+}

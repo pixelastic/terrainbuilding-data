@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_p95i3",
+    "name": "Scooteyscoot"
+  },
+  "date": {
+    "day": 1650067200,
+    "full": 1650143631,
+    "month": 1648771200,
+    "week": 1649548800
+  },
+  "id": "t3_u57di1",
+  "picture": {
+    "filesize": 83677,
+    "fullUrl": "https://external-preview.redd.it/_xsJN_YHQGThmSSlHxZVcdakqVu9bMjplW4Z_rZnMdw.jpg?auto=webp&s=fccc1155bafc83b0762a57703fd6d5f2c6c6caa1",
+    "hash": "c937fed27b",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQME/8QAJxAAAgIBAwALAQAAAAAAAAAAAQIDBBEABSESExQiIzFBUXGBoeH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGxEAAgIDAQAAAAAAAAAAAAAAAQIAMgMREpH/2gAMAwEAAhEDEQA/AIOqXKZgsOZKfSDoq+Hl8YJH9z6aW3OGnuNiruk1dGuogUyKWUrnu+/P3kc6LsR9ghV4mLqPKOQBlHxkZ/dbdusmWnIOrjQMwGFzgcg8ZOjIvWiKmLbOyhlNx5P/2Q==",
+    "url": "https://external-preview.redd.it/_xsJN_YHQGThmSSlHxZVcdakqVu9bMjplW4Z_rZnMdw.jpg?width=640&crop=smart&auto=webp&s=d884aaf5ea85e97fcbfec32e9e16b9ff9b75dc46",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 742,
+    "value": 742
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Pyramid made from Foamcard",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/u57di1/pyramid_made_from_foamcard/"
+}

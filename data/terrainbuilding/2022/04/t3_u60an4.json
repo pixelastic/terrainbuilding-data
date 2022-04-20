@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_2pvdcb1t",
+    "name": "yazzieADAM"
+  },
+  "date": {
+    "day": 1650240000,
+    "full": 1650241815,
+    "month": 1648771200,
+    "week": 1650153600
+  },
+  "id": "t3_u60an4",
+  "picture": {
+    "filesize": 144238,
+    "fullUrl": "https://preview.redd.it/adl9skcnm6u81.jpg?auto=webp&s=16a2df2a7670146b4a5c2d1915b0443141f036de",
+    "hash": "a21505dd1c",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAIRAAAgICAgEFAAAAAAAAAAAAAQMCBAARBSExEzJBkaH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAGhEAAwEAAwAAAAAAAAAAAAAAAQIDADFBcf/aAAwDAQACEQMRAD8Ar8o7kmvdZRdcpaZn0VqmRDUBrseJbIP3iqlcF2jWtGBiXKiwxB2ASMzBVx9vjW1lXKFeRgWaZI+6ROwO/gd9+cZ0rc00Kq6rYlUVRiBGA0NDRH5hXdURSB7khOjUZTx1v//Z",
+    "url": "https://preview.redd.it/adl9skcnm6u81.jpg?width=640&crop=smart&auto=webp&s=e5dde427261c6f1d23968bbfe9da7a0c47d82f8a",
+    "width": 640
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 444,
+    "value": 444
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Teleportation gate, here we go...",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/u60an4/teleportation_gate_here_we_go/"
+}

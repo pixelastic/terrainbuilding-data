@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_76fhg3na",
+    "name": "Crumblewolf"
+  },
+  "date": {
+    "day": 1650153600,
+    "full": 1650233819,
+    "month": 1648771200,
+    "week": 1650153600
+  },
+  "id": "t3_u5xojs",
+  "picture": {
+    "filesize": 48897,
+    "fullUrl": "https://preview.redd.it/vfh9h61vy5u81.jpg?width=1080&format=pjpg&auto=webp&s=524993ab60d391938a0cb961b47874a11a168283",
+    "hash": "d55e2e3a7c",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAID/8QAIxAAAQMDBAIDAAAAAAAAAAAAAQIDBAUGEQASITETUSJBYf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAHxEAAAQHAQAAAAAAAAAAAAAAAAECEQMSEyEiMVHB/9oADAMBAAIRAxEAPwC3biiUeqeOSThSCfiefzjTLcupqfVHoyXXXRje2kcqx99etGuKwKlOnhcdUd9koGVKXs59a1tqxqnQ6j53G2y25hBLLpykEjJ66wNBMgkauKCTFqu+PG9H/9k=",
+    "url": "https://preview.redd.it/vfh9h61vy5u81.jpg?width=640&crop=smart&auto=webp&s=5012a56ff7e716244bd8de6b9419023eaa780f8f",
+    "width": 640
+  },
+  "score": {
+    "comments": 28,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 114,
+    "value": 114
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First piece of terrain done. Would love some feedback",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/u5xojs/first_piece_of_terrain_done_would_love_some/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5dwhm4la",
+    "name": "beavercleveland"
+  },
+  "date": {
+    "day": 1650240000,
+    "full": 1650268066,
+    "month": 1648771200,
+    "week": 1650153600
+  },
+  "id": "t3_u67m45",
+  "picture": {
+    "filesize": 40132,
+    "fullUrl": "https://preview.redd.it/tnhlvxlps8u81.jpg?width=4000&format=pjpg&auto=webp&s=c70cb93ea9a95030a24e94321c4a9d008c1a6feb",
+    "hash": "e4f55ed6e6",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwMG/8QAIRAAAgEDBAMBAAAAAAAAAAAAAgMBBAURAAYxURITISL/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABgRAQADAQAAAAAAAAAAAAAAAAEAAhEh/9oADAMBAAIRAxEAPwAlpdzFYpFPgh9SByOAeWB54wPEcd628KQi1024KyzhR1a/ZBgDci3I5g84z3z1orubZpa6V0ogkkM8xaIxLJKOJkpzM6jXXq7NT63XSsYovkgTPzMY6j5oXoPJUcn/2Q==",
+    "url": "https://preview.redd.it/tnhlvxlps8u81.jpg?width=640&crop=smart&auto=webp&s=ec5d93f453bf5b2a471d1cac56c421f0ea42a313",
+    "width": 640
+  },
+  "score": {
+    "comments": 13,
+    "downs": 0,
+    "ratio": 0.93,
+    "ups": 30,
+    "value": 30
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "This is the rough draft of a dungeon tile build advice welcome",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/u67m45/this_is_the_rough_draft_of_a_dungeon_tile_build/"
+}

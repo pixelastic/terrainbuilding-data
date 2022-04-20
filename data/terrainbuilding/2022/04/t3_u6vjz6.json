@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_10bjw9",
+    "name": "sFAMINE"
+  },
+  "date": {
+    "day": 1650326400,
+    "full": 1650339105,
+    "month": 1648771200,
+    "week": 1650153600
+  },
+  "id": "t3_u6vjz6",
+  "picture": {
+    "filesize": 129417,
+    "fullUrl": "https://preview.redd.it/svr935auneu81.jpg?auto=webp&s=fc5d4f3e0b406696f7bb6aba1230d11e2094f0fb",
+    "hash": "b6ca2b78b5",
+    "height": 625,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQH/8QAIxAAAgIABQQDAAAAAAAAAAAAAQIDBAAFESExEkFRYRNxkf/EABQBAQAAAAAAAAAAAAAAAAAAAAH/xAAcEQACAgIDAAAAAAAAAAAAAAABAhIhAAMRkfD/2gAMAwEAAhEDEQA/ACdKpay6GhNFLNWrRqwDSqT8nfbbQ6a9/OIpWVLbCEAwDuZGcnjc6jbGhZRlkF2CKu7muxgeN3LEq2v2fXrBXP7E9eI1gkAg6ekIi6ccHz+nDsYTip5oe7wRKkavP//Z",
+    "url": "https://preview.redd.it/svr935auneu81.jpg?width=640&crop=smart&auto=webp&s=ac62a725ad4f2277ab1ea8691c1513b8e94d815e",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 219,
+    "value": 219
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Maps, Blueprints, and Posters",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/u6vjz6/maps_blueprints_and_posters/"
+}

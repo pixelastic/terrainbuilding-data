@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_y6gja",
+    "name": "Tenurion"
+  },
+  "date": {
+    "day": 1650240000,
+    "full": 1650278920,
+    "month": 1648771200,
+    "week": 1650153600
+  },
+  "id": "t3_u6a8m5",
+  "picture": {
+    "filesize": 107122,
+    "fullUrl": "https://preview.redd.it/hz7ciyezo9u81.jpg?width=2160&format=pjpg&auto=webp&s=73bf0c4547b931f4a05b97281f186a85e00b641a",
+    "hash": "47e6d748b4",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAkEAACAQMEAQUBAAAAAAAAAAABAgMEESEABRIxFAYTImGBwf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGxEAAQQDAAAAAAAAAAAAAAAAAQACAxEhMZH/2gAMAwEAAhEDEQA/AJ2rqmhijlq6iaZFVuEyu4DnOBY9iw77/NNentwqI9tVqiRI3kPPjO3zAIHd8nq+dB1tWYF8etkWSNlLwTs7KMnAFiBcff8AdNbE8hoi/JQHbkPJPuPawHZzbGhacbVMrajFji//2Q==",
+    "url": "https://preview.redd.it/hz7ciyezo9u81.jpg?width=640&crop=smart&auto=webp&s=828fe1558b3f2ff5fc27ccf1cf9237019fa0130e",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 125,
+    "value": 125
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP Japanese-inspired build with functional sliding doors",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/u6a8m5/wip_japaneseinspired_build_with_functional/"
+}
