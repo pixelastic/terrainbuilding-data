@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_apmyz5",
+    "name": "Larabic"
+  },
+  "date": {
+    "day": 1651017600,
+    "full": 1651100481,
+    "month": 1648771200,
+    "week": 1650758400
+  },
+  "id": "t3_udgew3",
+  "picture": {
+    "filesize": 127045,
+    "fullUrl": "https://preview.redd.it/6d4hrexwj5w81.jpg?width=1440&format=pjpg&auto=webp&s=1a7b99d3e1dafa799266ac3a5516db1ecc63a224",
+    "hash": "d498d3bc81",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEBv/EACIQAAICAgEDBQAAAAAAAAAAAAECAwQAEQUSIVETFJGSwf/EABUBAQEAAAAAAAAAAAAAAAAAAAUG/8QAGxEAAQQDAAAAAAAAAAAAAAAAAgABAxFBceH/2gAMAwEAAhEDEQA/ANA3JVpJZ4opFaaFzGyeCPzEVrqyXhU0psFu0akFta3sj5wjwPByMx9jFCWYs3oO0XU3k9JGVx0OLrzJaiqVxaQaWYrt/se+TxDIRXjXUq1sv//Z",
+    "url": "https://preview.redd.it/6d4hrexwj5w81.jpg?width=640&crop=smart&auto=webp&s=977e8fa5c623307c470440319be912791cf4529e",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 78,
+    "value": 78
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First coat of grass on my hobbit house roof",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/udgew3/first_coat_of_grass_on_my_hobbit_house_roof/"
+}
