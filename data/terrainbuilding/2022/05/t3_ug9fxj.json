@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_7xfntuyu",
+    "name": "Buy_my_books"
+  },
+  "date": {
+    "day": 1651363200,
+    "full": 1651439260,
+    "month": 1651363200,
+    "week": 1651363200
+  },
+  "id": "t3_ug9fxj",
+  "picture": {
+    "filesize": 99961,
+    "fullUrl": "https://preview.redd.it/5py4lpr8jxw81.jpg?width=3024&format=pjpg&auto=webp&s=7d9989ec4f9c8162b3bf0e2bdbd2af7f696262b0",
+    "hash": "ae788c4ffc",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgMI/8QAIxAAAQQBBAEFAAAAAAAAAAAAAQIDBBEFAAYxQSESEyJRYf/EABUBAQEAAAAAAAAAAAAAAAAAAAMF/8QAGxEAAgEFAAAAAAAAAAAAAAAAAAERAgMEEhP/2gAMAwEAAhEDEQA/AFW1sjHx8QqStIdNAn6/NXcyMmQ+84pThtXgpBUKod6zpOGSh5V913KUeFKQopJ+NgHivGlu3NwyWMW370h4LcJWfSLB6u++NTLmQlQuYq1mGf/Z",
+    "url": "https://preview.redd.it/5py4lpr8jxw81.jpg?width=640&crop=smart&auto=webp&s=4b944c0294c770fc45616721985cf8cb207eb052",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 19,
+    "value": 19
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP my first structural build",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ug9fxj/wip_my_first_structural_build/"
+}

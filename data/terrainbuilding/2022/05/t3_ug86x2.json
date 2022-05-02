@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_m07ll",
+    "name": "kadeusx"
+  },
+  "date": {
+    "day": 1651363200,
+    "full": 1651435673,
+    "month": 1651363200,
+    "week": 1651363200
+  },
+  "id": "t3_ug86x2",
+  "picture": {
+    "filesize": 54638,
+    "fullUrl": "https://preview.redd.it/9qtncv9k8xw81.jpg?auto=webp&s=ef7ffb16d5ec31f239e459b593187b9e0f17224b",
+    "hash": "652a4645de",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAIxAAAQMEAgEFAAAAAAAAAAAAAQIDBAUGERIAMSETIjJBYf/EABQBAQAAAAAAAAAAAAAAAAAAAAX/xAAcEQABAwUAAAAAAAAAAAAAAAABAAIRBBITQWH/2gAMAwEAAhEDEQA/AB7iuC54NxJaTWZZcjubEtvHRAwfbg4B+Q7H1wqJWa7KqiIorEtC5KvO8jOUjJPZI65oc2y6ZU5kiZJXK9Z5W6ilwAZ/PHIiTasGJWEvtOyt2XMoCnAQMHrrhjagFkbhIYDdxf/Z",
+    "url": "https://preview.redd.it/9qtncv9k8xw81.jpg?width=640&crop=smart&auto=webp&s=1457ca238fa40f7d1fabfe9e834677c54dbf4075",
+    "width": 640
+  },
+  "score": {
+    "comments": 27,
+    "downs": 0,
+    "ratio": 0.96,
+    "ups": 64,
+    "value": 64
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "How to fix this build? I need some color",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ug86x2/how_to_fix_this_build_i_need_some_color/"
+}
