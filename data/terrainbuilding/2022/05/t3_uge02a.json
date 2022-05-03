@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_ss6zw",
+    "name": "Raisz"
+  },
+  "date": {
+    "day": 1651449600,
+    "full": 1651453369,
+    "month": 1651363200,
+    "week": 1651363200
+  },
+  "id": "t3_uge02a",
+  "picture": {
+    "filesize": 83245,
+    "fullUrl": "https://preview.redd.it/3vwh81s7pyw81.jpg?auto=webp&s=df0e95ae7c6a357b5bfae02825e4e0f9178fbecf",
+    "hash": "937ab0855e",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQIH/8QAJRAAAQQBAwIHAAAAAAAAAAAAAQIDBBEFAAYSIXEHFiMxQVFh/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABkRAAIDAQAAAAAAAAAAAAAAAAECAAMRIf/aAAwDAQACEQMRAD8AvzHim8jHhtuTpjTx4JfjspSkkmhxCjyI/aGi3IrE/Gss5DHS5k9x9BiyG5HBPJSqFpHSgL+fer1s+2tk4Da8ovYiAlD5PR1xRcUkEXSSomh20J4kvM7YEGZh4MNma8tXr8CVI++IuhfbQ2FiN2IqjeT/2Q==",
+    "url": "https://preview.redd.it/3vwh81s7pyw81.jpg?width=640&crop=smart&auto=webp&s=84f4d3ef9210a72376fb0f3c65be087f6278cfd4",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 0.92,
+    "ups": 20,
+    "value": 20
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First terrain vs latest. Shoutout to all the terrain tutorial YouTubers out there—y’all are awesome.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/uge02a/first_terrain_vs_latest_shoutout_to_all_the/"
+}

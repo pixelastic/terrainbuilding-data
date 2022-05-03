@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_ez86stru",
+    "name": "CustomMiniatureMaker"
+  },
+  "date": {
+    "day": 1651449600,
+    "full": 1651498374,
+    "month": 1651363200,
+    "week": 1651363200
+  },
+  "id": "t3_ugpqit",
+  "picture": {
+    "filesize": 82144,
+    "fullUrl": "https://external-preview.redd.it/jbtS0kmGcPwTFQ-07dPYV8VyNa_zShbLGotlCCqHMwI.png?format=pjpg&auto=webp&s=524bdad1e979b5d7ad2ccb0e9a4eae9c46e960f5",
+    "hash": "77537cde0e",
+    "height": 644,
+    "lqip": "data:image/png;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAJhAAAQMDAgUFAAAAAAAAAAAAAQIDBAAGEQUxBxITIUEUImFxkf/EABUBAQEAAAAAAAAAAAAAAAAAAAUG/8QAGhEAAgIDAAAAAAAAAAAAAAAAAREAAwITFP/aAAwDAQACEQMRAD8A1XV+IfRf9LGQlT6EJLi3NgSAcAeakeHV7yJdyvW1cLRmOSXVqZW5hQUg5PNk9iAOxH5TMy0Imvpbkty3IU1CA2pSUhaHANuYb5A8g0lBsnS9OZSqN1HZ4GTMdPu+gNgPgVPdVelJ5GIGkCxEoT//2Q==",
+    "url": "https://external-preview.redd.it/jbtS0kmGcPwTFQ-07dPYV8VyNa_zShbLGotlCCqHMwI.png?width=640&crop=smart&format=pjpg&auto=webp&s=ac257867120f41e53afdff0337f6b6fa93900cdd",
+    "width": 640
+  },
+  "score": {
+    "comments": 56,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 1109,
+    "value": 1109
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Made some free detailed tile roller STLs for you guys because I’m nice like that",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ugpqit/made_some_free_detailed_tile_roller_stls_for_you/"
+}
