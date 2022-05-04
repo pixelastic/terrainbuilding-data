@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_nl9yn",
+    "name": "ComteofStGermain"
+  },
+  "date": {
+    "day": 1651536000,
+    "full": 1651609072,
+    "month": 1651363200,
+    "week": 1651363200
+  },
+  "id": "t3_uhoxlb",
+  "picture": {
+    "filesize": 64593,
+    "fullUrl": "https://preview.redd.it/tvxnruc6kbx81.jpg?width=3000&format=pjpg&auto=webp&s=dd16fb0927b8dffeb419d91af7be9a70af409bbe",
+    "hash": "7c360f7422",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAIhAAAgIBBAIDAQAAAAAAAAAAAQIDBBEABQYhEjEHFCLw/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABgRAAMBAQAAAAAAAAAAAAAAAAABAxEh/9oADAMBAAIRAxEAPwC5yHmG1cZv/R3CGy0gALPEFKqSM+PZ9470shqNZrw2KwEkEyLJG4IwykZB1lnNuHbzvO4X7dOjWie1IF/coYjwYhXJPpSO8d4z60/+P617Z+LVaO6OHniLBVD+QjXPSg/3vRRrixiUmn1H/9k=",
+    "url": "https://preview.redd.it/tvxnruc6kbx81.jpg?width=640&crop=smart&auto=webp&s=5a428244181299ade0ec4922604f3b019b613b4f",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 26,
+    "value": 26
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Some buildings made with XPS Foam, and a new project.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/uhoxlb/some_buildings_made_with_xps_foam_and_a_new/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_tz6x6",
+    "name": "ArtDeve"
+  },
+  "date": {
+    "day": 1651449600,
+    "full": 1651527539,
+    "month": 1651363200,
+    "week": 1651363200
+  },
+  "id": "t3_uh0fqr",
+  "picture": {
+    "filesize": 53862,
+    "fullUrl": "https://preview.redd.it/cd8focp2t4x81.jpg?width=5184&format=pjpg&auto=webp&s=8e2b4e4e37d625c0cc1ce3af5a0d3310282f913f",
+    "hash": "f3bd680839",
+    "height": 427,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAJBAAAgIBAgYDAQAAAAAAAAAAAQIDBBEABQYSEyExURVBcYH/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAGREBAAMBAQAAAAAAAAAAAAAAAQACESGh/9oADAMBAAIRAxEAPwBfiPdqvzNaoIJrt2aIupVzH015hgKFPc9/06NqRzV9jlXatwma7bLnpyLlpJnHkY9Y/ncnUrwuzHi8EsxMTdOMk55VB8D1rW9vjS1QazMoNgKVEqjlfGfGRg/Q0cZVN8iNjik//9k=",
+    "url": "https://preview.redd.it/cd8focp2t4x81.jpg?width=640&crop=smart&auto=webp&s=6c747d1b2df22a6c62cd3c2ceff436ea1f674f88",
+    "width": 640
+  },
+  "score": {
+    "comments": 9,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 50,
+    "value": 50
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Wasteland village",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/uh0fqr/wasteland_village/"
+}
