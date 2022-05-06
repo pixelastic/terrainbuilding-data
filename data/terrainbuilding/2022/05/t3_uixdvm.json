@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_8gbby6mi",
+    "name": "kieranBA1"
+  },
+  "date": {
+    "day": 1651708800,
+    "full": 1651757083,
+    "month": 1651363200,
+    "week": 1651363200
+  },
+  "id": "t3_uixdvm",
+  "picture": {
+    "filesize": 80794,
+    "fullUrl": "https://preview.redd.it/68oe5umbsnx81.jpg?auto=webp&s=74d6775ecc46044e60b7f74d8a8e3945159b4716",
+    "hash": "9d27e5f13f",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgYH/8QAJhAAAgEDAgYCAwAAAAAAAAAAAQIDBAURAAYSISIxQVETFCOhwf/EABUBAQEAAAAAAAAAAAAAAAAAAAAD/8QAGxEAAwACAwAAAAAAAAAAAAAAAQIDACEycfD/2gAMAwEAAhEDEQA/ADQ2urroUYpUwcWOBUCy98DDDIII/h1IbjW6227TU0tBVsUPSwjLBhnkenI/etKqd27P+Sb6VRXXMjKOtBAxUE88F+QHb3o1VwlqJ2kg2c0a9vzXBY2OPJC5HrzqLCaDZxNq04ofd5//2Q==",
+    "url": "https://preview.redd.it/68oe5umbsnx81.jpg?width=640&crop=smart&auto=webp&s=78be4907563cc40a5272613754f563761e4388e9",
+    "width": 640
+  },
+  "score": {
+    "comments": 18,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 348,
+    "value": 348
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First building testing out new hot wire cutter. Since I was young I’ve always wanted to do an Osgiliath board with resin river etc so this is first steps towards that.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/uixdvm/first_building_testing_out_new_hot_wire_cutter/"
+}
