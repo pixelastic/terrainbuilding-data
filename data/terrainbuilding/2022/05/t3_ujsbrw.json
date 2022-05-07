@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_cnvg4",
+    "name": "GrandmageBob"
+  },
+  "date": {
+    "day": 1651795200,
+    "full": 1651857280,
+    "month": 1651363200,
+    "week": 1651363200
+  },
+  "id": "t3_ujsbrw",
+  "picture": {
+    "filesize": 79881,
+    "fullUrl": "https://preview.redd.it/mifevda92wx81.jpg?auto=webp&s=7b304522eec08dfd99319ffa6c9db2e3c5a04abf",
+    "hash": "ada896edf5",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABwb/xAAgEAACAQQBBQAAAAAAAAAAAAABAgMABAUhEQYSMWGB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAaEQACAgMAAAAAAAAAAAAAAAAAAwECERIh/9oADAMBAAIRAxEAPwCNweOS4KtcSKIinfog6JI49HRpG6essYLeNTbRuUA7JH4bj2B4+0RPkLi3RY4WChCeCBsBvIpY6bQNhYZCSXKDfygW2KY4WsXsf//Z",
+    "url": "https://preview.redd.it/mifevda92wx81.jpg?width=640&crop=smart&auto=webp&s=33f4edc5846b2f70bc4555b5e647e7e2eb4b2724",
+    "width": 640
+  },
+  "score": {
+    "comments": 9,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 227,
+    "value": 227
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Experimenting with schrinkfoil to make weapons for terrain details. I think I am on to something here.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ujsbrw/experimenting_with_schrinkfoil_to_make_weapons/"
+}
