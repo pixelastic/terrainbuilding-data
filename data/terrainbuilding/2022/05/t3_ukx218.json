@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_dn93x7",
+    "name": "LeifWesterholm"
+  },
+  "date": {
+    "day": 1651968000,
+    "full": 1651997113,
+    "month": 1651363200,
+    "week": 1651968000
+  },
+  "id": "t3_ukx218",
+  "picture": {
+    "filesize": 45526,
+    "fullUrl": "https://preview.redd.it/ogxf4pbpl7y81.jpg?auto=webp&s=8a865db93c520cedeef70d191f8872000681926c",
+    "hash": "38d338d3a4",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEB//EACgQAAIBAwICCwAAAAAAAAAAAAEDAgAEBREhIkEGExQxNDVRcXOxsv/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGREAAwADAAAAAAAAAAAAAAAAAAERAhIx/9oADAMBAAIRAxEAPwDBcT0fVcXMVsDQyMYTkufCdyNQRp3aHb1qrLYK37e+NhaTZNvXTUpZMuEEkGIHIDlvtTm+OuvZf5ox/mKPjZ9GhrlKnNnjOH//2Q==",
+    "url": "https://preview.redd.it/ogxf4pbpl7y81.jpg?width=640&crop=smart&auto=webp&s=6cad86288c859eeee7599e3bef7e3d20df46bb51",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 26,
+    "value": 26
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Gallows Terrain Tutorial with some Free STL files!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ukx218/gallows_terrain_tutorial_with_some_free_stl_files/"
+}

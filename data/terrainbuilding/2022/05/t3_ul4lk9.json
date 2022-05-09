@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_54dcctfy",
+    "name": "Arch_Shadow"
+  },
+  "date": {
+    "day": 1651968000,
+    "full": 1652025044,
+    "month": 1651363200,
+    "week": 1651968000
+  },
+  "id": "t3_ul4lk9",
+  "picture": {
+    "filesize": 44957,
+    "fullUrl": "https://preview.redd.it/svsws713x9y81.jpg?width=1080&format=pjpg&auto=webp&s=e086c31eaddc493dc6546bd56be602a65ccf7947",
+    "hash": "2d745aac90",
+    "height": 303,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAIABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMG/8QAJBAAAQIEBQUAAAAAAAAAAAAAAQIEAAMFEQYHEyExEiJhcbH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAGBEBAAMBAAAAAAAAAAAAAAAAEQABEiH/2gAMAwEAAhEDEQA/AM5l1mK7dU5mynvVImy5iWykIHcq+wI4A8H3e+0QxbjNyinuE1NyzVPnHTSCg6hAHTYD6eIQgjpHozon/9k=",
+    "url": "https://preview.redd.it/svsws713x9y81.jpg?width=640&crop=smart&auto=webp&s=b2bc915c21b419f74d7a8d10722e14276966d258",
+    "width": 640
+  },
+  "score": {
+    "comments": 20,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 288,
+    "value": 288
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "40k on deployment: elevation.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ul4lk9/40k_on_deployment_elevation/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4fe7wmes",
+    "name": "shadsticle"
+  },
+  "date": {
+    "day": 1651968000,
+    "full": 1652006952,
+    "month": 1651363200,
+    "week": 1651968000
+  },
+  "id": "t3_ukz5wb",
+  "picture": {
+    "filesize": 100172,
+    "fullUrl": "https://preview.redd.it/b75twg4bf8y81.jpg?auto=webp&s=4cc6b5855ac575f2a46289a24dcd9d855e3c71e4",
+    "hash": "aaac323602",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwUG/8QAIxAAAgEEAgAHAAAAAAAAAAAAAQIDAAQREgUTBhQhQXKhsf/EABQBAQAAAAAAAAAAAAAAAAAAAAL/xAAZEQACAwEAAAAAAAAAAAAAAAABEQADMSH/2gAMAwEAAhEDEQA/AKPCSvc3lwuxwNR9VvordJ4IndmLaAHB9xRz4Dk8xyF4CpXR1XB+Iz+0qw20nSnWPTFCgcYyK8Fo7P/Z",
+    "url": "https://preview.redd.it/b75twg4bf8y81.jpg?width=640&crop=smart&auto=webp&s=7647b22ca76854c1e1ece649feeb9efbf7b3e58c",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.92,
+    "ups": 11,
+    "value": 11
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Painting XPS after texture rolling",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ukz5wb/painting_xps_after_texture_rolling/"
+}
