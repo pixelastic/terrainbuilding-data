@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_54dcctfy",
+    "name": "Arch_Shadow"
+  },
+  "date": {
+    "day": 1652054400,
+    "full": 1652112661,
+    "month": 1651363200,
+    "week": 1651968000
+  },
+  "id": "t3_uluqki",
+  "picture": {
+    "filesize": 73070,
+    "fullUrl": "https://preview.redd.it/jiljmorj5hy81.jpg?width=4032&format=pjpg&auto=webp&s=49c530f5d586a83cd059b4530a5f4c034b64c09b",
+    "hash": "b7a6af59bd",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQf/xAAhEAABBAICAgMAAAAAAAAAAAABAgMFEQQSACETFCIxkf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGREAAgMBAAAAAAAAAAAAAAAAAQIAERIh/9oADAMBAAIRAxEAPwA1iWYkWMcxUe3kPbBeY4oAUnqh8QLNki+MwuA0xLTmW6sN4aWvItt/e0OIJ2AJ+xSgBXXXJfDy2UGk4Fo9WwSjQUexyzRci4zBJV4mXApgIKVpsalaU1+E8nDabJjsOXP/2Q==",
+    "url": "https://preview.redd.it/jiljmorj5hy81.jpg?width=640&crop=smart&auto=webp&s=ae177dd3793c91197e943801d9f10902deab0ec5",
+    "width": 640
+  },
+  "score": {
+    "comments": 28,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 312,
+    "value": 312
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "40k on deployment: detail pictures",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/uluqki/40k_on_deployment_detail_pictures/"
+}
