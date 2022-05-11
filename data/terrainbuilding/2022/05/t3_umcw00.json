@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_ecdre",
+    "name": "chippendale_osc"
+  },
+  "date": {
+    "day": 1652140800,
+    "full": 1652166918,
+    "month": 1651363200,
+    "week": 1651968000
+  },
+  "id": "t3_umcw00",
+  "picture": {
+    "filesize": 132125,
+    "fullUrl": "https://preview.redd.it/4d4j1uyymly81.jpg?width=3024&format=pjpg&auto=webp&s=a5f5a369c1d43f86042e98deb2351ac275199cf6",
+    "hash": "9d6d59b714",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgf/xAAlEAABAwIGAQUAAAAAAAAAAAABAgMEERIABSExQVETBhYiUnH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGREAAgMBAAAAAAAAAAAAAAAAAAECEjGB/9oADAMBAAIRAxEAPwA17dlZlKEdtZU4WVOeRTyRRR3Tboa152OCOY5bIhSXG5YCSHaXXKNwI3B/dO8UP1PDdjyXXU3tymXqoU0ojTilOe8DsxkzJz65UtS3nwgJ8Zbp8vslQ27PZA40Ao2eYJden//Z",
+    "url": "https://preview.redd.it/4d4j1uyymly81.jpg?width=640&crop=smart&auto=webp&s=295387e4c1310a7fe08db896af244faaa57d3bbc",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 87,
+    "value": 87
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Cardboard, kebab sticks, wire & sand make a simple walkway.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/umcw00/cardboard_kebab_sticks_wire_sand_make_a_simple/"
+}
