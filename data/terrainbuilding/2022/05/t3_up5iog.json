@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_12spbv",
+    "name": "Spite513"
+  },
+  "date": {
+    "day": 1652486400,
+    "full": 1652488556,
+    "month": 1651363200,
+    "week": 1651968000
+  },
+  "id": "t3_up5iog",
+  "picture": {
+    "filesize": 97392,
+    "fullUrl": "https://preview.redd.it/cg2dg6ad7cz81.jpg?auto=webp&s=e0b6d0227f43773293216815c80d43caa36e6c0e",
+    "hash": "f45601f127",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAIF/8QAIhAAAgICAgEFAQAAAAAAAAAAAQIDBAUhABESExRBYXGB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgT/xAAdEQACAgEFAAAAAAAAAAAAAAABAgMRAAUSIYGR/9oADAMBAAIRAxEAPwChSiw+CpC0wuOkSrIEPjsDbE7+v7w1eWnmMVFbxuRjV3A9VDGWMJ72p1s9D83xM96KxVirWZAtdG8m8YlkYg/IJOj1+8zMpk19sK1N5zGrlwSAijZOhsnR62eBpQV5ylNPlE5U3t69us//2Q==",
+    "url": "https://preview.redd.it/cg2dg6ad7cz81.jpg?width=640&crop=smart&auto=webp&s=7da2fe2b6e2fcffc0427d05daf2b5030777bfa54",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 6,
+    "value": 6
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Junker Terrain",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/up5iog/junker_terrain/"
+}
