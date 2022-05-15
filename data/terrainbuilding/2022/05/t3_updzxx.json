@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_m07ll",
+    "name": "kadeusx"
+  },
+  "date": {
+    "day": 1652486400,
+    "full": 1652522218,
+    "month": 1651363200,
+    "week": 1651968000
+  },
+  "id": "t3_updzxx",
+  "picture": {
+    "filesize": 68062,
+    "fullUrl": "https://preview.redd.it/lzadpu5gzez81.jpg?width=4032&format=pjpg&auto=webp&s=29f48812577a03f1935b1c488eefc36885657536",
+    "hash": "74b36a3b15",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAlEAACAgIBAwMFAAAAAAAAAAABAgMEBREAEhMhBhQxFSJBQnH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAGhEAAgMBAQAAAAAAAAAAAAAAAQIAERIiQf/aAAwDAQACEQMRAD8ABr23X2TrXsuJJ07oeRyVj/bWz+D48cpJ7+Xs+mMh9Ggt5H2y9hUjiO0J3olT93x/eU2TwUOVvJkbNm0JniTSoyhEHSDpRrwN8QwuPGBhydylYnaRakjdMpUqSoJUkAD4PD1vmoxQKl+if//Z",
+    "url": "https://preview.redd.it/lzadpu5gzez81.jpg?width=640&crop=smart&auto=webp&s=fc6486cb7c33ad4fad21b463d5e5d70fc53e30da",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 39,
+    "value": 39
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Another installment in the small footprint series.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/updzxx/another_installment_in_the_small_footprint_series/"
+}
