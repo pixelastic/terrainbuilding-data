@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_ulndh",
+    "name": "Zarphaan"
+  },
+  "date": {
+    "day": 1652572800,
+    "full": 1652608587,
+    "month": 1651363200,
+    "week": 1652572800
+  },
+  "id": "t3_uq2syd",
+  "picture": {
+    "filesize": 67288,
+    "fullUrl": "https://preview.redd.it/gz30nqba4mz81.jpg?width=4032&format=pjpg&auto=webp&s=3405e6f4793d886eed9ab96c2c2210ff20e9c57d",
+    "hash": "34acbeee7a",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgUGB//EACQQAAEDBAAGAwAAAAAAAAAAAAECAwQABQYRBxITIUFRInGy/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQP/xAAcEQACAgIDAAAAAAAAAAAAAAABAwACBBIhMkH/2gAMAwEAAhEDEQA/ABz3GLFAksxY1rYDznydcW4UADRJ2fZ1UNdsFs5mMx47ykvPHSUtuFQ35rZ+NsBgw0ygCl3lI7HsdEa/RpPitniR7PHuISpcyWjquOLOyCfCfQ+qcFTG27ceyWQzWxAE/9k=",
+    "url": "https://preview.redd.it/gz30nqba4mz81.jpg?width=640&crop=smart&auto=webp&s=dafa4975253363db219621c30dfa640ccdacb384",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 0.96,
+    "ups": 19,
+    "value": 19
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I filled a ditch with resin. It was fun.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/uq2syd/i_filled_a_ditch_with_resin_it_was_fun/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_86avecmc",
+    "name": "wrathbringers"
+  },
+  "date": {
+    "day": 1652572800,
+    "full": 1652628679,
+    "month": 1651363200,
+    "week": 1652572800
+  },
+  "id": "t3_uq8i6u",
+  "picture": {
+    "filesize": 51464,
+    "fullUrl": "https://preview.redd.it/k4nq42x0snz81.jpg?width=4032&format=pjpg&auto=webp&s=2ffe77d5728e91ec6a2a91ac9f9fa9c312d48394",
+    "hash": "16c77b0679",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQT/xAAiEAABBAICAgMBAAAAAAAAAAABAgMEEQUSAAYhUQdBcdH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABgRAQADAQAAAAAAAAAAAAAAAAEAAzET/9oADAMBAAIRAxEAPwArofx9BycKQZIbelo0URuFGlAmgAaF/V+TXGcj0jqmNEdwoUy44Q2ltDum/wCJ9/3kPVcvJwixGxwbbRZUpRTZUfZ4Vm8g+zKk5JsgS1WjazQBN+BdDl4YkFmk/9k=",
+    "url": "https://preview.redd.it/k4nq42x0snz81.jpg?width=640&crop=smart&auto=webp&s=790ae6d7cbcf5b1cb19011b8699c9115896d87f4",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 65,
+    "value": 65
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Bushido house",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/uq8i6u/bushido_house/"
+}

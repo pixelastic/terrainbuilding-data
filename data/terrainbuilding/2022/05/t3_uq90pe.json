@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4l9frcg1",
+    "name": "cnbuch"
+  },
+  "date": {
+    "day": 1652572800,
+    "full": 1652630177,
+    "month": 1651363200,
+    "week": 1652572800
+  },
+  "id": "t3_uq90pe",
+  "picture": {
+    "filesize": 113669,
+    "fullUrl": "https://preview.redd.it/wgwcoducwnz81.jpg?width=3024&format=pjpg&auto=webp&s=f3cbef1b506758c801f8e79a112f01d2a1b6d31a",
+    "hash": "0fdf25ed10",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQF/8QAJBAAAQMEAgAHAAAAAAAAAAAAAQIDBAAFESESMQYHExQjQYH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGREBAAMBAQAAAAAAAAAAAAAAAQACAxEh/9oADAMBAAIRAxEAPwC2Pf3rI5FgwJLqISXCCAE8HQFK4qQSD2gISRrJGe81uxPMqyBn57iIT2T6jCjnir72NH8oQu0xJN3cduzTFstRmNttyZCeAWM4AT1oZJKtAHHdCpfhuI3NkogyfcRkuqS2+DkOpBwFAq3sAUY2H0iL5NHiT//Z",
+    "url": "https://preview.redd.it/wgwcoducwnz81.jpg?width=640&crop=smart&auto=webp&s=64f3f64ecfece8666941655288a0440c2bdd46ba",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 130,
+    "value": 130
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My journey into AoS table began with some humble trees",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/uq90pe/my_journey_into_aos_table_began_with_some_humble/"
+}
