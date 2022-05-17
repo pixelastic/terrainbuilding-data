@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5hug928p",
+    "name": "MARATHON-MAN-1"
+  },
+  "date": {
+    "day": 1652745600,
+    "full": 1652748127,
+    "month": 1651363200,
+    "week": 1652572800
+  },
+  "id": "t3_urafeg",
+  "picture": {
+    "filesize": 122871,
+    "fullUrl": "https://preview.redd.it/f8cv0kh7nxz81.jpg?width=3024&format=pjpg&auto=webp&s=81325a3a1a042e0d19863f742cec5d9b7fe4ca47",
+    "hash": "8a58322133",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGB//EACQQAAEDAwMEAwAAAAAAAAAAAAECAwQFERIABiEHEzFRFDLB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAaEQABBQEAAAAAAAAAAAAAAAABAAMEEdHx/9oADAMBAAIRAxEAPwCJplMiUTcrtVkL7sklQQyUhKUrUDkBifRI/dIa5sebKqTj9GXFYhOWUhpZt2zblIvckA8XOt1ldO6NJzc+TMQTbEJCbJ4t60LG2dDgtllVQYeORVk82kqFz4+3jQZ7NXuKhEdvmhf/2Q==",
+    "url": "https://preview.redd.it/f8cv0kh7nxz81.jpg?width=640&crop=smart&auto=webp&s=f346eeae827777b2c43234335b6a416354247bb2",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 2,
+    "value": 2
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP: Modular gothic walls/windows or 40K. Designed in Fusion360 and printed by me on an Ender3 Pro.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/urafeg/wip_modular_gothic_wallswindows_or_40k_designed/"
+}
