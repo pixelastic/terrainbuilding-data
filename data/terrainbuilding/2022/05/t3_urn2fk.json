@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_nih97",
+    "name": "GhostyWombat"
+  },
+  "date": {
+    "day": 1652745600,
+    "full": 1652795894,
+    "month": 1651363200,
+    "week": 1652572800
+  },
+  "id": "t3_urn2fk",
+  "picture": {
+    "filesize": 65582,
+    "fullUrl": "https://preview.redd.it/ia811rn4l1091.png?auto=webp&s=7f1827214fdfc0719956ce264d495eb57a027586",
+    "hash": "138245dd40",
+    "height": 345,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAABT0lEQVQYlWXPzU7CQBQF4Hlm9T3Y8QDiEleaGK3EaFo7P1CkzM+dO9MplKKIQ41PgKkmbky+nNyTnM0lSRVvXbzzMan+O0xC16u7Sf15H7qkikQ0ka0iX0fR/Pr40d9s9Z65beraFNsnaGh4E80HQau1kmAkWo1W/WTPgppOxXOeZ1lmjHnf70MIRkuCICsHwVtnpUcFugRdWrMEXTKaCzGdz+d1XR+Px7ZtlVwQJYvBYHAxOncIYLRDbJq11orRTHCW5zmldLfbxRjrugYjibXL8fgySe67rosxHg7ddrsFAO+QMyrEtCgKzvloNBKMOdBk8SIo4zEeOOdCiOFwKJXyVRVCpcriZcZnnG1WIXt8AFU6kAR0SRldrxtEl6bp2enJzfXVVxe91Vb3C4T+n+ABrUSQxKOaz8TrZvO533mrAxpvlVELa5bYr3+pv/oNjrtmn32JLoEAAAAASUVORK5CYII=",
+    "url": "https://preview.redd.it/ia811rn4l1091.png?width=640&crop=smart&auto=webp&s=47c34e0de72fb66cd743b48bc62731a42e1139e2",
+    "width": 640
+  },
+  "score": {
+    "comments": 9,
+    "downs": 0,
+    "ratio": 0.96,
+    "ups": 56,
+    "value": 56
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Some .SVG Files I'm Making",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/urn2fk/some_svg_files_im_making/"
+}
