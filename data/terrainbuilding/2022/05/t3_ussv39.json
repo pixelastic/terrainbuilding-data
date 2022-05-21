@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_ffee4agw",
+    "name": "YelanaDay"
+  },
+  "date": {
+    "day": 1652918400,
+    "full": 1652926359,
+    "month": 1651363200,
+    "week": 1652572800
+  },
+  "id": "t3_ussv39",
+  "picture": {
+    "filesize": 81970,
+    "fullUrl": "https://preview.redd.it/rg8m10rtcc091.jpg?width=2916&format=pjpg&auto=webp&s=1cd699d236def28e291d845de68019083861cb0b",
+    "hash": "4cae7eea09",
+    "height": 448,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQME/8QAIxAAAgEEAQMFAAAAAAAAAAAAAQIDBAURIQATIjESQVKBkf/EABUBAQEAAAAAAAAAAAAAAAAAAAUG/8QAGREBAQEAAwAAAAAAAAAAAAAAAQIAAxEx/9oADAMBAAIRAxEAPwDAbBaZXM5tFHWu9Y/XkkCqyIznfneMj64iLJSGCeG1xmmpJoZVaGCmBYlu1ZWGtDBAwffhdnRZKasR1VkecMwI0SVBJ/QDyctLDBDW3CFSlcK4Hrhj69Mgxn44Zu3xvxyf41q+lzkwPpv/2Q==",
+    "url": "https://preview.redd.it/rg8m10rtcc091.jpg?width=640&crop=smart&auto=webp&s=2789cb9651663e1bce394bda6eeb6f6cf0be54ec",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 323,
+    "value": 323
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Dragon lamp I made out of epoxy clay",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ussv39/dragon_lamp_i_made_out_of_epoxy_clay/"
+}

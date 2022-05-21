@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5e02z",
+    "name": "Pseudonite"
+  },
+  "date": {
+    "day": 1653004800,
+    "full": 1653066722,
+    "month": 1651363200,
+    "week": 1652572800
+  },
+  "id": "t3_uu2jej",
+  "picture": {
+    "filesize": 104805,
+    "fullUrl": "https://external-preview.redd.it/a1wZ5ETxy84lU_74j7X39qdmv8QJtNgpwkeGVqT7_EQ.jpg?auto=webp&s=357d8f7f5f5914b1b8fd33d4584af2190e5bc569",
+    "hash": "3831538dc3",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwUG/8QAKBAAAgECBAMJAAAAAAAAAAAAAQIEAwUAERIxEyFBBgcUQlFhcYGh/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABkRAAIDAQAAAAAAAAAAAAAAAAIDAAERIf/aAAwDAQACEQMRAD8Axndp4a2zIsa4SA1DUzh0GspUI5AjqM8KfaG9JEuTIlKFJRlBDlXOQ2y5E+mBuRPozTUeWpoXYPq4tMBVqDLzAb/O498Tq17ha8p8qvUqjbgqzqo6DP8AfvALYGbXY7VHZYXMn//Z",
+    "url": "https://external-preview.redd.it/a1wZ5ETxy84lU_74j7X39qdmv8QJtNgpwkeGVqT7_EQ.jpg?width=640&crop=smart&auto=webp&s=3d376bf2fa2f349f7d72ecdafc5145c41a69f09a",
+    "width": 640
+  },
+  "score": {
+    "comments": 9,
+    "downs": 0,
+    "ratio": 0.95,
+    "ups": 14,
+    "value": 14
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Advice humbly requested, details in comments.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/uu2jej/advice_humbly_requested_details_in_comments/"
+}

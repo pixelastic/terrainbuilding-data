@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_621ev",
+    "name": "SerpentineLogic"
+  },
+  "date": {
+    "day": 1652832000,
+    "full": 1652889452,
+    "month": 1651363200,
+    "week": 1652572800
+  },
+  "id": "t3_usg56t",
+  "picture": {
+    "filesize": 108300,
+    "fullUrl": "https://external-preview.redd.it/VDEJmBzU_Lr6dPGx-OkIey-1b0XJeEkEs5JSNpw_aTM.jpg?auto=webp&s=68aedfa5dcb01a2cd5ed1dcdb9ef6055aed8d106",
+    "hash": "0646c27194",
+    "height": 854,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAIxAAAQMEAQQDAAAAAAAAAAAAAgEDBAAFESESFDFBYQYTUf/EABUBAQEAAAAAAAAAAAAAAAAAAAAC/8QAGhEBAAIDAQAAAAAAAAAAAAAAAQACERIhMf/aAAwDAQACEQMRAD8AJnxZFzCVbun+l10k6d1wVEcgu9/mF8eqibixKtc+RCJFdVk1HmArgvaVpEtuaPylgLm4Jw9mp42JYXCKvhN9u1GS7XIflPOAjigplxXjnKZ1VYs2bL7HA1J//9k=",
+    "url": "https://external-preview.redd.it/VDEJmBzU_Lr6dPGx-OkIey-1b0XJeEkEs5JSNpw_aTM.jpg?width=640&crop=smart&auto=webp&s=e011b3c63eb12beb83a901ac5e991ff3b4a1a833",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 11,
+    "value": 11
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Painted some buildings for Warmaster",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/usg56t/painted_some_buildings_for_warmaster/"
+}

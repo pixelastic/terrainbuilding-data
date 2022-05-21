@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_hz26o",
+    "name": "Garant26"
+  },
+  "date": {
+    "day": 1652832000,
+    "full": 1652873339,
+    "month": 1651363200,
+    "week": 1652572800
+  },
+  "id": "t3_usao3y",
+  "picture": {
+    "filesize": 53528,
+    "fullUrl": "https://preview.redd.it/yfyk9vyhz7091.jpg?width=3456&format=pjpg&auto=webp&s=75fad7ded40ab2b65cf13e08f06289bbef53244b",
+    "hash": "fba36593b0",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAIhAAAQMFAAEFAAAAAAAAAAAAAQIDBAAFBhEhsRIUMpGh/8QAFAEBAAAAAAAAAAAAAAAAAAAABf/EABoRAAICAwAAAAAAAAAAAAAAAAECAAMRUfD/2gAMAwEAAhEDEQA/AG796LGU2u2gD0SY7yydjhSU6591XuTyffyOj5nzWD33LmpGcWS5xkuhqMAl066Bs7H7T1zNIEt1b6A4lLiioBWgfNBtWyqO3FBgmf/Z",
+    "url": "https://preview.redd.it/yfyk9vyhz7091.jpg?width=640&crop=smart&auto=webp&s=3332fdbad254a31ba2ef0599fb5698fbc5422f28",
+    "width": 640
+  },
+  "score": {
+    "comments": 15,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 409,
+    "value": 409
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My first attempt at building custom terrain piece, mixing various stuff into a tall gothic spire (21 inches).",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/usao3y/my_first_attempt_at_building_custom_terrain_piece/"
+}
