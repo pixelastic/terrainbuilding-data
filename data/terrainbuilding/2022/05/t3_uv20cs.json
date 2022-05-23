@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_nhnj6",
+    "name": "Ignominia"
+  },
+  "date": {
+    "day": 1653177600,
+    "full": 1653187790,
+    "month": 1651363200,
+    "week": 1653177600
+  },
+  "id": "t3_uv20cs",
+  "picture": {
+    "filesize": 72369,
+    "fullUrl": "https://preview.redd.it/0yo24anjyx091.jpg?auto=webp&s=ef8d3dcd48889b7cf47a49cb880dd93e13097c3f",
+    "hash": "dc2492b370",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgP/xAAlEAABBAAFAwUAAAAAAAAAAAABAgMEEQAFBiExEhMiFBUyUXH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERIf/aAAwDAQACEQMRAD8AI5jqif7yxGQGkpjlXpo3aFNIUbF9W+1V94tHGbaiJVITOdS/8+oBG1kHxG9+IAFWbutsMcgjozd2YqUSktAJBRQNc1fNfhwknqEGM03CQiOCVFRbFKXQ4J5IwOuYKeM//9k=",
+    "url": "https://preview.redd.it/0yo24anjyx091.jpg?width=640&crop=smart&auto=webp&s=1953ca87b4956e6f4c036730eb959ca02f5e54e8",
+    "width": 640
+  },
+  "score": {
+    "comments": 14,
+    "downs": 0,
+    "ratio": 0.89,
+    "ups": 14,
+    "value": 14
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Brainstorming Sesh. What do do with these?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/uv20cs/brainstorming_sesh_what_do_do_with_these/"
+}
