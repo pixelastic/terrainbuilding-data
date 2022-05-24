@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4eyac61u",
+    "name": "conthedj"
+  },
+  "date": {
+    "day": 1653264000,
+    "full": 1653341999,
+    "month": 1651363200,
+    "week": 1653177600
+  },
+  "id": "t3_uwb4m2",
+  "picture": {
+    "filesize": 76076,
+    "fullUrl": "https://preview.redd.it/zdyac7t2pa191.jpg?auto=webp&s=33467591567ee6d64da2710b686fb4724a10c125",
+    "hash": "2f3a90ea49",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAJBAAAQMCBgIDAAAAAAAAAAAABAECAxEhAAUGEhMxB0EicYH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABoRAAICAwAAAAAAAAAAAAAAAAABAgMSIUH/2gAMAwEAAhEDEQA/AJSwQxwSIcvgGdDFxNicoyqlnX3LVPz1fAZR+XwGivnywIhGr82bnI11VsqpeyWt76xmTvKeohG8QjcshZTcu0GO9Oq1S+CyvKerXQsVp8Eauqi8YcLevpuJ1VHqGzmnpn//2Q==",
+    "url": "https://preview.redd.it/zdyac7t2pa191.jpg?width=640&crop=smart&auto=webp&s=5a5c88003e021fa97253175b987058f6b7099d20",
+    "width": 640
+  },
+  "score": {
+    "comments": 13,
+    "downs": 0,
+    "ratio": 0.83,
+    "ups": 7,
+    "value": 7
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Advice for non-resin water effects?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/uwb4m2/advice_for_nonresin_water_effects/"
+}
