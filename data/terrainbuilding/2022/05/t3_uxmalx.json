@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5r3fmoay",
+    "name": "Wouter-Man"
+  },
+  "date": {
+    "day": 1653436800,
+    "full": 1653499252,
+    "month": 1651363200,
+    "week": 1653177600
+  },
+  "id": "t3_uxmalx",
+  "picture": {
+    "filesize": 115159,
+    "fullUrl": "https://preview.redd.it/qmgjadpoon191.jpg?width=1440&format=pjpg&auto=webp&s=81ee44cb502323c3f0284cefbcb2eceac1b56a76",
+    "hash": "1775fb325a",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAIG/8QAJRAAAgIBAwMEAwAAAAAAAAAAAQIDBBEAEiEFIjETQWFxkaHh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAT/xAAdEQABAgcAAAAAAAAAAAAAAAARAAECAxIhM5Hi/9oADAMBAAIRAxEAPwDNUujKY6Be7BHBsJsIkaEt2rt2kr95zn40C30gJTnkVw8qodu6GJd2Rzkgff4Grke8orJXsUBWESmQLCjM5wCOf0ffzoMkVgTNzX2+mwMhijTPac8jx/BpTchRtOcZIddL/9k=",
+    "url": "https://preview.redd.it/qmgjadpoon191.jpg?width=640&crop=smart&auto=webp&s=5f46e7ee29c1c5d909b5e16e6b1998d7ae7f6198",
+    "width": 640
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 73,
+    "value": 73
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Hi everybody, Something different from me today. Me and two friends ventured into photogrammetry to see if it was a viable option to bring my builds into the realm of 3d printing. We used the shed i build a while ago and we think as a proof of concept it worked. We still need to do some tweaking",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/uxmalx/hi_everybody_something_different_from_me_today_me/"
+}

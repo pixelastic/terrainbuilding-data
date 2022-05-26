@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_e01re",
+    "name": "fluffy_warthog10"
+  },
+  "date": {
+    "day": 1653436800,
+    "full": 1653488954,
+    "month": 1651363200,
+    "week": 1653177600
+  },
+  "id": "t3_uximva",
+  "picture": {
+    "filesize": 45210,
+    "fullUrl": "https://preview.redd.it/cs6a9lg2um191.jpg?auto=webp&s=df7ff1f320ae2e2dd8d342b630f3f8e8ab99fee6",
+    "hash": "939c4af493",
+    "height": 288,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQG/8QAIRAAAgECBgMAAAAAAAAAAAAAAQIDAAUEEhMhMWEUIlH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABkRAAEFAAAAAAAAAAAAAAAAAAABAgMRQf/aAAwDAQACEQMRAD8AtjtFxd1fxsG8I9RFGxQBfg4rOXjA32Es2kyqDmVdVW2BBHJ6G3VKUEOjvVP/2Q==",
+    "url": "https://preview.redd.it/cs6a9lg2um191.jpg?width=640&crop=smart&auto=webp&s=e8c77554d443e47bce053a2be9b135599158d395",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "ratio": 0.73,
+    "ups": 6,
+    "value": 6
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Need ideas for turning this into a sci-fi (40k Tau) building",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/uximva/need_ideas_for_turning_this_into_a_scifi_40k_tau/"
+}
