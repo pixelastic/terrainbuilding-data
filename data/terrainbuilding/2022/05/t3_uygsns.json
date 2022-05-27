@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_9x7lvexk",
+    "name": "BoarderReeva"
+  },
+  "date": {
+    "day": 1653523200,
+    "full": 1653597108,
+    "month": 1651363200,
+    "week": 1653177600
+  },
+  "id": "t3_uygsns",
+  "picture": {
+    "filesize": 114295,
+    "fullUrl": "https://preview.redd.it/1zqs5idlrv191.jpg?width=3000&format=pjpg&auto=webp&s=bfe9a2c6e14888c8dd59e61f883769729a08c567",
+    "hash": "f7eeb75a35",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwID/8QAKBAAAgIAAwUJAAAAAAAAAAAAAQIDBAAFIQYREjJBExQiJTFRYXHR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAZEQEAAgMAAAAAAAAAAAAAAAABABECE0H/2gAMAwEAAhEDEQA/ANatSnXjlkdoWVY2J0DBRu5vz5wV7SZZJJnFju8YMYO7V1XX6JBwmy51QzA2PKqlUS8TOY/CCpPJp166YvtKdyOKS1ltW3woEjLoC6IPRWLDeSNdfYjBGPGU7W7J/9k=",
+    "url": "https://preview.redd.it/1zqs5idlrv191.jpg?width=640&crop=smart&auto=webp&s=35bd33f6424dd51ee36a1adb380b085dd61fe09f",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 52,
+    "value": 52
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Sprue comms tower",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/uygsns/sprue_comms_tower/"
+}
