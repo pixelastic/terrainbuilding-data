@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_26pozfvh",
+    "name": "MarcoPluto"
+  },
+  "date": {
+    "day": 1653609600,
+    "full": 1653630891,
+    "month": 1651363200,
+    "week": 1653177600
+  },
+  "id": "t3_uyrf9m",
+  "picture": {
+    "filesize": 115432,
+    "fullUrl": "https://preview.redd.it/bpb58mt2ky191.jpg?width=781&format=pjpg&auto=webp&s=c7c7918bf1b9c5a7a61047d9fbdb16e396db1f95",
+    "hash": "e486c50055",
+    "height": 1311,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAgDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAb/xAAkEAABAwMCBwEAAAAAAAAAAAABAgMEAAYhBRMHERJBUWGBof/EABQBAQAAAAAAAAAAAAAAAAAAAAH/xAAWEQEBAQAAAAAAAAAAAAAAAAARAAH/2gAMAwEAAhEDEQA/ALvVJ81u8bVixXQmI/u76CMLHSf3GPdKjrxg3ZM4i6cuJpy2osR4bDoaCkJZSMkq8q5nHb5SjdJG/9k=",
+    "url": "https://preview.redd.it/bpb58mt2ky191.jpg?width=640&crop=smart&auto=webp&s=0c3f44a166513a3fd899ee75ac4ba013e55b1046",
+    "width": 640
+  },
+  "score": {
+    "comments": 12,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 88,
+    "value": 88
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Mage Tower on the cliff",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/uyrf9m/mage_tower_on_the_cliff/"
+}
