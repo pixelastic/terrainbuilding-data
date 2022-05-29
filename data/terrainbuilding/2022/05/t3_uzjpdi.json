@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_9h6ayru4",
+    "name": "unclaimed_username1"
+  },
+  "date": {
+    "day": 1653696000,
+    "full": 1653729699,
+    "month": 1651363200,
+    "week": 1653177600
+  },
+  "id": "t3_uzjpdi",
+  "picture": {
+    "filesize": 106148,
+    "fullUrl": "https://preview.redd.it/8ofoxqlwp6291.jpg?width=3000&format=pjpg&auto=webp&s=e0e862238844b41e29ebd3c2c166a7fd44cd633e",
+    "hash": "2ccbd6175c",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAkEAACAgEDAwUBAAAAAAAAAAABAwIEEQAFQQYSIRMxMkJRYf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAaEQACAgMAAAAAAAAAAAAAAAAAAgEREiFB/9oADAMBAAIRAxEAPwCQoUKO7V6m2xDTutdUXpa1vbAQP1wfGTxpa31P1RTYKaoU1KrR9KEFqBxEe3djIEv5qHZZ3aG3CxUYFxmJGTVfIZ4POBwNB1d83hCQpFiUYRz4jPAJ/dCrcsZconR//9k=",
+    "url": "https://preview.redd.it/8ofoxqlwp6291.jpg?width=640&crop=smart&auto=webp&s=06dc7e8701fd6121a59ebe08e0f2d9b18b5956ca",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 97,
+    "value": 97
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I made some jungle terrain. wip",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/uzjpdi/i_made_some_jungle_terrain_wip/"
+}
