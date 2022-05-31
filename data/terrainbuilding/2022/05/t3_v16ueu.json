@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1a8yzkv2",
+    "name": "gnomebreath"
+  },
+  "date": {
+    "day": 1653868800,
+    "full": 1653936127,
+    "month": 1651363200,
+    "week": 1653782400
+  },
+  "id": "t3_v16ueu",
+  "picture": {
+    "filesize": 70853,
+    "fullUrl": "https://preview.redd.it/kgupxgjqrn291.jpg?width=1440&format=pjpg&auto=webp&s=316c5d4a7846b99d829abeb0608b8ad636490979",
+    "hash": "51e9702a22",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUG/8QAIhAAAQQCAQUBAQAAAAAAAAAAAQIDBBEFIQAGEzJBYRIi/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAhEQAABQIHAAAAAAAAAAAAAAAAAQIDERJRBBMhcYGx0f/aAAwDAQACEQMRAD8AGjp3MjCY2fmnHJGahR1IDLQKlLS6r+QpXia3dXWuaLGry7DkaL2YkKA5GSoLjtJC31m/Jw6Sa+E2dDV8T0/lJsh2Q4/LKkISEKQQDYPqvQ1yJ15nlxo7Uht5XfaWEttpqj+tWR8F0eQziEU1pLTawX2HUqyZKep4v4P/2Q==",
+    "url": "https://preview.redd.it/kgupxgjqrn291.jpg?width=640&crop=smart&auto=webp&s=6f7ff872d4f53e66e0e5906c0c5889a8cd530695",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.93,
+    "ups": 30,
+    "value": 30
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "When you're too cheap for Dwarven Forge but you still feel like the Temple of Elemental Evil deserves custom modular terrain.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/v16ueu/when_youre_too_cheap_for_dwarven_forge_but_you/"
+}
