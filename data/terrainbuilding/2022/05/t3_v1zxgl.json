@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_10bjw9",
+    "name": "sFAMINE"
+  },
+  "date": {
+    "day": 1653955200,
+    "full": 1654030658,
+    "month": 1651363200,
+    "week": 1653782400
+  },
+  "id": "t3_v1zxgl",
+  "picture": {
+    "filesize": 67684,
+    "fullUrl": "https://preview.redd.it/5ioek5uqkv291.jpg?auto=webp&s=dc3593a4cd3b20364d1fe93a2d767415846d2e43",
+    "hash": "9e55b4c5b0",
+    "height": 612,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAPABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQj/xAAgEAEAAQMDBQAAAAAAAAAAAAABAgADEQQTIQUSIkFS/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAVEQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEQMRAD8Ao7RESN8ikgJoipnupi0G3HJzih+nE23fZnLuHr6aYtS8ImecVaP/2Q==",
+    "url": "https://preview.redd.it/5ioek5uqkv291.jpg?width=640&crop=smart&auto=webp&s=1345e0dc7e787ad0c31fd16be26384d14ad53536",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.9,
+    "ups": 14,
+    "value": 14
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "New Rules: A lax 3D Printing Policy",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/v1zxgl/new_rules_a_lax_3d_printing_policy/"
+}
