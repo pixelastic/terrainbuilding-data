@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_78zk0diu",
+    "name": "loel433"
+  },
+  "date": {
+    "day": 1654041600,
+    "full": 1654098924,
+    "month": 1654041600,
+    "week": 1653782400
+  },
+  "id": "t3_v2k6bg",
+  "picture": {
+    "filesize": 63448,
+    "fullUrl": "https://preview.redd.it/by339n4871391.jpg?width=4624&format=pjpg&auto=webp&s=1d8efb9c7d610f552065af53f5b111f0db02b3d5",
+    "hash": "de69bc8a11",
+    "height": 481,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAIxAAAgICAgEEAwAAAAAAAAAAAQIDBQQRACExBgcSE0GBof/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGREBAAIDAAAAAAAAAAAAAAAAAgABITFB/9oADAMBAAIRAxEAPwBj3Ekx8qtiq45pkd5EfSAEKF72R/BzN1FMt76gNRaWWLi4udA8cUzxBWhKBWUAsQNk7B3564LJa5NjJm5GQw+1ZGUFdjoHQ/PX65ZVCK4v0r7KCOfGGMz6bfyLEeS29kjXEjRrPZRCxuf/2Q==",
+    "url": "https://preview.redd.it/by339n4871391.jpg?width=640&crop=smart&auto=webp&s=bd83b3a0ad4f8288c60bc26745c2eb0a3569dcb7",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.94,
+    "ups": 47,
+    "value": 47
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Some cyberpunk terrain",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/v2k6bg/some_cyberpunk_terrain/"
+}
