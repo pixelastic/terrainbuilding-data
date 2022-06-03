@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_kt7ajg8m",
+    "name": "SJCrafting"
+  },
+  "date": {
+    "day": 1654128000,
+    "full": 1654175174,
+    "month": 1654041600,
+    "week": 1653782400
+  },
+  "id": "t3_v38gmc",
+  "picture": {
+    "filesize": 42789,
+    "fullUrl": "https://preview.redd.it/jzk21xxai7391.jpg?auto=webp&s=f091fece9f9bdeeacb6f3be17e2b699f87bc2d64",
+    "hash": "d6df504e30",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgME/8QAJBAAAAUCBQUAAAAAAAAAAAAAAQIDBAUAEQYSEyFxByIxMkL/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAv/EABcRAQADAAAAAAAAAAAAAAAAAAAREiH/2gAMAwEAAhEDEQA/AAvT2PjZCImFJJJiZRLJpGcK5DhtccgeDDzWHFeH0mDMkk3etDIrraZWqZgFRLtvcwAI7UMV9i1Zv9cVNdkf/9k=",
+    "url": "https://preview.redd.it/jzk21xxai7391.jpg?width=640&crop=smart&auto=webp&s=8169e1eb1bbf97445982b51187d9d1416a202bc0",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 157,
+    "value": 157
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Zone Mortalis Tiles scratch build. Thoughts?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/v38gmc/zone_mortalis_tiles_scratch_build_thoughts/"
+}
