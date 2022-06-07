@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_54dcctfy",
+    "name": "Arch_Shadow"
+  },
+  "date": {
+    "day": 1654473600,
+    "full": 1654492524,
+    "month": 1654041600,
+    "week": 1654387200
+  },
+  "id": "t3_v5vdm3",
+  "picture": {
+    "filesize": 69690,
+    "fullUrl": "https://preview.redd.it/9te38p85qx391.jpg?width=4032&format=pjpg&auto=webp&s=2c022fc5d0d1990d47749d6e6c254d3dadd4f513",
+    "hash": "fcd8465f07",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwIG/8QAJBAAAgEDAwMFAAAAAAAAAAAAAQMCBAURAAYhEhMxMkFRgfD/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGhEAAgIDAAAAAAAAAAAAAAAAAQIAEQMxYf/aAAwDAQACEQMRAD8ABNzlcrPdTt1Tadygs9hMyuXTIkSYQDycADx8aK83KopbeyFwkqopskLAiQwggYizPPV748cDWJp93Xahqm1lK1S3sjiRCxg/saie/wC8ic5GNEZz9UigZP3orZXBsaiVVa7P/9k=",
+    "url": "https://preview.redd.it/9te38p85qx391.jpg?width=640&crop=smart&auto=webp&s=f3571b35e6adad20d74607dd7df03b2159a5ea49",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.95,
+    "ups": 20,
+    "value": 20
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "40k on deployment: building progress.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/v5vdm3/40k_on_deployment_building_progress/"
+}
