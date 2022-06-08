@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_ft28p",
+    "name": "gmasterson"
+  },
+  "date": {
+    "day": 1654560000,
+    "full": 1654627095,
+    "month": 1654041600,
+    "week": 1654387200
+  },
+  "id": "t3_v740r7",
+  "picture": {
+    "filesize": 106248,
+    "fullUrl": "https://preview.redd.it/jgw1xpccu8491.jpg?auto=webp&s=f3adc43f5d724aaa12dfdbfa7172a762692dc443",
+    "hash": "1ddc066f10",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGB//EACEQAAEEAQQDAQAAAAAAAAAAAAECAwQRBQAGEjEHQVEh/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABkRAQACAwAAAAAAAAAAAAAAAAEAAhEiMf/aAAwDAQACEQMRAD8AD8X7dQrBx3M+tw8nrDTdlXBQvvu6Bq/mtDVhdrx22hIhKC1pK6U+QQORA/AfgGo6KiRt/CMQpzonyEVwkIpJbbFWnj7670q3VkZGaySZKC7HSGwjgmk+yb9/dCs0OxuyGJ//2Q==",
+    "url": "https://preview.redd.it/jgw1xpccu8491.jpg?width=640&crop=smart&auto=webp&s=2ceb2b5494f25cf98f35489c45d20db340a6d241",
+    "width": 640
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 132,
+    "value": 132
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "The beginning of Cragmaw Hideout",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/v740r7/the_beginning_of_cragmaw_hideout/"
+}
