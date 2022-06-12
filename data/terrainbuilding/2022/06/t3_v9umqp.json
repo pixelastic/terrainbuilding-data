@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_78zk0diu",
+    "name": "loel433"
+  },
+  "date": {
+    "day": 1654905600,
+    "full": 1654942688,
+    "month": 1654041600,
+    "week": 1654387200
+  },
+  "id": "t3_v9umqp",
+  "picture": {
+    "filesize": 76901,
+    "fullUrl": "https://preview.redd.it/ujxe8zfmwy491.jpg?width=4624&format=pjpg&auto=webp&s=82b61ba120307f65eb72bfecbd87c00f9450836c",
+    "hash": "f0b216d86a",
+    "height": 481,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAJRAAAgEDAwIHAAAAAAAAAAAAAQIDBBEhAAUGEhMUIjFRYpGx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAP/xAAZEQEAAgMAAAAAAAAAAAAAAAABAAIREmH/2gAMAwEAAhEDEQA/ACt45/ybdvG1MU1S3dY9EMb2ESfFAb3NrXt+6R4nzDdpqKeWeolpZ4haKnWZlViAS7MWvb0zrKbhClbT0cTqsbRyRL3YlCOwv05IGcH71fsdPGtZIxXrKFl8+bgAnPve2dTL7Z5FUZ//2Q==",
+    "url": "https://preview.redd.it/ujxe8zfmwy491.jpg?width=640&crop=smart&auto=webp&s=46210159a083e5817d8afa66756b0716fc076870",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 376,
+    "value": 376
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "An abandoned mine I built",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/v9umqp/an_abandoned_mine_i_built/"
+}
