@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_mehowtor",
+    "name": "rodeo_paints"
+  },
+  "date": {
+    "day": 1654992000,
+    "full": 1655015710,
+    "month": 1654041600,
+    "week": 1654992000
+  },
+  "id": "t3_vag1gy",
+  "picture": {
+    "filesize": 116552,
+    "fullUrl": "https://preview.redd.it/8uqllvctx4591.jpg?width=3030&format=pjpg&auto=webp&s=5afd65a98ea78ad3d83e6c2f0c4b831825dcad7b",
+    "hash": "28557339a4",
+    "height": 638,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwAE/8QAJRAAAgIBBAEDBQAAAAAAAAAAAQIDBBEABQYSMRMhIjJRYWJx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAWEQEBAQAAAAAAAAAAAAAAAAABAAP/2gAMAwEAAhEDEQA/AK7vl1uHWzQtrHfqlKydDh0Tuykj9uvj+6WeNbjXv8XoNFYScmII0gOfkQM50GvxGWlDe3HdJ/VUMsqx0ULOCCM5TGMnH3GtPGbVver8dTbIZI9srSI9gzyssg7MwUADAb6B4Htn8Z1K6DKCX//Z",
+    "url": "https://preview.redd.it/8uqllvctx4591.jpg?width=640&crop=smart&auto=webp&s=2c3d3f16d5b8a89cd6f8d5c75775b0080df59bc6",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.87,
+    "ups": 27,
+    "value": 27
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "MDF speed build and paint attempt",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/vag1gy/mdf_speed_build_and_paint_attempt/"
+}
