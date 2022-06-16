@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_3q0f2nvy",
+    "name": "AugustTW"
+  },
+  "date": {
+    "day": 1655251200,
+    "full": 1655320998,
+    "month": 1654041600,
+    "week": 1654992000
+  },
+  "id": "t3_vd2gbk",
+  "picture": {
+    "filesize": 52137,
+    "fullUrl": "https://preview.redd.it/4zpuqm0o5u591.jpg?auto=webp&s=665b737d6641c753ac8864ccf0470e71d503ba47",
+    "hash": "2635f02585",
+    "height": 432,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwIF/8QAJRAAAQMCBQQDAAAAAAAAAAAAAQIDBQQRAAYSEzEHISJBMmGx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAP/xAAYEQEAAwEAAAAAAAAAAAAAAAABAAIDEf/aAAwDAQACEQMRAD8AUs6TbcZJRTZq6JukW44ms1vpCkDbJR48/IfmCPM0w/MZ1iDA1yHY7SAssupIIuSvUgkE9revsY3+pWXopicpQ1RoTvLdU4dSrqOm/N784hMLGx9NvUdEw06SfMJuR39E8YnkW0U5GleBaf/Z",
+    "url": "https://preview.redd.it/4zpuqm0o5u591.jpg?width=640&crop=smart&auto=webp&s=f4ed6ab505caf7bcd1aab3b9ca023450f79bf302",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 84,
+    "value": 84
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP escarpment",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/vd2gbk/wip_escarpment/"
+}
