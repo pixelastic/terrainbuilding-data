@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4y97opo8",
+    "name": "kiosostar"
+  },
+  "date": {
+    "day": 1655337600,
+    "full": 1655381254,
+    "month": 1654041600,
+    "week": 1654992000
+  },
+  "id": "t3_vdkhrk",
+  "picture": {
+    "filesize": 77623,
+    "fullUrl": "https://preview.redd.it/hjbdcbdu4z591.jpg?auto=webp&s=a1cf39a82e908ce9c85271fa0b7ec3e609336a69",
+    "hash": "c16d1b23a0",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFBv/EACUQAAICAQIEBwAAAAAAAAAAAAECAxEEAAUSIUFhExUiMTJRcf/EABQBAQAAAAAAAAAAAAAAAAAAAAX/xAAcEQACAgIDAAAAAAAAAAAAAAABAhEhAMEDBEH/2gAMAwEAAhEDEQA/AKU2x4fm2RJiiEZGStkcNqrkAvfX1MCa63pLM2LC3WKLBzopZQG47hi4AnOvkBYX65nvrdbjtkEu9pj26QPC0siIQviFfYE1ddr0KNEWFY0VVjAoKooD80G3ZCqAosi51GKLwliSxryN5//Z",
+    "url": "https://preview.redd.it/hjbdcbdu4z591.jpg?width=640&crop=smart&auto=webp&s=838361e1780b1ad2ba4f89bb50e4a263eaca3466",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 113,
+    "value": 113
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First batch of modular city tiles",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/vdkhrk/first_batch_of_modular_city_tiles/"
+}
