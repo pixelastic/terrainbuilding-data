@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_9hikh",
+    "name": "politicalanalysis"
+  },
+  "date": {
+    "day": 1655596800,
+    "full": 1655663303,
+    "month": 1654041600,
+    "week": 1655596800
+  },
+  "id": "t3_vg1cz5",
+  "picture": {
+    "filesize": 116405,
+    "fullUrl": "https://preview.redd.it/pfwtv0tefm691.jpg?width=3024&format=pjpg&auto=webp&s=862bd7eebc9513ba7e3ee6dabf2d62556c017b1d",
+    "hash": "b74b73d954",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAEG/8QAJBAAAgIBAgUFAAAAAAAAAAAAAQIDBQQAEQYSIWGhExQiUZH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABgRAQEAAwAAAAAAAAAAAAAAAAEABBES/9oADAMBAAIRAxEAPwC4VtYcG201e+cJZoyYhNjnbmXoR+7+DpQvbDMZ5vfZZ3Ox+Z+ho9oyJnyC4w7isnDEmRwuTGx7EgHyda3gRKNqQtNaLkuZmPqAtD06bAr21IyENpLm/9k=",
+    "url": "https://preview.redd.it/pfwtv0tefm691.jpg?width=640&crop=smart&auto=webp&s=e737cc3701ba461538516c472e05c3d8738ab291",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 44,
+    "value": 44
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "An entire table of terrain I’ve been working on for the past couple months (spiral staircase encounter, ruined dungeon walls, descending dungeon stairs, pillars, etc)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/vg1cz5/an_entire_table_of_terrain_ive_been_working_on/"
+}

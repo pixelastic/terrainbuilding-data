@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4l8p9wuh",
+    "name": "Zarek145"
+  },
+  "date": {
+    "day": 1655596800,
+    "full": 1655677402,
+    "month": 1654041600,
+    "week": 1655596800
+  },
+  "id": "t3_vg69wm",
+  "picture": {
+    "filesize": 37472,
+    "fullUrl": "https://preview.redd.it/9wq349nfln691.jpg?width=3840&format=pjpg&auto=webp&s=43aa39eeaa92377bc48765f1e7e071fe4ba9d334",
+    "hash": "5887628485",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQME/8QAJRAAAAUDAQkAAAAAAAAAAAAAAQIDBAUAESEGEhQyNUJhcpHC/8QAFQEBAQAAAAAAAAAAAAAAAAAABQb/xAAcEQEAAQQDAAAAAAAAAAAAAAABAgADElEEkbH/2gAMAwEAAhEDEQA/AIxTyOgopum+Sl2xlQuUjQQImNsYsIehzWLUEtAybQ6exPKq9G8HBQt+4CalpjlUV5q/NDm4C1P2uRPCLsHspi7ajkml9r//2Q==",
+    "url": "https://preview.redd.it/9wq349nfln691.jpg?width=640&crop=smart&auto=webp&s=5739409216a16ef579d7217c23793fc38f653862",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 0.6,
+    "ups": 1,
+    "value": 1
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Ship dungeon build progressing!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/vg69wm/ship_dungeon_build_progressing/"
+}
