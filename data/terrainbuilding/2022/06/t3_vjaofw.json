@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_9fj3hq0c",
+    "name": "Smith_fallblade"
+  },
+  "date": {
+    "day": 1655942400,
+    "full": 1656028386,
+    "month": 1654041600,
+    "week": 1655596800
+  },
+  "id": "t3_vjaofw",
+  "picture": {
+    "filesize": 28480,
+    "fullUrl": "https://preview.redd.it/hh4lfx31lg791.jpg?auto=webp&s=52d768a4bcf026739b4531328405d6f67b399129",
+    "hash": "494a0d3d2a",
+    "height": 361,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwQG/8QAKBAAAQMCBAQHAAAAAAAAAAAAAgEDBQAEBhETIQcxUXM0NkFhobGy/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAbEQABBAMAAAAAAAAAAAAAAAACAAEDIQQRQf/aAAwDAQACEQMRAD8AglMXYhflrFI4LeIJ0EbedaHUcRPcl2Rd+mXSiriHIXVhPC4zIuHIIesrzJqJiXLNVT1y+K3UR4Jjth9jRDiXzBI98/1U7GMpD0T0yZMLANdX/9k=",
+    "url": "https://preview.redd.it/hh4lfx31lg791.jpg?width=640&crop=smart&auto=webp&s=7c73eaced01ed4d1a438e662f2eeb44b3e572367",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 3,
+    "value": 3
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Looking at everything else on here, my terrain is looking pretty crappy.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/vjaofw/looking_at_everything_else_on_here_my_terrain_is/"
+}
