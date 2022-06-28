@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_9umoamj",
+    "name": "sciencep1e"
+  },
+  "date": {
+    "day": 1656288000,
+    "full": 1656310516,
+    "month": 1654041600,
+    "week": 1656201600
+  },
+  "id": "t3_vlopnn",
+  "picture": {
+    "filesize": 83798,
+    "fullUrl": "https://preview.redd.it/a73gw1o0w3891.jpg?width=1024&format=pjpg&auto=webp&s=141f78ff88a7b228ea3365f1b0c8009ec819e8bd",
+    "hash": "45316b99c4",
+    "height": 366,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQH/8QAJxAAAgIABAMJAAAAAAAAAAAAAQIDBAAFESEGEzEjMzRBUWGBgsH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBf/EABoRAAICAwAAAAAAAAAAAAAAAAIRAAEDBCL/2gAMAwEAAhEDEQA/AJKbvK0ElyytuxEUBsSKQzeRbbTrpqcKeHqmVkt2MbXZ3ZG5hLA6b7A9B7euAmWdxN9P3Gq8B+GT5wWIibcobYAHNVP/2Q==",
+    "url": "https://preview.redd.it/a73gw1o0w3891.jpg?width=640&crop=smart&auto=webp&s=04274fa6e7b2460771704bb1584a48e058e37706",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.91,
+    "ups": 48,
+    "value": 48
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Working on GW ruins",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/vlopnn/working_on_gw_ruins/"
+}
