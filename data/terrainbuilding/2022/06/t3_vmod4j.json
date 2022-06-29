@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_8v4lzag8",
+    "name": "Basic_Dark"
+  },
+  "date": {
+    "day": 1656374400,
+    "full": 1656425933,
+    "month": 1654041600,
+    "week": 1656201600
+  },
+  "id": "t3_vmod4j",
+  "picture": {
+    "filesize": 82157,
+    "fullUrl": "https://preview.redd.it/umh0qugqed891.jpg?width=4032&format=pjpg&auto=webp&s=6ba437bc3d1463edfa2a56dd6e8f04f941704ecd",
+    "hash": "80424266b9",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAYH/8QAJRAAAgEDAwIHAAAAAAAAAAAAAQIDBAURAAYhEiMTFTFBUXGh/8QAFAEBAAAAAAAAAAAAAAAAAAAABf/EABoRAAEFAQAAAAAAAAAAAAAAABIAAgMREyH/2gAMAwEAAhEDEQA/AFXS+3FJUpLc08bSDDShCTycDpxxpWydzXUXSigr6lqiGocp3Xx0nJOQQMNkDj9Osv8AMKmOQOJXY55y5+PvVPtKTv8AidCGRQHVyMspz7E+miIgzGktKx5lfF//2Q==",
+    "url": "https://preview.redd.it/umh0qugqed891.jpg?width=640&crop=smart&auto=webp&s=ef8483158dbf8b50a8e1ab6b993bf8669bd0e32a",
+    "width": 640
+  },
+  "score": {
+    "comments": 35,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 734,
+    "value": 734
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "If you're going to explore a ruined library, you need a lot of books.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/vmod4j/if_youre_going_to_explore_a_ruined_library_you/"
+}
