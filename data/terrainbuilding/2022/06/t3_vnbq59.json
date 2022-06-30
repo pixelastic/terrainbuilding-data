@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_57wh9pjb",
+    "name": "hege95"
+  },
+  "date": {
+    "day": 1656460800,
+    "full": 1656495205,
+    "month": 1654041600,
+    "week": 1656201600
+  },
+  "id": "t3_vnbq59",
+  "picture": {
+    "filesize": 58675,
+    "fullUrl": "https://preview.redd.it/q4ba88t65j891.jpg?width=4032&format=pjpg&auto=webp&s=ddcc1121e2b3d24eafc6ce33a539b60ab75cd433",
+    "hash": "72eb38fd40",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAYI/8QAJBAAAgEDAgYDAAAAAAAAAAAAAQIDBBEhAAYFEiIxQaFCYZH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFxEBAAMAAAAAAAAAAAAAAAAAAQACEf/aAAwDAQACEQMRAD8AfR70o0rxJFVTVcDPYMsJUK3N1WJ8Wz61WpvmlkhRlaWKFssTHzOoBwbA9jb81neg41W8HqHNE6hT8HQML4yL9jnT23LXVwtMsAcyL1onKfP3b1plhjapP//Z",
+    "url": "https://preview.redd.it/q4ba88t65j891.jpg?width=640&crop=smart&auto=webp&s=9ad2fe9ff1a935a446e406efd7b081f6ca149c43",
+    "width": 640
+  },
+  "score": {
+    "comments": 11,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 135,
+    "value": 135
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Made some Dense-cover pieces for 40k",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/vnbq59/made_some_densecover_pieces_for_40k/"
+}

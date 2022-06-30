@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_6jfcl8az",
+    "name": "dev_mancer"
+  },
+  "date": {
+    "day": 1656288000,
+    "full": 1656298906,
+    "month": 1654041600,
+    "week": 1656201600
+  },
+  "id": "t3_vllec6",
+  "picture": {
+    "filesize": 56778,
+    "fullUrl": "https://preview.redd.it/wvwhty2hx2891.jpg?auto=webp&s=2f75d858b8e9bcd111228fcda8ac0c8d155d8241",
+    "hash": "f6ffc7dd08",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUI/8QAIxAAAQIFAwUAAAAAAAAAAAAAAgEDAAQFESEGBxITIjFBkf/EABQBAQAAAAAAAAAAAAAAAAAAAAX/xAAcEQACAgIDAAAAAAAAAAAAAAABAgARA7EEElH/2gAMAwEAAhEDEQA/AAlM2zamZcTMj5Lhb8k9RHrugSp4KbVlFCta6/cxpkZRlimyhNjkm0VVWCGsWG+kXYniCH5Toeh3GGwhmsUB5Q3P/9k=",
+    "url": "https://preview.redd.it/wvwhty2hx2891.jpg?width=640&crop=smart&auto=webp&s=cc5b7cc952335fb3b08a2fb586bde3c9c450cf00",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 0.88,
+    "ups": 6,
+    "value": 6
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Concept Materials Test. Is it possible to paint grass?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/vllec6/concept_materials_test_is_it_possible_to_paint/"
+}

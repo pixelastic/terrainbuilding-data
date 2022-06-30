@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_ovgugv51",
+    "name": "DeeplightStudio"
+  },
+  "date": {
+    "day": 1655856000,
+    "full": 1655918252,
+    "month": 1654041600,
+    "week": 1655596800
+  },
+  "id": "t3_viabe7",
+  "picture": {
+    "filesize": 36398,
+    "fullUrl": "https://preview.redd.it/4ia8vvylh7791.jpg?auto=webp&s=9c5b505c0bcf307de508dde847ced7c9f08ab5f4",
+    "hash": "233b838ed8",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQGB//EACQQAAEEAQIGAwAAAAAAAAAAAAECAwQFBgARBxIhMUFRInGB/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABgRAAIDAAAAAAAAAAAAAAAAAAARAiEx/9oADAMBAAIRAxEAPwDG8ewm/wAhq5NjUwQ9DjqKHHFPIQAQNyPkRv0Ok7jGrmliMyrSvdjMPKKULUQQVejseh+9WGK8V5mN45Ep4lNAdYY5iVurXu4pSuYqO3nx+aFlfFCTktDKq5tLXNIeKVIcZUsKaUk7ggdj57+zpSitsK5PKP/Z",
+    "url": "https://preview.redd.it/4ia8vvylh7791.jpg?width=640&crop=smart&auto=webp&s=727be090c72f0cac0cbb0bcfb9fb52279cfa20f5",
+    "width": 640
+  },
+  "score": {
+    "comments": 17,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 86,
+    "value": 86
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First try at snowy terrain. Any recommendations for a deep snow effect?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/viabe7/first_try_at_snowy_terrain_any_recommendations/"
+}

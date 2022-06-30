@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_dnvmbvoi",
+    "name": "jacqueslevert"
+  },
+  "date": {
+    "day": 1656201600,
+    "full": 1656263369,
+    "month": 1654041600,
+    "week": 1656201600
+  },
+  "id": "t3_vl9e19",
+  "picture": {
+    "filesize": 90444,
+    "fullUrl": "https://preview.redd.it/hwodaxutzz791.jpg?auto=webp&s=5dc61fa64e3081cb88c1c7034a47859a87c68efa",
+    "hash": "c1333ddec6",
+    "height": 641,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUG/8QAIhAAAQMDBQADAAAAAAAAAAAAAQIDBAUGEQASITFBExRh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQP/xAAZEQACAwEAAAAAAAAAAAAAAAAAEgITIUH/2gAMAwEAAhEDEQA/AE1mpTYtep0WnqWGBHcku/GyHFKIOAOSMfmeM96v2pVXqm1PTNCt7DuxJWgJURgHkDj3QbptSrm5/vQlymmA1saXFbCvOlg54zrQWVb9SYnCQ7HLLTgJkFwFIcJHaU+dDGp3QRejrn//2Q==",
+    "url": "https://preview.redd.it/hwodaxutzz791.jpg?width=640&crop=smart&auto=webp&s=859709c186daac891a076f15e5d96b74b62f4a97",
+    "width": 640
+  },
+  "score": {
+    "comments": 19,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 523,
+    "value": 523
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Some zardoz-themed ruins",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/vl9e19/some_zardozthemed_ruins/"
+}
