@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_d8slkoq8",
+    "name": "Arishikage123"
+  },
+  "date": {
+    "day": 1656547200,
+    "full": 1656564060,
+    "month": 1654041600,
+    "week": 1656201600
+  },
+  "id": "t3_vnzpab",
+  "picture": {
+    "filesize": 105631,
+    "fullUrl": "https://preview.redd.it/v50e40cvto891.jpg?width=3024&format=pjpg&auto=webp&s=ca7e61cac350aa0d73d31c32cc209e7b5aa13b66",
+    "hash": "7161645df3",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQEG/8QAJBAAAgEDAwQDAQAAAAAAAAAAAQIDBBEhAAUGEhNBURYikdH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABoRAQACAwEAAAAAAAAAAAAAAAEAEQIDMcH/2gAMAwEAAhEDEQA/ALs1BR7NRLRQ10NbBC0jK6KVVSTnJ8/zQnIZpNvklqd9pe4gxCFk6xGxH1DJe1iBe5zcka0HI6SHbePVTVHcmlZuiKKFRGrv5AY395PnPvQ/HqD5Ekr7lLC4WURSxYXt2ABYXJuDj9uNToAD1jO+tyDeN99n/9k=",
+    "url": "https://preview.redd.it/v50e40cvto891.jpg?width=640&crop=smart&auto=webp&s=2ba2ce175a68ec67643a2319064827b4d44941ad",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 0.96,
+    "ups": 19,
+    "value": 19
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Source for my modular river.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/vnzpab/source_for_my_modular_river/"
+}

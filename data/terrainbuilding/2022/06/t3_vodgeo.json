@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_36ho4mhq",
+    "name": "DShadesDrizzle"
+  },
+  "date": {
+    "day": 1656547200,
+    "full": 1656608936,
+    "month": 1654041600,
+    "week": 1656201600
+  },
+  "id": "t3_vodgeo",
+  "picture": {
+    "filesize": 89461,
+    "fullUrl": "https://preview.redd.it/4v4mmja08s891.jpg?auto=webp&s=9b2653bb24fdc0e43808675f4a5e1953ae480a69",
+    "hash": "54cf3e034a",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAwX/xAAkEAACAQIFBAMAAAAAAAAAAAABAgMEBQAGERMxFCFRkQciM//EABUBAQEAAAAAAAAAAAAAAAAAAAEC/8QAGREAAwEBAQAAAAAAAAAAAAAAAQISACEx/9oADAMBAAIRAxEAPwAr9VytXra7fVqjRDdlVpwgcjVfrwCT2PPnBW7MEaZhpLbBVN+asQKgODMqaKrHwCS3OLFXkqz7lUXjmkMrMCWfUgEnj3iZR/HVjpennp+rjmQqwYS99fWIK2JbuJC+Df/Z",
+    "url": "https://preview.redd.it/4v4mmja08s891.jpg?width=640&crop=smart&auto=webp&s=a5bb3720cff9532c70cc99e2a6f8303d3cf396a1",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 65,
+    "value": 65
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP AAT and Terrain.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/vodgeo/wip_aat_and_terrain/"
+}
