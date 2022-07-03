@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5ocpk",
+    "name": "Expurgate"
+  },
+  "date": {
+    "day": 1656720000,
+    "full": 1656785616,
+    "month": 1656633600,
+    "week": 1656201600
+  },
+  "id": "t3_vpxo8q",
+  "picture": {
+    "filesize": 120111,
+    "fullUrl": "https://preview.redd.it/alwhclug47991.jpg?auto=webp&s=4f151946570bcd124c3dd4de927b7cbbb7522ede",
+    "hash": "8c7fb82606",
+    "height": 850,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAJxAAAAUCBQMFAAAAAAAAAAAAAQIDBAURIQAGEhMiBzFhFTJBUYH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAGxEAAQUBAQAAAAAAAAAAAAAAAgABAxFhITL/2gAMAwEAAhEDEQA/AK+fp2Qh3kPAsHajpYFgcOljcRKiUeJRoNfinmmFE909hMxuUJPfOiK6BDe4Q1hSxqD2tQPzGaxQuZTMPrB0iKFWcbTlUDDuaAvoKQe4aaXqFzX+8KcwuJmekRdpouWSBSgmkgQwcSBWlfN8DKYeS7iWEDtiB61f/9k=",
+    "url": "https://preview.redd.it/alwhclug47991.jpg?width=640&crop=smart&auto=webp&s=3b68254193ca9dd8f63672e9ff608bd726ffac8e",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 77,
+    "value": 77
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "GW WIP but finally happy with some of the details on my Mekboy Workshop!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/vpxo8q/gw_wip_but_finally_happy_with_some_of_the_details/"
+}

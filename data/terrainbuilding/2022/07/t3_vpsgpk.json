@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_16vvcl",
+    "name": "EagleEye998"
+  },
+  "date": {
+    "day": 1656720000,
+    "full": 1656770526,
+    "month": 1656633600,
+    "week": 1656201600
+  },
+  "id": "t3_vpsgpk",
+  "picture": {
+    "filesize": 66460,
+    "fullUrl": "https://preview.redd.it/9dy72pqdd7991.jpg?auto=webp&s=4ad8b3e06fce52d463787c4554062554c1339860",
+    "hash": "6ebf358fd7",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGB//EACQQAAICAQQBBAMAAAAAAAAAAAECAwQFAAYREiETIjFBFGGR/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABkRAQACAwAAAAAAAAAAAAAAAAEAEQISIf/aAAwDAQACEQMRAD8Ab4KSpufHzT46N5LCq0KSrc6cr2BPtQ9gPHzoK1Z3Xt3DzS5q/wDjRwqQkglFj1mLqEQKQD4DHn74X96xKjSONuZuzjbdupLTsMsRhk68AHnjVBc3vms7tinTys0dhG5lLsnv7KQB5+x8fwaHVG75Fcif/9k=",
+    "url": "https://preview.redd.it/9dy72pqdd7991.jpg?width=640&crop=smart&auto=webp&s=ca1177636e09d02c3789ecd2adf237592dfdde9a",
+    "width": 640
+  },
+  "score": {
+    "comments": 14,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 566,
+    "value": 566
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP Ionic Temple",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/vpsgpk/wip_ionic_temple/"
+}
