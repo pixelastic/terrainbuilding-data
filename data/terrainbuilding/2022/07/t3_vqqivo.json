@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_wzy0k",
+    "name": "TheGorgonaut"
+  },
+  "date": {
+    "day": 1656806400,
+    "full": 1656880764,
+    "month": 1656633600,
+    "week": 1656806400
+  },
+  "id": "t3_vqqivo",
+  "picture": {
+    "filesize": 68638,
+    "fullUrl": "https://external-preview.redd.it/QkPu9e6KrfejwcVra_li3H1YPw_XPiS4Uch6d1o9k_4.jpg?auto=webp&s=be1129f6e58d5d65eed945ea04e33a88d3d6859f",
+    "hash": "7596cc5f86",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwQG/8QAJRAAAQIEBgIDAAAAAAAAAAAAAgEEAwURIQAGBxITMSJBQnKB/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABsRAAICAwEAAAAAAAAAAAAAAAECABIDESFR/9oADAMBAAIRAxEAPwBAzHqTl2WTh1KWBK9dwC4yNYqDC5EuoVoqrat+q2xltOdQnM5n0vYuxVwL11GAxAF3txUlUFr7FK0v6TFAaV5fc50iDFN9xxIhmoJFHuiFZdu7tV99YXpBIZVl9twyZhAaj8lAfIvsXa/q4I42LWLc8iXULoL2f//Z",
+    "url": "https://external-preview.redd.it/QkPu9e6KrfejwcVra_li3H1YPw_XPiS4Uch6d1o9k_4.jpg?width=640&crop=smart&auto=webp&s=48f968e86f88f58efeafb237020623250b21e336",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 0.95,
+    "ups": 15,
+    "value": 15
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I'm calling this done, but I'd love to get some tips on how to paint the glow better on this prometheum processing unit.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/vqqivo/im_calling_this_done_but_id_love_to_get_some_tips/"
+}
