@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_52p5j3gl",
+    "name": "KillerPinkArt"
+  },
+  "date": {
+    "day": 1656979200,
+    "full": 1657056972,
+    "month": 1656633600,
+    "week": 1656806400
+  },
+  "id": "t3_vs8x32",
+  "picture": {
+    "filesize": 136471,
+    "fullUrl": "https://preview.redd.it/yq38gpikjt991.jpg?width=2268&format=pjpg&auto=webp&s=bdfb7cf83ac7df0ae580629dde95c4498bd809b3",
+    "hash": "d2c16286b1",
+    "height": 1138,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMG/8QAJxAAAQMCAQ0AAAAAAAAAAAAAAwECBQAEMQYHERITFSEiVFVhkpT/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABkRAAMAAwAAAAAAAAAAAAAAAAABAwQUQf/aAAwDAQACEQMRAD8ABaQuQAwI18tKkHqpzBulRqeODUwqO6M3nfjfUetyKIsClQxIyOedMHKNmlKTsndDaerKBZVuzZXrzP/Z",
+    "url": "https://preview.redd.it/yq38gpikjt991.jpg?width=640&crop=smart&auto=webp&s=87a57d89eb7e8e2f316965eb874e658cbfc3fa11",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 36,
+    "value": 36
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Very early WIP for a 3D tile for Rivet Wars.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/vs8x32/very_early_wip_for_a_3d_tile_for_rivet_wars/"
+}
