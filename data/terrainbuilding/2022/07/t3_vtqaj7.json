@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_170qz3",
+    "name": "Kriomortis"
+  },
+  "date": {
+    "day": 1657152000,
+    "full": 1657220724,
+    "month": 1656633600,
+    "week": 1656806400
+  },
+  "id": "t3_vtqaj7",
+  "picture": {
+    "filesize": 57605,
+    "fullUrl": "https://preview.redd.it/fx221rzi27a91.jpg?auto=webp&s=ab0ca54a93c12ea278dd23e31b71848c6b7bd8d9",
+    "hash": "234d96e63e",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAjEAACAQMDBAMAAAAAAAAAAAABAgMEBREAEjEGEyFhMlFx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAbEQACAgMBAAAAAAAAAAAAAAABAgADBBESIf/aAAwDAQACEQMRAD8AmenUSnpaWSmmDzu7eIm3FBgnBz+c+tV0l+roemKijaaGWnlky5ViSpzu+WefH1oC1V1MlFNObNa2fvLHjtsoIPoMNPQ3KkFJsWwWYJICWHZcg445fU6aww6U+xZOUFPLjY3P/9k=",
+    "url": "https://preview.redd.it/fx221rzi27a91.jpg?width=640&crop=smart&auto=webp&s=fb6ec7ea99190efb497faf1aa15a910e7530da6b",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.96,
+    "ups": 18,
+    "value": 18
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Warning, crystals in underdark may cause joint stiffness.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/vtqaj7/warning_crystals_in_underdark_may_cause_joint/"
+}
