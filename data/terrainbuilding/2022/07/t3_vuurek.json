@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_621ev",
+    "name": "SerpentineLogic"
+  },
+  "date": {
+    "day": 1657324800,
+    "full": 1657345349,
+    "month": 1656633600,
+    "week": 1656806400
+  },
+  "id": "t3_vuurek",
+  "picture": {
+    "filesize": 61227,
+    "fullUrl": "https://external-preview.redd.it/usmG7V_MVzVN_0dkyJnqyatCKKwrEGtVfX16HqDs1Fk.jpg?auto=webp&s=0ec32cfb90ace6515a4a65eda940de6f4026250b",
+    "hash": "4418d09733",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQF/8QAJBAAAgEDAwQDAQAAAAAAAAAAAQIDBAURABIhBhMxQRQzYbH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABkRAQEBAQEBAAAAAAAAAAAAAAECAwAxEv/aAAwDAQACEQMRAD8AEwU94rhcHpKmTtUgZmBPnnAVRg5P5rLYV247pWDDzlBn+aatep+lKyW3tPOh+3Z21IBbng6j+Lc+o2a5RQTVCSHaJHQ5OOPXrjVmmOkwaUJL48MXK/J6d//Z",
+    "url": "https://external-preview.redd.it/usmG7V_MVzVN_0dkyJnqyatCKKwrEGtVfX16HqDs1Fk.jpg?width=640&crop=smart&auto=webp&s=0a2e3ad4b295ea579b5f67c1896a8223b216f5fb",
+    "width": 640
+  },
+  "score": {
+    "comments": 9,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 287,
+    "value": 287
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Do bases count?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/vuurek/do_bases_count/"
+}
