@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_982kl4ek",
+    "name": "Dloveless9"
+  },
+  "date": {
+    "day": 1657411200,
+    "full": 1657431930,
+    "month": 1656633600,
+    "week": 1657411200
+  },
+  "id": "t3_vvkpw3",
+  "picture": {
+    "filesize": 77612,
+    "fullUrl": "https://preview.redd.it/4blecx6kioa91.jpg?width=4032&format=pjpg&auto=webp&s=c342aa46e6da8a662ea30c3a9cd72c808a298b0d",
+    "hash": "932029b7f0",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQI/8QAJxAAAQMCBQIHAAAAAAAAAAAAAQIDBAURAAYTFCExQRIiIzJCcZH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAERAiH/2gAMAwEAAhEDEQA/AA8wxHMwV3dT4kKUhgabDwCrr8oufDcdweTb6wS7k9GsyyxQ4LRcUkblAUFMC/KjyemNOvUGkySNemxFk99IJP6LYleyXR3/AGIkMfL03lWuOnBvgi1FBM7T/9k=",
+    "url": "https://preview.redd.it/4blecx6kioa91.jpg?width=640&crop=smart&auto=webp&s=283538db0798b6ee83fd98f5ad92cd91f202c14c",
+    "width": 640
+  },
+  "score": {
+    "comments": 16,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 405,
+    "value": 405
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Just some things I’ve been working on",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/vvkpw3/just_some_things_ive_been_working_on/"
+}
