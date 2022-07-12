@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_97hevsal",
+    "name": "Stillonzo"
+  },
+  "date": {
+    "day": 1657497600,
+    "full": 1657565946,
+    "month": 1656633600,
+    "week": 1657411200
+  },
+  "id": "t3_vwq2as",
+  "picture": {
+    "filesize": 5387,
+    "fullUrl": "https://external-preview.redd.it/CQxt7kc0YJtTiByj8TK3RZtATguRJoZZOwvobCN12dA.png?format=pjpg&auto=webp&s=4c71bce7cd580ee28ee81e9714f430c0a7196423",
+    "hash": "4cd2c7a991",
+    "height": 1138,
+    "lqip": "data:image/png;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAj/xAAUEAEAAAAAAAAAAAAAAAAAAAAA/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AKpAB//Z",
+    "url": "https://external-preview.redd.it/CQxt7kc0YJtTiByj8TK3RZtATguRJoZZOwvobCN12dA.png?width=640&crop=smart&format=pjpg&auto=webp&s=d2c50aa8c1deeb2063b90515a182ab2e1dbff1c8",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 50,
+    "value": 50
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Work in progress on the next model for Cyber fans. There is a new feature -> LED screen with multi-text display. The program and tips for personalizing it will be included.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/vwq2as/work_in_progress_on_the_next_model_for_cyber_fans/"
+}
