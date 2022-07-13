@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_17dkf4",
+    "name": "EighthOrchid"
+  },
+  "date": {
+    "day": 1657584000,
+    "full": 1657646687,
+    "month": 1656633600,
+    "week": 1657411200
+  },
+  "id": "t3_vxgmls",
+  "picture": {
+    "filesize": 121432,
+    "fullUrl": "https://preview.redd.it/kb83jey586b91.jpg?auto=webp&s=e53eaf95cc9818aa2c6f70b32552286edda02299",
+    "hash": "434422144e",
+    "height": 616,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAPABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAQb/xAAjEAABBAEDBAMAAAAAAAAAAAABAgMEEQUABiESEzFBIlFh/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABgRAAMBAQAAAAAAAAAAAAAAAAABEQIS/9oADAMBAAIRAxEAPwCfxjbcNtt11JLaklR6SATzXBP7px2xMFndxusSWJEZ1SO92m1igfaVcVfN8acXEyTq+rGPQ6Pz7cxsqShVUVII5BI8+dXGxMYMNKem5SUJk91HRaEFLbafYF2STQsn68DQH0tWi28tSH//2Q==",
+    "url": "https://preview.redd.it/kb83jey586b91.jpg?width=640&crop=smart&auto=webp&s=e273564a083903b51c2e940b837466415f368633",
+    "width": 640
+  },
+  "score": {
+    "comments": 9,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 51,
+    "value": 51
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Basing techniques looking for some improvement",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/vxgmls/basing_techniques_looking_for_some_improvement/"
+}

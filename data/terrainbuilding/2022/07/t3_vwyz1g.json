@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_j5yj4kug",
+    "name": "justonky"
+  },
+  "date": {
+    "day": 1657584000,
+    "full": 1657589629,
+    "month": 1656633600,
+    "week": 1657411200
+  },
+  "id": "t3_vwyz1g",
+  "picture": {
+    "filesize": 57647,
+    "fullUrl": "https://preview.redd.it/1eln9co4j1b91.jpg?auto=webp&s=e06ce15cb38c860c8c5108a5961be25436beb79d",
+    "hash": "739b78068a",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwYH/8QAJRAAAQQBAwIHAAAAAAAAAAAAAgEDBREEACExEkEGEyIkUWGh/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABoRAAICAwAAAAAAAAAAAAAAAAECABEDIUH/2gAMAwEAAhEDEQA/AMQhIYJGAMwJpt9l2zLoUirlNu6b/mlnfDuVgifuFFwRQjbdHyyW7pRTum18aKJksyJYeOPfNknQ6DqvUnxqngQSQxwdzbfVQMaMl2RBJUS+dl+9MQoS+wgXbJWqn//Z",
+    "url": "https://preview.redd.it/1eln9co4j1b91.jpg?width=640&crop=smart&auto=webp&s=a726f50ded03325424451c3205eaaad5e8f53b50",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.89,
+    "ups": 12,
+    "value": 12
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Dungeon Library! (process/tutorial video in comments)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/vwyz1g/dungeon_library_processtutorial_video_in_comments/"
+}
