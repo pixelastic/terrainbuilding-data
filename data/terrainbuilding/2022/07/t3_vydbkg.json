@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_33arrmxv",
+    "name": "wjgard"
+  },
+  "date": {
+    "day": 1657670400,
+    "full": 1657744865,
+    "month": 1656633600,
+    "week": 1657411200
+  },
+  "id": "t3_vydbkg",
+  "picture": {
+    "filesize": 130005,
+    "fullUrl": "https://preview.redd.it/frkldgf2deb91.jpg?width=2466&format=pjpg&auto=webp&s=de297ce3030dfd2e7a49dd5e2099547a0f0eb137",
+    "hash": "eb33009692",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMG/8QAIBAAAgICAgMBAQAAAAAAAAAAAQIDBAUhETEAEhMGYf/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAeEQABBAEFAAAAAAAAAAAAAAABAAITIREDUXHh8P/aAAwDAQACEQMRAD8ArSxFG7WWKTIIB8zKqkhfY9d70CB/eD5lMdIZLDV5cfYr2kleFInmMokZdsePUa468PnqOTb9K1Oj7VmSV2RY0MihW3zrrY0PH4r8Jk0ytW/Jdl+sJVpPux30SQAeQTxvfXiHRx0Bke5RWDWlsnB72pf/2Q==",
+    "url": "https://preview.redd.it/frkldgf2deb91.jpg?width=640&crop=smart&auto=webp&s=472d80f93d93c3b3e2679e36efa417c7a460424c",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 65,
+    "value": 65
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I painted my kitstretched plasma generator",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/vydbkg/i_painted_my_kitstretched_plasma_generator/"
+}
