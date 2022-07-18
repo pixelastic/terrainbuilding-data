@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_ccdto",
+    "name": "FastSniperfox"
+  },
+  "date": {
+    "day": 1658016000,
+    "full": 1658059725,
+    "month": 1656633600,
+    "week": 1658016000
+  },
+  "id": "t3_w1602s",
+  "picture": {
+    "filesize": 100168,
+    "fullUrl": "https://preview.redd.it/fj902w23d4c91.jpg?width=2048&format=pjpg&auto=webp&s=a81ad8bad5a0ce6c781fa126bc965b5f8fdf8db6",
+    "hash": "5f06cf21a6",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQT/xAAiEAABAwMFAAMAAAAAAAAAAAABAgMEBQYRAAcSITElUbH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAv/EABYRAQEBAAAAAAAAAAAAAAAAAAEAIf/aAAwDAQACEQMRAD8AQrNzTahVpyZUh2NCadW0202rgEBKiO8enrJJ0vb9zyYVUjRFyXZUN5aGlMOHkUBRwFAnv380puZbNPZ+XjhxmVIVl0II4KP3jHp1Htdb8J0GpPBbj8YhTSSRwSo57wB2dSAkXb//2Q==",
+    "url": "https://preview.redd.it/fj902w23d4c91.jpg?width=640&crop=smart&auto=webp&s=c08031fa84a20093a6181634350aa6b6e914d109",
+    "width": 640
+  },
+  "score": {
+    "comments": 13,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 133,
+    "value": 133
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My attempt at some Ultimate Dungeon Terrain",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/w1602s/my_attempt_at_some_ultimate_dungeon_terrain/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_6rt8q",
+    "name": "Republiken"
+  },
+  "date": {
+    "day": 1658016000,
+    "full": 1658053917,
+    "month": 1656633600,
+    "week": 1658016000
+  },
+  "id": "t3_w14h4y",
+  "picture": {
+    "filesize": 60998,
+    "fullUrl": "https://external-preview.redd.it/7oK6YvbGXGMufzdX4EmBAvGbBkRAOZAbaId7bmAEPIM.jpg?auto=webp&s=5c38a547521f9d393e883ee0ba0fc66353d14a06",
+    "hash": "407e7c273f",
+    "height": 340,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwUG/8QAJhAAAgEEAAMJAAAAAAAAAAAAAQIDAAQREgUGcxMhMjZBYXGxwf/EABUBAQEAAAAAAAAAAAAAAAAAAAUG/8QAHBEAAQQDAQAAAAAAAAAAAAAAAQACIUEDERIT/9oADAMBAAIRAxEAPwDE23MYtIIgmscLIFXvxrgeox8VVEFzN2l9HJEC8GsgVCpViNlZipwT7HBxRxzH4bfqD7ph4b5ai6v4KKcdM7uVUl5OXxqF/9k=",
+    "url": "https://external-preview.redd.it/7oK6YvbGXGMufzdX4EmBAvGbBkRAOZAbaId7bmAEPIM.jpg?width=640&crop=smart&auto=webp&s=de7a84c63105fd30461b3ae31bdc60de2ffa71c2",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.93,
+    "ups": 13,
+    "value": 13
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Red Waste terrain",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/w14h4y/red_waste_terrain/"
+}
