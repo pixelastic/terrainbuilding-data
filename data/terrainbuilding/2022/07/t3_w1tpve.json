@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_arlj5ieu",
+    "name": "WeltenbauerClub"
+  },
+  "date": {
+    "day": 1658102400,
+    "full": 1658131140,
+    "month": 1656633600,
+    "week": 1658016000
+  },
+  "id": "t3_w1tpve",
+  "picture": {
+    "filesize": 64062,
+    "fullUrl": "https://preview.redd.it/edrkv9aj9ac91.jpg?width=4032&format=pjpg&auto=webp&s=04f22c4daacb89d1e25db880afc44205e1122a30",
+    "hash": "bd228330aa",
+    "height": 288,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQF/8QAIhAAAQMEAgIDAAAAAAAAAAAAAQIDBAAFESESMQYHFEGh/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABgRAAIDAAAAAAAAAAAAAAAAAAIRAAED/9oADAMBAAIRAxEAPwCW9eOuwbumJFXInp4JcK1hDeFZOsE7Gv2t61+tU3iD8i8OOxXHDptHBQKcAfQwOuqUowzFVFvMUlP/2Q==",
+    "url": "https://preview.redd.it/edrkv9aj9ac91.jpg?width=640&crop=smart&auto=webp&s=0f9e66088e370c7cffba082e84976e30bcbbc591",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 50,
+    "value": 50
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Made some cRusty walls",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/w1tpve/made_some_crusty_walls/"
+}
