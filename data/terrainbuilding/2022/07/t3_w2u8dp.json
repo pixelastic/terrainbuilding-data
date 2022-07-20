@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_ha4v3",
+    "name": "fender28"
+  },
+  "date": {
+    "day": 1658188800,
+    "full": 1658241263,
+    "month": 1656633600,
+    "week": 1658016000
+  },
+  "id": "t3_w2u8dp",
+  "picture": {
+    "filesize": 67627,
+    "fullUrl": "https://preview.redd.it/vegi0tr3djc91.jpg?auto=webp&s=d5c275b0adba71f59d351e68ccbe7c476b9818c2",
+    "hash": "e50965f46f",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAIxAAAQQBAwQDAAAAAAAAAAAAAQIDBBEGAAUhBxMxcRIUQf/EABUBAQEAAAAAAAAAAAAAAAAAAAAC/8QAFxEBAAMAAAAAAAAAAAAAAAAAAQARIf/aAAwDAQACEQMRAD8AV6g5G/jEeA4xEZmNPuFJUtSgQE1afZvg6l3vOSzuKzHblONOBLg7bSvimxykWLNGxetpmuHxMhZhRVyHY6YzvdCm0gknjyD60r9BpvhHA8mjVn9OhZsppyf/2Q==",
+    "url": "https://preview.redd.it/vegi0tr3djc91.jpg?width=640&crop=smart&auto=webp&s=a3c5a839cdc5b5e3fe96672ffbe37debafac5850",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 30,
+    "value": 30
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A weathered Windmill",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/w2u8dp/a_weathered_windmill/"
+}

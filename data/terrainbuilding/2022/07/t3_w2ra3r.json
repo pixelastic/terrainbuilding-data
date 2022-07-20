@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_6q4p6h8",
+    "name": "Mesreg"
+  },
+  "date": {
+    "day": 1658188800,
+    "full": 1658232850,
+    "month": 1656633600,
+    "week": 1658016000
+  },
+  "id": "t3_w2ra3r",
+  "picture": {
+    "filesize": 79081,
+    "fullUrl": "https://preview.redd.it/75rynmh3oic91.jpg?width=1564&format=pjpg&auto=webp&s=88e07dda33d9f637d88b6394dc489303a54d6c4e",
+    "hash": "3932d6f37d",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgQG/8QAIBAAAQUAAgMBAQAAAAAAAAAAEQECAwQSAAUTIUEiUf/EABQBAQAAAAAAAAAAAAAAAAAAAAL/xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAMAwEAAhEDEQA/ANVUj7R9zxRSWkiXS7tsMWdEJlSR6T5/eOpH2T7SxxvtNiXX6stMY0QmVJHpOKqzsX2/HG+wka6/VhpjGiEypI9JyenH2r7qxRS3Eidtd24zEjdkJlSR6T59Xh0pH//Z",
+    "url": "https://preview.redd.it/75rynmh3oic91.jpg?width=640&crop=smart&auto=webp&s=aba89cd28ba6d825ea1b4c813ee81a3ba95c5186",
+    "width": 640
+  },
+  "score": {
+    "comments": 59,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 198,
+    "value": 198
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Looking for feedback! which color schemes do you like best?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/w2ra3r/looking_for_feedback_which_color_schemes_do_you/"
+}

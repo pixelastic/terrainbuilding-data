@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_aug2gah2",
+    "name": "Savage_Bruski"
+  },
+  "date": {
+    "day": 1658188800,
+    "full": 1658244904,
+    "month": 1656633600,
+    "week": 1658016000
+  },
+  "id": "t3_w2vmh4",
+  "picture": {
+    "filesize": 63704,
+    "fullUrl": "https://preview.redd.it/ylmgl55ynjc91.jpg?width=1080&format=pjpg&auto=webp&s=9a8323983b4ded09af26a34829f95e8991872949",
+    "hash": "c002c5e5ca",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgEC/8QAJBAAAgEDAwMFAAAAAAAAAAAAAQIEAwYRABMhBRIiFDFCYXH/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAGxEBAAICAwAAAAAAAAAAAAAAAQARAhMDISL/2gAMAwEAAhEDEQA/ACLRZSQ6MyrB2ozhNtiF81OcFRnJHB5A1Lgpw0fYWi/qFXuwV4A988azbFG1JM6i/VkgyKYYEgyAp/Mg5Gll8dIsh4VJ7YgPSrKpBdZlRx2n4jyIx9aINTj3Yked5yeaRn//2Q==",
+    "url": "https://preview.redd.it/ylmgl55ynjc91.jpg?width=640&crop=smart&auto=webp&s=51a4bb74da431ec90e8fa73f09721cac241d00e0",
+    "width": 640
+  },
+  "score": {
+    "comments": 15,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 90,
+    "value": 90
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "StarCraft mineral scatter terrain",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/w2vmh4/starcraft_mineral_scatter_terrain/"
+}

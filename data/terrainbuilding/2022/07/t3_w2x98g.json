@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_e6oxl",
+    "name": "Rerraoc"
+  },
+  "date": {
+    "day": 1658188800,
+    "full": 1658249063,
+    "month": 1656633600,
+    "week": 1658016000
+  },
+  "id": "t3_w2x98g",
+  "picture": {
+    "filesize": 70894,
+    "fullUrl": "https://preview.redd.it/fcvbrwdb0kc91.jpg?auto=webp&s=fbb5a31ab78bf534c213c1cacd06558bc43a7c19",
+    "hash": "1481ccc52f",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQME/8QAIxAAAQMDAwUBAAAAAAAAAAAAAQIDBAURIQASQQYUFTFxIv/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAaEQACAgMAAAAAAAAAAAAAAAABAgADERIh/9oADAMBAAIRAxEAPwCtEkJqlOU5HakRmSS2lCFG7iTYncb/AC+BnjS1C6apwrDSVtSN76rL3O8bSR8yBo5ukNOwaI23Ilx+8Dj7qmHigkg2sLYAzrQYnjELQiRJkFah+pLpcUn36PGiKdlzFWAo/Z//2Q==",
+    "url": "https://preview.redd.it/fcvbrwdb0kc91.jpg?width=640&crop=smart&auto=webp&s=531b24bc79233d6a8e8c07c90c94beb3cee183e9",
+    "width": 640
+  },
+  "score": {
+    "comments": 10,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 145,
+    "value": 145
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A little Zone Mortalis experiment. Seeing how long something simple but effective would take me. Comments and criticism welcome!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/w2x98g/a_little_zone_mortalis_experiment_seeing_how_long/"
+}
