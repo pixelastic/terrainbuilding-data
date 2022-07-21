@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_170qz3",
+    "name": "Kriomortis"
+  },
+  "date": {
+    "day": 1658275200,
+    "full": 1658340648,
+    "month": 1656633600,
+    "week": 1658016000
+  },
+  "id": "t3_w3t8qt",
+  "picture": {
+    "filesize": 108944,
+    "fullUrl": "https://preview.redd.it/mmnemnilkrc91.jpg?width=3024&format=pjpg&auto=webp&s=f0dfcb245156d40413cfa091fd8dca29ee942b29",
+    "hash": "2758e9b99c",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAIxAAAgEDBAEFAAAAAAAAAAAAAQIDBAURABIhMQYTQVFhkf/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAHREAAQQCAwAAAAAAAAAAAAAAAQACAxEEEhMhYf/aAAwDAQACEQMRAD8AgW3xSlobTco6mrhmipgDE0SkhmJADE9Yx86P3OCGjqdhkMasNyq8RztycZ/NaPcKc260pR1lwgQVRK+s8YZdpBGMdjjjd7caOHxVrhiR2gnVAIklgIwyrxyWYEnsZ+hzo03Fo3WrVJmRJ2CSB4v/2Q==",
+    "url": "https://preview.redd.it/mmnemnilkrc91.jpg?width=640&crop=smart&auto=webp&s=15be92c9d997a71687f42b4b7b31b09466dc4bbf",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 0.85,
+    "ups": 8,
+    "value": 8
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First project made without a YouTube guide. I hope you all enjoy!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/w3t8qt/first_project_made_without_a_youtube_guide_i_hope/"
+}

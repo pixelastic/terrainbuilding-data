@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_9h41n7mp",
+    "name": "SuperInternet5529"
+  },
+  "date": {
+    "day": 1658361600,
+    "full": 1658361837,
+    "month": 1656633600,
+    "week": 1658016000
+  },
+  "id": "t3_w41okw",
+  "picture": {
+    "filesize": 87962,
+    "fullUrl": "https://preview.redd.it/mv2wd0ilbtc91.jpg?width=3168&format=pjpg&auto=webp&s=4b83a3a39c73c387ecf97c94928aa513f551c032",
+    "hash": "1023de2590",
+    "height": 455,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAJBAAAQQBAwMFAAAAAAAAAAAAAQIDBBEhABNBEkJhBRUiMVH/xAAVAQEBAAAAAAAAAAAAAAAAAAABA//EABkRAAIDAQAAAAAAAAAAAAAAAAECAAMRIf/aAAwDAQACEQMRAD8AycX05YZW7JnBS20JDe20QRfjpIx5o+c6GkxC3EdcjvPgN0kNurbI6u349pu6vPOdLlhBcsqdtSAVHcVmvrnVvtEBMRlwRW9xFqSs5NkXZPJv91FF7rQufgFZyf/Z",
+    "url": "https://preview.redd.it/mv2wd0ilbtc91.jpg?width=640&crop=smart&auto=webp&s=c86d9a8a3e7ab270fe3800d2af48203d10c2300d",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 13,
+    "value": 13
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Quick and easy piping terrain.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/w41okw/quick_and_easy_piping_terrain/"
+}
