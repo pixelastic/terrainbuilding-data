@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5xufgica",
+    "name": "therealzariart"
+  },
+  "date": {
+    "day": 1658361600,
+    "full": 1658433997,
+    "month": 1656633600,
+    "week": 1658016000
+  },
+  "id": "t3_w4qc4k",
+  "picture": {
+    "filesize": 117266,
+    "fullUrl": "https://preview.redd.it/6qji7zu7azc91.jpg?width=3046&format=pjpg&auto=webp&s=7d87e865fa2134db579181e351781a2af31ce0fb",
+    "hash": "c980972215",
+    "height": 828,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQIEBf/EACIQAAICAQMEAwAAAAAAAAAAAAECAxEEAAUhEhMxQSJhgf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGREAAwADAAAAAAAAAAAAAAAAAAERAiFB/9oADAMBAAIRAxEAPwAT588smRucm4ZUnQzk4mQrpGwfigq+QpNg3dj3pNu3XLmxI2xu8lKqyAk8uFFnk+/OpY83DEWQssqFlCgXatfNkc/Lmr/K1s47YTtMIMqbBRZCO03VKaoEN1fYI49alx0oPFw//9k=",
+    "url": "https://preview.redd.it/6qji7zu7azc91.jpg?width=640&crop=smart&auto=webp&s=cd57cc0b9aca661bfcfdf77151ba53a9d0fea7d0",
+    "width": 640
+  },
+  "score": {
+    "comments": 9,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 238,
+    "value": 238
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Objective markers are just small terrain.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/w4qc4k/objective_markers_are_just_small_terrain/"
+}
