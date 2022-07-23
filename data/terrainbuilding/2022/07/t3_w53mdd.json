@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_7had9",
+    "name": "Kingmal"
+  },
+  "date": {
+    "day": 1658448000,
+    "full": 1658472256,
+    "month": 1656633600,
+    "week": 1658016000
+  },
+  "id": "t3_w53mdd",
+  "picture": {
+    "filesize": 62836,
+    "fullUrl": "https://preview.redd.it/yduy00tvf2d91.jpg?width=4032&format=pjpg&auto=webp&s=86eca9c5d65ae210084c6fc6305b2e1ba740e7a6",
+    "hash": "fc18d84da9",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgAF/8QAIxAAAgEDAwQDAAAAAAAAAAAAAQMCBAURAAYSEzFRYSFBof/EABQBAQAAAAAAAAAAAAAAAAAAAAX/xAAfEQABBAAHAAAAAAAAAAAAAAABAAIEEQMSISJBgaH/2gAMAwEAAhEDEQA/AMDbN5sxFVS3i3vZJGZFqmccggARAx3yTo/vG2GqrC60RfSICg0pcSzpGQwY57fX7pptuyUReMrnlnxI8zkjOfPrVuu3IQyS19ThHsCyR9+dDOlgDbd9JvDhtLjnGle8L//Z",
+    "url": "https://preview.redd.it/yduy00tvf2d91.jpg?width=640&crop=smart&auto=webp&s=e3298c443da56b2b7e6b9a390cfbf8b488826c5c",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 75,
+    "value": 75
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Three phases of the Mercurian day: a few small test pieces I made for an ongoing project.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/w53mdd/three_phases_of_the_mercurian_day_a_few_small/"
+}
