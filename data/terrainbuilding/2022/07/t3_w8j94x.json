@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_6mgbna0y",
+    "name": "CaptZippy"
+  },
+  "date": {
+    "day": 1658793600,
+    "full": 1658840555,
+    "month": 1656633600,
+    "week": 1658620800
+  },
+  "id": "t3_w8j94x",
+  "picture": {
+    "filesize": 94176,
+    "fullUrl": "https://preview.redd.it/k4lq7kr2vwd91.jpg?width=4032&format=pjpg&auto=webp&s=f5029d8384f1c24d347cfbf9de0779c853bb7e22",
+    "hash": "43a5636d86",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFAABAAAAAAAAAAAAAAAAAAAABf/EACMQAAEEAgEDBQAAAAAAAAAAAAECAwQRAAUhBhIxE0FRkbH/xAAVAQEBAAAAAAAAAAAAAAAAAAABBf/EABoRAAEFAQAAAAAAAAAAAAAAAAIAAQMREiH/2gAMAwEAAhEDEQA/ACoG4m9LOdz8KJJYfAbDYdpDZFnuNg1Y/cRidYbWY82rX6aIhYUCH2PUAAu+VlIHj25+MYe1kOU0FyY6HSg8BQsfWHy31RlhtgJQgE0kChz5ycbYGmSMtBgeL//Z",
+    "url": "https://preview.redd.it/k4lq7kr2vwd91.jpg?width=640&crop=smart&auto=webp&s=8fa193ca65c03d8eb22e162b2b824d70560ddcdc",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "ratio": 0.94,
+    "ups": 25,
+    "value": 25
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Trying to build more terrain",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/w8j94x/trying_to_build_more_terrain/"
+}

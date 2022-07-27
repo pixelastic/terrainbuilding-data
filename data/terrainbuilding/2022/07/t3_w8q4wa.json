@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_2hdbilhk",
+    "name": "ragure"
+  },
+  "date": {
+    "day": 1658793600,
+    "full": 1658857585,
+    "month": 1656633600,
+    "week": 1658620800
+  },
+  "id": "t3_w8q4wa",
+  "picture": {
+    "filesize": 67896,
+    "fullUrl": "https://preview.redd.it/g8jmjw6r9yd91.jpg?width=1080&format=pjpg&auto=webp&s=a4286e75592e60c8d6b6d8430e0a928ef19d7395",
+    "hash": "b5357c9d84",
+    "height": 958,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAYI/8QAJBAAAgEDAgYDAAAAAAAAAAAAAQIDAAQFERIGExUhMVEygbH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABcRAAMBAAAAAAAAAAAAAAAAAAECEQD/2gAMAwEAAhEDEQA/AKe3u7R88cerjdFAXK+21H4KVLBb8w+KztNxbfy3RuepIs5TlsWYK231p4I7DvS4ePMrHEiLkC4A+WxTr9ka1RcGTCowt3//2Q==",
+    "url": "https://preview.redd.it/g8jmjw6r9yd91.jpg?width=640&crop=smart&auto=webp&s=2dd3659c4455d65128279e7ed93d4650e5025ca5",
+    "width": 640
+  },
+  "score": {
+    "comments": 10,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 278,
+    "value": 278
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Keeper of the gate. bird model from lord of the print",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/w8q4wa/keeper_of_the_gate_bird_model_from_lord_of_the/"
+}

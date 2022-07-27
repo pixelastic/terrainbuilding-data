@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_56fhyfec",
+    "name": "ironballs24-7"
+  },
+  "date": {
+    "day": 1658793600,
+    "full": 1658863961,
+    "month": 1656633600,
+    "week": 1658620800
+  },
+  "id": "t3_w8ss48",
+  "picture": {
+    "filesize": 34389,
+    "fullUrl": "https://preview.redd.it/ouabfx0qsyd91.jpg?auto=webp&s=0e46b12203058dd9088870c008a0f64396ec6809",
+    "hash": "0a3d8eb105",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABwX/xAAiEAACAgEDBQEBAAAAAAAAAAABAgMEBQAGERITMUFxISL/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABcRAAMBAAAAAAAAAAAAAAAAAAABETH/2gAMAwEAAhEDEQA/AEzfO5ZsGK0cIgezK4Hank7YKE8Fuo+OCR6OjXdWJyW+NvV4rGUrxOLEkzoYiyBhygQMvkD9IPvnSvuTAY/NvG2RiaR41KqQ5HA1Nr4WljKhpV4uqszFikn9Ak/fmgpQ1dP/2Q==",
+    "url": "https://preview.redd.it/ouabfx0qsyd91.jpg?width=640&crop=smart&auto=webp&s=66c3e7e4b70d13c6e3ad65dbc3c0a00962f6392c",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 43,
+    "value": 43
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Cheapo Monument!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/w8ss48/cheapo_monument/"
+}
