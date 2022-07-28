@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_yyly2",
+    "name": "djzl05l"
+  },
+  "date": {
+    "day": 1658880000,
+    "full": 1658893306,
+    "month": 1656633600,
+    "week": 1658620800
+  },
+  "id": "t3_w9430q",
+  "picture": {
+    "filesize": 86499,
+    "fullUrl": "https://preview.redd.it/n60c88az71e91.jpg?width=4032&format=pjpg&auto=webp&s=3fbac58937bb4cef844647fb2fc2e45faed6477b",
+    "hash": "27ae008aa1",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgT/xAAhEAACAgICAwADAAAAAAAAAAABAwIEBREAIRIxQQZRkf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGREAAgMBAAAAAAAAAAAAAAAAAQMAAhEh/9oADAMBAAIRAxEAPwCdlGCkWLbPHJWHQAr0oUTGXmehIsl14/SACTw83FYm3+NI1lMRSz0XyLFvayC5J7AG9Hsn9H1xXnb1muxsVOkIwiJRB0df3g8XI25vU6nUIho7CtE7P3XvgNTUnSJQttswHs//2Q==",
+    "url": "https://preview.redd.it/n60c88az71e91.jpg?width=640&crop=smart&auto=webp&s=a2f3e58ef7e64d222a700c97def7b2b981c92ae1",
+    "width": 640
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 31,
+    "value": 31
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Scratch made ZM terrain",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/w9430q/scratch_made_zm_terrain/"
+}
