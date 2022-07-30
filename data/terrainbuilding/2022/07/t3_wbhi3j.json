@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_11yd60",
+    "name": "Ludwig1920"
+  },
+  "date": {
+    "day": 1659052800,
+    "full": 1659133535,
+    "month": 1656633600,
+    "week": 1658620800
+  },
+  "id": "t3_wbhi3j",
+  "picture": {
+    "filesize": 126675,
+    "fullUrl": "https://preview.redd.it/i22hbnta2le91.jpg?width=1080&format=pjpg&auto=webp&s=0958583865314b5163cbea345bb6474c767cba55",
+    "hash": "cc48129f7a",
+    "height": 1138,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABQYHCP/EACcQAAIBAwEGBwAAAAAAAAAAAAEDBAACEQYHEhQikeEVFjFTVHGS/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAaEQACAgMAAAAAAAAAAAAAAAAAAhIhAzEy/9oADAMBAAIRAxEAPwBu0DtUhRYkq+WJ7+LZa9YFttwBu5SMAjdyRn0xVb8yWfFkfmsWaSfNeAEoWli8FbV8h7D66Uf8c1J7zevap5HjzYkWW6P/2Q==",
+    "url": "https://preview.redd.it/i22hbnta2le91.jpg?width=640&crop=smart&auto=webp&s=3546a5b34a1f608c746442e77d79b44c88ecd164",
+    "width": 640
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 123,
+    "value": 123
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A Frostgrave building I am currently working on.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/wbhi3j/a_frostgrave_building_i_am_currently_working_on/"
+}
