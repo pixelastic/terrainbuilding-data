@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_3t7ig6vo",
+    "name": "Ekfud"
+  },
+  "date": {
+    "day": 1659312000,
+    "full": 1659339656,
+    "month": 1659312000,
+    "week": 1659225600
+  },
+  "id": "t3_wdbeyz",
+  "picture": {
+    "filesize": 72276,
+    "fullUrl": "https://external-preview.redd.it/3QdnwfAqCLTqfpVBDjp50JYWvOKdHr7-EhXAy5Y4gpg.jpg?auto=webp&s=127c9a3512aca74ff49d4155e0680bdee4f82649",
+    "hash": "3ee8a7ae26",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQME/8QAIRAAAgEDBAMBAAAAAAAAAAAAAQIDAAUGBBESURMxQSH/xAAUAQEAAAAAAAAAAAAAAAAAAAAG/8QAIhEAAQIDCQAAAAAAAAAAAAAAAQAEAhEhAyMxMqGxwdHw/9oADAMBAAIRAxEAPwBXFcViuKPJqZHSFDxAT8LHbf3Qmf4stsZH00jPDJuBz9g9VSyZdqLWWCRl4mIJQj72KyZHlEt3C+VOMce/FR2fpPdLyHZc1yaS7QKzDeFqKXnO0vYr/9k=",
+    "url": "https://external-preview.redd.it/3QdnwfAqCLTqfpVBDjp50JYWvOKdHr7-EhXAy5Y4gpg.jpg?width=640&crop=smart&auto=webp&s=07dc91d96dcaa1b62461ae5ec5f39b8eef7b93bd",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 7,
+    "value": 7
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Display board ideas - building up a tiny hex surface",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/wdbeyz/display_board_ideas_building_up_a_tiny_hex_surface/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_10bjw9",
+    "name": "sFAMINE"
+  },
+  "date": {
+    "day": 1659312000,
+    "full": 1659381952,
+    "month": 1659312000,
+    "week": 1659225600
+  },
+  "id": "t3_wdq1tv",
+  "picture": {
+    "filesize": 128526,
+    "fullUrl": "https://preview.redd.it/h60x453xk5f91.jpg?auto=webp&s=c678d3194afd028caca22e39efe39342336bfbb2",
+    "hash": "194929b7d4",
+    "height": 606,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAPABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQME/8QAJBAAAQMCBQUBAAAAAAAAAAAAAQIDBAURAAYSIUEHIjFRYRP/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERAv/aAAwDAQACEQMRAD8AMECVJqbEmntzHEpI0obQV/o4R4SLdyfN+BtitYgACO/IiGFDKyH4yhqDTw3PYQCLgAgfTa+D+nObILD9RNbmyo7i7LYm2U8tICjqTbi+oEfQPWMed85t1euOIor0hympYS08uQSVOrBuFb7i3Hy/vAdSCsp2M//Z",
+    "url": "https://preview.redd.it/h60x453xk5f91.jpg?width=640&crop=smart&auto=webp&s=7a1c673b180ae261eb365fbef935cb9cada68a16",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 51,
+    "value": 51
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Sci-Fi Landing Pad",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/wdq1tv/scifi_landing_pad/"
+}
