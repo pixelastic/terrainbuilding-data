@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_ez86stru",
+    "name": "CustomMiniatureMaker"
+  },
+  "date": {
+    "day": 1659398400,
+    "full": 1659438434,
+    "month": 1659312000,
+    "week": 1659225600
+  },
+  "id": "t3_we8tbx",
+  "picture": {
+    "filesize": 90764,
+    "fullUrl": "https://preview.redd.it/gf3gnxsq8af91.jpg?width=3024&format=pjpg&auto=webp&s=eb848dc6179ae94cff0a98ded729318c07b6e3d9",
+    "hash": "2d800d16b3",
+    "height": 801,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwUG/8QAJxAAAgEDAgUEAwAAAAAAAAAAAQIDBAURAAYSFCFBUQcTIzFxgYL/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABkRAQACAwAAAAAAAAAAAAAAAAEAIgMRE//aAAwDAQACEQMRAD8A0e6t47onuFTLAlQIIjICgCAIvuMgKdycowyeoIONIWwN3XO4JXUdztFdzFCY0Y9HOWXJycjxn96g+olxobXupzcrK4EMQ5KqpqZvk48mRGP0TxEn+j30i7WanuFsW6JQTUU9cFkmSYcLlgoUEj8KOvjGq6DXUXKNZ//Z",
+    "url": "https://preview.redd.it/gf3gnxsq8af91.jpg?width=640&crop=smart&auto=webp&s=29566513b041f6a1bc65d10a595f1499a47c5452",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.96,
+    "ups": 25,
+    "value": 25
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Here are some pieces I made from clay using 3D printed Tools",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/we8tbx/here_are_some_pieces_i_made_from_clay_using_3d/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_xq91w",
+    "name": "Amurus"
+  },
+  "date": {
+    "day": 1659398400,
+    "full": 1659408601,
+    "month": 1659312000,
+    "week": 1659225600
+  },
+  "id": "t3_we07cw",
+  "picture": {
+    "filesize": 85578,
+    "fullUrl": "https://preview.redd.it/ia5fka55s7f91.jpg?width=4078&format=pjpg&auto=webp&s=8de12aefe31bb6bde076ab3c8f3e9770fc746b03",
+    "hash": "fd2573cd3b",
+    "height": 405,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAKABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABwb/xAAjEAACAQMEAgMBAAAAAAAAAAABAgMEBREABiExEhMiQWKB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQP/xAAXEQEBAQEAAAAAAAAAAAAAAAABAhEA/9oADAMBAAIRAxEAPwA8hersl7qTTzr72IZvBj0QWKAnnrjnvSFsLfG4bnRg1VGIJIpsNUSFkMkarjxOeMnryz/NRNxRTvepJUE+uLnH401W9ElstFHKqvG1QcqwyD8R9agYGnNuS09//9k=",
+    "url": "https://preview.redd.it/ia5fka55s7f91.jpg?width=640&crop=smart&auto=webp&s=7cceba15f6282d802d3acc855a1994c65b812943",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 88,
+    "value": 88
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Inspiration for dnd terrain",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/we07cw/inspiration_for_dnd_terrain/"
+}
