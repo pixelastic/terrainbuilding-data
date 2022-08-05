@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_813kxd7z",
+    "name": "ValnyrJLM"
+  },
+  "date": {
+    "day": 1659571200,
+    "full": 1659611180,
+    "month": 1659312000,
+    "week": 1659225600
+  },
+  "id": "t3_wfye8t",
+  "picture": {
+    "filesize": 112564,
+    "fullUrl": "https://preview.redd.it/z39jzav6iof91.jpg?width=3968&format=pjpg&auto=webp&s=7d44a5bbffdc42be6134ed0633ab4e86e917ae51",
+    "hash": "2fc3e6cd31",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMGB//EACUQAAIBAwMDBQEAAAAAAAAAAAEDAgQRIQAFEgYTYSIxMkJRwf/EABUBAQEAAAAAAAAAAAAAAAAAAAAG/8QAGREAAgMBAAAAAAAAAAAAAAAAAQIAESJh/9oADAMBAAIRAxEAPwAOt2zqKFVM2lrNtXBkpRe31dwn7cQQc/0alqTpF+8TfOlrRUbzKII7krRiLDMvcj8yPOdMqee69RBj3vh3GQEorYREn43sb5tbWuMWFJW1MpKnyKpcMcwLZPnJGptcAdgspF1P/9k=",
+    "url": "https://preview.redd.it/z39jzav6iof91.jpg?width=640&crop=smart&auto=webp&s=8235cccffb253d5cc9e5dd02f7b1517db2ed711d",
+    "width": 640
+  },
+  "score": {
+    "comments": 21,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 469,
+    "value": 469
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Some simple & functional terrain : )",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/wfye8t/some_simple_functional_terrain/"
+}
