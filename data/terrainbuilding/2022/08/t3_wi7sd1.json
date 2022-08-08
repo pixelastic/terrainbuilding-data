@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_ebr0yuk1",
+    "name": "GameBearAdvance_"
+  },
+  "date": {
+    "day": 1659830400,
+    "full": 1659849367,
+    "month": 1659312000,
+    "week": 1659830400
+  },
+  "id": "t3_wi7sd1",
+  "picture": {
+    "filesize": 101614,
+    "fullUrl": "https://preview.redd.it/efhuyjxt68g91.jpg?auto=webp&s=2fd9ef32cd6e8f5719db2ab0c1cd7c1a77cae5d1",
+    "hash": "bf99b5a761",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQT/xAAnEAABAwIFAwUBAAAAAAAAAAABAgMEBREABhIhQRMUUQcxYXGBof/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGBEBAAMBAAAAAAAAAAAAAAAAAQACEQP/2gAMAwEAAhEDEQA/AL4OXkN1x6qPqWzOmMFskOGzYNtnd9gbD28fuHEZdltlYpFTqVHjaie2iOjpauVJFxYH64wRQcwxp9MdfkuttraTrkgnaQi9goDzuAR5I4OApHqR3TqlU+pMpjIOhKOo7dFuCUtKBPzf+WxPzwMrFsq6z//Z",
+    "url": "https://preview.redd.it/efhuyjxt68g91.jpg?width=640&crop=smart&auto=webp&s=67b97c9e922c44d470e90b3d133ce2d1877359ee",
+    "width": 640
+  },
+  "score": {
+    "comments": 16,
+    "downs": 0,
+    "ratio": 0.96,
+    "ups": 34,
+    "value": 34
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Looking for input on a base for my dungeon tiles.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/wi7sd1/looking_for_input_on_a_base_for_my_dungeon_tiles/"
+}
