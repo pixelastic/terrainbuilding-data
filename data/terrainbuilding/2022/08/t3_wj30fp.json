@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_n7enuenl",
+    "name": "minquist"
+  },
+  "date": {
+    "day": 1659916800,
+    "full": 1659945400,
+    "month": 1659312000,
+    "week": 1659830400
+  },
+  "id": "t3_wj30fp",
+  "picture": {
+    "filesize": 311869,
+    "fullUrl": "https://preview.redd.it/2ua8tcjd4gg91.jpg?width=1504&format=pjpg&auto=webp&s=e6696c4b36c60e8912a1b63f3c699cf155967e84",
+    "hash": "b41de9b955",
+    "height": 1389,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAcDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAf/xAAiEAACAQMEAgMAAAAAAAAAAAABAgMABBEFEiExBhQiQWH/xAAVAQEBAAAAAAAAAAAAAAAAAAACBf/EABkRAQACAwAAAAAAAAAAAAAAAAEAAhQhYf/aAAwDAQACEQMRAD8AnF5pV7GJ2VIzDEQoiK/I88HvB+6Ve7XxR/XOoW2n2121wu8LJh2kVjuDkdKecYH7Sp1gNVIMfs//2Q==",
+    "url": "https://preview.redd.it/2ua8tcjd4gg91.jpg?width=640&crop=smart&auto=webp&s=681d6e06ea5a0cc1d44a1948465bb246c0f7cf84",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 36,
+    "value": 36
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My second finished project: a dice tower build from xps and wood",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/wj30fp/my_second_finished_project_a_dice_tower_build/"
+}

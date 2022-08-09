@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_ez86stru",
+    "name": "CustomMiniatureMaker"
+  },
+  "date": {
+    "day": 1659916800,
+    "full": 1659961844,
+    "month": 1659312000,
+    "week": 1659830400
+  },
+  "id": "t3_wj7ohs",
+  "picture": {
+    "filesize": 43269,
+    "fullUrl": "https://preview.redd.it/v9gxcrg4hhg91.jpg?width=4032&format=pjpg&auto=webp&s=79d592118dc1b01e0e3b9b36c8b3e9406cc3208d",
+    "hash": "540cabc81c",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAJRAAAQMCBQQDAAAAAAAAAAAAAQIDBAURAAYHEjETISJBFHGx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAYEQACAwAAAAAAAAAAAAAAAAAAAREhIv/aAAwDAQACEQMRAD8A0XV/ORoDEimR+rCmNpQ63KJIS7cHwTt4PPc9hbFLQdyVUclrlTlvuKdfOxbxUSUhI43er3tb9wg1CyTQ8yQn5VRjH5rTXhIbVZYAuQPYI7nke8JKHSolEpManU5Bbix0bG0lRUQPs4nGhN0f/9k=",
+    "url": "https://preview.redd.it/v9gxcrg4hhg91.jpg?width=640&crop=smart&auto=webp&s=68b26aabf9d14cf89e9cbeda74d6efbf1d0a066d",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 46,
+    "value": 46
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Made you guys a Free set of modular platform STLs, stack 'em as high as you want!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/wj7ohs/made_you_guys_a_free_set_of_modular_platform_stls/"
+}
