@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_47ue1",
+    "name": "torb"
+  },
+  "date": {
+    "day": 1660003200,
+    "full": 1660069587,
+    "month": 1659312000,
+    "week": 1659830400
+  },
+  "id": "t3_wkaqij",
+  "picture": {
+    "filesize": 111750,
+    "fullUrl": "https://preview.redd.it/2pe74m5jdqg91.jpg?auto=webp&s=0ba6a2fce2494d435386a4cb83d6533437334ecb",
+    "hash": "41f021ab5c",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgf/xAAlEAACAQMDAgcAAAAAAAAAAAABAgMEESEABRIGcRMUI0FRYZH/xAAUAQEAAAAAAAAAAAAAAAAAAAAB/8QAFhEBAQEAAAAAAAAAAAAAAAAAEgAx/9oADAMBAAIRAxEAPwBfBsCRTl3aSR1JtyYm2b6GS9Q9TmYxyV6RkvjxqMcmz3H7bvqhvXq0hAVssRe33qb+VV93qaySOULP6aI6kWXlnHtf40I5JW3/2Q==",
+    "url": "https://preview.redd.it/2pe74m5jdqg91.jpg?width=640&crop=smart&auto=webp&s=6896d9ddae19ce2b8162278749cd58e016abf927",
+    "width": 640
+  },
+  "score": {
+    "comments": 28,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 249,
+    "value": 249
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "The cobblestones in this theme park seem to be made with same technique as some use on R/terrainbuilding",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/wkaqij/the_cobblestones_in_this_theme_park_seem_to_be/"
+}

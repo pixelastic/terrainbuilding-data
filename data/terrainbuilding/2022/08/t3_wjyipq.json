@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_m171m",
+    "name": "Karl-der-Tolle"
+  },
+  "date": {
+    "day": 1660003200,
+    "full": 1660036155,
+    "month": 1659312000,
+    "week": 1659830400
+  },
+  "id": "t3_wjyipq",
+  "picture": {
+    "filesize": 41291,
+    "fullUrl": "https://preview.redd.it/fmlavnl7mng91.jpg?width=1440&format=pjpg&auto=webp&s=0ba8c968120f47f01697e3104efb6adb19980899",
+    "hash": "4db8759803",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQH/8QAJBABAAEDAgUFAAAAAAAAAAAAAQIDBBEAIQUGEjFBExQkUWH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABgRAAIDAAAAAAAAAAAAAAAAAAABEhMh/9oADAMBAAIRAxEAPwCGy4xCcw6oi9sukLjiTbVGnWwOMiOyfZ+azrlOFTiN7S65xjRjOLKMhfUM7gHfbOdLc2e6sYWDOPxym06U9xQc4TxgfG2qrUFHT//Z",
+    "url": "https://preview.redd.it/fmlavnl7mng91.jpg?width=640&crop=smart&auto=webp&s=6b0656a02d2fd7bdfa3cdaef25d9687532ddaf6d",
+    "width": 640
+  },
+  "score": {
+    "comments": 10,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 528,
+    "value": 528
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My stormcast fountain to add a little flavor to my town",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/wjyipq/my_stormcast_fountain_to_add_a_little_flavor_to/"
+}

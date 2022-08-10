@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_63h1h5",
+    "name": "Shaylok"
+  },
+  "date": {
+    "day": 1660003200,
+    "full": 1660082221,
+    "month": 1659312000,
+    "week": 1659830400
+  },
+  "id": "t3_wkfwcc",
+  "picture": {
+    "filesize": 84267,
+    "fullUrl": "https://preview.redd.it/ko9l1flzerg91.jpg?width=2022&format=pjpg&auto=webp&s=1e2bd73f4d846f5a6c51dc9056af5959df20546f",
+    "hash": "216918d6d7",
+    "height": 449,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQFB//EACMQAAIBAwMEAwAAAAAAAAAAAAECAwQRIgAhMQYSQVEFE2H/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABkRAAIDAQAAAAAAAAAAAAAAABESAAECIv/aAAwDAQACEQMRAD8Az9aSCGmhlWBBBk5mK/YsZWwNwDxb150fzFHE0GECyJa7EqQyi2PJxBJOx1G6JqpoqYlJDk5vffz+6a6qrJ5qdnlfucLs3aL8+9T3qmUR05Jn/9k=",
+    "url": "https://preview.redd.it/ko9l1flzerg91.jpg?width=640&crop=smart&auto=webp&s=1c4c7fde636f191a2e2b34c34731bda52639561b",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 58,
+    "value": 58
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I made the Cantina scene from Star Wars!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/wkfwcc/i_made_the_cantina_scene_from_star_wars/"
+}
