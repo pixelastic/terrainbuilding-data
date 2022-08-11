@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_63509p2f",
+    "name": "lucadoo"
+  },
+  "date": {
+    "day": 1660089600,
+    "full": 1660132106,
+    "month": 1659312000,
+    "week": 1659830400
+  },
+  "id": "t3_wkvcy6",
+  "picture": {
+    "filesize": 108761,
+    "fullUrl": "https://preview.redd.it/p9ps71ejjvg91.jpg?width=3024&format=pjpg&auto=webp&s=8f97110cee4afad9cbbaac8b20b55372bd9903f1",
+    "hash": "2835cf49db",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQF/8QAJBAAAgECBgEFAAAAAAAAAAAAAQMCAAUEBhEhMUETEiJRcdH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGxEAAQUBAQAAAAAAAAAAAAAAAQACAwQxESH/2gAMAwEAAhEDEQA/ANaN3tdnbB95U1qWgrgFpLdJdkgcbd1WvDtnAShr6Tx9UNz8h5zFaLVhy3wtkJeQwiRvLQ8E8AfPe9OlqkIARxkogbAez9obbUQHS7Ug1ZT4Bi//2Q==",
+    "url": "https://preview.redd.it/p9ps71ejjvg91.jpg?width=640&crop=smart&auto=webp&s=9860104d745ccd01abe24ec5f76701f84f11874e",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.96,
+    "ups": 54,
+    "value": 54
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Made some stuff for my Warhammer board. C&C welcome.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/wkvcy6/made_some_stuff_for_my_warhammer_board_cc_welcome/"
+}
