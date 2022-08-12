@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_3dxz0hhb",
+    "name": "KamenRiderG"
+  },
+  "date": {
+    "day": 1660176000,
+    "full": 1660252827,
+    "month": 1659312000,
+    "week": 1659830400
+  },
+  "id": "t3_wm2mbr",
+  "picture": {
+    "filesize": 85947,
+    "fullUrl": "https://preview.redd.it/dddllpshi5h91.jpg?width=1024&format=pjpg&auto=webp&s=ab6d0968863be0ebd3c7872e8e8a66992b7cffe2",
+    "hash": "522567d6d8",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAYH/8QAHxAAAQMEAwEAAAAAAAAAAAAAAQIDEQAEBSEHYXEU/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgX/xAAeEQABAwQDAAAAAAAAAAAAAAACAAERBBITIUFRcf/aAAwDAQACEQMRAD8AUOP8MrHpeftmSsMhxSUoBnUwJPgiodjF4ZOUZFvY/I6pyEXLJAKCQY0QfOjWg2ugDAnumpuFho6SYBIkUsBbuKW8U8q4OBee5df/2Q==",
+    "url": "https://preview.redd.it/dddllpshi5h91.jpg?width=640&crop=smart&auto=webp&s=f7e57f949875afe036238575774d7744c97af6c1",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 27,
+    "value": 27
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Current WIP. Wooden Bridge.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/wm2mbr/current_wip_wooden_bridge/"
+}

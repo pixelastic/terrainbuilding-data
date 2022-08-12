@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_8ll3u",
+    "name": "mider-span"
+  },
+  "date": {
+    "day": 1660176000,
+    "full": 1660187963,
+    "month": 1659312000,
+    "week": 1659830400
+  },
+  "id": "t3_wlgz9i",
+  "picture": {
+    "filesize": 81769,
+    "fullUrl": "https://preview.redd.it/17whoo6n50h91.jpg?width=2647&format=pjpg&auto=webp&s=5d0f70d98d12ab593de76ee34b492132abc48f23",
+    "hash": "dc3babd5d9",
+    "height": 974,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwAG/8QAIxAAAQQBBQACAwAAAAAAAAAAAQIDBBEFAAYSIUEHJDFRcf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAaEQACAgMAAAAAAAAAAAAAAAAAAQIRAxIh/9oADAMBAAIRAxEAPwC+Qt2SXdwY5+K463PxiC4lwuVxJA48RfYN9j3+a3+C3hk8hh4cqfjJCJTrYLgaUgoJ/abUOj+a8utFud2RvTO52TIniE2844PsNrpBSk0nikA0K8OnDAYlcfCQWJkSMuQ0yltamrCSQKsX35od3bHWK4rh/9k=",
+    "url": "https://preview.redd.it/17whoo6n50h91.jpg?width=640&crop=smart&auto=webp&s=e36f6125b7b3fb8f3474076a5f174fd4ce10b913",
+    "width": 640
+  },
+  "score": {
+    "comments": 12,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 384,
+    "value": 384
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Free Style build. No plans. 95% coffee stir sticks.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/wlgz9i/free_style_build_no_plans_95_coffee_stir_sticks/"
+}

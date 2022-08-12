@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5pclkzz5",
+    "name": "Printable-Scenery"
+  },
+  "date": {
+    "day": 1660176000,
+    "full": 1660216244,
+    "month": 1659312000,
+    "week": 1659830400
+  },
+  "id": "t3_wlosao",
+  "picture": {
+    "filesize": 50205,
+    "fullUrl": "https://preview.redd.it/aucsbkhfh2h91.jpg?auto=webp&s=6a85c1cbf03b3ce0313bb4163c629bcb503178c3",
+    "hash": "d3ce5253f9",
+    "height": 240,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAGABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMF/8QAIBAAAQMEAgMAAAAAAAAAAAAAAgABEQMEBSEGIhIVwf/EABUBAQEAAAAAAAAAAAAAAAAAAAIF/8QAGBEBAAMBAAAAAAAAAAAAAAAAAQACAxH/2gAMAwEAAhEDEQA/AMSlzXP+Tj7a8iIHtDsr0+TZ0rQ6I5K4aifV5PZTvbx9RFL21vUQY04z/9k=",
+    "url": "https://preview.redd.it/aucsbkhfh2h91.jpg?width=640&crop=smart&auto=webp&s=3b961eaf1412b9c488da1031004f0191cf825d7a",
+    "width": 640
+  },
+  "score": {
+    "comments": 21,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 263,
+    "value": 263
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Painting guide on realistic stone walls",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/wlosao/painting_guide_on_realistic_stone_walls/"
+}
