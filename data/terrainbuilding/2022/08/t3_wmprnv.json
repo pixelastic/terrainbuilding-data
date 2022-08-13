@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_wnzgh",
+    "name": "AngrySpaceBadger"
+  },
+  "date": {
+    "day": 1660262400,
+    "full": 1660322248,
+    "month": 1659312000,
+    "week": 1659830400
+  },
+  "id": "t3_wmprnv",
+  "picture": {
+    "filesize": 77408,
+    "fullUrl": "https://preview.redd.it/kgc2ir1w8bh91.jpg?width=3841&format=pjpg&auto=webp&s=843a327202e68792dc0c87760c029180dede0cb2",
+    "hash": "37a3d3be51",
+    "height": 416,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAKABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQMH/8QAJBAAAQMDAwQDAAAAAAAAAAAAAQIDBAURIQASMRMVUXEGI0H/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABcRAQEBAQAAAAAAAAAAAAAAABEAARL/2gAMAwEAAhEDEQA/AAvlsmpOyYy47klCL7m44QspdyLbjwL85t+acpcCcuED9yZTN0updXvcV5HJBFrY1isar1LvCB3CZbqnHWV596tVavUhUXCKhMBVtJs+rOPepmIS62//2Q==",
+    "url": "https://preview.redd.it/kgc2ir1w8bh91.jpg?width=640&crop=smart&auto=webp&s=87c4a1afe80e47b3520c808ad01b9bcc96b3279a",
+    "width": 640
+  },
+  "score": {
+    "comments": 14,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 208,
+    "value": 208
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Killteam/Skirmish Terrain",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/wmprnv/killteamskirmish_terrain/"
+}

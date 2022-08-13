@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5pclkzz5",
+    "name": "Printable-Scenery"
+  },
+  "date": {
+    "day": 1660262400,
+    "full": 1660305241,
+    "month": 1659312000,
+    "week": 1659830400
+  },
+  "id": "t3_wmjea0",
+  "picture": {
+    "filesize": 55994,
+    "fullUrl": "https://preview.redd.it/ov7l4u7qt9h91.jpg?width=1835&format=pjpg&auto=webp&s=8919660ec071ddb03d59f7c1b314f34a24c4e3c1",
+    "hash": "af9c82fff9",
+    "height": 279,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAEF/8QAIBAAAgEEAgMBAAAAAAAAAAAAAQIDAAQRIQYSBRQxMv/EABUBAQEAAAAAAAAAAAAAAAAAAAMF/8QAHREAAQQCAwAAAAAAAAAAAAAAAQACAxIEkRET0f/aAAwDAQACEQMRAD8AzRya4vpe1g88cp1+0AQ5I0AgyakXLPLWUgBX2OzDVwyspA+4wujSlSXZcodWx2fU3RHwDUaX/9k=",
+    "url": "https://preview.redd.it/ov7l4u7qt9h91.jpg?width=640&crop=smart&auto=webp&s=15768935ca5e54752c1729fc2152d3a636667a3d",
+    "width": 640
+  },
+  "score": {
+    "comments": 25,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 896,
+    "value": 896
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Here's some more shots of the medieval buildings we've been working on",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/wmjea0/heres_some_more_shots_of_the_medieval_buildings/"
+}

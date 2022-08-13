@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_qfzn1aar",
+    "name": "Draklith"
+  },
+  "date": {
+    "day": 1660262400,
+    "full": 1660332734,
+    "month": 1659312000,
+    "week": 1659830400
+  },
+  "id": "t3_wmtt5g",
+  "picture": {
+    "filesize": 84139,
+    "fullUrl": "https://preview.redd.it/s7nndw504ch91.jpg?width=2688&format=pjpg&auto=webp&s=491a07e6b20b304cc9e61dc55a3544ea89ada777",
+    "hash": "8da81d634f",
+    "height": 362,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFBv/EACcQAAECAwUJAAAAAAAAAAAAAAECAwAEBQYREiGxFDVFUWFxdIOy/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABkRAAIDAQAAAAAAAAAAAAAAAAABAhESIv/aAAwDAQACEQMRAD8Ag01qozClhmSDikuYVqSi8EA63aiH3W55mQU9sDaEYiQSjNZyB6m7l3jT0XhHs0MCqW8bOeU58mBb6yOoVDVn/9k=",
+    "url": "https://preview.redd.it/s7nndw504ch91.jpg?width=640&crop=smart&auto=webp&s=bf8102b306dc457ac2db097a6051a940d7fd688f",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 21,
+    "value": 21
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Skeletal Giant Brazier holders",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/wmtt5g/skeletal_giant_brazier_holders/"
+}
