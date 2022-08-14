@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_qfzn1aar",
+    "name": "Draklith"
+  },
+  "date": {
+    "day": 1660348800,
+    "full": 1660358455,
+    "month": 1659312000,
+    "week": 1659830400
+  },
+  "id": "t3_wn39jr",
+  "picture": {
+    "filesize": 56819,
+    "fullUrl": "https://preview.redd.it/zg2rh1c18eh91.jpg?width=2688&format=pjpg&auto=webp&s=8422b9c2a00779f4ba4155cc7c3cc1825fc5a195",
+    "hash": "dd6bdeb126",
+    "height": 362,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMH/8QAJxAAAQMCBQIHAAAAAAAAAAAAAQIDBAARBRITITEGYSIzQURxc7H/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EAB8RAAECBgMAAAAAAAAAAAAAAAEAAgMEERIhsSNCUf/aAAwDAQACEQMRAD8AytmPJPVQ0mhHSrE20rejjOtla7bJHqRY2Ha9TwWKV4uJDc3VdKVFzUTlyrufAq534572pHuJf20YeYz8D8FViCkhg9joJNbz3HwbK//Z",
+    "url": "https://preview.redd.it/zg2rh1c18eh91.jpg?width=640&crop=smart&auto=webp&s=db7f17def8c30b3201054a6655c9841180e7ad57",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 27,
+    "value": 27
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My Shadowbox that became a quick run in with a dragon...",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/wn39jr/my_shadowbox_that_became_a_quick_run_in_with_a/"
+}
