@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_ef39ewr5",
+    "name": "Puzzleheaded-Hat2163"
+  },
+  "date": {
+    "day": 1660435200,
+    "full": 1660503730,
+    "month": 1659312000,
+    "week": 1660435200
+  },
+  "id": "t3_wodx4k",
+  "picture": {
+    "filesize": 45889,
+    "fullUrl": "https://preview.redd.it/9hvkbcbl8qh91.jpg?width=3648&format=pjpg&auto=webp&s=b004f019e0c838003f8869c0178956e35541d5ac",
+    "hash": "576d73615d",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAIG/8QAIhAAAgIBAwQDAAAAAAAAAAAAAQIDBBEABSEGBxIxcYKR/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAwDAQACEQMRAD8AfuUtqnu0UEk8yQMpUSt5OZHIPiox65HPzonS1LcbEe60ruXvBXmDAsFEjDIAz+6rqMtLu8SM58YpY3THBVmwCQffonWnvXLFbuLU2+CQpWMKyFQBnJD55+o0eEtf/9k=",
+    "url": "https://preview.redd.it/9hvkbcbl8qh91.jpg?width=640&crop=smart&auto=webp&s=0f3bb1b8e017a76718a12eb6a1464e1edab5b0eb",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 59,
+    "value": 59
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Some \"trash\" terrain",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/wodx4k/some_trash_terrain/"
+}
