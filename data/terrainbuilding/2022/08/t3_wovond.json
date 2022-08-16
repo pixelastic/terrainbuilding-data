@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5fagyvkt",
+    "name": "AudioDee"
+  },
+  "date": {
+    "day": 1660521600,
+    "full": 1660557675,
+    "month": 1659312000,
+    "week": 1660435200
+  },
+  "id": "t3_wovond",
+  "picture": {
+    "filesize": 65635,
+    "fullUrl": "https://preview.redd.it/9br0788wouh91.jpg?auto=webp&s=3673fd72951f014d6c87d4b97d6b29f58434d0bd",
+    "hash": "12389ca019",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQQFBv/EACEQAAICAgEEAwAAAAAAAAAAAAECAwQAEQUSEyGRMWFx/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAaEQACAgMAAAAAAAAAAAAAAAABAgAhAxFB/9oADAMBAAIRAxEAPwAcmsNizMTbaGIsWHSmySTs/WY61HVjsOqOsyg+H+N+jilrnLAA7VueMga0kpA9A5Mk5B5ZGeWR3kY7LM2yf0nBOQw32V8ashs1P//Z",
+    "url": "https://preview.redd.it/9br0788wouh91.jpg?width=640&crop=smart&auto=webp&s=520ca3ecdfc329c4223b88cc52644422083e7f90",
+    "width": 640
+  },
+  "score": {
+    "comments": 9,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 544,
+    "value": 544
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Made some clay sandbag walls :)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/wovond/made_some_clay_sandbag_walls/"
+}

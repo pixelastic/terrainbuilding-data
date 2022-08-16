@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_104hd5",
+    "name": "ElChupatigre"
+  },
+  "date": {
+    "day": 1660521600,
+    "full": 1660539950,
+    "month": 1659312000,
+    "week": 1660435200
+  },
+  "id": "t3_woqv97",
+  "picture": {
+    "filesize": 34885,
+    "fullUrl": "https://preview.redd.it/ox1kjoqa8th91.jpg?auto=webp&s=4d59b34d21d742608bddf183ea09a5ba56f0e88b",
+    "hash": "9b3a765d3f",
+    "height": 288,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUG/8QAIhAAAgEDBAIDAAAAAAAAAAAAAQIEAAMFBhESIRMxIkFR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAYEQACAwAAAAAAAAAAAAAAAAAAEQEiMf/aAAwDAQACEQMRAD8Ay+kcJAfRszMSEtGPJQ+MSGuAuqN8OSoSNieX5t1UrLZLTeEy06Xirl2RZkMltYotsAgOxJ5sdz2T9e+/XVKVOrIfYZ//2Q==",
+    "url": "https://preview.redd.it/ox1kjoqa8th91.jpg?width=640&crop=smart&auto=webp&s=e3d0a2faefc763ea8a85109ab7ba5194fd259bdc",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.94,
+    "ups": 72,
+    "value": 72
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A 3 room dungeon crawl if I ever saw one",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/woqv97/a_3_room_dungeon_crawl_if_i_ever_saw_one/"
+}
