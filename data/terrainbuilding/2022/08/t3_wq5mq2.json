@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_2vybqf2p",
+    "name": "Oxybulart"
+  },
+  "date": {
+    "day": 1660608000,
+    "full": 1660683976,
+    "month": 1659312000,
+    "week": 1660435200
+  },
+  "id": "t3_wq5mq2",
+  "picture": {
+    "filesize": 49846,
+    "fullUrl": "https://preview.redd.it/gaebhxaj45i91.jpg?width=3029&format=pjpg&auto=webp&s=7836ca5ab26d5a43b63c62575d15657200844404",
+    "hash": "b58beb73d3",
+    "height": 591,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAPABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgf/xAAnEAABAwMCBAcAAAAAAAAAAAABAgMEABEhBQYSExQiIzEyQVFhcf/EABUBAQEAAAAAAAAAAAAAAAAAAAED/8QAGBEAAgMAAAAAAAAAAAAAAAAAAAECESH/2gAMAwEAAhEDEQA/AJJFclL62HF6UMn1lS/Yi173pNtDSHIqErdhsOuoeyvi7kjFrY+6MMarDRDmsiL4shw8D1h2JJAAt+Uh0h/m70gJS6pbRkN48gcfFTlbwUf/2Q==",
+    "url": "https://preview.redd.it/gaebhxaj45i91.jpg?width=640&crop=smart&auto=webp&s=9d09f0cfef0eda00cc5fa6767fe9a4715e1c3c05",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 9,
+    "value": 9
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "The next step, another tiles.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/wq5mq2/the_next_step_another_tiles/"
+}
