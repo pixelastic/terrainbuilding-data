@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_9mosfgh",
+    "name": "Zulerian"
+  },
+  "date": {
+    "day": 1660694400,
+    "full": 1660742344,
+    "month": 1659312000,
+    "week": 1660435200
+  },
+  "id": "t3_wqost7",
+  "picture": {
+    "filesize": 137644,
+    "fullUrl": "https://preview.redd.it/1x8vp0a4y9i91.jpg?width=3024&format=pjpg&auto=webp&s=f1a0280b43a2cfe9d188ee8269b52802b755e2a3",
+    "hash": "6b4345139e",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQF/8QAJBAAAgIBBAEEAwAAAAAAAAAAAQMCBBEABRIxIQYTFEFRYcH/xAAUAQEAAAAAAAAAAAAAAAAAAAAB/8QAGREAAwADAAAAAAAAAAAAAAAAAAECESEx/9oADAMBAAIRAxEAPwDGr7BW22STY3JzbI4mK1shDA/fZxpghVFVdUK2wRfCMfLVkHmeyZchnP8AMaO1/Txtpk80XuWTxi+s2MOYx+JHxLrONVVqFqwiJRZ+EqA9uCoyLCAPsyz5PehXedim54f/2Q==",
+    "url": "https://preview.redd.it/1x8vp0a4y9i91.jpg?width=640&crop=smart&auto=webp&s=8868fa91a1ae6c4e5ea5d83c7e184f891904104f",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 259,
+    "value": 259
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Took a swing at some swamp terrain",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/wqost7/took_a_swing_at_some_swamp_terrain/"
+}

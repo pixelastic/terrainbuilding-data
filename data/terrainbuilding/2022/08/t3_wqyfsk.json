@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_qfzn1aar",
+    "name": "Draklith"
+  },
+  "date": {
+    "day": 1660694400,
+    "full": 1660766187,
+    "month": 1659312000,
+    "week": 1660435200
+  },
+  "id": "t3_wqyfsk",
+  "picture": {
+    "filesize": 59402,
+    "fullUrl": "https://preview.redd.it/1no92esvsbi91.jpg?width=4032&format=pjpg&auto=webp&s=321e051b15253f5bfbf8eb37dbff61819d67ddc3",
+    "hash": "7138017afb",
+    "height": 320,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAIABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUH/8QAHxAAAgIBBQEBAAAAAAAAAAAAAQIDBAAFERIhMVGB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAYEQEAAwEAAAAAAAAAAAAAAAABAAIRMf/aAAwDAQACEQMRAD8AzSWRYrrPpdYV4468KM43RS6qAzr10d9/fGy1oVy3qOvV5LtJp6YikgMnIuqniQrN12F9+n9xjJVeRYA2f//Z",
+    "url": "https://preview.redd.it/1no92esvsbi91.jpg?width=640&crop=smart&auto=webp&s=b399e5d933863df7dda1828e158dec799ea68203",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 138,
+    "value": 138
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Some old gaming pictures...",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/wqyfsk/some_old_gaming_pictures/"
+}

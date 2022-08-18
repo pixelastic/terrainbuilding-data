@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5j5i2",
+    "name": "Kerbobotat"
+  },
+  "date": {
+    "day": 1660694400,
+    "full": 1660754537,
+    "month": 1659312000,
+    "week": 1660435200
+  },
+  "id": "t3_wqtqoy",
+  "picture": {
+    "filesize": 67277,
+    "fullUrl": "https://external-preview.redd.it/3ne0OpAbgzFDBSYyMpfsSkg295GooGqH9aNGhlX6VtI.jpg?auto=webp&s=791e3deab7001fe5a20d75dc193b63033a9daeda",
+    "hash": "30c37115c2",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQF/8QAJRAAAQQBAgUFAAAAAAAAAAAAAQIDBBEFACEGEjEyURMiI0Fh/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABoRAAICAwAAAAAAAAAAAAAAAAECABEDBCL/2gAMAwEAAhEDEQA/ADeJyb7bROWgvLybiuctqcDfssDm2B/engedPuH8qzmoDDL82NAZc+FhS1J7kJFi7FkmzvVamgYSAltCwx3bEFRI1u8LYHGomTIjkZD8bmbPpPAKTuL6fdeTvW16EuwhNKsWcLV0Z//Z",
+    "url": "https://external-preview.redd.it/3ne0OpAbgzFDBSYyMpfsSkg295GooGqH9aNGhlX6VtI.jpg?width=640&crop=smart&auto=webp&s=dafc6a9ed0d10681693cad8b05c738276f385c21",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 14,
+    "value": 14
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Spent last weekend scratch making terrain to use for Stargrave/Planet28, kept it to 3\" cubes or thereabouts so I can use it for deadzone too. Just starting to prime everything. Feedback appreciated!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/wqtqoy/spent_last_weekend_scratch_making_terrain_to_use/"
+}
