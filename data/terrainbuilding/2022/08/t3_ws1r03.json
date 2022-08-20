@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_2jtcpnw6",
+    "name": "keymaster0127"
+  },
+  "date": {
+    "day": 1660867200,
+    "full": 1660875265,
+    "month": 1659312000,
+    "week": 1660435200
+  },
+  "id": "t3_ws1r03",
+  "picture": {
+    "filesize": 96256,
+    "fullUrl": "https://preview.redd.it/jg4zi24dxki91.jpg?width=1440&format=pjpg&auto=webp&s=3369ed7a05a0d0c523d017e984d75ca8baeb66f5",
+    "hash": "9fe2eb2d07",
+    "height": 482,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAACAQG/8QAIhAAAgEDAwUBAAAAAAAAAAAAAQIDBAURAAYhEhMxQWFS/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAcEQABAwUAAAAAAAAAAAAAAAACAAERAxITITH/2gAMAwEAAhEDEQA/AINq1Qr7zJU3ZqaaRmZ0jUDtoxPv9NgD3jjW8fZ4qqs3CW5K3dVlmijGepSOl0LA8HHHHjR+tNdPE3UjYPgfNIbYVfPcdq0stSQXBdMj2AeM/dSm447Y1xLTF3OV/9k=",
+    "url": "https://preview.redd.it/jg4zi24dxki91.jpg?width=640&crop=smart&auto=webp&s=1a918d974f062c3db7ff38e52c3c59e8b45edbdc",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 82,
+    "value": 82
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Working on my first table!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ws1r03/working_on_my_first_table/"
+}
