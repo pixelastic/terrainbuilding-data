@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_ccdsi6im",
+    "name": "Domo_terrain"
+  },
+  "date": {
+    "day": 1660953600,
+    "full": 1660978886,
+    "month": 1659312000,
+    "week": 1660435200
+  },
+  "id": "t3_wt0qlg",
+  "picture": {
+    "filesize": 40454,
+    "fullUrl": "https://preview.redd.it/qy5i31lbhti91.jpg?width=2866&format=pjpg&auto=webp&s=b3d296759adc78c986b410b49da2f23b0dadf1e0",
+    "hash": "a6274a31c3",
+    "height": 441,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMFB//EACEQAAICAgIBBQAAAAAAAAAAAAEDAgQAESExEgUiQVGR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAXEQADAQAAAAAAAAAAAAAAAAAAASEC/9oADAMBAAIRAxEAPwDAE1FpQtzvJzjvxVKJEAOtkj91ibteBSHLlAEe2UQTrQ4Euet/WF6pYbXsQCWGIMeQMjOsusWIxcwyjvr4yuowqo//2Q==",
+    "url": "https://preview.redd.it/qy5i31lbhti91.jpg?width=640&crop=smart&auto=webp&s=02075d3eafe37a8666b487fe28bdfe391934b5bb",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 138,
+    "value": 138
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Dark Souls - Firelink Shrine",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/wt0qlg/dark_souls_firelink_shrine/"
+}

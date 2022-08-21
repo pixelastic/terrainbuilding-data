@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_69otzax9",
+    "name": "clockworkittens"
+  },
+  "date": {
+    "day": 1660953600,
+    "full": 1660979388,
+    "month": 1659312000,
+    "week": 1660435200
+  },
+  "id": "t3_wt0v4y",
+  "picture": {
+    "filesize": 42858,
+    "fullUrl": "https://preview.redd.it/s7omr70yiti91.jpg?width=4128&format=pjpg&auto=webp&s=42fe1258c489b83d455e0a3439f2e6a7e86a463e",
+    "hash": "ca90cb7ee9",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUG/8QAIRAAAgEDBAMBAAAAAAAAAAAAAQIDAAQFEhQhQREiMRP/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABgRAAMBAQAAAAAAAAAAAAAAAAECEQAS/9oADAMBAAIRAxEAPwDOQYKySwRtin6uA+hOOD0OqJksUosdzFE0c0PsdXJAqljr+ae1t5JNJYlR868Um5nIjZCiMp9SCPoobMbdRCjmb//Z",
+    "url": "https://preview.redd.it/s7omr70yiti91.jpg?width=640&crop=smart&auto=webp&s=4cd9f72f0d712ead6c18469a803ddab8863adda0",
+    "width": 640
+  },
+  "score": {
+    "comments": 38,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 99,
+    "value": 99
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Is this enough ground texture for a 40 x 40 board, and does anyone know a cheaper way to make your own ground texture.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/wt0v4y/is_this_enough_ground_texture_for_a_40_x_40_board/"
+}

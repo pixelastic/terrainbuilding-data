@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_3dxz0hhb",
+    "name": "KamenRiderG"
+  },
+  "date": {
+    "day": 1660953600,
+    "full": 1661019918,
+    "month": 1659312000,
+    "week": 1660435200
+  },
+  "id": "t3_wtdx1q",
+  "picture": {
+    "filesize": 156512,
+    "fullUrl": "https://preview.redd.it/1tdmrykhvwi91.jpg?auto=webp&s=1d06e0396bfb5acf90bf20be8b965867371644d9",
+    "hash": "ae3adad9ac",
+    "height": 1147,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQT/xAAlEAABAwIEBwEAAAAAAAAAAAABAgMEABEFMWGhEhQVISNTY5T/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAHhEAAQMEAwAAAAAAAAAAAAAAAQACAwQFERMhUfD/2gAMAwEAAhEDEQA/AAyWGcVEmPBixghzxhtgWzzuBrtTvWZ/rgflqBWBw3VOKUuSONZcIS8Ra5v200p3mvpsKHT3i2gu2xk9eyjSGbjW7C//2Q==",
+    "url": "https://preview.redd.it/1tdmrykhvwi91.jpg?width=640&crop=smart&auto=webp&s=05f1f0130730d36db8d1f9ba772e4bc9cc04db92",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 123,
+    "value": 123
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Finished project. River crossing.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/wtdx1q/finished_project_river_crossing/"
+}
