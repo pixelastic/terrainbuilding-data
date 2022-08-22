@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_6eridk4k",
+    "name": "Nat1Video"
+  },
+  "date": {
+    "day": 1661040000,
+    "full": 1661088039,
+    "month": 1659312000,
+    "week": 1661040000
+  },
+  "id": "t3_wtzgxk",
+  "picture": {
+    "filesize": 358950,
+    "fullUrl": "https://preview.redd.it/81mkeyxih2j91.png?width=2442&format=png&auto=webp&s=0e9089aa055a4cc511262b94eff071b48881a5e3",
+    "hash": "e99560c302",
+    "height": 376,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAABqklEQVQYlRXPaW+aYAAA4Bdiwa4yDSiIG3KJVMGjylFU1KAgMmudGitq13aXW48lM/uwJWua6B9f9vyDBwAYQlGUwHEySTKZtwInFqSiLBXJVJplRfW0ouRVikwDCEAwDMEwgCDYtb3Py49Pd0+77a/n3cv93YPbamvVutvuOF1n5I0v3EuGyUaPowAAIAqSoZ2zWd4s5CbNkm2dj4a+rBfUlm40yqZdk4o8SZPVolwrKfEEASyjWZElTuKsWv7DdX+6GVxdDcbLYLVdzmf9iWO1dKVUzsk8Lb6hTzAMHKGIWSuF6+ntzeZl//z4435/+HszDRyrsPJtLc9ee+5i5Ms5jqGJCBIByTRRNRXXdb6Gq8Pv3fbx4XDY//zzzX/H99rZqaeFXsdtVqRyhsomEBQBWDym6KJ4RgULY/WpEX5vz77Ux7fCaENfrInJmrNdRlBifPUknkIBgP6/aQEzhrjhv24FuNmj+jNmGPLdS9YOWK3LFqo8l+cpJoMlcCT6CkSOUDyVzKu5il63bKfZCZzBtO8vOr257cwbnfdnunuqNhhexUnmOBb/B6rAVqxxwy7YAAAAAElFTkSuQmCC",
+    "url": "https://preview.redd.it/81mkeyxih2j91.png?width=640&crop=smart&auto=webp&s=c21074498d3a0074b9aee29b2c38202e97529e2e",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 135,
+    "value": 135
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Finished off a Dungeon Sewer project that I have been working on. Using mixed mediums, 3D printing, foam carving, cardboard and electronics. Very pleased with the final result. Full build video and details in comments",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/wtzgxk/finished_off_a_dungeon_sewer_project_that_i_have/"
+}

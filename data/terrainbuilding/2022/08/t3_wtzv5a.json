@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_8vrifmii",
+    "name": "isabelvasques"
+  },
+  "date": {
+    "day": 1661040000,
+    "full": 1661089192,
+    "month": 1659312000,
+    "week": 1661040000
+  },
+  "id": "t3_wtzv5a",
+  "picture": {
+    "filesize": 49109,
+    "fullUrl": "https://preview.redd.it/ct1yqomgl2j91.jpg?width=4000&format=pjpg&auto=webp&s=d4f23245c3c335fd1fe34a347581f8127b33157d",
+    "hash": "a4ce273f92",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQFBv/EACYQAAEDAgUDBQAAAAAAAAAAAAIBAwQAEQYSEyExBTNBYXKCkcH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBf/EAB0RAAEEAgMAAAAAAAAAAAAAAAEAAgQRAxIxgcH/2gAMAwEAAhEDEQA/AM1jl6RMlhFhg29DjEoAZipK4XJObeSXN9pS3RQdhtihR9AXQ1CFQyWNCtfLdbXRU29Kg4k7/wABo8J8SfZ+0DjeK1ciM1nhg4BI6r1f/9k=",
+    "url": "https://preview.redd.it/ct1yqomgl2j91.jpg?width=640&crop=smart&auto=webp&s=897997e62bd25a0812f7bd55773538d3822907b0",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 0.95,
+    "ups": 56,
+    "value": 56
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "D&D Dungeon",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/wtzv5a/dd_dungeon/"
+}
