@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_3pbhvogd",
+    "name": "kroma_geek"
+  },
+  "date": {
+    "day": 1661126400,
+    "full": 1661182562,
+    "month": 1659312000,
+    "week": 1661040000
+  },
+  "id": "t3_wuwtuw",
+  "picture": {
+    "filesize": 44452,
+    "fullUrl": "https://preview.redd.it/8sqbkrrt7aj91.jpg?width=3840&format=pjpg&auto=webp&s=deb320c527d174ebd3e66e2ce2e17270112470e1",
+    "hash": "07c285a53d",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgX/xAAmEAABBAAFAgcAAAAAAAAAAAABAgMEBQAREiIxB1EhNTZzdLLR/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABcRAAMBAAAAAAAAAAAAAAAAAAABEQL/2gAMAwEAAhEDEQA/AG1lS3B1VkCwYmVsmMpp6QtxpCOVEJA1EjaoJPfnAWy6TWFoVtx5C4aFR0IJfnamwtPO1KvEHMZZ9sHqj00Pk/mLFZ5pF9wfXA63HBUqj//Z",
+    "url": "https://preview.redd.it/8sqbkrrt7aj91.jpg?width=640&crop=smart&auto=webp&s=9bcfa3a0309091031e266e8a714767e27e7175e4",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 105,
+    "value": 105
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I made some magnetized spiral stair sections",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/wuwtuw/i_made_some_magnetized_spiral_stair_sections/"
+}

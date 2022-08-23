@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_10cwbl",
+    "name": "cyruzzo"
+  },
+  "date": {
+    "day": 1661126400,
+    "full": 1661171000,
+    "month": 1659312000,
+    "week": 1661040000
+  },
+  "id": "t3_wus7z2",
+  "picture": {
+    "filesize": 104288,
+    "fullUrl": "https://preview.redd.it/i1odo82pc9j91.jpg?width=4624&format=pjpg&auto=webp&s=7352e02b066426bb64de02232078bdd684b27aa8",
+    "hash": "ef6cf7eb0b",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQMG/8QAIhAAAgIBAwQDAAAAAAAAAAAAAgMBBAUAESETFDGhQVFh/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABkRAAMBAQEAAAAAAAAAAAAAAAECAwARBP/aAAwDAQACEQMRAD8ADw9vMoVZDHWlor2U9JqQCIkg+omeI9avkMjlb1GorIhv2i+mhS2CJQP6XHOsrjbLa+4qnYYGOPPztpFz2GASRT4396KEkqgZejN6L0hQo3Cd/9k=",
+    "url": "https://preview.redd.it/i1odo82pc9j91.jpg?width=640&crop=smart&auto=webp&s=b24078eed5434b09d097315876370ce09a17ade7",
+    "width": 640
+  },
+  "score": {
+    "comments": 11,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 354,
+    "value": 354
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I built some terrain tiles, with water, river and hills",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/wus7z2/i_built_some_terrain_tiles_with_water_river_and/"
+}
