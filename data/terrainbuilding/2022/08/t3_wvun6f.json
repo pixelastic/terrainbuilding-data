@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_h0j6omt4",
+    "name": "FlumpyDumpyBumpy"
+  },
+  "date": {
+    "day": 1661212800,
+    "full": 1661275506,
+    "month": 1659312000,
+    "week": 1661040000
+  },
+  "id": "t3_wvun6f",
+  "picture": {
+    "filesize": 61916,
+    "fullUrl": "https://external-preview.redd.it/5CRlRQuqgxokTFeJWMzTmZuB8IxYkCUuPfVY-sSdlHY.jpg?auto=webp&s=c0606c0d54553398f4907f4b2b30efe27a692298",
+    "hash": "33559fba44",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgUG/8QAIhAAAgEDBAIDAAAAAAAAAAAAAQIDAAQRBQYSQRMhIlGB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAYEQACAwAAAAAAAAAAAAAAAAAAEQESIf/aAAwDAQACEQMRAD8Ap7VmsNRs2CQyCSNRy5sCCcUt1WcIUFS3AdhvYPf5isxsGd00C4kBy/nPs9/FaF1dSX25EjkwgdEUlBg4Bb7oKKsriP/Z",
+    "url": "https://external-preview.redd.it/5CRlRQuqgxokTFeJWMzTmZuB8IxYkCUuPfVY-sSdlHY.jpg?width=640&crop=smart&auto=webp&s=e43d72e60c8c416c8f2007b5a193cb1f3273858a",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 6,
+    "value": 6
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Working on some modular sewer tiles. Can't wait to add texture, color, and resin",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/wvun6f/working_on_some_modular_sewer_tiles_cant_wait_to/"
+}

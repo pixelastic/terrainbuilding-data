@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_9qzs5",
+    "name": "notruthinadvertising"
+  },
+  "date": {
+    "day": 1661212800,
+    "full": 1661269538,
+    "month": 1659312000,
+    "week": 1661040000
+  },
+  "id": "t3_wvs61x",
+  "picture": {
+    "filesize": 68906,
+    "fullUrl": "https://preview.redd.it/6ihc3luphhj91.jpg?width=2915&format=pjpg&auto=webp&s=fe4f560b2a58e73145116fffedb36fa82147ca56",
+    "hash": "d05ad57f64",
+    "height": 885,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwQG/8QAIBAAAQMEAwEBAAAAAAAAAAAAAgEDEQAEBSESFCJBBv/EABUBAQEAAAAAAAAAAAAAAAAAAAMF/8QAHREBAAEEAwEAAAAAAAAAAAAAAQIAAwQRBTKB8P/aAAwDAQACEQMRAD8AMcLk+GStyeIOuI8oXU+ftbvG5Pu2yOtvNgM8YJdrRjd5pp22RvrtoaokkgCm/sVTY/oWmrYQJtZHXlsVqo8NIxTJJCLrXnxT3rRDq7r/2Q==",
+    "url": "https://preview.redd.it/6ihc3luphhj91.jpg?width=640&crop=smart&auto=webp&s=ae48ab9db92fde184cc40728d0ac6c75a4013b99",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 138,
+    "value": 138
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A nightclub/residential building for an upcoming cyberpunk game I’m running. With LEDs!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/wvs61x/a_nightclubresidential_building_for_an_upcoming/"
+}
