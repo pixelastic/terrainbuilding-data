@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4uuhe",
+    "name": "ciwes"
+  },
+  "date": {
+    "day": 1661299200,
+    "full": 1661360735,
+    "month": 1659312000,
+    "week": 1661040000
+  },
+  "id": "t3_wwowjc",
+  "picture": {
+    "filesize": 152780,
+    "fullUrl": "https://preview.redd.it/kox8rx3v0pj91.jpg?width=3472&format=pjpg&auto=webp&s=d859e0fd528ee0b40892ca4775878158c25d8578",
+    "hash": "6e56a168cc",
+    "height": 852,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQT/xAAiEAACAgIBAwUAAAAAAAAAAAABAgMRBCEABRKBFUFRYaH/xAAVAQEBAAAAAAAAAAAAAAAAAAACBP/EAB0RAAICAQUAAAAAAAAAAAAAAAEDABECEjFBUfD/2gAMAwEAAhEDEQA/AF5mXHyHlUOIFjkZ47OwTfdXj941g5PSkx19VgDznaus8ihk9iAuq5Dj9uflTBgBiW0YfdsgFEj6N0PPEE6dDOgZsqXErQjjY1XzydyQ7Gtx7uJRGq+J/9k=",
+    "url": "https://preview.redd.it/kox8rx3v0pj91.jpg?width=640&crop=smart&auto=webp&s=692d35821b5cd401dac79f86acb2cf69ecdef56b",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 94,
+    "value": 94
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Some toxic rivers and pools for my gameboard",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/wwowjc/some_toxic_rivers_and_pools_for_my_gameboard/"
+}

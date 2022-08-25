@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_arlj5ieu",
+    "name": "WeltenbauerClub"
+  },
+  "date": {
+    "day": 1661299200,
+    "full": 1661348066,
+    "month": 1659312000,
+    "week": 1661040000
+  },
+  "id": "t3_wwjqrs",
+  "picture": {
+    "filesize": 55642,
+    "fullUrl": "https://preview.redd.it/7hvogs06znj91.jpg?width=9248&format=pjpg&auto=webp&s=5e9f72775a45651d630bd52a3be4f171742b4ac4",
+    "hash": "009bbe83b5",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwQG/8QAJBAAAgIBAwQCAwAAAAAAAAAAAQIDBBEFEjEABhNBISJRYaH/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAGxEAAQQDAAAAAAAAAAAAAAAAAQACESEEFCL/2gAMAwEAAhEDEQA/AEObXaOnU28RW3YETyJDE6/cqM7d3AJ9fnrLdudy2df7l1Wa5bhpaXXiBr1mKDcucF3Y/YMD64x/TC8UiuVfDEkQMJkIUnBPz6J6hg1W1cQrMybWmVMCMcYPGR+uijluPUUktVoETa//2Q==",
+    "url": "https://preview.redd.it/7hvogs06znj91.jpg?width=640&crop=smart&auto=webp&s=c10b8c254b701949545bc21959679feeffa73c36",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 36,
+    "value": 36
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Zenital flocking on scratch build house",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/wwjqrs/zenital_flocking_on_scratch_build_house/"
+}
