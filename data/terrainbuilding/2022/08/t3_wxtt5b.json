@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_efal7b4",
+    "name": "StratOverGrind"
+  },
+  "date": {
+    "day": 1661472000,
+    "full": 1661472351,
+    "month": 1659312000,
+    "week": 1661040000
+  },
+  "id": "t3_wxtt5b",
+  "picture": {
+    "filesize": 112248,
+    "fullUrl": "https://preview.redd.it/5fj7ac2t8yj91.jpg?width=3024&format=pjpg&auto=webp&s=f2f1c438fac1592a0cc87b1cff5804cfb170ce50",
+    "hash": "7e2f4b418b",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQED/8QAIxAAAgECBgIDAAAAAAAAAAAAAQIDBBEABQYSQWETkTJxof/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAaEQEAAwADAAAAAAAAAAAAAAABAAIDBBFB/9oADAMBAAIRAxEAPwB8apWSpXaoamIBUqLAHkX/AH2MY5nrjKaGp8U0cha274HCeeafqqqkhaB2e0gO0PsBXqw494k+QJGUEskgkK3YObkH75HeGHI1qqr1GlaeE//Z",
+    "url": "https://preview.redd.it/5fj7ac2t8yj91.jpg?width=640&crop=smart&auto=webp&s=ca3ec080716d19c0b71715f7f309ca7dc18a9286",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 7,
+    "value": 7
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First time making any terrain. C&C welcome!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/wxtt5b/first_time_making_any_terrain_cc_welcome/"
+}
