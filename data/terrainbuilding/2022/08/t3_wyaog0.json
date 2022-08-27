@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_9a6o0k30",
+    "name": "Jannifaktur"
+  },
+  "date": {
+    "day": 1661472000,
+    "full": 1661524183,
+    "month": 1659312000,
+    "week": 1661040000
+  },
+  "id": "t3_wyaog0",
+  "picture": {
+    "filesize": 61598,
+    "fullUrl": "https://preview.redd.it/0scb4t9xi2k91.jpg?auto=webp&s=3847a316f276e2a3b41dae9e825b7c4907a3c8a2",
+    "hash": "e53c8a34b9",
+    "height": 482,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMGB//EACMQAAIBAwMEAwAAAAAAAAAAAAECAwQREgAFIQYTQYEjcZH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAGBEBAAMBAAAAAAAAAAAAAAAAAQACERL/2gAMAwEAAhEDEQA/AD6qoK92j3NN1NOTM0paFcjja4+TxcX8X+9ZvvlT2afb6dKgSwZtEFRMcbktxxzfnVvs9dUQR1O2JIxp6VYyhZiWOWVwSfAxFvek1Sx1ffWeJGMILRvazKRbm/s/uhbdYixyvOiT/9k=",
+    "url": "https://preview.redd.it/0scb4t9xi2k91.jpg?width=640&crop=smart&auto=webp&s=102e1b129c356360faa36da20a00289bdf335d85",
+    "width": 640
+  },
+  "score": {
+    "comments": 19,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 440,
+    "value": 440
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP - Yep, this will be a good one 😁",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/wyaog0/wip_yep_this_will_be_a_good_one/"
+}

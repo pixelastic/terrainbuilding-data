@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_wb90e",
+    "name": "roastkumara"
+  },
+  "date": {
+    "day": 1661472000,
+    "full": 1661487078,
+    "month": 1659312000,
+    "week": 1661040000
+  },
+  "id": "t3_wxz3mc",
+  "picture": {
+    "filesize": 56527,
+    "fullUrl": "https://preview.redd.it/qvjyzb0kgzj91.jpg?auto=webp&s=eeaee453e3ccf8752b207871b3079afe820a2447",
+    "hash": "b2cbce77ec",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFBv/EACMQAAEEAQMEAwAAAAAAAAAAAAIBAwQRBQAGEhMhYYEUMVH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAECEf/aAAwDAQACEQMRAD8Ac3QLkPHYwVnsNy3FbigRAjxOUSoJIld6Hja+NQjHdOJfni8LUqDIBOrVOKpX3VEuxSvzWg3DjouKnY7KxWR+Y5FbtTSxHmqqvFPofVeb0HKSDchvmVcuBJdetG6aY0TLncP/2Q==",
+    "url": "https://preview.redd.it/qvjyzb0kgzj91.jpg?width=640&crop=smart&auto=webp&s=7ab08872b7610eaebb668e554cb6e7ada5db6a96",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 222,
+    "value": 222
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP Japanese Build",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/wxz3mc/wip_japanese_build/"
+}
