@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_51s7ukgn",
+    "name": "ViralLoading"
+  },
+  "date": {
+    "day": 1661558400,
+    "full": 1661585087,
+    "month": 1659312000,
+    "week": 1661040000
+  },
+  "id": "t3_wywi3o",
+  "picture": {
+    "filesize": 72873,
+    "fullUrl": "https://preview.redd.it/hg61f8rwj7k91.jpg?width=4000&format=pjpg&auto=webp&s=4ccdfb01acd7f99a476f9f68c2e8aed11fd48f17",
+    "hash": "db27ec0e9b",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAwX/xAAjEAACAgEDAwUAAAAAAAAAAAABAgMEEQAFBhIhMSIyUWFx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgT/xAAdEQACAgEFAAAAAAAAAAAAAAABAgMRAAQhMTNB/9oADAMBAAIRAxEAPwCXzqKttFOsKoryTTBlYzgOCgX2+rxnR8J3CtfiZbdGlLLAiiImFVEQJOV8fh0O47jNZmlnsJFKUgbCOmV7fWo/CrDTUbjYWPqMbkRjpGSO4x8aMWlQwGUsbvjzL37QtbZ//9k=",
+    "url": "https://preview.redd.it/hg61f8rwj7k91.jpg?width=640&crop=smart&auto=webp&s=73a29db7eb12e7d2c64e247144bb9f0a55a91cf1",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 65,
+    "value": 65
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Underdark purple cavern - first time incorporating lights",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/wywi3o/underdark_purple_cavern_first_time_incorporating/"
+}

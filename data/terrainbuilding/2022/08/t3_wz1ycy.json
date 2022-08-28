@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_9h41n7mp",
+    "name": "SuperInternet5529"
+  },
+  "date": {
+    "day": 1661558400,
+    "full": 1661604198,
+    "month": 1659312000,
+    "week": 1661040000
+  },
+  "id": "t3_wz1ycy",
+  "picture": {
+    "filesize": 109214,
+    "fullUrl": "https://preview.redd.it/mgm0tdtp49k91.jpg?width=1080&format=pjpg&auto=webp&s=f1ac81cc6aaafe62054c01e260c41e5f04a33451",
+    "hash": "baf642518c",
+    "height": 446,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgP/xAAkEAACAQMDAwUAAAAAAAAAAAABAwIEESEABTEGEhMUIkFRwf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGBEBAAMBAAAAAAAAAAAAAAAAAQARIQL/2gAMAwEAAhEDEQA/ADi5NqGLrRJqi0ASBZltzn2/mlnSeyesr5eCsUqSQWmUryEZcDHzxnOdRdCMOmnyjEd3kmLkXIFhx9aPbzuVbTVrF09U5SwyA7YTIFgcDUkp2LnQqf/Z",
+    "url": "https://preview.redd.it/mgm0tdtp49k91.jpg?width=640&crop=smart&auto=webp&s=9412ac7041e72581888012eea747433afb782001",
+    "width": 640
+  },
+  "score": {
+    "comments": 20,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 222,
+    "value": 222
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Gaming table finally finished. Time to roll some dice and spill some blood on it.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/wz1ycy/gaming_table_finally_finished_time_to_roll_some/"
+}
