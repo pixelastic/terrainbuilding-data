@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_9h6ayru4",
+    "name": "unclaimed_username1"
+  },
+  "date": {
+    "day": 1661644800,
+    "full": 1661684769,
+    "month": 1659312000,
+    "week": 1661644800
+  },
+  "id": "t3_wzsufk",
+  "picture": {
+    "filesize": 75101,
+    "fullUrl": "https://preview.redd.it/rp0w0opcsfk91.jpg?width=3000&format=pjpg&auto=webp&s=19773e3642de35153e8080311c440d519bec3992",
+    "hash": "08f1569921",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAX/xAAkEAABBAEDAwUAAAAAAAAAAAABAgMEEQUABiEHFDETUmJxwf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAZEQEAAwEBAAAAAAAAAAAAAAABAAIDESH/2gAMAwEAAhEDEQA/AJg2u1lGW5MuXLe9FFpAqq80ABdfWhSsCYL6mO2WgDkJTxV86oY3fm3ca2hL+Vj2kAU3az4+IOmHrDs1CiHmZchXv7Q/uhtk2I1dQfTs/9k=",
+    "url": "https://preview.redd.it/rp0w0opcsfk91.jpg?width=640&crop=smart&auto=webp&s=e7079936297d7638277493490996e1dc71143d1a",
+    "width": 640
+  },
+  "score": {
+    "comments": 14,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 600,
+    "value": 600
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Build a ruined house today, without spending any money!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/wzsufk/build_a_ruined_house_today_without_spending_any/"
+}
