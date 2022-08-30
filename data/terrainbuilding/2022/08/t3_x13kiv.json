@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_a0abye8y",
+    "name": "Istvaan198IV"
+  },
+  "date": {
+    "day": 1661731200,
+    "full": 1661816486,
+    "month": 1659312000,
+    "week": 1661644800
+  },
+  "id": "t3_x13kiv",
+  "picture": {
+    "filesize": 88918,
+    "fullUrl": "https://external-preview.redd.it/OTMhS2RP_B3CBN8Kf97RbRVydj6f9P8Pwmuq1Jwnnxk.jpg?auto=webp&s=11ef28418c2b46638616f7763bfbfca1b6bdcd61",
+    "hash": "0f9ed11c2c",
+    "height": 427,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQF/8QAIxAAAgEDBAEFAAAAAAAAAAAAAgMBBAURABIhIjEGFEFRYf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGhEAAgIDAAAAAAAAAAAAAAAAAAECAxFhcf/aAAwDAQACEQMRAD8AG1vd6fpyhg08KaUGIizEbijtOfvMeNJaLpVDdG1FwNLgqBIUmoMr69uZzxPx+63QQqpCfcKBmJxG4YnV4JUm3SpKVLXnOACB54jzHOgV0nwqdUcbP//Z",
+    "url": "https://external-preview.redd.it/OTMhS2RP_B3CBN8Kf97RbRVydj6f9P8Pwmuq1Jwnnxk.jpg?width=640&crop=smart&auto=webp&s=a9ed733d89fbccfaebb2a2aa73c12f0d52feef86",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 42,
+    "value": 42
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I saw this article on Goonhammer (after seeing a few posts about the terrain here first) and finally decided to get a set. I think I'm going to use it as a base for some easier scenic(/also functional) builds, but the details are a bit on the simple side. Help brainstorming how to spruce it up?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/x13kiv/i_saw_this_article_on_goonhammer_after_seeing_a/"
+}

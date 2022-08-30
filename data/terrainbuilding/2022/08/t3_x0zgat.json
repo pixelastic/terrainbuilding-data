@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_a8ukhk1u",
+    "name": "Significant_Tea_3508"
+  },
+  "date": {
+    "day": 1661731200,
+    "full": 1661806111,
+    "month": 1659312000,
+    "week": 1661644800
+  },
+  "id": "t3_x0zgat",
+  "picture": {
+    "filesize": 83324,
+    "fullUrl": "https://preview.redd.it/h2z9utl8tpk91.jpg?auto=webp&s=717db60fe79c3baf28129a8dfe70217f791b76d4",
+    "hash": "b6a31f03cd",
+    "height": 1138,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABQYHCP/EACcQAAEDAgQFBQAAAAAAAAAAAAIBAwQAEQUGEyEHFSIxQVJUk6LR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAaEQEAAgMBAAAAAAAAAAAAAAABAAIREjET/9oADAMBAAIRAxEAPwDPJtTntPF0bRxDOwIl1sV9rp5o1yLNPtXfpVM4XMZYmZAjRcTmMxZ5gQour1ESkSjsm6L2pX0A9bPxu/tJq9ySb2Ba2OT/2Q==",
+    "url": "https://preview.redd.it/h2z9utl8tpk91.jpg?width=640&crop=smart&auto=webp&s=8e8cc14559a2da81b92f0419d836cddcd097ba6f",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 9,
+    "value": 9
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First time making terrain, any tips?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/x0zgat/first_time_making_terrain_any_tips/"
+}
