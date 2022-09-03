@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_lnqoe",
+    "name": "Griffinheiser"
+  },
+  "date": {
+    "day": 1662076800,
+    "full": 1662090811,
+    "month": 1661990400,
+    "week": 1661644800
+  },
+  "id": "t3_x3rhx3",
+  "picture": {
+    "filesize": 56759,
+    "fullUrl": "https://preview.redd.it/vc21iczrbdl91.jpg?width=1334&format=pjpg&auto=webp&s=e4de9aadd745249a5e4b2ec29738f6738ce43643",
+    "hash": "a7e5de2f79",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAJxAAAQMDAwEJAAAAAAAAAAAAAQIDBAURIQAGEkETIjEyNVFyc7L/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABgRAAMBAQAAAAAAAAAAAAAAAAABAiES/9oADAMBAAIRAxEAPwCYpUDbzcCE81Bk9pIeMYuBy6myoG5KUm4SbjwHTpbKtY2bTYVEiRkQVvyGpYU9wa4Dgm6rAgd4EDNvfORoSkeZv5J1tVN9BjfTK/A1WpUzgOnT0//Z",
+    "url": "https://preview.redd.it/vc21iczrbdl91.jpg?width=640&crop=smart&auto=webp&s=97158d4ec8c7a6b555dd183cf3c41408235a2968",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 28,
+    "value": 28
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Tau Wrecked Platform",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/x3rhx3/tau_wrecked_platform/"
+}

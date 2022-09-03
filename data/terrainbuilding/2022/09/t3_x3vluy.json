@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_ngm8a",
+    "name": "Willcoburg"
+  },
+  "date": {
+    "day": 1662076800,
+    "full": 1662105286,
+    "month": 1661990400,
+    "week": 1661644800
+  },
+  "id": "t3_x3vluy",
+  "picture": {
+    "filesize": 52683,
+    "fullUrl": "https://preview.redd.it/lrbvsj8uiel91.jpg?width=4032&format=pjpg&auto=webp&s=b7370af0c5b70b8b93ea84c766a93d935b93672b",
+    "hash": "db1bb1e1f8",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAIxAAAQQBBAMAAwAAAAAAAAAAAgEDBBEFAAYSIRMUMVFigf/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAaEQACAgMAAAAAAAAAAAAAAAABAgAhEjJR/9oADAMBAAIRAxEAPwBBuHcAmkZsBZcGTzERF1PKJD+iIt31+NZvkshiIrbcf0DKTHB3yOMDyUvlEtWlWVfzRbdeZfDcgtRm2orkbyOI+xyBwypeyVF+9X1Wp+0s/lsdOymSjZGV7jUN40JxxTQlJREuQr0SLyVaVKutBRDsTUa7qBgBfZ//2Q==",
+    "url": "https://preview.redd.it/lrbvsj8uiel91.jpg?width=640&crop=smart&auto=webp&s=2f823ffc96aa7a8568bcb438e0f52a10b28b2eef",
+    "width": 640
+  },
+  "score": {
+    "comments": 9,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 166,
+    "value": 166
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Shantytown is a blast to build",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/x3vluy/shantytown_is_a_blast_to_build/"
+}
