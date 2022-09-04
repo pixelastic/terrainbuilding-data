@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_kt7ajg8m",
+    "name": "SJCrafting"
+  },
+  "date": {
+    "day": 1662163200,
+    "full": 1662177742,
+    "month": 1661990400,
+    "week": 1661644800
+  },
+  "id": "t3_x4l0nj",
+  "picture": {
+    "filesize": 30512,
+    "fullUrl": "https://preview.redd.it/qab42ae8ikl91.jpg?width=2302&format=pjpg&auto=webp&s=76f581af441e92e1f4efb8c30a31fb0c78419d0a",
+    "hash": "ac81054909",
+    "height": 500,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAANABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwEI/8QAIRAAAQMEAgMBAAAAAAAAAAAAAQIDBQAEESEGQRIxYaH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABcRAAMBAAAAAAAAAAAAAAAAAAARIYH/2gAMAwEAAhEDEQA/AM8cYsGpKTQxcEpbUUoyBkgqIGcd42anKbFuNmXLVkEIQkY+/cdUsLJuRd4i6YaaccbPkkOA4BHo6IOQd+6OdklzEs/I3DSEPPHaUkkA9nZJ/aJpTiP/2Q==",
+    "url": "https://preview.redd.it/qab42ae8ikl91.jpg?width=640&crop=smart&auto=webp&s=b9a51a04eff6390ce2690d5eafe2450c998bb8a8",
+    "width": 640
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 224,
+    "value": 224
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Plasma Generator Scratch build - Dawn of War inspired",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/x4l0nj/plasma_generator_scratch_build_dawn_of_war/"
+}
