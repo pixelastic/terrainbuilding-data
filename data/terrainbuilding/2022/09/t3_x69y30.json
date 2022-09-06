@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_3gy1csgq",
+    "name": "CSM_Ereden"
+  },
+  "date": {
+    "day": 1662336000,
+    "full": 1662362588,
+    "month": 1661990400,
+    "week": 1662249600
+  },
+  "id": "t3_x69y30",
+  "picture": {
+    "filesize": 48403,
+    "fullUrl": "https://external-preview.redd.it/rGfXRa5IXaVwY5ItFSOIWab9B0VAYL94lD5W-k-iVFw.jpg?auto=webp&s=df5de859d2937c291f11a3aa719be91437124fdc",
+    "hash": "7769050e72",
+    "height": 234,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAGABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAX/xAAeEAACAQUAAwAAAAAAAAAAAAABAgMABAURMQYicf/EABQBAQAAAAAAAAAAAAAAAAAAAAX/xAAaEQABBQEAAAAAAAAAAAAAAAABAAIDEWET/9oADAMBAAIRAxEAPwCBnfFsna5O4lnzE7JIGVUSZwBsk7I+HWuVKt8bcy+qX0yyLMJNliQNcHeaFKUSxxMV4kyB0rV//9k=",
+    "url": "https://external-preview.redd.it/rGfXRa5IXaVwY5ItFSOIWab9B0VAYL94lD5W-k-iVFw.jpg?width=640&crop=smart&auto=webp&s=066ae2ce3d33f3265c384b296ed49900b938bf35",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 28,
+    "value": 28
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "More terrain I made while figuring out what next to produce",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/x69y30/more_terrain_i_made_while_figuring_out_what_next/"
+}
