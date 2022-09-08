@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_7sdlzs8p",
+    "name": "Tysmar"
+  },
+  "date": {
+    "day": 1662508800,
+    "full": 1662528175,
+    "month": 1661990400,
+    "week": 1662249600
+  },
+  "id": "t3_x7wlfw",
+  "picture": {
+    "filesize": 114061,
+    "fullUrl": "https://preview.redd.it/yd8u0v9agdm91.jpg?width=2136&format=pjpg&auto=webp&s=1eafd1eff3969f1e300903761923d50f465f0672",
+    "hash": "808474e9bc",
+    "height": 1385,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAcDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMH/8QAIhAAAgEDAgcAAAAAAAAAAAAAAgMBABESBTEEEyFBQmGR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwX/xAAeEQEAAAUFAAAAAAAAAAAAAAABAAIDETEEBRJx4f/aAAwDAQACEQMRAD8AzLUI4tTEtJZxk1hYrLoyC2HfxiL0qTNa50IBFhBY4zc79vd/tKs13a6c3AlWxk9cwNM1UxdQ7j//2Q==",
+    "url": "https://preview.redd.it/yd8u0v9agdm91.jpg?width=640&crop=smart&auto=webp&s=0608ed316d619c7845785377d05452b2e14aee99",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 431,
+    "value": 431
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Gollum cave diorama",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/x7wlfw/gollum_cave_diorama/"
+}

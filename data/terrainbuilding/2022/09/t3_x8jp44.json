@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_71nqizx",
+    "name": "omgitsduane"
+  },
+  "date": {
+    "day": 1662508800,
+    "full": 1662592575,
+    "month": 1661990400,
+    "week": 1662249600
+  },
+  "id": "t3_x8jp44",
+  "picture": {
+    "filesize": 76425,
+    "fullUrl": "https://preview.redd.it/8dfbm58srim91.jpg?width=4000&format=pjpg&auto=webp&s=d3e9f2bb7086bd6bf98c9cc81411b3c6085fb96d",
+    "hash": "40c512955d",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwQG/8QAIhAAAgIBAwQDAAAAAAAAAAAAAQIDBAUAERIhMkGBEzHR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAbEQEAAgIDAAAAAAAAAAAAAAACAAEEBRESIf/aAAwDAQACEQMRAD8AxFPLhzUx2RwktqAQqi3K0hVt1HoA++uqbOLxl+vCGvX4nhJcM7bEqB2v9kgDzo6mz16nMI1kEsSEqEmHIdx/NIkBTL0BdtxJ8roHIXfiDt4BJ2HTQnD7ei5Q9gQKpnmf/9k=",
+    "url": "https://preview.redd.it/8dfbm58srim91.jpg?width=640&crop=smart&auto=webp&s=d9e5ce5eb4c2a4932a141a3d343904004efb3925",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 120,
+    "value": 120
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Started adding lines for the rock formations. looking good!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/x8jp44/started_adding_lines_for_the_rock_formations/"
+}
