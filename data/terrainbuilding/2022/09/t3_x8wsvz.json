@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_m171m",
+    "name": "Karl-der-Tolle"
+  },
+  "date": {
+    "day": 1662595200,
+    "full": 1662632784,
+    "month": 1661990400,
+    "week": 1662249600
+  },
+  "id": "t3_x8wsvz",
+  "picture": {
+    "filesize": 66567,
+    "fullUrl": "https://preview.redd.it/7tuhjcub3mm91.jpg?width=4000&format=pjpg&auto=webp&s=0d8fa8fc2783b3329b6c1a37752c6ca28553e829",
+    "hash": "f0337aae87",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAgEAABBAIDAQEBAAAAAAAAAAABAgMEBREhABITUSIy/8QAFAEBAAAAAAAAAAAAAAAAAAAAAf/EABkRAAIDAQAAAAAAAAAAAAAAAAABAhIiQf/aAAwDAQACEQMRAD8AnbuXGrJZZykDqCP1nXBGrNm3luwmnfIlpSvTOOvXf3j9ffVNfCNhJhtyrd0klDUdI6JBPVOVaAxv7vh99bUl/XKkKrTBtmClbS/JGVYP8lSdYI+jPFSajQW9X6f/2Q==",
+    "url": "https://preview.redd.it/7tuhjcub3mm91.jpg?width=640&crop=smart&auto=webp&s=26fe32b0943f1de1104bb04c290eced8c98ea2d0",
+    "width": 640
+  },
+  "score": {
+    "comments": 11,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 261,
+    "value": 261
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Modular bridge painted.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/x8wsvz/modular_bridge_painted/"
+}

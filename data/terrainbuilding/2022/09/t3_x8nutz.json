@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_3z0ee8iq",
+    "name": "drdunck"
+  },
+  "date": {
+    "day": 1662595200,
+    "full": 1662603740,
+    "month": 1661990400,
+    "week": 1662249600
+  },
+  "id": "t3_x8nutz",
+  "picture": {
+    "filesize": 109250,
+    "fullUrl": "https://preview.redd.it/5tl0nrlzojm91.jpg?width=4032&format=pjpg&auto=webp&s=de73cd75eeb111d34170fc25df6d2eb7d8c57b16",
+    "hash": "529ff1ba70",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQEG/8QAIhAAAgIBBAEFAAAAAAAAAAAAAQIDEQQABRIhcQYxYYGR/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABkRAQADAQEAAAAAAAAAAAAAAAEAAhEDEv/aAAwDAQACEQMRAD8AF3fc8SLFfFXICcpVInZCyxkEe1C/j80T6dhkgzBLjhchWLc5gpURjlQFMBfId9ferukK8MmM2VQGr8jWn25FTFjjVQFaOjXjQq+mw7EdADJ//9k=",
+    "url": "https://preview.redd.it/5tl0nrlzojm91.jpg?width=640&crop=smart&auto=webp&s=1f94ca51de9dac13878daa262fe0912de9a595d2",
+    "width": 640
+  },
+  "score": {
+    "comments": 17,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 14,
+    "value": 14
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Any help would be greatly appreciated!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/x8nutz/any_help_would_be_greatly_appreciated/"
+}
