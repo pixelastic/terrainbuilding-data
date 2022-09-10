@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_39bm89ui",
+    "name": "HeyItsDargons"
+  },
+  "date": {
+    "day": 1662681600,
+    "full": 1662742820,
+    "month": 1661990400,
+    "week": 1662249600
+  },
+  "id": "t3_xa0pm0",
+  "picture": {
+    "filesize": 95518,
+    "fullUrl": "https://preview.redd.it/zdy1btxj6vm91.jpg?width=3024&format=pjpg&auto=webp&s=738d9083101455b4de8353175030f10cba359512",
+    "hash": "7a491bd601",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMEBv/EACMQAAIBAwQBBQAAAAAAAAAAAAIDAQQFEQASIWFBBhMiMXH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABsRAAICAwEAAAAAAAAAAAAAAAECAAMRYZHh/9oADAMBAAIRAxEAPwCWsvN2rLc211dVTg4WAa3LTsYsYmZ2z8uY560xnqC+0u1NHW0cLEYzL0EZkXmZndHnWTXdUiIA9507gjAycSSm9THiccd6J3y2oFa2XAIZAxu9lRsHP7n760AR6rCrpnvss0Z//9k=",
+    "url": "https://preview.redd.it/zdy1btxj6vm91.jpg?width=640&crop=smart&auto=webp&s=71cb746dd01882c70fb9eed77253334fc4969d40",
+    "width": 640
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 154,
+    "value": 154
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Large hilly outcrop. More of a proof of concept for some techniques than a functional piece, but I’m quite happy with it",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/xa0pm0/large_hilly_outcrop_more_of_a_proof_of_concept/"
+}
