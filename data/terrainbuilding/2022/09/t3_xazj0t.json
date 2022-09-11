@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4kuxu7cg",
+    "name": "Ctrl-Alt-Defeated"
+  },
+  "date": {
+    "day": 1662768000,
+    "full": 1662842594,
+    "month": 1661990400,
+    "week": 1662249600
+  },
+  "id": "t3_xazj0t",
+  "picture": {
+    "filesize": 108470,
+    "fullUrl": "https://preview.redd.it/s5zv9kg8f3n91.jpg?auto=webp&s=eaacf18ff57e417a83211a1b6b9479222f71d3eb",
+    "hash": "2da787702a",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQME/8QAJBAAAQQCAgIBBQAAAAAAAAAAAQIDBBEFIQAxBhJSExRBYZH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAECEjL/2gAMAwEAAhEDEQA/AMHk2ZiZCC5CdktJVOeSGPqglQV7k1ojfYu9a4njMC2uC0X4rhAFIXJlkKWn5AKVdXf84D5TjcbgmnvupILq5C1xmmlWS2T0fju9jZ5EyY+YbZlPvpfUWwkLWj2ND8b6rqv1wrzMrInpn//Z",
+    "url": "https://preview.redd.it/s5zv9kg8f3n91.jpg?width=640&crop=smart&auto=webp&s=44f966c5952d7a275feaaa57a6798437b38045e6",
+    "width": 640
+  },
+  "score": {
+    "comments": 20,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 203,
+    "value": 203
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Finally getting to working on my terrain board!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/xazj0t/finally_getting_to_working_on_my_terrain_board/"
+}
