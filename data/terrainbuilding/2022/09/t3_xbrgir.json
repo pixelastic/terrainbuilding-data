@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_65ppaz90",
+    "name": "uzrov"
+  },
+  "date": {
+    "day": 1662854400,
+    "full": 1662924877,
+    "month": 1661990400,
+    "week": 1662854400
+  },
+  "id": "t3_xbrgir",
+  "picture": {
+    "filesize": 88010,
+    "fullUrl": "https://preview.redd.it/b9l62w1w7an91.jpg?width=4032&format=pjpg&auto=webp&s=f25adf6fcdf2fc0c11d2a41f53f05069735b0b15",
+    "hash": "f65535e22f",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgT/xAAlEAACAQMDAwUBAAAAAAAAAAABAwIEBREABiETMUESFSIygWH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAEREmH/2gAMAwEAAhEDEQA/AAzbF7vfTWLZSpQVLgFxhzJmCJDHj6k8986ste1UO3FTpuFFByU+tj6aMMSmIxJESfAkcD90m2peI3OSKSutlubiPSLukYskBwCSCMn+nSjddEjbdmqLtaIBNXBcQCflHGRwQe/7ozT3wQ3LT//Z",
+    "url": "https://preview.redd.it/b9l62w1w7an91.jpg?width=640&crop=smart&auto=webp&s=ed3e13df2e03629476b7b0e18f47c86903dfb06d",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.93,
+    "ups": 18,
+    "value": 18
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Hobbit House",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/xbrgir/hobbit_house/"
+}
