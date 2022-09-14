@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_3luv9",
+    "name": "gorgias1"
+  },
+  "date": {
+    "day": 1663027200,
+    "full": 1663073569,
+    "month": 1661990400,
+    "week": 1662854400
+  },
+  "id": "t3_xd6qxm",
+  "picture": {
+    "filesize": 90782,
+    "fullUrl": "https://preview.redd.it/k13bfvd1imn91.jpg?auto=webp&s=f656d2bd5cbdaa4485d65bc69c82b70f1e5480ab",
+    "hash": "4999621bb3",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgMF/8QAJBAAAgICAgAGAwAAAAAAAAAAAQIDBAURACEGEhMUIjFBUaH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABkRAAIDAQAAAAAAAAAAAAAAAAACAREhUf/aAAwDAQACEQMRAD8APy06NHItSqCH3XrRTAzIHLq0gB10Brs9c0I8klvOpUksSyWkNqVKgJSu6+dkBYDXQKk9H65SbGVr2Zr27Kl5YQFQb6AX5D+jfF+O8M47GvHcqLIsr0EUgtsaMrE/j9knk6vlRwZl25P/2Q==",
+    "url": "https://preview.redd.it/k13bfvd1imn91.jpg?width=640&crop=smart&auto=webp&s=a6565fb4db998c88bf4666b66d626ea6991566d4",
+    "width": 640
+  },
+  "score": {
+    "comments": 57,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 153,
+    "value": 153
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "What’s the best way to stabilize these pieces so they don’t fall over every time they are bumped?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/xd6qxm/whats_the_best_way_to_stabilize_these_pieces_so/"
+}
