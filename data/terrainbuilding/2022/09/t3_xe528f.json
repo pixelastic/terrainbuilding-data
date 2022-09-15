@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_22yzcnmz",
+    "name": "Nomener"
+  },
+  "date": {
+    "day": 1663113600,
+    "full": 1663169733,
+    "month": 1661990400,
+    "week": 1662854400
+  },
+  "id": "t3_xe528f",
+  "picture": {
+    "filesize": 28465,
+    "fullUrl": "https://preview.redd.it/b7p8mi3zfun91.jpg?width=4624&format=pjpg&auto=webp&s=98af2faf43cdb1b67f8359a983ff03d8b2095ad6",
+    "hash": "6091c8fea2",
+    "height": 288,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQH/8QAIBAAAQQCAQUAAAAAAAAAAAAAAQIDBBEABgUSISIxQf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAXEQEBAQEAAAAAAAAAAAAAAAABEQAC/9oADAMBAAIRAxEAPwCPYp/IIceEOMytjo8FFdLCvpo9qzPntllNz3GJ5IfsBCEIFVVGyDXu8Yw2rc5DmTf/2Q==",
+    "url": "https://preview.redd.it/b7p8mi3zfun91.jpg?width=640&crop=smart&auto=webp&s=954f39462f28f723283b1ff0f72452c22beec9f0",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 115,
+    "value": 115
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Some Elden Ring Caelid inspired terrain finished",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/xe528f/some_elden_ring_caelid_inspired_terrain_finished/"
+}
