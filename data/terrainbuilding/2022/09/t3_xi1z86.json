@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_9o5075ha",
+    "name": "Mr_chap999"
+  },
+  "date": {
+    "day": 1663545600,
+    "full": 1663562225,
+    "month": 1661990400,
+    "week": 1663459200
+  },
+  "id": "t3_xi1z86",
+  "picture": {
+    "filesize": 62674,
+    "fullUrl": "https://preview.redd.it/0qe4nyc2vqo91.jpg?width=4000&format=pjpg&auto=webp&s=d7da8a0f8f7cf0eff65095a6c6a8f43200cda8a1",
+    "hash": "f13b1ccce0",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAQUG/8QAIhAAAgIBAwUBAQAAAAAAAAAAAQIDBAUAESEGEzFBcRKB/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAaEQACAgMAAAAAAAAAAAAAAAABAgADEiEx/9oADAMBAAIRAxEAPwAyPWon/dC5hcqss8rNWBjUkx/w+RqdhOqcZjemY8f3UhtpdtztHaUpy3Cj6Od9amnTryyws8Kll22b2N/OjO4nHdmBTRrMA8jAtGCQSOT9PvUk3qeiOyZdz//Z",
+    "url": "https://preview.redd.it/0qe4nyc2vqo91.jpg?width=640&crop=smart&auto=webp&s=ef4a3727ca16f50ee6d5062d8e3a853e53714601",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 0.81,
+    "ups": 15,
+    "value": 15
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My ruined bridge build",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/xi1z86/my_ruined_bridge_build/"
+}

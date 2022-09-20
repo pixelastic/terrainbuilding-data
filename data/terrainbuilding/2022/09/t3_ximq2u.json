@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_twue7",
+    "name": "mtavlas"
+  },
+  "date": {
+    "day": 1663545600,
+    "full": 1663617125,
+    "month": 1661990400,
+    "week": 1663459200
+  },
+  "id": "t3_ximq2u",
+  "picture": {
+    "filesize": 164517,
+    "fullUrl": "https://preview.redd.it/3xmlupbbevo91.jpg?width=2160&format=pjpg&auto=webp&s=7e8acaa636e3e5b819561eca815d575a1a197ee5",
+    "hash": "07416e6ec4",
+    "height": 1138,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMG/8QAJxAAAgEEAAILAAAAAAAAAAAAAQMRAAIEBQYUEhMWITFBVFVhkZP/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABkRAAIDAQAAAAAAAAAAAAAAAAACAQMhEv/aAAwDAQACEQMRAD8AS3j7ajabBeNmsY17BfaqxtwK7QInzk+Eie6pdr+KPcHfuKxawnH1PPr6puWbB0IABYSRJMfBJo/Nu9U36qWX5wda5bT/2Q==",
+    "url": "https://preview.redd.it/3xmlupbbevo91.jpg?width=640&crop=smart&auto=webp&s=f6d2708faa8349d39ffa20031d46973aa6a63c44",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.88,
+    "ups": 20,
+    "value": 20
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Dice Tray built for friend",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ximq2u/dice_tray_built_for_friend/"
+}
