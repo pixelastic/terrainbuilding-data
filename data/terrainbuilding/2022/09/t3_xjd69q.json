@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5ytpz0bc",
+    "name": "loxlem"
+  },
+  "date": {
+    "day": 1663632000,
+    "full": 1663690797,
+    "month": 1661990400,
+    "week": 1663459200
+  },
+  "id": "t3_xjd69q",
+  "picture": {
+    "filesize": 167394,
+    "fullUrl": "https://preview.redd.it/3ssv5esdh1p91.jpg?auto=webp&s=6bdae9e8e91af578244eec5358ce8604d5778d8d",
+    "hash": "b236d775a4",
+    "height": 1355,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAgDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAb/xAAhEAACAQQABwAAAAAAAAAAAAABAgUAAwQREiEiMUFRof/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAXEQEBAQEAAAAAAAAAAAAAAAABAAJB/9oADAMBAAIRAxEAPwCfmHvwsG2Rjq1tgiG5osoZidHqHkn5SrqYgIvJuBcuygckHibmo9d6UZg7Krf/2Q==",
+    "url": "https://preview.redd.it/3ssv5esdh1p91.jpg?width=640&crop=smart&auto=webp&s=8106b55c4cc06836bf5217e108e145089b08d062",
+    "width": 640
+  },
+  "score": {
+    "comments": 36,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 441,
+    "value": 441
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Added pigment for mortar. worried it looks bad.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/xjd69q/added_pigment_for_mortar_worried_it_looks_bad/"
+}

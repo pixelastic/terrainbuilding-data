@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_shuzxx09",
+    "name": "sagitarius-b"
+  },
+  "date": {
+    "day": 1663632000,
+    "full": 1663688098,
+    "month": 1661990400,
+    "week": 1663459200
+  },
+  "id": "t3_xjc0fa",
+  "picture": {
+    "filesize": 65647,
+    "fullUrl": "https://preview.redd.it/okxebc6c91p91.jpg?width=2924&format=pjpg&auto=webp&s=060dd581ed7865b3a143c35d6a8aaa32b989e618",
+    "hash": "11a38edb67",
+    "height": 512,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAANABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgUGB//EACQQAAEDBAEDBQAAAAAAAAAAAAECAwQABRESIQYicQcTFFGB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAbEQABBAMAAAAAAAAAAAAAAAABAAIDESExYf/aAAwDAQACEQMRAD8AH0tiMX4XNiZJYjslCQ2Vqwd05OfHPNOmLbKs8tj5a23WVnCXms6k/RB5BrG4cyVbZRkQ3UpUDsUFPYT4BBH4aqIPXdwvkduK4wxHbaWCr2tu8gcE5Jo3IH8VAIyzO1//2Q==",
+    "url": "https://preview.redd.it/okxebc6c91p91.jpg?width=640&crop=smart&auto=webp&s=74340f9b05ea14894eb15952e60cc858e74d6919",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.94,
+    "ups": 37,
+    "value": 37
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP - Mystic Crystal Shrine",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/xjc0fa/wip_mystic_crystal_shrine/"
+}

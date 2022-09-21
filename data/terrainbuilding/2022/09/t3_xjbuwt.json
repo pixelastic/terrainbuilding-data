@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_eurf7ikw",
+    "name": "Henderson_II"
+  },
+  "date": {
+    "day": 1663632000,
+    "full": 1663687747,
+    "month": 1661990400,
+    "week": 1663459200
+  },
+  "id": "t3_xjbuwt",
+  "picture": {
+    "filesize": 34997,
+    "fullUrl": "https://preview.redd.it/ooqipjs981p91.jpg?width=5984&format=pjpg&auto=webp&s=8d35ecc98ddc696921f71e47bc9ccb7dfaab0c14",
+    "hash": "e0e315586e",
+    "height": 361,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAACAMG/8QAKBAAAQIEAwgDAAAAAAAAAAAAAgEEAAMFEQYHIRIVIjEyNDVxQVFh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgT/xAAbEQABBAMAAAAAAAAAAAAAAAABAAIDBBEhkf/aAAwDAQACEQMRAD8AzNQy3o9OpI7vYzHLgeKZMempFMSy9IJYRW9vuIYZHDzBqrLFFHbNSnnZZ7Q1FQG2m0ic9fn9hNVzxxeoK+aHcTPaxLHbkOBribqzDk76v//Z",
+    "url": "https://preview.redd.it/ooqipjs981p91.jpg?width=640&crop=smart&auto=webp&s=10dcbf88752943a8b180a403e0d0a9f769698845",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 0.88,
+    "ups": 27,
+    "value": 27
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Destroyed reactor building 02",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/xjbuwt/destroyed_reactor_building_02/"
+}

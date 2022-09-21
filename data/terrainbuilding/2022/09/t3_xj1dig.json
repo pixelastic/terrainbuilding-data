@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_42umcbmq",
+    "name": "Baron_Of_B00M"
+  },
+  "date": {
+    "day": 1663632000,
+    "full": 1663656082,
+    "month": 1661990400,
+    "week": 1663459200
+  },
+  "id": "t3_xj1dig",
+  "picture": {
+    "filesize": 31193,
+    "fullUrl": "https://preview.redd.it/hvqxxov4myo91.jpg?width=4000&format=pjpg&auto=webp&s=4dc984e3a4ff930e207db01b4aaedb80499564d4",
+    "hash": "a1688ab189",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgT/xAAjEAACAgIBAwUBAAAAAAAAAAABAgMRBAUAEiExBgcTFFFB/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABYRAQEBAAAAAAAAAAAAAAAAABEAIf/aAAwDAQACEQMRAD8At9x91l6KPBiwsvHx0lfomRgTIVtSXAHhVF33F3Q4s0uNhzaUS4MyzxTM0xYSFx1P3NWTQ/B/OD9xoMH1NIuTslf7CoE+SNqJX8PkcWaTXwaTSDFwVKxgXbGye1cN0lMb/9k=",
+    "url": "https://preview.redd.it/hvqxxov4myo91.jpg?width=640&crop=smart&auto=webp&s=c6afdac7013f9187a108856996ddaf5a0bb9608e",
+    "width": 640
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 349,
+    "value": 349
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Here's that finished Death Ray terrain.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/xj1dig/heres_that_finished_death_ray_terrain/"
+}
