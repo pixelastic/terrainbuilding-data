@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5euz252m",
+    "name": "buttressOG"
+  },
+  "date": {
+    "day": 1663718400,
+    "full": 1663782853,
+    "month": 1661990400,
+    "week": 1663459200
+  },
+  "id": "t3_xkbxpd",
+  "picture": {
+    "filesize": 113953,
+    "fullUrl": "https://preview.redd.it/js82vi1439p91.jpg?auto=webp&s=4fbfba888bd4186095019bdf2a86d02e36354902",
+    "hash": "585e1d1420",
+    "height": 721,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA4DASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEB//EACMQAAIBAgYCAwAAAAAAAAAAAAEDBAIRAAUGEhMhMVEUQcH/xAAVAQEBAAAAAAAAAAAAAAAAAAABBf/EAB0RAAECBwAAAAAAAAAAAAAAAAIAIQEDEyJhkcH/2gAMAwEAAhEDEQA/AL4eofgRKw8yIvKkLDXVikDru1/zCtO5/JkpciGsPiprsHCxNRtcC5PgA4z/ADtyTLkyJzAGVk7uSVUdoJH1t68WwaWzKnKWudkkqUFsp2nho6Pfuo2NvYxNIDm3FB9dRSbK/9k=",
+    "url": "https://preview.redd.it/js82vi1439p91.jpg?width=640&crop=smart&auto=webp&s=d3f7eb50894cd925a254a6ffd85844ee98f9683e",
+    "width": 640
+  },
+  "score": {
+    "comments": 10,
+    "downs": 0,
+    "ratio": 0.93,
+    "ups": 47,
+    "value": 47
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Newbie question: tips on trying to recreate this please",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/xkbxpd/newbie_question_tips_on_trying_to_recreate_this/"
+}
