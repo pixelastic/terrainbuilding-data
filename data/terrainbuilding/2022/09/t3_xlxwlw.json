@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_10bjw9",
+    "name": "sFAMINE"
+  },
+  "date": {
+    "day": 1663891200,
+    "full": 1663940411,
+    "month": 1661990400,
+    "week": 1663459200
+  },
+  "id": "t3_xlxwlw",
+  "picture": {
+    "filesize": 83230,
+    "fullUrl": "https://preview.redd.it/8bd2u0df3mp91.jpg?auto=webp&s=d15894083bed5b51fb2b0f59bc5b59d61da7565d",
+    "hash": "cd5b1db6b3",
+    "height": 725,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA4DASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgUGB//EACUQAAICAAUDBQEAAAAAAAAAAAECAwQABRESIQYUMSJBUWFxof/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAMAwEAAhEDEQA/ALXpnpFsmpxXcuadrFuCN2h3kBmZV3fwvp8bvoYTN0zJldtcwpqQkyNFKTYaQ7gRp509gcaHZtS1JsuFVfUzLDqx0CqByf0Dxgu1gWGStJZr9sJN8Ss43KedQTryOeMTU0f/2Q==",
+    "url": "https://preview.redd.it/8bd2u0df3mp91.jpg?width=640&crop=smart&auto=webp&s=be6b7acc590791837e6984b511a3307f53966f11",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 134,
+    "value": 134
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Geothermal Plant planning wip",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/xlxwlw/geothermal_plant_planning_wip/"
+}

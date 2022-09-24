@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_jteq5djc",
+    "name": "RiddleMeThisPNW"
+  },
+  "date": {
+    "day": 1663891200,
+    "full": 1663947274,
+    "month": 1661990400,
+    "week": 1663459200
+  },
+  "id": "t3_xm0s2z",
+  "picture": {
+    "filesize": 63262,
+    "fullUrl": "https://preview.redd.it/uarluuj0omp91.jpg?auto=webp&s=8860a2ae6e0140fcbe65094b090b50600030b292",
+    "hash": "13adde38f6",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAmEAACAQMCBAcAAAAAAAAAAAABAgMABBEFEgYiMUETISNRYXGB/8QAFQEBAQAAAAAAAAAAAAAAAAAABQf/xAAhEQABAgQHAAAAAAAAAAAAAAABAhEAAzFRBBMhIkGh8P/aAAwDAQACEQMRAD8AllRWOVSNoM5fc3mBnoo7n4p3Rtc1C1uPCiggS0HL6hWXco6ZUj2P5QVtbxqzMqgM/MxHc1V8O2EEuC4JP3TWQlRdVLcRPxjpg2StFGqi79evH//Z",
+    "url": "https://preview.redd.it/uarluuj0omp91.jpg?width=640&crop=smart&auto=webp&s=8790a084fabbe6ee6b058cf3cf225741a99b8744",
+    "width": 640
+  },
+  "score": {
+    "comments": 17,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 295,
+    "value": 295
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Easy, cheap and great looking logs",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/xm0s2z/easy_cheap_and_great_looking_logs/"
+}
