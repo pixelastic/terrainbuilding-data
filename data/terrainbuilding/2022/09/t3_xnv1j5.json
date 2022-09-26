@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4lsy5sm0",
+    "name": "mainston42"
+  },
+  "date": {
+    "day": 1664064000,
+    "full": 1664130542,
+    "month": 1661990400,
+    "week": 1664064000
+  },
+  "id": "t3_xnv1j5",
+  "picture": {
+    "filesize": 64943,
+    "fullUrl": "https://preview.redd.it/32u62xiys1q91.jpg?width=3968&format=pjpg&auto=webp&s=cc14a09cf13a33e33737471840b2209abb686ee1",
+    "hash": "a9304a2c35",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFBv/EACgQAAIBAgMGBwAAAAAAAAAAAAECAwQRAAUTIiMxQVFhBhQVFiEycf/EABQBAQAAAAAAAAAAAAAAAAAAAAL/xAAYEQACAwAAAAAAAAAAAAAAAAAAAhEhUf/aAAwDAQACEQMRAD8A2XuulyGhMFK9RVsZS7Rx3kKgkBj+DpiVTeLaPNsxg9Uyt6VoWby9TUxAojG2yOdz244ReKxgGrUHZAO+YX5/Nj1OBKI33UseqCwJLyOTe4IP2tx7YMNoqP/Z",
+    "url": "https://preview.redd.it/32u62xiys1q91.jpg?width=640&crop=smart&auto=webp&s=a0edf3b34e78dc930106478f2cd1b4838ed849b1",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.91,
+    "ups": 8,
+    "value": 8
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Just built two different styles of brick/stone walls. These are just practice ones. Any feedback will be appreciated.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/xnv1j5/just_built_two_different_styles_of_brickstone/"
+}

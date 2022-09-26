@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4hev5c87",
+    "name": "OwenMcCauley"
+  },
+  "date": {
+    "day": 1664064000,
+    "full": 1664140084,
+    "month": 1661990400,
+    "week": 1664064000
+  },
+  "id": "t3_xnz4vu",
+  "picture": {
+    "filesize": 59228,
+    "fullUrl": "https://preview.redd.it/7dkzdeo9l2q91.jpg?auto=webp&s=1f62dfed3c29eca2b03786d2941f447253249a6b",
+    "hash": "c172a75d29",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgIH/8QAIhAAAgIBAwQDAAAAAAAAAAAAAgMBBBEABSEGEjFBImGR/8QAFAEBAAAAAAAAAAAAAAAAAAAABf/EABoRAQACAwEAAAAAAAAAAAAAAAEAAgQFITH/2gAMAwEAAhEDEQA/ADXT5Xm9SbRO832M2FJg06bjyC1yOZ5nmfl5iP3VP2E7nUbLlG2taWWHprIwECoCzntxzjxzPPvWlbiytcdDLO3UzMRgYntKMx6zgvWj8mrbpg61SrDBKZEiXmR58R9aPNkVOkRcK1vGf//Z",
+    "url": "https://preview.redd.it/7dkzdeo9l2q91.jpg?width=640&crop=smart&auto=webp&s=8960e9ced33f47b7d8fc507de4e308755f39b93f",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 0.78,
+    "ups": 9,
+    "value": 9
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Viking long ship. Dwarf for scale",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/xnz4vu/viking_long_ship_dwarf_for_scale/"
+}
