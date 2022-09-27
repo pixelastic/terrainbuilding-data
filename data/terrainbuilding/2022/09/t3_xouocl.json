@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5hwhls",
+    "name": "jarviez"
+  },
+  "date": {
+    "day": 1664150400,
+    "full": 1664223828,
+    "month": 1661990400,
+    "week": 1664064000
+  },
+  "id": "t3_xouocl",
+  "picture": {
+    "filesize": 56571,
+    "fullUrl": "https://preview.redd.it/7a3bffe5i9q91.jpg?width=3088&format=pjpg&auto=webp&s=b214c96baddf95294e5c6e95c32b3c7b075907d8",
+    "hash": "9a45ad7934",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGB//EACEQAAIBBQABBQAAAAAAAAAAAAECAwAEBRExBhIhQXGB/8QAFAEBAAAAAAAAAAAAAAAAAAAAAf/EABgRAAIDAAAAAAAAAAAAAAAAAAACERIh/9oADAMBAAIRAxEAPwC6xORw2QdIoLpRK+yqSIUJA7rYoLJZ7xy2mlhmyUKzRsUZNEnY6OVhieXXjsocvIq+yB5TtPo9FJr3N3M900kikEnq69X63T35owatJ//Z",
+    "url": "https://preview.redd.it/7a3bffe5i9q91.jpg?width=640&crop=smart&auto=webp&s=b1ee96b7cec37e12fd33f14ea41caee7d26ab035",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 0.96,
+    "ups": 59,
+    "value": 59
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Fortress Ruins with Primarch Murals",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/xouocl/fortress_ruins_with_primarch_murals/"
+}

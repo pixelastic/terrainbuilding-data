@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_3lxjxe0d",
+    "name": "helgerd"
+  },
+  "date": {
+    "day": 1664150400,
+    "full": 1664182971,
+    "month": 1661990400,
+    "week": 1664064000
+  },
+  "id": "t3_xodxvo",
+  "picture": {
+    "filesize": 66751,
+    "fullUrl": "https://preview.redd.it/c7gxe7ru46q91.jpg?width=4000&format=pjpg&auto=webp&s=9e8be12148c72b54e9a567686fc588e4f6a14282",
+    "hash": "4cf8e40ad8",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgf/xAAjEAACAQQBAwUAAAAAAAAAAAABAgMABAURBhITMRQhIkGx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAL/xAAZEQACAwEAAAAAAAAAAAAAAAACEgADERP/2gAMAwEAAhEDEQA/AHXM7k4qWLHW/VHawxKAkex1HX3qi2C5DdvkfQiSV7d0YESNsKwG9j8qjcmxFrlwzXat3EX4uh0R7+KEvirbDw921DNK5Cl5Dsgb8ChWCi5JGoujbP/Z",
+    "url": "https://preview.redd.it/c7gxe7ru46q91.jpg?width=640&crop=smart&auto=webp&s=49138485ce9daceb8b00db630b632d48a53bba73",
+    "width": 640
+  },
+  "score": {
+    "comments": 35,
+    "downs": 0,
+    "ratio": 0.79,
+    "ups": 38,
+    "value": 38
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I've wasted some materials so that you could have a laugh",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/xodxvo/ive_wasted_some_materials_so_that_you_could_have/"
+}

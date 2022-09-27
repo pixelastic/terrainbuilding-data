@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_e5w1z",
+    "name": "brokenURL"
+  },
+  "date": {
+    "day": 1664150400,
+    "full": 1664172072,
+    "month": 1661990400,
+    "week": 1664064000
+  },
+  "id": "t3_xoatg4",
+  "picture": {
+    "filesize": 126228,
+    "fullUrl": "https://preview.redd.it/uptf4roc85q91.jpg?auto=webp&s=f2766873302f8b071c0bd89ca620eddeaef772cb",
+    "hash": "3036e9b297",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGB//EACEQAAEDBAMBAQEAAAAAAAAAAAECAwQFERITAAYhMVFx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAYEQEBAQEBAAAAAAAAAAAAAAACAQARIf/aAAwDAQACEQMRAD8Aa9i7u2/3OjTo70kU2KFiSQkoN/TbE/b/ADlzQa05WIa5EZIS0F4p2KxJGIN7H+8y12FS3ahHlT58ZpCCre3uQS4T+HLzg1epTc6fvp65LUVTadYEjIKTbwg++W5EqT1501Xg3//Z",
+    "url": "https://preview.redd.it/uptf4roc85q91.jpg?width=640&crop=smart&auto=webp&s=dc891d8c35be28741cdea4c8209908e0b8916bcf",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 42,
+    "value": 42
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A dwarf in the jungle diorama",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/xoatg4/a_dwarf_in_the_jungle_diorama/"
+}

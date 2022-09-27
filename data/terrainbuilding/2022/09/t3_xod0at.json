@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_q02hkyz",
+    "name": "Brit-Git"
+  },
+  "date": {
+    "day": 1664150400,
+    "full": 1664179664,
+    "month": 1661990400,
+    "week": 1664064000
+  },
+  "id": "t3_xod0at",
+  "picture": {
+    "filesize": 102744,
+    "fullUrl": "https://preview.redd.it/z4pcqlxzu5q91.jpg?width=2048&format=pjpg&auto=webp&s=d0879d10e712643dfea59b295656068043446d42",
+    "hash": "e8a386aa72",
+    "height": 608,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAPABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEBv/EACMQAAEDAwQCAwAAAAAAAAAAAAECAxEEBQYAEiExE0FRYZH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABkRAAIDAQAAAAAAAAAAAAAAAAECAAMREv/aAAwDAQACEQMRAD8ArxzGrWiw0W+307xcpgt1xTSSpZPuY+ONBk1hpBj5bpLdTpCAoA7AlSAJEzEkjWNYpb4WDRN5S8y7TApCWwqCOoJ4gAD70q4KulC0tLuQrcS6nxNAtmdxT7MdfvepjS/WkxldMyf/2Q==",
+    "url": "https://preview.redd.it/z4pcqlxzu5q91.jpg?width=640&crop=smart&auto=webp&s=87ee94d898327d3df93138fdcc04dfd91d0fa9fa",
+    "width": 640
+  },
+  "score": {
+    "comments": 19,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 494,
+    "value": 494
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A billboard for a post-apoc game",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/xod0at/a_billboard_for_a_postapoc_game/"
+}
