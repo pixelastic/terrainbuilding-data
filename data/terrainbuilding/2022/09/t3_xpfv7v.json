@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_66kdwoxs",
+    "name": "wizardwillie"
+  },
+  "date": {
+    "day": 1664236800,
+    "full": 1664282889,
+    "month": 1661990400,
+    "week": 1664064000
+  },
+  "id": "t3_xpfv7v",
+  "picture": {
+    "filesize": 99975,
+    "fullUrl": "https://preview.redd.it/yir6de9zdeq91.jpg?width=1440&format=pjpg&auto=webp&s=2eb6f6093d91a00eeb5b9c6fbdfc8d94b42b00be",
+    "hash": "0244eb6fd1",
+    "height": 800,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgcI/8QAJRAAAAYBAwMFAAAAAAAAAAAAAQIDBAURBgAhMQcSEyIjYYHw/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAP/xAAYEQACAwAAAAAAAAAAAAAAAAAAAQIREv/aAAwDAQACEQMRAD8AY5L1EioLJhh3ZTnUTTKdQ5B2Le9fNBQ/elsdIspNt54xym5RvtE6Y2F/h1nWXwDLlp1d29jlXS6ipjAuVYpw5Gr9QUFUGqBgGMZbFMl7WQYeUS+0Knfxe9AFBzqTixqmf//Z",
+    "url": "https://preview.redd.it/yir6de9zdeq91.jpg?width=640&crop=smart&auto=webp&s=6ed5f799de9a03b6f9385ea09229619c72f5651b",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 109,
+    "value": 109
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First Attempt at Scatter Terrain! I used sage spice for surface texture and an old brush’s bristles for tall grass. Can’t wait to make more!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/xpfv7v/first_attempt_at_scatter_terrain_i_used_sage/"
+}

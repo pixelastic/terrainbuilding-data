@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_ez86stru",
+    "name": "CustomMiniatureMaker"
+  },
+  "date": {
+    "day": 1664236800,
+    "full": 1664278435,
+    "month": 1661990400,
+    "week": 1664064000
+  },
+  "id": "t3_xpe810",
+  "picture": {
+    "filesize": 87801,
+    "fullUrl": "https://preview.redd.it/zbjjq94g0eq91.jpg?width=3024&format=pjpg&auto=webp&s=77c0b804395b66337482bf31135f496f9c81974c",
+    "hash": "b8c9d57dbd",
+    "height": 762,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgf/xAAlEAABAwMDAwUAAAAAAAAAAAABAgMEBQYRABIhMUFxBxMUIoH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABcRAQADAAAAAAAAAAAAAAAAAAEAAhH/2gAMAwEAAhEDEQA/AKrcVcrL90qkUCU6/EhrShTCCA2vj7A5657Ht+aY0G6G6iyr5MSZEktgFxlxlR25zjCgMKHHXUxvmhXfGuaWxbblQjUmS57wXDaQSSrlSN2CUgHxp/6Z2zJt+lPrqTq3Z8xQW6Fq3FGMgDdzk9z51Ko7HZMn/9k=",
+    "url": "https://preview.redd.it/zbjjq94g0eq91.jpg?width=640&crop=smart&auto=webp&s=4caffb31c6e9e96b378bcc14dc9cd7866d41c9fc",
+    "width": 640
+  },
+  "score": {
+    "comments": 11,
+    "downs": 0,
+    "ratio": 0.96,
+    "ups": 148,
+    "value": 148
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "This terrain was made using texture rollers!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/xpe810/this_terrain_was_made_using_texture_rollers/"
+}
