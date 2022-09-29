@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_69p0qqok",
+    "name": "TeaDM"
+  },
+  "date": {
+    "day": 1664323200,
+    "full": 1664367743,
+    "month": 1661990400,
+    "week": 1664064000
+  },
+  "id": "t3_xqba7b",
+  "picture": {
+    "filesize": 96887,
+    "fullUrl": "https://preview.redd.it/hqi73f0aelq91.jpg?auto=webp&s=0c32a3116474f8ae76ea57711b29b54f4d660d5f",
+    "hash": "143110be43",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwUI/8QAJBAAAQQBBAICAwAAAAAAAAAAAQIDBAURABIhMQYHEyIyQWH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAx/9oADAMBAAIRAxEAPwCL6stKyT5DPk1le5WhMFEV0MrCClbix+PfWzgnnnTV4xEYsa1T1lDYlSkuFtbgDasbQBtzzyMYOf2DoF9BVshxiycdZmtZmx0FxBDfxbErWCrd2CSBj+60JQS4lTWojzHnESVKLrqHAXClSvsRuSkBQGe9EZIt/9k=",
+    "url": "https://preview.redd.it/hqi73f0aelq91.jpg?width=640&crop=smart&auto=webp&s=f778149d8aee81e0c9c22e4aa7206789fa00e34d",
+    "width": 640
+  },
+  "score": {
+    "comments": 15,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 41,
+    "value": 41
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Underwater dnd battle map inspiration needed",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/xqba7b/underwater_dnd_battle_map_inspiration_needed/"
+}

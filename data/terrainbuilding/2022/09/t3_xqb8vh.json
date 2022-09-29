@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_srvlcl2n",
+    "name": "master_atuy"
+  },
+  "date": {
+    "day": 1664323200,
+    "full": 1664367643,
+    "month": 1661990400,
+    "week": 1664064000
+  },
+  "id": "t3_xqb8vh",
+  "picture": {
+    "filesize": 127105,
+    "fullUrl": "https://preview.redd.it/frjxyy3ydlq91.jpg?width=3024&format=pjpg&auto=webp&s=89a54bfc8ff630ca9c0654ee4c25c0e4d5a4881e",
+    "hash": "f40ddb5a4d",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgIH/8QAIRAAAgIBBAIDAAAAAAAAAAAAAQIDBAUAESFBBjETMqH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABkRAAIDAQAAAAAAAAAAAAAAAAECABESwf/aAAwDAQACEQMRAD8AvK+N067ZGpZ8jyeQEYMts0K6hR6DENIx4B2Gh+UwfhdayEjxFmVCoYMbDt+gjTXIYpbKZCCeqsayuTBYiX7tvuGJ627B986z/KWExdkUnX5XhUKzNwSe+OudS2BeRHY6Clm7P//Z",
+    "url": "https://preview.redd.it/frjxyy3ydlq91.jpg?width=640&crop=smart&auto=webp&s=41f06301dab70a237d825721b2015f3f8a4f028a",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 92,
+    "value": 92
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Here my little diorama I'm building for a black Templar competition",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/xqb8vh/here_my_little_diorama_im_building_for_a_black/"
+}

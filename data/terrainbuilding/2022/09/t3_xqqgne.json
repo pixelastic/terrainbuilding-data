@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_96tnb6kk",
+    "name": "Wooden_Yellow_7229"
+  },
+  "date": {
+    "day": 1664323200,
+    "full": 1664404124,
+    "month": 1661990400,
+    "week": 1664064000
+  },
+  "id": "t3_xqqgne",
+  "picture": {
+    "filesize": 42452,
+    "fullUrl": "https://preview.redd.it/x82tmfsydoq91.jpg?width=4000&format=pjpg&auto=webp&s=cf235c7ed70d41f3fa2651ae07dd35ce4c225ac7",
+    "hash": "dd8e736ebe",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGCP/EACUQAAECBQIHAQAAAAAAAAAAAAECAwAEBRESBiEUMTM0QXF0wf/EABUBAQEAAAAAAAAAAAAAAAAAAAAC/8QAGREBAAIDAAAAAAAAAAAAAAAAAQACESFh/9oADAMBAAIRAxEAPwBNQ9OSVQoKkksshzG541OaSDfJIKrA7nxFKzpeiSDQdZMm44SLKfmg64k88t1EJN9zjGbq71ZX5U/sBL7dPtcCxjRJKdn/2Q==",
+    "url": "https://preview.redd.it/x82tmfsydoq91.jpg?width=640&crop=smart&auto=webp&s=781c6c5a4b57dac151d4ed76a94ef22ce109dd36",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 17,
+    "value": 17
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My helm's deep project. walls!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/xqqgne/my_helms_deep_project_walls/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_ovgugv51",
+    "name": "DeeplightStudio"
+  },
+  "date": {
+    "day": 1664323200,
+    "full": 1664390575,
+    "month": 1661990400,
+    "week": 1664064000
+  },
+  "id": "t3_xqkqlf",
+  "picture": {
+    "filesize": 35603,
+    "fullUrl": "https://preview.redd.it/ix7nw6w3anq91.jpg?auto=webp&s=95d7161ebf794c07f69c7b02c4b08bc768466924",
+    "hash": "c04a8d097a",
+    "height": 455,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAYH/8QAIhAAAgEDBAIDAAAAAAAAAAAAAQMCBAYRABMhMQUSYZGx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDH7asu4LpVJvh6fdGSACSM47OcY745IOleetCtt1a51rZh8ZRi2nbTzTOBPWPbiQ+RqfS1qZy2XNVnvbYY5+jpSmMc6Bc1rSMcsYZfp1Qf/9k=",
+    "url": "https://preview.redd.it/ix7nw6w3anq91.jpg?width=640&crop=smart&auto=webp&s=bcd996c07542e618246e7b3ddf7f953d6e7dbd9e",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.9,
+    "ups": 23,
+    "value": 23
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Made a guide on snowy terrain",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/xqkqlf/made_a_guide_on_snowy_terrain/"
+}

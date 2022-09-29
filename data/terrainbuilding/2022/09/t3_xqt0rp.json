@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_bazlkrdx",
+    "name": "ProfTerrible"
+  },
+  "date": {
+    "day": 1664409600,
+    "full": 1664410859,
+    "month": 1661990400,
+    "week": 1664064000
+  },
+  "id": "t3_xqt0rp",
+  "picture": {
+    "filesize": 155330,
+    "fullUrl": "https://preview.redd.it/3na7jladyoq91.jpg?width=2704&format=pjpg&auto=webp&s=e6858cfdc931380538531de1ac52521e973cec3a",
+    "hash": "4cb4259890",
+    "height": 855,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQF/8QAIxAAAgEDAwQDAAAAAAAAAAAAAQIEAwURAAZBEhMhgTFRsf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGxEAAgEFAAAAAAAAAAAAAAAAAAEDERITMUH/2gAMAwEAAhEDEQA/AFsC8bXaK1CVt+nKFIEtWqOOp88jPnB+snxqGtf9mJVYR7CIycotPOTyfDawZmxr5QB7E2LJ5x1shI9g/ujcvb19o1ijQXc/OUZGB951MsD1Qa2RcP/Z",
+    "url": "https://preview.redd.it/3na7jladyoq91.jpg?width=640&crop=smart&auto=webp&s=629c7623bdb15e23602026fa3b023c8d740daa4a",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 9,
+    "value": 9
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Rubber-Based Gaming Mat Experiment",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/xqt0rp/rubberbased_gaming_mat_experiment/"
+}
