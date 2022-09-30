@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_eldq4low",
+    "name": "cdrey94"
+  },
+  "date": {
+    "day": 1664409600,
+    "full": 1664448003,
+    "month": 1661990400,
+    "week": 1664064000
+  },
+  "id": "t3_xr4fpi",
+  "picture": {
+    "filesize": 106865,
+    "fullUrl": "https://preview.redd.it/i4p6d2qx0sq91.jpg?auto=webp&s=c96d60609ad4c76645cc777c6bf10b527196e99e",
+    "hash": "1c00f50b86",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAIhAAAgEDBAIDAAAAAAAAAAAAAQMCBAURAAYSIQcTIjGR/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABkRAAMBAQEAAAAAAAAAAAAAAAECAwASIf/aAAwDAQACEQMRAD8AP8a7L23eqBjKq3OM2OkrlNshKA4jHDicdE5zqIltO6LYyFNcVTXGRiCSCejjvWpeLyq2srR7owQx0XQEz9fHBH6Boq42mgfXPdOzxMmMlLKwQDknvo6PS4WaEHJnDqjAjzf/2Q==",
+    "url": "https://preview.redd.it/i4p6d2qx0sq91.jpg?width=640&crop=smart&auto=webp&s=20d150577cb538a96a8672d49a12917672993d2c",
+    "width": 640
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "ratio": 0.94,
+    "ups": 41,
+    "value": 41
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My first attempt at terrain with polystyrene while I wait for some xps to arrive.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/xr4fpi/my_first_attempt_at_terrain_with_polystyrene/"
+}
