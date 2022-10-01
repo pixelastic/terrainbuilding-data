@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_3j36njf4",
+    "name": "blckspawn92"
+  },
+  "date": {
+    "day": 1664496000,
+    "full": 1664561388,
+    "month": 1661990400,
+    "week": 1664064000
+  },
+  "id": "t3_xs87hc",
+  "picture": {
+    "filesize": 66331,
+    "fullUrl": "https://preview.redd.it/1qztmktpd1r91.png?auto=webp&s=e39342364341cd6b0c57e8f933c1b736c9526ce5",
+    "hash": "dcd1d2b6a7",
+    "height": 360,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAYAAAA7KqwyAAAACXBIWXMAAAsTAAALEwEAmpwYAAACKklEQVQokU2OyW8ScRzFvyBuR/8A7cFI4sGDiVFsGXCAGZYZYJhhAIHCsNRhK9ChWAmrXSwN0Mp2qCYebGrUpN7qwZi4/QfGo6ZHjae6xSWtPzP04ju9l3zey4OzajWwjAUclAlMuBZ30uRWIRdjbOQVaC+Xzg1W64/XVsqxZ9sPoL10Y6zfqW90W1Xp8/vXSguBATgo4pCDIsBJkyGzSY8shB6xTguy20wvPRz9JehjUDjAoWuxwBsfb/8k54CXkZknW5s9gGwqfFiajkIhG2syNIlw/fg3E679SxgwZMS1yKAf/22niD+Tfm6UdZjmh16nQUZ8YsfD2Y5Dt1VR3Rkswnp/ITObiyOOsSLGTu5TVuOezWLYJ4wY4jkKuV22D06a+MWzIy8zr0B1RAHD7jzI6vaWFcO1hrdRzu3EI14UvMru+b0MIk26r3HBW2kuzB2bk8RLzfnii8X6zO1cSjghBDmAe+sr8PB+D8ZOnVSmxCBYzXjO47Yjymr4yTJWNOlnH3l5O9yqS1C5noYJzQXIJkNQK2WgVBABuu0qPH+6Adl0VDUVC0I6KdQCPhcijNh3l8OCpqK+7TNqNeiwy0opG1PKb8MBVplPC4pGOTt6Dzh2UR5QFvIiFKXE+UiIf+fhaBQO8ruzMwn/zVoRpHxCIYQ80O/UoNeqwnC1DoNO7WBAjPpAyokwnYooijMJ2Ly7dNTtsgkOmjxtNeMjZvfjW8gkhYPCf/oHp9vUuDFY+rMAAAAASUVORK5CYII=",
+    "url": "https://preview.redd.it/1qztmktpd1r91.png?width=640&crop=smart&auto=webp&s=6aa70df38a6b91273b4596daa9f22f9ce4ba4ffc",
+    "width": 640
+  },
+  "score": {
+    "comments": 10,
+    "downs": 0,
+    "ratio": 0.88,
+    "ups": 20,
+    "value": 20
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Working on a modular hex road tile system for my wargame. I have 2 roads and 2 intersections (i think that what they are called). What do you think? What else should I add?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/xs87hc/working_on_a_modular_hex_road_tile_system_for_my/"
+}

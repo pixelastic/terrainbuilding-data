@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_2nqq35mi",
+    "name": "Lost-Cateran"
+  },
+  "date": {
+    "day": 1664496000,
+    "full": 1664547687,
+    "month": 1661990400,
+    "week": 1664064000
+  },
+  "id": "t3_xs2mm2",
+  "picture": {
+    "filesize": 111128,
+    "fullUrl": "https://preview.redd.it/g5zrczpc90r91.jpg?width=4032&format=pjpg&auto=webp&s=ddf6e2f9e91880181bd699b1e7e830e9f286b663",
+    "hash": "f3bf313968",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAgX/xAAjEAABAgYCAgMAAAAAAAAAAAABAgMABAUREiEGExRxMUGh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAZEQACAwEAAAAAAAAAAAAAAAAAAQISIRH/2gAMAwEAAhEDEQA/AJPE5pXHaCKZTul3yG8ptSGddhSbhGR+ha51saEUajyGfmqWiRfbaUywx0rStrEkEXubHfv8g0yTbmEBSipBJyIRYC9/UGYlWkPqbxySkgAn5iRSzRXFWtw//9k=",
+    "url": "https://preview.redd.it/g5zrczpc90r91.jpg?width=640&crop=smart&auto=webp&s=10e89ba4426e84f722e066406e4ced05e6d11f43",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 87,
+    "value": 87
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Finally finished all of my Pegasus Gothic Terrain. Cathedral centerpiece, with assorted buildings and ruins.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/xs2mm2/finally_finished_all_of_my_pegasus_gothic_terrain/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_11waa3",
+    "name": "thecriznazz"
+  },
+  "date": {
+    "day": 1664496000,
+    "full": 1664504010,
+    "month": 1661990400,
+    "week": 1664064000
+  },
+  "id": "t3_xrplft",
+  "picture": {
+    "filesize": 151754,
+    "fullUrl": "https://preview.redd.it/qtowe2ygnwq91.jpg?width=3000&format=pjpg&auto=webp&s=a364450aa9b28a85208992fe078aa53a9682ec29",
+    "hash": "0448b3d5cb",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAIH/8QAIRAAAgICAgEFAAAAAAAAAAAAAQIDBAURABJBMUJhkrH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGxEAAgMAAwAAAAAAAAAAAAAAAQIAAzEEIUH/2gAMAwEAAhEDEQA/AMsfBNbyN2aKxAkReSUR9g3Rdkg7H5yRiq6DqzwSEe4yMu/nXjj5Mw1BFGOs14CN9o5Krgj6+eKGeEqIXySqwUKdQP68K/NuYBTgzYkUoO/Z/9k=",
+    "url": "https://preview.redd.it/qtowe2ygnwq91.jpg?width=640&crop=smart&auto=webp&s=6e4a0e01d737f576bf0caf8df717c5627d8d6c5b",
+    "width": 640
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 108,
+    "value": 108
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My first build",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/xrplft/my_first_build/"
+}
