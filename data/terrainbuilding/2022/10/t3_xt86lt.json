@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_6zooeksi",
+    "name": "PadreLobo"
+  },
+  "date": {
+    "day": 1664582400,
+    "full": 1664663569,
+    "month": 1664582400,
+    "week": 1664064000
+  },
+  "id": "t3_xt86lt",
+  "picture": {
+    "filesize": 58078,
+    "fullUrl": "https://preview.redd.it/h6x9qmdxt9r91.jpg?auto=webp&s=669865d26a16637c93d9275a31c4f8afc7714327",
+    "hash": "dda77a8b24",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQF/8QAJRAAAgIBAgYCAwAAAAAAAAAAAQIDEQQAIQUGEiIxQRRRYWKB/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAYEQEBAQEBAAAAAAAAAAAAAAABAgATFP/aAAwDAQACEQMRAD8ALkzMyeDySxzStlwDHaAStAyOr2AErfzY80fxrf4zxTm9ZYZeXMoS48a9ZhjcB5Ab2KsN6r0dt9JlwhoppEJiZF6uwABj+wqj/dX/AAYHx8PIC9Er5MWQxSh3EC6+gfYFal+ltmwyuYLDv//Z",
+    "url": "https://preview.redd.it/h6x9qmdxt9r91.jpg?width=640&crop=smart&auto=webp&s=27f376429ee128a90c993811949fab453c9dd59b",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 0.95,
+    "ups": 14,
+    "value": 14
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "What’s the next step?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/xt86lt/whats_the_next_step/"
+}

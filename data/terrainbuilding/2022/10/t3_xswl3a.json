@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_39qkpafx",
+    "name": "OGmisfitjoker"
+  },
+  "date": {
+    "day": 1664582400,
+    "full": 1664634209,
+    "month": 1664582400,
+    "week": 1664064000
+  },
+  "id": "t3_xswl3a",
+  "picture": {
+    "filesize": 172990,
+    "fullUrl": "https://preview.redd.it/hvkuennme7r91.jpg?width=3024&format=pjpg&auto=webp&s=df56e84a0e16c81f995ed4493b5ac16cae8569bd",
+    "hash": "e17e2c2ed1",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQFBv/EACQQAAEEAQMDBQAAAAAAAAAAAAECAwQRBQASEwYhQRQxMlFh/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABkRAAMAAwAAAAAAAAAAAAAAAAABAgMRIf/aAAwDAQACEQMRAD8AKbh8dDVKbxkp5hONWHGWGBucKNg3qJ8EEX9kDtZOo0nDdM5yU89LzTuNUyrgQkFA5kgAh2lCwTu7g+QfGn+kpb0zLJhwh6BuNEVzB4G3HSUgLr3sG7s3rGZKNk8tkJLz7jy3m3VNLKEBCLBPxs2R+6DOSk+jKjaP/9k=",
+    "url": "https://preview.redd.it/hvkuennme7r91.jpg?width=640&crop=smart&auto=webp&s=48969f957ab70cbd53332f3e51367aade1200a08",
+    "width": 640
+  },
+  "score": {
+    "comments": 39,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 481,
+    "value": 481
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Swamp terrain",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/xswl3a/swamp_terrain/"
+}

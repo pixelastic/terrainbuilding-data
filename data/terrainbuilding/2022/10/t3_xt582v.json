@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_65f4r",
+    "name": "StupidRedditUsername"
+  },
+  "date": {
+    "day": 1664582400,
+    "full": 1664655791,
+    "month": 1664582400,
+    "week": 1664064000
+  },
+  "id": "t3_xt582v",
+  "picture": {
+    "filesize": 141598,
+    "fullUrl": "https://preview.redd.it/xwctvess69r91.jpg?width=3024&format=pjpg&auto=webp&s=b24e4d866cefddc82894952ace36904a793243da",
+    "hash": "f4790b9b80",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFBv/EACQQAAICAgEDBAMAAAAAAAAAAAECAwQFETEAEiEGEzJCQVGx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAZEQACAwEAAAAAAAAAAAAAAAABAgADEaH/2gAMAwEAAhEDEQA/AD3vWWY9MZCxZeeTNV8lbWOu5PapVQFOh9T4ZTwC3nrPUruRjyK5LDWbVa5NHZEsKKsnte7KW7dH5EeCT+DxzvqhTlr5HFS2MR3RV6m3kmnrly+9s4j2QATyf509ernF4PIXrML3ZEkRqrzOHEjMCTKQPChQONfUfs9GyaNWS13sWCkdn//Z",
+    "url": "https://preview.redd.it/xwctvess69r91.jpg?width=640&crop=smart&auto=webp&s=3f73f5a05f395e21d5e649f62455a159440b3bca",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 10,
+    "value": 10
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Terrain break",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/xt582v/terrain_break/"
+}
