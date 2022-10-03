@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_7qdgsk5r",
+    "name": "Ironmedic44"
+  },
+  "date": {
+    "day": 1664668800,
+    "full": 1664714714,
+    "month": 1664582400,
+    "week": 1664668800
+  },
+  "id": "t3_xtnxak",
+  "picture": {
+    "filesize": 35049,
+    "fullUrl": "https://preview.redd.it/u9r5hvj02er91.jpg?width=4032&format=pjpg&auto=webp&s=973e3476a1122964007d38a3faaa8bca83d1ad0e",
+    "hash": "f697f924b0",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgAI/8QAJBAAAgIBAwIHAAAAAAAAAAAAAQIDBAUAETEGYQcTISIyUYH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABgRAAMBAQAAAAAAAAAAAAAAAAABAhEh/9oADAMBAAIRAxEAPwBjYzWJreXHk78FRJQdhNKUDAc7HjVN1f0vjFgibOV44ZfYjx2SyjsSCdv3WcvE23akmrJJZmdWQSgFvie30O2j1G1KKaAkMSrerDc86ntZKobPXh//2Q==",
+    "url": "https://preview.redd.it/u9r5hvj02er91.jpg?width=640&crop=smart&auto=webp&s=1eafcc016f217d039c700845128ae5892585efd9",
+    "width": 640
+  },
+  "score": {
+    "comments": 15,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 8,
+    "value": 8
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Little bit of trouble shooting, I have an issue with major warping. This is the second board I have attempted that has resulted in failure. Can some one tell me what went wrong here? Both of these dried inside in a temperature controlled environment.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/xtnxak/little_bit_of_trouble_shooting_i_have_an_issue/"
+}

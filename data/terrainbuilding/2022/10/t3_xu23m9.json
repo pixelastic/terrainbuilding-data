@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1joi0fq8",
+    "name": "lucid_bass"
+  },
+  "date": {
+    "day": 1664668800,
+    "full": 1664750408,
+    "month": 1664582400,
+    "week": 1664668800
+  },
+  "id": "t3_xu23m9",
+  "picture": {
+    "filesize": 352283,
+    "fullUrl": "https://preview.redd.it/yewg64a50hr91.jpg?width=1560&format=pjpg&auto=webp&s=ce262b94659c83395c4ff08701bb8186034b3324",
+    "hash": "fe98dd215c",
+    "height": 1641,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAYDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAIF/8QAIBAAAQMEAgMAAAAAAAAAAAAAAQIDEQAEBSESMSJRcf/EABUBAQEAAAAAAAAAAAAAAAAAAAMF/8QAHBEAAgICAwAAAAAAAAAAAAAAAQIAAwQxESHh/9oADAMBAAIRAxEAPwCGLx15ZCXFLElUFRjvVKx8fjsqX3E2lmq4WmfFmSeOt66H33SkGWg2ZAvwFtYMi9cDQ8n/2Q==",
+    "url": "https://preview.redd.it/yewg64a50hr91.jpg?width=640&crop=smart&auto=webp&s=562d53b2f55c18bdcf19265c42f87215e19c34fd",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.94,
+    "ups": 13,
+    "value": 13
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Test piece of road for a larger board I want to build. Anyone with experience making roads have any suggestions?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/xu23m9/test_piece_of_road_for_a_larger_board_i_want_to/"
+}

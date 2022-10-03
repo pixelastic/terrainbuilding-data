@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_c5qiojw",
+    "name": "GillyMonster18"
+  },
+  "date": {
+    "day": 1664668800,
+    "full": 1664683207,
+    "month": 1664582400,
+    "week": 1664668800
+  },
+  "id": "t3_xteul1",
+  "picture": {
+    "filesize": 112261,
+    "fullUrl": "https://preview.redd.it/b2z4459agbr91.jpg?width=3024&format=pjpg&auto=webp&s=8c52082dcc86bbb7fbaf99e7de4c87d405e7455a",
+    "hash": "88611fbc68",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQGB//EACMQAAIBAwMFAQEAAAAAAAAAAAECAwQRIQAFEgYiMUFhExX/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAERAyH/2gAMAwEAAhEDEQA/AI6Kt3Cd3YV1e4ij/RwKlSBkDkLL4+DT5rqhlRkra2MMoPc7ty+4W1tazX9E9K1TRmXbkWSOPjdJWX3fObHPo6L/AGtrjSOG9FyiRUZUXCEAduc+LedCg96TqP/Z",
+    "url": "https://preview.redd.it/b2z4459agbr91.jpg?width=640&crop=smart&auto=webp&s=8102fd7c5ffb95f92c3d488e399647bbcf3fc6c6",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 16,
+    "value": 16
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Dead dice and doors.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/xteul1/dead_dice_and_doors/"
+}

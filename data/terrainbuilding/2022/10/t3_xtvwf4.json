@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1hmkcv5a",
+    "name": "Haakien"
+  },
+  "date": {
+    "day": 1664668800,
+    "full": 1664735100,
+    "month": 1664582400,
+    "week": 1664668800
+  },
+  "id": "t3_xtvwf4",
+  "picture": {
+    "filesize": 105833,
+    "fullUrl": "https://preview.redd.it/flmzt5l4qfr91.jpg?width=3024&format=pjpg&auto=webp&s=33bc8d9e0378d9562ef637c4fe1009e4d02fb0b0",
+    "hash": "c192d57d98",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwEG/8QAJBAAAQMDAwQDAAAAAAAAAAAAAQIDBAAFEQYhQRITIjFRYaH/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAGxEAAgIDAQAAAAAAAAAAAAAAAQMAAgQFEiH/2gAMAwEAAhEDEQA/AMJpeJHnvQbkghIjudbqCN1KScpx8cUuWq9Nz4gfSUjyKTk8j3j6or0tNtDOmwmYttpxKilxIPk5vkHp9nbFR3UjUchu3s9qOBslWPwcCitglrQCoexHEdShPc//2Q==",
+    "url": "https://preview.redd.it/flmzt5l4qfr91.jpg?width=640&crop=smart&auto=webp&s=3d7b162bbce3de9ca5fe34760d33e04714e8e27c",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 72,
+    "value": 72
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My homemade D&D tower",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/xtvwf4/my_homemade_dd_tower/"
+}
