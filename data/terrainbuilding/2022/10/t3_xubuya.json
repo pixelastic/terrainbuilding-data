@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_7tcehl4w",
+    "name": "eguhedmu"
+  },
+  "date": {
+    "day": 1664755200,
+    "full": 1664779321,
+    "month": 1664582400,
+    "week": 1664668800
+  },
+  "id": "t3_xubuya",
+  "picture": {
+    "filesize": 117762,
+    "fullUrl": "https://preview.redd.it/lyb6ooj3ejr91.jpg?width=3024&format=pjpg&auto=webp&s=69b7022d2736a4830793ee85da77b535992264d3",
+    "hash": "a23b533841",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFBv/EACUQAAEEAQIFBQAAAAAAAAAAAAECAwQRBQAGEhMhMUEiUWFiof/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGBEAAwEBAAAAAAAAAAAAAAAAAQIRABL/2gAMAwEAAhEDEQA/ANVm8DtmW69Ok4KE8HhwKXzl+q+x6KABHwNSpOz9kZItuvMOQlpQEFpA5g6ebUCfP5o+4nm3JBLNBLNpcc7ITRFpP2omjpPHtZmTHDmHg8USzS3VEFZ8mvbUzGNyoudRVrHf/9k=",
+    "url": "https://preview.redd.it/lyb6ooj3ejr91.jpg?width=640&crop=smart&auto=webp&s=6025dc24a01bafdf2a2f529dc5c838d6336ceb6c",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 49,
+    "value": 49
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP: ruined dungeon terrain tile",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/xubuya/wip_ruined_dungeon_terrain_tile/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1bta8mfx",
+    "name": "Stopgoabomb"
+  },
+  "date": {
+    "day": 1664755200,
+    "full": 1664839416,
+    "month": 1664582400,
+    "week": 1664668800
+  },
+  "id": "t3_xuyrz7",
+  "picture": {
+    "filesize": 113335,
+    "fullUrl": "https://preview.redd.it/d48ry30rcor91.jpg?width=3024&format=pjpg&auto=webp&s=acc3ab4898d58436528a39e2beb5e98b6dfbde89",
+    "hash": "0142ded08a",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAJRAAAgEDAwQCAwAAAAAAAAAAAQIEAwURAAYhBxITYSIxMkFR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAXEQEBAQEAAAAAAAAAAAAAAAABACER/9oADAMBAAIRAxEAPwBzqhvm5224tAqW9F8NRvCvkKhlPCu2fyH8AxrIX3rYbLViRp9ghTJDxqdYursFUMMhQGyQMe/3pDqZs/dk+rUqT1F2j1XFNZVJMtTQsMdyfYx6yONXXPY022mLGMSjMdI6d1WoUYk45Hy5GPrHrUDq6Sy//9k=",
+    "url": "https://preview.redd.it/d48ry30rcor91.jpg?width=640&crop=smart&auto=webp&s=ef51df7a5d9cfaf61ae9dbf9d6f4e8d9de97d12b",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 16,
+    "value": 16
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Dice tower",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/xuyrz7/dice_tower/"
+}
