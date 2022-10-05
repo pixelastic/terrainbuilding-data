@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_a1s2x",
+    "name": "Tarryman"
+  },
+  "date": {
+    "day": 1664841600,
+    "full": 1664865664,
+    "month": 1664582400,
+    "week": 1664668800
+  },
+  "id": "t3_xv7pbv",
+  "picture": {
+    "filesize": 72200,
+    "fullUrl": "https://preview.redd.it/b442zvzuiqr91.jpg?width=4080&format=pjpg&auto=webp&s=e520fc265835179878304c3132968312d7428308",
+    "hash": "15957f0bc7",
+    "height": 482,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQFB//EACEQAAIBBAICAwAAAAAAAAAAAAECAwQFESEAEjFBYaHR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAaEQACAwEBAAAAAAAAAAAAAAABAgADERLw/9oADAMBAAIRAxEAPwCPc7kkdEzxFoZTlTEJBKOpIC4YAbOida4FpvM0ctxpaqpjiSV4g79CQpC6YfG9gDmfz3yqZSSIsg+cHf3xJb7VEsesWT7wf3kCqtl5Iizvun2T/9k=",
+    "url": "https://preview.redd.it/b442zvzuiqr91.jpg?width=640&crop=smart&auto=webp&s=717fe4c9441809cb6f0879804010845109f45f90",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.95,
+    "ups": 16,
+    "value": 16
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Been working on my versatile dungeon tile where I can just change the scatter!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/xv7pbv/been_working_on_my_versatile_dungeon_tile_where_i/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_71nqizx",
+    "name": "omgitsduane"
+  },
+  "date": {
+    "day": 1664841600,
+    "full": 1664885365,
+    "month": 1664582400,
+    "week": 1664668800
+  },
+  "id": "t3_xvdfjv",
+  "picture": {
+    "filesize": 84024,
+    "fullUrl": "https://preview.redd.it/ymjjg39f5sr91.jpg?width=4000&format=pjpg&auto=webp&s=5fff403e50038c2fe5fad8892c90fb127ec9074c",
+    "hash": "40badac831",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwYH/8QAIhAAAQQBBAIDAAAAAAAAAAAAAQIDBBEFABIxQQYhEzJh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAaEQACAgMAAAAAAAAAAAAAAAABAgAREiFB/9oADAMBAAIRAxEAPwDL5WDehjHznskmYJClIQzIb2/XkkVxXBHeqCX5BMhYdqIxiMcxHlICg+pobt1j2FH3xX5p5rSMuiEZoKlpTaV7iSnaOrJq+xo25UliUhhD7nxLSUkGuAkd1epSylbqNjwnc//Z",
+    "url": "https://preview.redd.it/ymjjg39f5sr91.jpg?width=640&crop=smart&auto=webp&s=b56e8b013ca0cebe22ef562b3b0b60a6165247be",
+    "width": 640
+  },
+  "score": {
+    "comments": 107,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 591,
+    "value": 591
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Does this look enough like lava?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/xvdfjv/does_this_look_enough_like_lava/"
+}

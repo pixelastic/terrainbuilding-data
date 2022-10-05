@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_sn8vr3ys",
+    "name": "Doctor-Spork"
+  },
+  "date": {
+    "day": 1664841600,
+    "full": 1664907806,
+    "month": 1664582400,
+    "week": 1664668800
+  },
+  "id": "t3_xvmjxw",
+  "picture": {
+    "filesize": 44187,
+    "fullUrl": "https://preview.redd.it/fzkwij540ur91.jpg?auto=webp&s=2785bd58d594f6ec8347d7c876979ead55bb697d",
+    "hash": "3e9b86e28f",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQID/8QAJBAAAQMDBAEFAAAAAAAAAAAAAQIDBAUGEQAHITGBEhMyQVH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABgRAQADAQAAAAAAAAAAAAAAAAEAAxEh/9oADAMBAAIRAxEAPwBu/wCqPWrWEQTHS6ktJcLieSCc4GMj871NhTJF1TJEdTCGVtt+6k55UM4PHkaU3Ssus1yrOVemraeIaQ0mMVelRx2cnjxrHbu0apbFWfmVGUyslJDaWVZBCvkFcDoj61Y2YaPYJXvEn//Z",
+    "url": "https://preview.redd.it/fzkwij540ur91.jpg?width=640&crop=smart&auto=webp&s=41bbea036dfbfbcd570fb29da817ce9825b7c3b7",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.91,
+    "ups": 22,
+    "value": 22
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I hope 3D printing isn't cheating",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/xvmjxw/i_hope_3d_printing_isnt_cheating/"
+}
