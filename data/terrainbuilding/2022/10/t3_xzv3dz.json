@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_jsopk",
+    "name": "just4lelz"
+  },
+  "date": {
+    "day": 1665273600,
+    "full": 1665346439,
+    "month": 1664582400,
+    "week": 1665273600
+  },
+  "id": "t3_xzv3dz",
+  "picture": {
+    "filesize": 79071,
+    "fullUrl": "https://preview.redd.it/enxrezpf8us91.jpg?auto=webp&s=4f85276fd8f7e5d81f3ccc236c6dd9a803e1086a",
+    "hash": "4c33e87ebb",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgf/xAAiEAABAwMEAwEAAAAAAAAAAAABAgMEBQYRABIhURNCYTH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABoRAAEFAQAAAAAAAAAAAAAAAAMAAQIRMRP/2gAMAwEAAhEDEQA/AGF53BGipLbdYU6Uqw4pvG1WfQ45Kj0ONT9q7qnSKl5HqchUYjwxwg73ARg4WB8/COsfdMr9tyXUG3XKVFjyZjjiFAvEI2YQoE5H0546HWi8C3KzayH6zVEsTGPKt5+JERtIK+MhZ9RxxjU4opkJeJsOIxvJ9pf/2Q==",
+    "url": "https://preview.redd.it/enxrezpf8us91.jpg?width=640&crop=smart&auto=webp&s=a0ef674b3757a692f0c1c5dc420f1a28c759d60d",
+    "width": 640
+  },
+  "score": {
+    "comments": 21,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 64,
+    "value": 64
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First attempt at a building, any suggestions or tips for improvement?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/xzv3dz/first_attempt_at_a_building_any_suggestions_or/"
+}

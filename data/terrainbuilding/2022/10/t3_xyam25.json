@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_6d8o6nz8",
+    "name": "BanditDeluxe"
+  },
+  "date": {
+    "day": 1665100800,
+    "full": 1665177674,
+    "month": 1664582400,
+    "week": 1664668800
+  },
+  "id": "t3_xyam25",
+  "picture": {
+    "filesize": 79270,
+    "fullUrl": "https://preview.redd.it/3yj4t29mags91.jpg?width=4032&format=pjpg&auto=webp&s=12dc97bcae76c18c0737a50cffb25d74c6dd9add",
+    "hash": "1ffe1975be",
+    "height": 448,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwQG/8QAJRAAAQMEAQIHAAAAAAAAAAAAAQIDBAUREiEABmEHIjFRcYGx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABgRAAMBAQAAAAAAAAAAAAAAAAABEQIS/9oADAMBAAIRAxEAPwC6nUSlCTUI0yjzXWGnMI70p0tpAI2bDWWQ39cx1c6DZhZSqesyCb5odcSSlN7lSTrYGvjjDWm0qkVB0jziSsA9sQf08DvHSpzWI8OOzIW204nJSUaub+43bt6cPWm5RLKlP//Z",
+    "url": "https://preview.redd.it/3yj4t29mags91.jpg?width=640&crop=smart&auto=webp&s=cc087abbf8a355d37856ce19d813916c4aa984a6",
+    "width": 640
+  },
+  "score": {
+    "comments": 10,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 110,
+    "value": 110
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "After a bunch of helpful suggestions on the last post, I wanted to give an update on this project. Still working on some scatter terrain to add, but I’ve got the majority of the color and form down. Tell me what you think!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/xyam25/after_a_bunch_of_helpful_suggestions_on_the_last/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_2uhkk5pk",
+    "name": "Cookgypsy"
+  },
+  "date": {
+    "day": 1665273600,
+    "full": 1665358190,
+    "month": 1664582400,
+    "week": 1665273600
+  },
+  "id": "t3_xzzjma",
+  "picture": {
+    "filesize": 56183,
+    "fullUrl": "https://preview.redd.it/zj2cnf9c7vs91.jpg?auto=webp&s=22b9ac0f586721e1ef9025fc5068a2ea7c40bf79",
+    "hash": "48095f0225",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAX/xAAiEAACAgEDBAMAAAAAAAAAAAABAgMEEQAFIQYTMTISUeH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGREAAgMBAAAAAAAAAAAAAAAAAhEAAQQh/9oADAMBAAIRAxEAPwCXJ1jLNTEu3ULboCRI8zCBI8Y9mbjkHQtk6puyWZrE1czmNS0EtZgQW8D3ADeScro9XaKU1RbliHvzIVC91i6gnPPxJxnj60PqejHQtSSV3lEhQMWLZJ/NBHKAq12MLSVunyf/2Q==",
+    "url": "https://preview.redd.it/zj2cnf9c7vs91.jpg?width=640&crop=smart&auto=webp&s=338af71fca0478aa0fdbf96e0b59c95118471784",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 36,
+    "value": 36
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Finally finished my custom hot wire foam cutter.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/xzzjma/finally_finished_my_custom_hot_wire_foam_cutter/"
+}

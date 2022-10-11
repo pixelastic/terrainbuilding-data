@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_d9af8yn4",
+    "name": "Mountain_View_1944"
+  },
+  "date": {
+    "day": 1665273600,
+    "full": 1665321687,
+    "month": 1664582400,
+    "week": 1665273600
+  },
+  "id": "t3_xzljd0",
+  "picture": {
+    "filesize": 46974,
+    "fullUrl": "https://preview.redd.it/s7mfji7j6ss91.jpg?width=2592&format=pjpg&auto=webp&s=c71fb0dd1fe3f84040f9534a9316cc891a3e88b5",
+    "hash": "d90b251f26",
+    "height": 478,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGB//EACMQAAIBAwMEAwAAAAAAAAAAAAECEQADBQQGBxIhMVEUI0H/xAAVAQEBAAAAAAAAAAAAAAAAAAABBP/EABsRAAEEAwAAAAAAAAAAAAAAAAEAAhGhBBIT/9oADAMBAAIRAxEAPwCj31yzkLe6ntbbjVYxLagD4xIZoksW7GJ7eaEx/KuRtZy22V01qziHQSwENbcwACT5/axzWHqYgqsR6pPqD9kgAH3FHJ20zSmGYCILbX//2Q==",
+    "url": "https://preview.redd.it/s7mfji7j6ss91.jpg?width=640&crop=smart&auto=webp&s=1fded6c9f6c77268d63b51c8102df0db654f28f3",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 67,
+    "value": 67
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My First Diorama.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/xzljd0/my_first_diorama/"
+}
