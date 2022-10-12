@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_ez86stru",
+    "name": "CustomMiniatureMaker"
+  },
+  "date": {
+    "day": 1665446400,
+    "full": 1665486906,
+    "month": 1664582400,
+    "week": 1665273600
+  },
+  "id": "t3_y16dbf",
+  "picture": {
+    "filesize": 68833,
+    "fullUrl": "https://preview.redd.it/x4rchplxt5t91.jpg?width=3024&format=pjpg&auto=webp&s=469a6ffbd5afac6588568cb16bb9f64ca7403551",
+    "hash": "5a3060d41d",
+    "height": 650,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQGB//EACYQAAEDAwMDBQEAAAAAAAAAAAECAwQFBhEAEiEHE0EiMVJhcYH/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARMf/aAAwDAQACEQMRAD8A2rqxcTtCFAZjP9h2XPSScE9xLY3Fvj5HCf7pqxr5p9xmHCUkM1h2EJr0fAAbBVjHuTzwR9EHzoF2WjV61eMKbHqiI1IEdbEloZ7pCgQoI4IGQR6uCCPOprpXa1VtW+6nT10smiR45biVF4IU4tO4EDeBk5ycp4Ax+aQGLF7f/9k=",
+    "url": "https://preview.redd.it/x4rchplxt5t91.jpg?width=640&crop=smart&auto=webp&s=694875d25d482503d36d5eaa67bf74bb39ad196c",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.95,
+    "ups": 101,
+    "value": 101
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Made these bases using 3D printed rollers on clay. What do you think?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/y16dbf/made_these_bases_using_3d_printed_rollers_on_clay/"
+}
