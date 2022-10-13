@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_z6cfgbz",
+    "name": "Mugwa42"
+  },
+  "date": {
+    "day": 1665532800,
+    "full": 1665603326,
+    "month": 1664582400,
+    "week": 1665273600
+  },
+  "id": "t3_y2d6ob",
+  "picture": {
+    "filesize": 83935,
+    "fullUrl": "https://preview.redd.it/n9v80t3bgft91.jpg?auto=webp&s=cbc4e9b39f1f4583a2176156a3aba48213f95e74",
+    "hash": "33ae00844d",
+    "height": 839,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABwb/xAAlEAACAQMDAwUBAAAAAAAAAAABAgQDBhEABRIHEyEWMWGBocH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABcRAQEBAQAAAAAAAAAAAAAAAAECADH/2gAMAwEAAhEDEQA/AIq9r93j1JOpbVKqQoVJ+yiKq5JHgnJHuT/NI/S/dq8i3KjbpSedIWQw79TBJHFTj6JI0NXKBFubcY+Eqq1am3NSGAJUHP7nSt077K2pFZJ0ZGdnZw1RQeXIjzk/A0m2qROa1BII93//2Q==",
+    "url": "https://preview.redd.it/n9v80t3bgft91.jpg?width=640&crop=smart&auto=webp&s=d9249672811555ce8f44e2cbe35b4f9b6a938071",
+    "width": 640
+  },
+  "score": {
+    "comments": 9,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 259,
+    "value": 259
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My try at lantern light OSL",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/y2d6ob/my_try_at_lantern_light_osl/"
+}
