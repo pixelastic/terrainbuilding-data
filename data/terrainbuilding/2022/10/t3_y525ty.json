@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_16f1qk",
+    "name": "Mojak16"
+  },
+  "date": {
+    "day": 1665792000,
+    "full": 1665877639,
+    "month": 1664582400,
+    "week": 1665273600
+  },
+  "id": "t3_y525ty",
+  "picture": {
+    "filesize": 49928,
+    "fullUrl": "https://preview.redd.it/i2cwu0dz32u91.jpg?width=4000&format=pjpg&auto=webp&s=f3bb76486c965b03c8bf6637bacddb4c2a94776b",
+    "hash": "8e864007e7",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUH/8QAIxAAAgECBQUBAAAAAAAAAAAAAQIDBBEABRIxQQYTFyFRIv/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAaEQACAgMAAAAAAAAAAAAAAAAAAQIDBEFR/9oADAMBAAIRAxEAPwCJ4/v1Ic5lzGUT95ah4o6e66woLC9/YJB45wul6CpamRKNVrn066l6kyNGFN7BVXb3sebY3MqB2owTZ1Jb6bcYLmR0yTKNo4/yPl98DWRZ0U6YbR//2Q==",
+    "url": "https://preview.redd.it/i2cwu0dz32u91.jpg?width=640&crop=smart&auto=webp&s=f291f9fdff6d278c1258f126c352e080e3a1e9c6",
+    "width": 640
+  },
+  "score": {
+    "comments": 21,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 619,
+    "value": 619
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Fortress Walls (WIP)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/y525ty/fortress_walls_wip/"
+}

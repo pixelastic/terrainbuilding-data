@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_a1s2x",
+    "name": "Tarryman"
+  },
+  "date": {
+    "day": 1665792000,
+    "full": 1665826232,
+    "month": 1664582400,
+    "week": 1665273600
+  },
+  "id": "t3_y4jgs2",
+  "picture": {
+    "filesize": 88401,
+    "fullUrl": "https://preview.redd.it/s4j1e3e4vxt91.jpg?width=3072&format=pjpg&auto=webp&s=b1a4eb293b931b41c827dc70dbe10b24b3af9cfc",
+    "hash": "1d1941a24a",
+    "height": 850,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAb/xAAlEAABAgUDBAMAAAAAAAAAAAACAQMEBQYRIQATQQcSIjEUQlH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABkRAQACAwAAAAAAAAAAAAAAAAEAEQIDEv/aAAwDAQACEQMRAD8AZGVHImRjn2p9NX4rtExEGzQS9IiAmEuiDnjy9afTdQFFywXmp1AwYkSpsR6EjoWxwlrc3z71L1vJAhmAmlOy4/hKKk8oOKe2fPh9RT9TVd0ypyFfpwomJDcN98j7nFJb+IjhcYui6hsXGo5Btn//2Q==",
+    "url": "https://preview.redd.it/s4j1e3e4vxt91.jpg?width=640&crop=smart&auto=webp&s=afa01402dedac5b9c02cb0df0602ad689ee1e09e",
+    "width": 640
+  },
+  "score": {
+    "comments": 14,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 180,
+    "value": 180
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP of my modular ruin walls that can be adjusted for different dungeon layouts!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/y4jgs2/wip_of_my_modular_ruin_walls_that_can_be_adjusted/"
+}
