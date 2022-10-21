@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_9h41n7mp",
+    "name": "SuperInternet5529"
+  },
+  "date": {
+    "day": 1666051200,
+    "full": 1666083107,
+    "month": 1664582400,
+    "week": 1665878400
+  },
+  "id": "t3_y71fj1",
+  "picture": {
+    "filesize": 70338,
+    "fullUrl": "https://preview.redd.it/1hyi774x2ju91.jpg?width=1080&format=pjpg&auto=webp&s=5a577acc2001ce60971d414a3fa73cdffb8e72ce",
+    "hash": "1d6628fa0f",
+    "height": 469,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQQGB//EACAQAAIBBAIDAQAAAAAAAAAAAAECAwAEETESIQUTYSL/xAAVAQEBAAAAAAAAAAAAAAAAAAAABP/EABoRAAICAwAAAAAAAAAAAAAAAAECABEDFCH/2gAMAwEAAhEDEQA/AMztfKJbxxxTmTDnmUkl/JYHoso1jeydULq/D24FlGOTge9FkyrMCcEfMHv7U32ttyRmU6wD0aa8WF4qSinOdii4rNyraKqeT//Z",
+    "url": "https://preview.redd.it/1hyi774x2ju91.jpg?width=640&crop=smart&auto=webp&s=6b5ac4ffa0b0c4196e104fc423e6f96b2d1cb6f8",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 1,
+    "value": 1
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First go at LEDs and while not perfect a good start.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/y71fj1/first_go_at_leds_and_while_not_perfect_a_good/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_jmsppv3o",
+    "name": "istealteeth"
+  },
+  "date": {
+    "day": 1665964800,
+    "full": 1666026179,
+    "month": 1664582400,
+    "week": 1665878400
+  },
+  "id": "t3_y6ggjj",
+  "picture": {
+    "filesize": 102043,
+    "fullUrl": "https://preview.redd.it/sdrhjoxkdeu91.jpg?width=3024&format=pjpg&auto=webp&s=858a235b585a642166512d4208608534432fb88f",
+    "hash": "be78fbe04d",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwUGB//EACcQAAEDAgUCBwAAAAAAAAAAAAECAwQFEQAGITFBEhMHFCIyUWGB/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABoRAQACAwEAAAAAAAAAAAAAAAEAAgMREiH/2gAMAwEAAhEDEQA/AEGc6FBhtwm6YudJXIb7hT6UOJAPuIFyEKvpprY2waL4XOVKDEnCuxoXmGUu9l5AKk33F+oX+NuMVdHyfNzqteYWZsNKngEvx3iolp4W6kGwFwNxfgjTGw02hxIdMhQzEhPpjMpZStaNbAfYPNz+4MbKi6jXMfAVPZ//2Q==",
+    "url": "https://preview.redd.it/sdrhjoxkdeu91.jpg?width=640&crop=smart&auto=webp&s=8590071ba09c944c522e9d32b7d07b41ad6a4705",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 1,
+    "value": 1
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My first building",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/y6ggjj/my_first_building/"
+}

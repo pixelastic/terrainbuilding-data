@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5r3fmoay",
+    "name": "Wouter-Man"
+  },
+  "date": {
+    "day": 1666224000,
+    "full": 1666268675,
+    "month": 1664582400,
+    "week": 1665878400
+  },
+  "id": "t3_y8wuxn",
+  "picture": {
+    "filesize": 32668,
+    "fullUrl": "https://preview.redd.it/vvyw3ihqeyu91.jpg?width=3241&format=pjpg&auto=webp&s=243e1621824104d5fbb363086af38ca9edb7a0d7",
+    "hash": "0c251bccb7",
+    "height": 446,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAYH/8QAJxAAAQMDAgQHAAAAAAAAAAAAAgEDBAUGEQASBxMhQSIxUWFxkbH/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAESMVH/2gAMAwEAAhEDEQA/AJq37IqFdt6JOj1KA2jqmnKec2kKCuEXv54X60G5+HU2mW7UKlIqtNcKKAmLDLu8nE3YL0xhFz763kIcenvHGhNCww2XhAOiJ3/dDu+O1MtKpsSQ5jRsKhCqqmeue3xp09WAnp//2Q==",
+    "url": "https://preview.redd.it/vvyw3ihqeyu91.jpg?width=640&crop=smart&auto=webp&s=d387ca001ce0478a5e06b4f81b98ada54fd4601a",
+    "width": 640
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 65,
+    "value": 65
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "The fences are done. For those interested i made a small tutorial on how i made the fence. It’s in the comments. Maybe i will place something on the poles connecting the fences",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/y8wuxn/the_fences_are_done_for_those_interested_i_made_a/"
+}

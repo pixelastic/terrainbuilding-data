@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_391r3xbp",
+    "name": "11b403a7"
+  },
+  "date": {
+    "day": 1666224000,
+    "full": 1666268725,
+    "month": 1664582400,
+    "week": 1665878400
+  },
+  "id": "t3_y8wvky",
+  "picture": {
+    "filesize": 81481,
+    "fullUrl": "https://preview.redd.it/vxi4i9vteyu91.jpg?width=4624&format=pjpg&auto=webp&s=36977c6f5304db58666b20f6a7de682be00ee5df",
+    "hash": "f6bf171b32",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMEBv/EACQQAAIBBAEDBQEAAAAAAAAAAAEDAgQFESEAEhMxBhRBUmFx/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABkRAAIDAQAAAAAAAAAAAAAAAAIRAAEUEv/aAAwDAQACEQMRAD8A1UqC/Tc40RVJAiMFdRE9e8HB/Nn+b41i73TB7KyNPNCGBTIlgPVnIGPsPk45BefTlEbzmLK5fdjFku3VsjsjOh1eOGzW32lynEVtwcuOBFdRUyZCOx4B1wuUSBqlG7i6Vuf/2Q==",
+    "url": "https://preview.redd.it/vxi4i9vteyu91.jpg?width=640&crop=smart&auto=webp&s=7c837d3eed3efc36ad3024ba7bcb8993ce638d6c",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.94,
+    "ups": 24,
+    "value": 24
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My first ever multi-level",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/y8wvky/my_first_ever_multilevel/"
+}

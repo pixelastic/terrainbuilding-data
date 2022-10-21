@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_xs1pcg",
+    "name": "CagePerSecond"
+  },
+  "date": {
+    "day": 1666224000,
+    "full": 1666247863,
+    "month": 1664582400,
+    "week": 1665878400
+  },
+  "id": "t3_y8qoeu",
+  "picture": {
+    "filesize": 40957,
+    "fullUrl": "https://preview.redd.it/vyi58whnowu91.jpg?width=4032&format=pjpg&auto=webp&s=42be322bb6110066982413474101a32989fc7a11",
+    "hash": "56285e5568",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAEH/8QAJRAAAQMCBQQDAAAAAAAAAAAAAQIDBAAFBgcREiExNkFzcYGx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAf/EABcRAQADAAAAAAAAAAAAAAAAABEAAhP/2gAMAwEAAhEDEQA/AFZsNycLYdjRGbnNkXOU8ClTDOxCUJ5UCrqfGgH3Uy+tc7F8G4sIuDrc1BQ8448FFtfOoG4edTyNOnxWp5q9po9o/KVlj2un2U40AjpZWf/Z",
+    "url": "https://preview.redd.it/vyi58whnowu91.jpg?width=640&crop=smart&auto=webp&s=285e8a33ef4b9919777ff438b5da2536a8be35be",
+    "width": 640
+  },
+  "score": {
+    "comments": 26,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 374,
+    "value": 374
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My second terrain build for Frostgrave. 95% out of trash.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/y8qoeu/my_second_terrain_build_for_frostgrave_95_out_of/"
+}

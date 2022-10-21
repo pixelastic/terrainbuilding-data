@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5dp1z",
+    "name": "BadRabiesJudger"
+  },
+  "date": {
+    "day": 1666137600,
+    "full": 1666203742,
+    "month": 1664582400,
+    "week": 1665878400
+  },
+  "id": "t3_y8a586",
+  "picture": {
+    "filesize": 114127,
+    "fullUrl": "https://preview.redd.it/3vbhgf8f0tu91.jpg?width=3024&format=pjpg&auto=webp&s=9587db17e53dbb949c25b0f06fc5a3a29c255c45",
+    "hash": "a93d77bf7e",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAYH/8QAIRAAAQUAAgIDAQAAAAAAAAAAAQIDBAURADEhQQcSE5H/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGBEBAAMBAAAAAAAAAAAAAAAAAQACERL/2gAMAwEAAhEDEQA/AIG/p5dapwyLRxAW4XPzbYJSPBI8KOet3PHEQ/ja2tYEWwhpr3WJLQcSXCtsgehiSR673mzWNHDs5P3nNsvFGEY3gX3hJ70dZ1x8RlyJHbYixlpZQMSlIwD+8EXsMY8pk//Z",
+    "url": "https://preview.redd.it/3vbhgf8f0tu91.jpg?width=640&crop=smart&auto=webp&s=74d4acd6375afe4a01a1be981fbd5a0243b28aca",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.94,
+    "ups": 34,
+    "value": 34
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Kitbashed the bus stop.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/y8a586/kitbashed_the_bus_stop/"
+}

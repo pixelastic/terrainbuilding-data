@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_9h41n7mp",
+    "name": "SuperInternet5529"
+  },
+  "date": {
+    "day": 1665964800,
+    "full": 1666015366,
+    "month": 1664582400,
+    "week": 1665878400
+  },
+  "id": "t3_y6c3wq",
+  "picture": {
+    "filesize": 52446,
+    "fullUrl": "https://preview.redd.it/60icjvkhhdu91.jpg?width=4000&format=pjpg&auto=webp&s=957121de7b9864601ee4120322c42f795c461afc",
+    "hash": "0507dcea50",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQFB//EACUQAAECBAQHAAAAAAAAAAAAAAECEQADBCEFEjGxEzM1UXFzgf/EABQBAQAAAAAAAAAAAAAAAAAAAAL/xAAZEQADAAMAAAAAAAAAAAAAAAAAAQIREhP/2gAMAwEAAhEDEQA/AMxpcWOGpm0kxZWiyCkEMADmD+C2he0DV4gmolZKaWngLAbOTZer6Xu7P3iBP5lT7TuYeHTlfNoShN5H3pRqf//Z",
+    "url": "https://preview.redd.it/60icjvkhhdu91.jpg?width=640&crop=smart&auto=webp&s=d2e06735eb0400c211bee4ede74cdbacf5ac6a32",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 1,
+    "value": 1
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Reactor with some LEDs.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/y6c3wq/reactor_with_some_leds/"
+}
