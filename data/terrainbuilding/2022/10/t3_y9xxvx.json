@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_olsxn",
+    "name": "Crazygoblin91"
+  },
+  "date": {
+    "day": 1666310400,
+    "full": 1666369457,
+    "month": 1664582400,
+    "week": 1665878400
+  },
+  "id": "t3_y9xxvx",
+  "picture": {
+    "filesize": 90180,
+    "fullUrl": "https://preview.redd.it/nivghp6eq6v91.jpg?auto=webp&s=f365bb0a07b5082921a91397ce58fac005eee4d4",
+    "hash": "e8fa21fc72",
+    "height": 1138,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAKRAAAQMDAQUJAAAAAAAAAAAAAgEDBAAFEQYHEiEx0RUWIkFVVoGTlP/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGBEBAAMBAAAAAAAAAAAAAAAAAQACMRH/2gAMAwEAAhEDEQA/AF7q9Bj3A4IHh+M4Ztw3g3RdJM4RDyqIir88sUP3pT0hPuc6VHbLoLkrXDd5n3yEFvF9xZRTJIgbvhUl3AXgg5XGeHnyrXe0tI+54n7mutKrzZOwGE//2Q==",
+    "url": "https://preview.redd.it/nivghp6eq6v91.jpg?width=640&crop=smart&auto=webp&s=c0e34ffb88e5b40c3336c52e095e87b1d15fb6b1",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 76,
+    "value": 76
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP scatter terrain trying to make it look weathered and damaged",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/y9xxvx/wip_scatter_terrain_trying_to_make_it_look/"
+}

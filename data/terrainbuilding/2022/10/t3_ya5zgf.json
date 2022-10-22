@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_bc80s",
+    "name": "Teaslurper"
+  },
+  "date": {
+    "day": 1666310400,
+    "full": 1666389488,
+    "month": 1664582400,
+    "week": 1665878400
+  },
+  "id": "t3_ya5zgf",
+  "picture": {
+    "filesize": 46352,
+    "fullUrl": "https://preview.redd.it/8z0ogtmyd8v91.jpg?width=4608&format=pjpg&auto=webp&s=79548995fb9126f515142686007a8b3869cb79fa",
+    "hash": "41b808c515",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgIF/8QAJBAAAQMEAQMFAAAAAAAAAAAAAQIEEQADBQZRBxMjFDGRocH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABoRAAIDAQEAAAAAAAAAAAAAAAECABESA2H/2gAMAwEAAhEDEQA/AJwe6bDjcCPT686ekSbjtyV3CSYiAB7Dih2d2ncn1spdJcWgqB4mqkEwZ4+63M11R2DHyGiWSIEAm0THyaBZ3qdtWVuefI9scWbaUflTublzrAv0mOdQorRn/9k=",
+    "url": "https://preview.redd.it/8z0ogtmyd8v91.jpg?width=640&crop=smart&auto=webp&s=6758f5cecea4b450b9e3df25cd6dba21847e5344",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 24,
+    "value": 24
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First attempt at scratch built terrain",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ya5zgf/first_attempt_at_scratch_built_terrain/"
+}
