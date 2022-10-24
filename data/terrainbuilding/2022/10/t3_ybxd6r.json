@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5dp1z",
+    "name": "BadRabiesJudger"
+  },
+  "date": {
+    "day": 1666569600,
+    "full": 1666571222,
+    "month": 1664582400,
+    "week": 1666483200
+  },
+  "id": "t3_ybxd6r",
+  "picture": {
+    "filesize": 82939,
+    "fullUrl": "https://preview.redd.it/4hb4grxmdnv91.jpg?width=4032&format=pjpg&auto=webp&s=a14a0a913248b20d33904bb9d7c8169bba4beb00",
+    "hash": "afd7f476d4",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQQGB//EACQQAAIBAwMDBQAAAAAAAAAAAAECAwQFEQASISIxQQcTFFGB/8QAFAEBAAAAAAAAAAAAAAAAAAAABf/EAB0RAAIBBAMAAAAAAAAAAAAAAAECAAMEESFBceH/2gAMAwEAAhEDEQA/ADcohaJaR71MkJkg9yCajlZQwDkZOQMd89zxqR9SqmO90UTW2qr65YN25y3yTEpwC23IIBI8Z1sV9s0NfV089RNMxgXoTpKjgeCD9aYttkpIFM0a4dl56VGcfmiBdOpC4171EzTVlJ5n/9k=",
+    "url": "https://preview.redd.it/4hb4grxmdnv91.jpg?width=640&crop=smart&auto=webp&s=2c97324976b5b82bcbbab5b68f3ed92d877e82a4",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 6,
+    "value": 6
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Snack time, Snack time never changes!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ybxd6r/snack_time_snack_time_never_changes/"
+}

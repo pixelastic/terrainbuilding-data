@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_ngm8a",
+    "name": "Willcoburg"
+  },
+  "date": {
+    "day": 1666483200,
+    "full": 1666503806,
+    "month": 1664582400,
+    "week": 1666483200
+  },
+  "id": "t3_yb9e5m",
+  "picture": {
+    "filesize": 50392,
+    "fullUrl": "https://preview.redd.it/mus5gxdwthv91.jpg?width=4032&format=pjpg&auto=webp&s=b5299b8c07d5280b3d6c5bdb56f116ae45b317ed",
+    "hash": "2e772884f0",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAIxAAAgEDAwUBAQAAAAAAAAAAAQIDBAURABMhBhIiYXEHMf/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAGREBAAMBAQAAAAAAAAAAAAAAAgABIREx/9oADAMBAAIRAxEAPwCkv/6TVLdhSWdY5trkhTndYA5XJHHOBkHOiaPr+7jqGmlkuHJfyowzFH4Hiqgcn+j7rKbdfqm2WtJqWGm3Vi8Xkj78fATj3pFus7vW1dg3ngDQzhwyRBSWI7cnHonU4lZXY60aPmz/2Q==",
+    "url": "https://preview.redd.it/mus5gxdwthv91.jpg?width=640&crop=smart&auto=webp&s=7829cd0ede999bc642d19ce82e4df9ee9b6c1e41",
+    "width": 640
+  },
+  "score": {
+    "comments": 10,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 364,
+    "value": 364
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Shantytown progress continues",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/yb9e5m/shantytown_progress_continues/"
+}
