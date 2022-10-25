@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_xs1pcg",
+    "name": "CagePerSecond"
+  },
+  "date": {
+    "day": 1666569600,
+    "full": 1666587268,
+    "month": 1664582400,
+    "week": 1666483200
+  },
+  "id": "t3_yc2hc9",
+  "picture": {
+    "filesize": 31108,
+    "fullUrl": "https://preview.redd.it/dduw2sispov91.jpg?width=4032&format=pjpg&auto=webp&s=74dac98fdccace529c40faf7d04fd26aee29542d",
+    "hash": "e9342e83b8",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgIE/8QAJRAAAQMEAQIHAAAAAAAAAAAAAgEDBQAEBhEhBzEyM1FScXKR/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABoRAAICAwAAAAAAAAAAAAAAAAABAhEDBCH/2gAMAwEAAhEDEQA/ANfVTKbfH5EYm0gH3nXmxIrx0zMdF7B3olTXdfyluIQsdLYjbOyMOdlcugoEqmQOFrhHE5436KlLrny2fstQ74i+aK14LtCeSTVM/9k=",
+    "url": "https://preview.redd.it/dduw2sispov91.jpg?width=640&crop=smart&auto=webp&s=d38b36df8cb27aa9b36ec175f18aeab4bf5fb4ca",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 62,
+    "value": 62
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Some little scatter terrain for Frostgrave",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/yc2hc9/some_little_scatter_terrain_for_frostgrave/"
+}
