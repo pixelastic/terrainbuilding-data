@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_sg19b1g2",
+    "name": "the-nordic-halfling1"
+  },
+  "date": {
+    "day": 1666656000,
+    "full": 1666711517,
+    "month": 1664582400,
+    "week": 1666483200
+  },
+  "id": "t3_yd7jc1",
+  "picture": {
+    "filesize": 168438,
+    "fullUrl": "https://preview.redd.it/3pcdzmo1h0w91.jpg?auto=webp&s=fa66adb473b94937657dcacaeb97422f9ccc7a18",
+    "hash": "af746853e2",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAJRAAAQMDAwMFAAAAAAAAAAAAAQIEEQMSUQAFEwYhQQcxYaGx/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABYRAQEBAAAAAAAAAAAAAAAAABEAAf/aAAwDAQACEQMRAD8Akq9M2NFqqrvqy7erAF1FRSmnEkgZ8yTjQ/cumGbJxxNzWVTiQSZ+4+Na9vVbjcLAUiJJMG5IAFyh2wLU+fc50Bc8jmoF0ueAkA25jv8AuiyV1b//2Q==",
+    "url": "https://preview.redd.it/3pcdzmo1h0w91.jpg?width=640&crop=smart&auto=webp&s=e22b77cd5b3663d8639fb8fbd5d1c485c1a75780",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 37,
+    "value": 37
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "This was my 2nd attempt to making terrain tile with Styrofoam for my dragon project. It worked out pretty well.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/yd7jc1/this_was_my_2nd_attempt_to_making_terrain_tile/"
+}

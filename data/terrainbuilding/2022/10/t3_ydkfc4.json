@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_hhlm36o",
+    "name": "Mr8404"
+  },
+  "date": {
+    "day": 1666742400,
+    "full": 1666744803,
+    "month": 1664582400,
+    "week": 1666483200
+  },
+  "id": "t3_ydkfc4",
+  "picture": {
+    "filesize": 67481,
+    "fullUrl": "https://preview.redd.it/6maigv8dq1w91.jpg?width=4032&format=pjpg&auto=webp&s=d1a4dc660decc682f821e87677cff8781d9dd9ea",
+    "hash": "fa9336f75d",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAJRAAAQMDAwMFAAAAAAAAAAAAAQIDBAAGEQUSEzE0NVFxc7Gy/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAbEQACAgMBAAAAAAAAAAAAAAABAgARAxJBsf/aAAwDAQACEQMRAD8AuRZOkynBIjSl6i6AQDIlqCgk9U7Dj6NHb+Y09DMeOzyJW8kFIcO3hznOSfQ4wKzG1vBn3FOb07K3/nP4qNCV2A5flxGxgsGsz//Z",
+    "url": "https://preview.redd.it/6maigv8dq1w91.jpg?width=640&crop=smart&auto=webp&s=e74769167d6154f6e862abf34979660271ffb0ad",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 3,
+    "value": 3
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP for my Tiamat Finale.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ydkfc4/wip_for_my_tiamat_finale/"
+}

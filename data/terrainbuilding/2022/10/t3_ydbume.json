@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_3mdiilyp",
+    "name": "2Dst"
+  },
+  "date": {
+    "day": 1666656000,
+    "full": 1666722142,
+    "month": 1664582400,
+    "week": 1666483200
+  },
+  "id": "t3_ydbume",
+  "picture": {
+    "filesize": 61052,
+    "fullUrl": "https://preview.redd.it/87qh17eouzv91.jpg?auto=webp&s=2c0cb7474ca72c13d02ff4734195e955a5716e92",
+    "hash": "e970c23dae",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAkEAACAQMEAgIDAAAAAAAAAAABAgMEBSEABhESMUEHMlJhof/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGBEBAAMBAAAAAAAAAAAAAAAAAQACEUH/2gAMAwEAAhEDEQA/AF778pXx9xVFHQUtUmAVijdD0H5N/PfOdHbe3zfpN0UVFfHkuEN0qRAaaoYKkDcjqVzjzjnzqXpkM15miZiFpm7AqAGdmPZi7ccscD340ZfGkSrjmSWQPG4dOD9WBww/epJpkdTs/9k=",
+    "url": "https://preview.redd.it/87qh17eouzv91.jpg?width=640&crop=smart&auto=webp&s=80355bcd8e3a3ad1b5db65fd72ec6144465f9f7c",
+    "width": 640
+  },
+  "score": {
+    "comments": 9,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 262,
+    "value": 262
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "The perfect space hulk set doesn't exi.....",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ydbume/the_perfect_space_hulk_set_doesnt_exi/"
+}
