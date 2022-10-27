@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_74blctir",
+    "name": "Grimsson_life"
+  },
+  "date": {
+    "day": 1666742400,
+    "full": 1666773525,
+    "month": 1664582400,
+    "week": 1666483200
+  },
+  "id": "t3_ydsw9e",
+  "picture": {
+    "filesize": 155662,
+    "fullUrl": "https://preview.redd.it/vd8j6a4734w91.jpg?width=2592&format=pjpg&auto=webp&s=d3a58e1f7ca2f17ea08d01c00f7991e708040b6b",
+    "hash": "ba006d6e3e",
+    "height": 1138,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgf/xAAmEAACAQMDAQkAAAAAAAAAAAABAgMABAYREhMhBRQiMTJBU1Vx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAXEQEBAQEAAAAAAAAAAAAAAAABABEh/9oADAMBAAIRAxEAPwAhk0trY4xd3bRStLLdgI6x+BTs6qTr79T5UC75D8tUHIja32LJ2bFE3Os3I24kKza+o/g0AFCdz/XJQXGpxC//2Q==",
+    "url": "https://preview.redd.it/vd8j6a4734w91.jpg?width=640&crop=smart&auto=webp&s=ad25c7809dd56402aaf9567cb40ca37030826ca4",
+    "width": 640
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 248,
+    "value": 248
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Mage Tower",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ydsw9e/mage_tower/"
+}
