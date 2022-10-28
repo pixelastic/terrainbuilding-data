@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_g1qrjgd9",
+    "name": "mwsculpts"
+  },
+  "date": {
+    "day": 1666828800,
+    "full": 1666899280,
+    "month": 1664582400,
+    "week": 1666483200
+  },
+  "id": "t3_yf13p0",
+  "picture": {
+    "filesize": 71856,
+    "fullUrl": "https://preview.redd.it/18bapkcrhew91.jpg?auto=webp&s=941b4b6541571e30040f9145d4795509535acbbe",
+    "hash": "0bf86f1f51",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAJhAAAQIFAgYDAAAAAAAAAAAAAQIEAAMFBhEhMRUiMkFysTVRkf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAHREAAQQCAwAAAAAAAAAAAAAAAgABAxEEEiFBcf/aAAwDAQACEQMRAD8Ao37cLZlQESqYzkJnuQolcyQDyYByMa99z3G0ZLT7ld8VaOglukKmKBnZKsgoKdUrH0r9EKrn+Dp3gfQgHVett4n0IPHyiloja9XbzpXSEQzjzbL/2Q==",
+    "url": "https://preview.redd.it/18bapkcrhew91.jpg?width=640&crop=smart&auto=webp&s=f03a4fccbecd94a4d723239bea1dbe20fb04e326",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 10,
+    "value": 10
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Creating Repeatable Wargaming Terrain (Video in Description)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/yf13p0/creating_repeatable_wargaming_terrain_video_in/"
+}
