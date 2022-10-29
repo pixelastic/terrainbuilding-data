@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_9hgk34ln",
+    "name": "davidbennett815"
+  },
+  "date": {
+    "day": 1666915200,
+    "full": 1666988603,
+    "month": 1664582400,
+    "week": 1666483200
+  },
+  "id": "t3_yfzkpg",
+  "picture": {
+    "filesize": 65499,
+    "fullUrl": "https://preview.redd.it/5cn4c9nfvlw91.jpg?width=4000&format=pjpg&auto=webp&s=6c4119e47e4e09bc215a0a312bfa793bf2e470b7",
+    "hash": "b7c2e49173",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwUGCP/EACIQAAIBBAIBBQAAAAAAAAAAAAEDAgAEERIGITEFFEFhgf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/8QAGhEAAgIDAAAAAAAAAAAAAAAAAAEDEQIhMf/aAAwDAQACEQMRAD8Ak2cZPulJmtjoXRlKc9cSj13IgAa5ofIPS7hjlqW6+1t0qQpYMgGa9AAYIJ+z5rQN/bJ200GMR/fNLlWiYXKpiGZDsZ+DVYR7qwcz6f/Z",
+    "url": "https://preview.redd.it/5cn4c9nfvlw91.jpg?width=640&crop=smart&auto=webp&s=da75dac77127659744d7d4eef39b93ded66aae5e",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.96,
+    "ups": 18,
+    "value": 18
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A home for a harengon",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/yfzkpg/a_home_for_a_harengon/"
+}
