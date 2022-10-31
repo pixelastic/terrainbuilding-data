@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_2fno13ma",
+    "name": "mkarla"
+  },
+  "date": {
+    "day": 1667088000,
+    "full": 1667155718,
+    "month": 1664582400,
+    "week": 1667088000
+  },
+  "id": "t3_yhmhvu",
+  "picture": {
+    "filesize": 91091,
+    "fullUrl": "https://preview.redd.it/efymzijcozw91.jpg?auto=webp&s=492245826162cbba6bce06934db46a1dc31c580c",
+    "hash": "a1d2850995",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQUGB//EACYQAAIBAwMDBAMAAAAAAAAAAAEDAgQFEQASQQYUIhMVITEycdH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAHBEAAQQDAQAAAAAAAAAAAAAAAQADETECEhMU/9oADAMBAAIRAxEAPwAv6hR7ve2uVSOqpNl20KjyCt3wZbeCY5/eTpBeeqnNNXG4TRIMTFQEVkbYRI8Rj8RiP1nVdS22iYimYaVAPbrJwuPkdvJIzrPpXZtPfr2hNPSRUz1EmISMCPGBwRn+50Xg359iLCaDmHYml//Z",
+    "url": "https://preview.redd.it/efymzijcozw91.jpg?width=640&crop=smart&auto=webp&s=7ecd411226d298ebd248a4f36b41d2a7bccc4d5b",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 155,
+    "value": 155
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "MDF ruins now with texture and paint",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/yhmhvu/mdf_ruins_now_with_texture_and_paint/"
+}

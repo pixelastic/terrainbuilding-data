@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_bittl21u",
+    "name": "Flimsy-Fishy"
+  },
+  "date": {
+    "day": 1667088000,
+    "full": 1667128602,
+    "month": 1664582400,
+    "week": 1667088000
+  },
+  "id": "t3_yhbt9i",
+  "picture": {
+    "filesize": 129303,
+    "fullUrl": "https://preview.redd.it/z46opti9xyw91.jpg?auto=webp&s=c873045b442d0339e5e3748633da7b1ce760e548",
+    "hash": "b45ef351a7",
+    "height": 1138,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgf/xAAmEAACAQMCBAcAAAAAAAAAAAABAgMEBREABhMWIdExUVJWYZGT/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAYEQADAQEAAAAAAAAAAAAAAAAAARECMf/aAAwDAQACEQMRAD8AD23a1JbZYEaKZKwKUkjkxkMyFWGCPHqenno5yfuD23d/zl7atdbamrt4G8SVUKLUVgqeEEc4AcMVzj4I1a+d6X0D7PbRcfCWE3af/9k=",
+    "url": "https://preview.redd.it/z46opti9xyw91.jpg?width=640&crop=smart&auto=webp&s=b329330c5806f1e041a05b47600d03d61e92b9e2",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 55,
+    "value": 55
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My home built maze from Stanley Kubrick's the shining",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/yhbt9i/my_home_built_maze_from_stanley_kubricks_the/"
+}

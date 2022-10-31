@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_ngm8a",
+    "name": "Willcoburg"
+  },
+  "date": {
+    "day": 1667088000,
+    "full": 1667117652,
+    "month": 1664582400,
+    "week": 1667088000
+  },
+  "id": "t3_yh8r8j",
+  "picture": {
+    "filesize": 44955,
+    "fullUrl": "https://preview.redd.it/df8c9dc6jww91.jpg?width=4032&format=pjpg&auto=webp&s=ca1c90c581ffc24eed06684303866ad375c34b4f",
+    "hash": "bfd832c553",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUI/8QAJRAAAgECBQMFAAAAAAAAAAAAAQMCBAUABhEhUQcSIhMxQUJh/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABgRAQADAQAAAAAAAAAAAAAAAAEAAhEh/9oADAMBAAIRAxEAPwBcvqvb41r1xQxyYsMVMSCe4Ab66/u2LGUeptJdEE3EGibKRMImJIhHT7S598ZUsd6rrdXVEadx7D5CEiSAeRhVku8V1/zZRprXzgmoEVugg+mGDyO+nPzgjVHkQWM1n//Z",
+    "url": "https://preview.redd.it/df8c9dc6jww91.jpg?width=640&crop=smart&auto=webp&s=782c4949a8d989fcd192bd8f47650e88a48ad9b0",
+    "width": 640
+  },
+  "score": {
+    "comments": 13,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 388,
+    "value": 388
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Shanty town update, starting the big one soon.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/yh8r8j/shanty_town_update_starting_the_big_one_soon/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_pvz3v",
+    "name": "chacbalam"
+  },
+  "date": {
+    "day": 1667088000,
+    "full": 1667159261,
+    "month": 1664582400,
+    "week": 1667088000
+  },
+  "id": "t3_yhnywd",
+  "picture": {
+    "filesize": 116352,
+    "fullUrl": "https://preview.redd.it/zjfvxfwvyzw91.jpg?auto=webp&s=58c08bec994689c8ba50926ce93ab1270a51b539",
+    "hash": "f6b5de0f00",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAwX/xAAjEAACAgEEAgIDAAAAAAAAAAABAgMEEQAFBjEhQRITFCJx/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAdEQACAgEFAAAAAAAAAAAAAAABAwACBBEhMsHw/9oADAMBAAIRAxEAPwAp97m/O22SaxZBoKyxs8CqsisDkNGGxkhuz7GdTab7dd+JvLatghy6MA7ozEfqvnx7x/dXLPFalnkKwNaupFLJlgsgPYJ8Egkdafk/C9s2uHb7FCS5D9wy8f3FlJ+RHvJHQ6Oo7Mphua67j3cWpF+In//Z",
+    "url": "https://preview.redd.it/zjfvxfwvyzw91.jpg?width=640&crop=smart&auto=webp&s=f8d75d4bc3b967423137619816053e6190aecaff",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 0.91,
+    "ups": 15,
+    "value": 15
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Experimenting with printing hexes.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/yhnywd/experimenting_with_printing_hexes/"
+}
