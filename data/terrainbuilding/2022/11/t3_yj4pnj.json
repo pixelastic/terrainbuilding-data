@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1dlilv7f",
+    "name": "whoopdawhoop12345"
+  },
+  "date": {
+    "day": 1667260800,
+    "full": 1667297259,
+    "month": 1667260800,
+    "week": 1667088000
+  },
+  "id": "t3_yj4pnj",
+  "picture": {
+    "filesize": 42475,
+    "fullUrl": "https://preview.redd.it/67y491kqucx91.jpg?auto=webp&s=a714e7c3acfe54c732fad43b0454578de718cbd4",
+    "hash": "cff28c0498",
+    "height": 425,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAwX/xAAnEAACAQIEBQUBAAAAAAAAAAACAwEEEQAFBiEHEhMUMSIyQVFhkf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCPrFnQzinUqlB6Cd27WtYwCi3LdkxEWtcrX28YHWuk6qiohqE1VP25P6AR0mKIigOaff5+tsMNa+o41uyt5iygqK0YakwGRP0fO35H8wXFxYZVmrW0AikxGSja8RMRFtp2wH//2Q==",
+    "url": "https://preview.redd.it/67y491kqucx91.jpg?width=640&crop=smart&auto=webp&s=68c8e016d39234385628b55645d79f160c0b61cc",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 195,
+    "value": 195
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Kitchen work is hard work.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/yj4pnj/kitchen_work_is_hard_work/"
+}

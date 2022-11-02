@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_bkrfse64",
+    "name": "Middle_Albatross3664"
+  },
+  "date": {
+    "day": 1667260800,
+    "full": 1667319483,
+    "month": 1667260800,
+    "week": 1667088000
+  },
+  "id": "t3_yjd050",
+  "picture": {
+    "filesize": 74109,
+    "fullUrl": "https://preview.redd.it/ns5ljlg77dx91.jpg?width=4000&format=pjpg&auto=webp&s=835881f36f200407f38344bf19c6f1dfe00af85d",
+    "hash": "b675c50dcf",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAkEAACAQMDAwUAAAAAAAAAAAABAwIEESEABUEGBxIUUWFxgf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGBEBAAMBAAAAAAAAAAAAAAAAAQACERL/2gAMAwEAAhEDEQA/AKRvcfcaYtpJ0yEmK5D1LJg2kMG3yOMaBX3M3EdN7jQ7wtdRJkAEOhI3ZeQMhI8Rtce+dRTmF28wpZ5VNnlLJuTbJ+9B9TNZSVy4pnIRk7wI4Ixx+6nu68MamB2E/9k=",
+    "url": "https://preview.redd.it/ns5ljlg77dx91.jpg?width=640&crop=smart&auto=webp&s=5ce7a5746e7b4796738e4da6b082619aa2d8e1b2",
+    "width": 640
+  },
+  "score": {
+    "comments": 16,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 95,
+    "value": 95
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Testing my city tiles. so far a 2'x4' section. let me know what you think? and anything I can improve on.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/yjd050/testing_my_city_tiles_so_far_a_2x4_section_let_me/"
+}
