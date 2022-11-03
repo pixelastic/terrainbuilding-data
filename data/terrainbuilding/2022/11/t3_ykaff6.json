@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_3mdiilyp",
+    "name": "2Dst"
+  },
+  "date": {
+    "day": 1667347200,
+    "full": 1667407996,
+    "month": 1667260800,
+    "week": 1667088000
+  },
+  "id": "t3_ykaff6",
+  "picture": {
+    "filesize": 78652,
+    "fullUrl": "https://preview.redd.it/ewqx6zb7ikx91.jpg?auto=webp&s=a41ca7e3f79ece15de012e60988ff58acf7d40d4",
+    "hash": "d5758e1d19",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUH/8QAIxAAAgECBgIDAAAAAAAAAAAAAQIDBBEABRITITEGIkFhgf/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAaEQEAAgMBAAAAAAAAAAAAAAABAgMAEZEE/9oADAMBAAIRAxEAPwCbNn0uWVua0FVmCUwhdJIj7HfU8BDY/vIv3g3kHmK0sgbK62prSsCDcqotLLIWGph3fgFb92OM4jiTTIbcuxLfZwSZdzhyWB+Cb9YXLy2AGzmGhfWyXT3P/9k=",
+    "url": "https://preview.redd.it/ewqx6zb7ikx91.jpg?width=640&crop=smart&auto=webp&s=b75e50294fcee2a145bb385b8940984bafc1a3fd",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 150,
+    "value": 150
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Just sayin... 'Man O' Warcry'",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ykaff6/just_sayin_man_o_warcry/"
+}

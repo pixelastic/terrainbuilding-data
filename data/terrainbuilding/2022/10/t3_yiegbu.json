@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_bdsei",
+    "name": "kittbash"
+  },
+  "date": {
+    "day": 1667174400,
+    "full": 1667228247,
+    "month": 1664582400,
+    "week": 1667088000
+  },
+  "id": "t3_yiegbu",
+  "picture": {
+    "filesize": 75621,
+    "fullUrl": "https://preview.redd.it/zezun8swn5x91.jpg?width=4032&format=pjpg&auto=webp&s=570493cbaab13aa91171359bbd2f81f4762e441a",
+    "hash": "64a4ac1c32",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFBv/EAB8QAAICAgMBAQEAAAAAAAAAAAECAxEEBQAhMQYHEv/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAZEQACAwEAAAAAAAAAAAAAAAAAAhITImH/2gAMAwEAAhEDEQA/AFv0XeTabL1cc+sly42UzPHG5ouOgrEHr0G++a74/wCuTa48rQo0Ricp/DkFrAF+e+8Lu8HHmjKzxLIpbxuxyLrNPha1BFhxmNbZrDG7Jsm+BukvRCpo/9k=",
+    "url": "https://preview.redd.it/zezun8swn5x91.jpg?width=640&crop=smart&auto=webp&s=e33a76725e021414c6dcc759e1619c6e180c71dc",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 11,
+    "value": 11
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Ruined settlement modules for Necromunda. WIP",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/yiegbu/ruined_settlement_modules_for_necromunda_wip/"
+}
