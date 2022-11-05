@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_dhcfl114",
+    "name": "K4ssburn"
+  },
+  "date": {
+    "day": 1667433600,
+    "full": 1667485791,
+    "month": 1667260800,
+    "week": 1667088000
+  },
+  "id": "t3_yl4bg2",
+  "picture": {
+    "filesize": 62104,
+    "fullUrl": "https://preview.redd.it/8t41gh4sxqx91.jpg?width=1920&format=pjpg&auto=webp&s=5917a12ac9351abcb215ed4d905a91eaba9187f0",
+    "hash": "ac62b73319",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFBv/EACgQAAECBAUCBwAAAAAAAAAAAAIBAwAEBREGBxIhMRMVNTZxdHWxsv/EABUBAQEAAAAAAAAAAAAAAAAAAAAE/8QAGhEAAgIDAAAAAAAAAAAAAAAAAQIAERMiQf/aAAwDAQACEQMRAD8AzmF5WsHTafW2XJY2RXUQppIyUUUCQkttzx6QPGrfZn3VluhKvPkTySukkQRLZFHZLX5txeHsrvKT/wAiH0ESs5/Hg9sn7KJyzZwt8gNWtT//2Q==",
+    "url": "https://preview.redd.it/8t41gh4sxqx91.jpg?width=640&crop=smart&auto=webp&s=3a46103ab3c4c37bbbc2c7f1455fc22e09df26e6",
+    "width": 640
+  },
+  "score": {
+    "comments": 11,
+    "downs": 0,
+    "ratio": 0.95,
+    "ups": 29,
+    "value": 29
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Gothic Sector : Templaris Live On Kickstarter ! A complete modular building and terrain system for wargaming compatible with Resin/SLA and FDM printers !",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/yl4bg2/gothic_sector_templaris_live_on_kickstarter_a/"
+}

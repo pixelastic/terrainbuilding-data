@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_10bjw9",
+    "name": "sFAMINE"
+  },
+  "date": {
+    "day": 1667433600,
+    "full": 1667514847,
+    "month": 1667260800,
+    "week": 1667088000
+  },
+  "id": "t3_ylgw0v",
+  "picture": {
+    "filesize": 77371,
+    "fullUrl": "https://preview.redd.it/vcveeys3ctx91.jpg?width=1999&format=pjpg&auto=webp&s=4e70babce79c10dc525877924744ae54c681692a",
+    "hash": "611f1d1e37",
+    "height": 400,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAKABADASIAAhEBAxEB/8QAFAABAAAAAAAAAAAAAAAAAAAABf/EACMQAAIBAwQBBQAAAAAAAAAAAAECAwAEEQUSIVFhBiIxQfD/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABkRAAMAAwAAAAAAAAAAAAAAAAABEQIDIf/aAAwDAQACEQMRAD8AOtBMlwCUiZCrE7ow2CPvBI/cUgmnTzRSARyPb7zIr4CkHHHjv48Ux6Pt4ZZb6SWGN5Fn2hmUEgAcDPQp3UFUE4AHu6qXrbWPXRkrp//Z",
+    "url": "https://preview.redd.it/vcveeys3ctx91.jpg?width=640&crop=smart&auto=webp&s=d4cd7a6e3fcd27f70db62e7a40f1e5143beefe26",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 77,
+    "value": 77
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Kill Team Table: Geothermal Plant @stevefamine",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ylgw0v/kill_team_table_geothermal_plant_stevefamine/"
+}

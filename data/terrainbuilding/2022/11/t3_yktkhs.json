@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_s43q4",
+    "name": "cyrano42"
+  },
+  "date": {
+    "day": 1667433600,
+    "full": 1667454345,
+    "month": 1667260800,
+    "week": 1667088000
+  },
+  "id": "t3_yktkhs",
+  "picture": {
+    "filesize": 114050,
+    "fullUrl": "https://preview.redd.it/0a2gz5bacox91.jpg?width=4032&format=pjpg&auto=webp&s=03ef713c4417b18fc50e911cf1329db94042c798",
+    "hash": "bb920bb5a5",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAgb/xAAkEAACAgEDBAIDAAAAAAAAAAABAgMEEQAGEhMhImEFMXGBkf/EABUBAQEAAAAAAAAAAAAAAAAAAAEE/8QAGREAAwADAAAAAAAAAAAAAAAAAAECAxEh/9oADAMBAAIRAxEAPwBNLPt2rYWW49mxFLEnOFcxhG8scSCScdj/ADGp7fs135Hb0zV6as0MqTWF6XFyhGfLA7Afef1qsThcCdSJVMbcgUJByMe/Z0Lu3qskTK81opOQHXqdjk/j0NTu5V6C8vT/2Q==",
+    "url": "https://preview.redd.it/0a2gz5bacox91.jpg?width=640&crop=smart&auto=webp&s=ff6db5e48cde3ad3bf369fdfc488e6e99d599601",
+    "width": 640
+  },
+  "score": {
+    "comments": 9,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 469,
+    "value": 469
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "The final results of my ruined church project.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/yktkhs/the_final_results_of_my_ruined_church_project/"
+}
