@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_tw443dbh",
+    "name": "PaintersBlock_"
+  },
+  "date": {
+    "day": 1667606400,
+    "full": 1667661017,
+    "month": 1667260800,
+    "week": 1667088000
+  },
+  "id": "t3_ymwong",
+  "picture": {
+    "filesize": 67387,
+    "fullUrl": "https://preview.redd.it/hhtqxw9ve5y91.jpg?auto=webp&s=f2a48ba9e2143bfb243162df63140b874e27448c",
+    "hash": "309d90537d",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUG/8QAJRAAAgIABAUFAAAAAAAAAAAAAgMBBAAFERIhQVFhcRMiMYGR/8QAFAEBAAAAAAAAAAAAAAAAAAAABf/EABwRAAEDBQAAAAAAAAAAAAAAABEAAQIDITFhcf/aAAwDAQACEQMRAD8AHSqWhp3F+mloiudieQ7omNI1+dZ+sFo1LmQVFU6xqQsxmSEvdMcpjjrx4x+41Gb5YpxiwGOQ4NdrEntKO3ePOINygFUnSTrFlpBGrbDN5adI6R4wXmHU+ZwqsxsBtf/Z",
+    "url": "https://preview.redd.it/hhtqxw9ve5y91.jpg?width=640&crop=smart&auto=webp&s=bc5b74029fcd6385f67e1acef12e8bdf000c500d",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.9,
+    "ups": 35,
+    "value": 35
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Super fast and easy base, takes a minute",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ymwong/super_fast_and_easy_base_takes_a_minute/"
+}
