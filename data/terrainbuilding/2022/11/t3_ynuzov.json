@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_120qej",
+    "name": "BadAdviceOnFleek"
+  },
+  "date": {
+    "day": 1667692800,
+    "full": 1667752444,
+    "month": 1667260800,
+    "week": 1667692800
+  },
+  "id": "t3_ynuzov",
+  "picture": {
+    "filesize": 93030,
+    "fullUrl": "https://preview.redd.it/pdndggwqycy91.jpg?auto=webp&s=f69257fab0aebf57d4077ad6f3f6723f759dc117",
+    "hash": "499baa4bf1",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQIH/8QAJRAAAgICAQMDBQAAAAAAAAAAAQIDBAURBgAScQchIiQxQUKh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAXEQADAQAAAAAAAAAAAAAAAAAAARIh/9oADAMBAAIRAxEAPwCuY3psLWXFyRCLJylbMIjk70hQbAfX22wLDQ8no7094dzabD2bHFb+KTHT2nk+p7i5fShideP51oGa4nY5zm5FzCyUosayiAwDQkLEM5Ox+wAHsdAjoieqKErUOPXbNPGVGMMSo5bvOyWYn8/IsPAHU1S8Ys1p/9k=",
+    "url": "https://preview.redd.it/pdndggwqycy91.jpg?width=640&crop=smart&auto=webp&s=0f4dc083b5cb50bf1c73c1d201a3d089161e03d1",
+    "width": 640
+  },
+  "score": {
+    "comments": 15,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 81,
+    "value": 81
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Need some advice on first terrain project",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ynuzov/need_some_advice_on_first_terrain_project/"
+}

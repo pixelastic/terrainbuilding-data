@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_qe0y4m9i",
+    "name": "Hippy__Hammer"
+  },
+  "date": {
+    "day": 1667692800,
+    "full": 1667774509,
+    "month": 1667260800,
+    "week": 1667692800
+  },
+  "id": "t3_yo57wa",
+  "picture": {
+    "filesize": 127666,
+    "fullUrl": "https://preview.redd.it/bwcnbovbsey91.jpg?width=3000&format=pjpg&auto=webp&s=8cc8d1e149dde7bb83c00b4d52528389fa170833",
+    "hash": "66df8551a4",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMFB//EACQQAAIBAgYBBQAAAAAAAAAAAAECAwQRAAUGEiExFCIyUWGS/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABcRAQEBAQAAAAAAAAAAAAAAAAECABH/2gAMAwEAAhEDEQA/AMp0/Sx+VYTlomh9SWJ9wC2F8L1Lp6VczKQbAqqFI29H9DFPTLraaZqunp1ABXeRdh8AHo3tzfoYGdZjA1czQV1LIrAEkkDn6tg5qWgy0JPd/9k=",
+    "url": "https://preview.redd.it/bwcnbovbsey91.jpg?width=640&crop=smart&auto=webp&s=c6a00d5498232e94edb04e746191d8dcfb751fac",
+    "width": 640
+  },
+  "score": {
+    "comments": 10,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 75,
+    "value": 75
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First Reddit Post - Some of my scratchbuilt terrain 🙂",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/yo57wa/first_reddit_post_some_of_my_scratchbuilt_terrain/"
+}
