@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_10bjw9",
+    "name": "sFAMINE"
+  },
+  "date": {
+    "day": 1667779200,
+    "full": 1667835184,
+    "month": 1667260800,
+    "week": 1667692800
+  },
+  "id": "t3_yoqgi7",
+  "picture": {
+    "filesize": 89725,
+    "fullUrl": "https://preview.redd.it/i4rv89hpsjy91.jpg?auto=webp&s=57f5b7de72e3ac269111e4b9e513935f292f1a71",
+    "hash": "b01e81cf6e",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwQF/8QAJRAAAgEEAQMEAwAAAAAAAAAAAQIDBAURIQAGIkESEzFRcYHw/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAXEQEBAQEAAAAAAAAAAAAAAAABAgAh/9oADAMBAAIRAxEAPwDOu/T90E88yzV6x5JBaZ8KR5Jzr98kNupaC1QXSqu1DK8SgtDI7u5fXafLNvAG+MPUlBFX2iojlaRVYb9tvT/fjguiRm8Tl40cU/ZGGGRjPzj70N8nzTZ3LuQQ3//Z",
+    "url": "https://preview.redd.it/i4rv89hpsjy91.jpg?width=640&crop=smart&auto=webp&s=e86a7650cbe0252d15cc152db10a75fb5dc74a3b",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 309,
+    "value": 309
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Dusty Powerplant",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/yoqgi7/dusty_powerplant/"
+}

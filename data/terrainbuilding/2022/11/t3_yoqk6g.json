@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_c87pf4gs",
+    "name": "BuzzBuzzArii"
+  },
+  "date": {
+    "day": 1667779200,
+    "full": 1667835389,
+    "month": 1667260800,
+    "week": 1667692800
+  },
+  "id": "t3_yoqk6g",
+  "picture": {
+    "filesize": 52260,
+    "fullUrl": "https://preview.redd.it/xwdhv2mdtjy91.jpg?width=1667&format=pjpg&auto=webp&s=a4779b24aba0696002fa9cbd57fa72f9a733f445",
+    "hash": "cf41bb4417",
+    "height": 300,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAIABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAME/8QAIRAAAgICAgEFAAAAAAAAAAAAAQIDEQAEBQYxEhQhUcH/xAAVAQEBAAAAAAAAAAAAAAAAAAABA//EABkRAQACAwAAAAAAAAAAAAAAAAEAAhIhMf/aAAwDAQACEQMRAD8AzdX74u7qcjDyPuddNWMup12VXEdgKpvyxZwboVWX0O4ckzRu+288UXqEZelDr9PHfyRXn8xjJN0NRwqvJ//Z",
+    "url": "https://preview.redd.it/xwdhv2mdtjy91.jpg?width=640&crop=smart&auto=webp&s=7a1a0dbf4b6ca29759377a9861ed8ec119bf6826",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 0.95,
+    "ups": 26,
+    "value": 26
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Does anyone know where I can find any tutorial for late 18th century French style buildings? Game footage because I couldn't find anything well on the internet.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/yoqk6g/does_anyone_know_where_i_can_find_any_tutorial/"
+}
