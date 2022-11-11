@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4rtqc9o",
+    "name": "Oettl"
+  },
+  "date": {
+    "day": 1668038400,
+    "full": 1668090300,
+    "month": 1667260800,
+    "week": 1667692800
+  },
+  "id": "t3_yrgje6",
+  "picture": {
+    "filesize": 35014,
+    "fullUrl": "https://preview.redd.it/idtfz1adv4z91.jpg?width=1792&format=pjpg&auto=webp&s=7d1d760e758e16ff86b166f8b64a812e560cd8cb",
+    "hash": "9eddac0d2d",
+    "height": 296,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAEE/8QAIxAAAQMEAQQDAAAAAAAAAAAAAQIDBAAFBiESERMiMUFRcf/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAdEQABAwUBAAAAAAAAAAAAAAABAAIDESMxUYFx/9oADAMBAAIRAxEAPwDBCj3GXg2JOx+PYh2lkNocV4rUpSyTo+xob+6l1kFrCMnCp7chb1sdYcZDS0ltXRLnsniQND5/aUodbnUoxNEYcMkb94v/2Q==",
+    "url": "https://preview.redd.it/idtfz1adv4z91.jpg?width=640&crop=smart&auto=webp&s=ea1427456e3aef51ac84036fd9c1142202b70549",
+    "width": 640
+  },
+  "score": {
+    "comments": 15,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 132,
+    "value": 132
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I want to have strong lighting like this AO example but dark blue up to more of a red/orange, to give the impression of red lighting for killteam into the dark. Suggestions?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/yrgje6/i_want_to_have_strong_lighting_like_this_ao/"
+}
