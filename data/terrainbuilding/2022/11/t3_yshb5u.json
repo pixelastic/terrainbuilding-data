@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4xu7jtok",
+    "name": "thermo_king"
+  },
+  "date": {
+    "day": 1668124800,
+    "full": 1668188284,
+    "month": 1667260800,
+    "week": 1667692800
+  },
+  "id": "t3_yshb5u",
+  "picture": {
+    "filesize": 73973,
+    "fullUrl": "https://preview.redd.it/gyucw6bpycz91.jpg?width=1080&format=pjpg&auto=webp&s=ff35176c5c75936b71778e5a9fc6f77ca9e02dd5",
+    "hash": "921ec256b8",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwUGB//EACQQAAEDAwMEAwAAAAAAAAAAAAECAwQFBhEAITEHEkFhIzLw/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAYEQEAAwEAAAAAAAAAAAAAAAABAAIREv/aAAwDAQACEQMRAD8A1K5upVNodSdp7MV+ZIZHyFJ7UpPkDYkkfuNN7dvCk3FHWuGtaH2jhxhz7p97bEexqWv+y5c27VyKdGecRIaBX2Np7SrgZWrjBGce9AtnpfKgVCLPmy22nWSCEMZUo75IKthg+edG9TmUF2f/2Q==",
+    "url": "https://preview.redd.it/gyucw6bpycz91.jpg?width=640&crop=smart&auto=webp&s=b2799a1cf1fdf37662a517e72669f0b70e7bdd09",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 72,
+    "value": 72
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Finally some painted dungeon blocks. plus a grid system for my dungeon.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/yshb5u/finally_some_painted_dungeon_blocks_plus_a_grid/"
+}

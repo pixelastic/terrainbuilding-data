@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_10y0p8",
+    "name": "RandomDekuScrub"
+  },
+  "date": {
+    "day": 1668124800,
+    "full": 1668156186,
+    "month": 1667260800,
+    "week": 1667692800
+  },
+  "id": "t3_ys56xr",
+  "picture": {
+    "filesize": 95310,
+    "fullUrl": "https://preview.redd.it/96i3jk53baz91.jpg?width=4032&format=pjpg&auto=webp&s=c0c8899abeef7c4ca8dcfb8d5149991929b06a9b",
+    "hash": "4dfe930619",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQFBv/EACQQAAIBAgUEAwAAAAAAAAAAAAEDAgQRAAUGITETFEFRMqHw/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAbEQABBQEBAAAAAAAAAAAAAAABAAIDERIEQf/aAAwDAQACEQMRAD8AS1NrDMGdi9iaSS1EwKYQsLX235B53+sS6nUFHnFalVPSsEF2bN8oiJiQPiPZ8XOCOWKnljKmTG9RaiwC4tcSI9Yz1G4oqmQVCEYg8bnx+OACK3aVRvXmExEWfCv/2Q==",
+    "url": "https://preview.redd.it/96i3jk53baz91.jpg?width=640&crop=smart&auto=webp&s=e6d151331d5b6aafc1b485642c95ab37937c51b4",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 48,
+    "value": 48
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Some Custom Terrain",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ys56xr/some_custom_terrain/"
+}
