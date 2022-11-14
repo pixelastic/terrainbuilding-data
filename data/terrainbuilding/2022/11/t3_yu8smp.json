@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_qe0y4m9i",
+    "name": "Hippy__Hammer"
+  },
+  "date": {
+    "day": 1668297600,
+    "full": 1668362080,
+    "month": 1667260800,
+    "week": 1668297600
+  },
+  "id": "t3_yu8smp",
+  "picture": {
+    "filesize": 64225,
+    "fullUrl": "https://preview.redd.it/anfyio5ibrz91.jpg?width=4000&format=pjpg&auto=webp&s=4f67fd1319a9305723b190d94e1fd87805c5945b",
+    "hash": "8cd1e77f10",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQMG/8QAJRAAAQQBAwIHAAAAAAAAAAAAAQIDBBEFAAYSEyEiIzFScYHw/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABgRAAMBAQAAAAAAAAAAAAAAAAACESEB/9oADAMBAAIRAxEAPwBFjcasQ7JjxpSWYoe5sLcRzSUkeIXfusfesvkN5ZBnKxerMjT0OlTaA0q1JtQJ5D4oDRmJfXn8HGmzPLk8TS2LRVH01fZ8COqW4+8gOvMulaHF9yD+76JzMHvWan//2Q==",
+    "url": "https://preview.redd.it/anfyio5ibrz91.jpg?width=640&crop=smart&auto=webp&s=43336bb608dcb0ae93cf2fe77c479e3d6a7be6c3",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.95,
+    "ups": 44,
+    "value": 44
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Is my terrain modular, and how do I store it?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/yu8smp/is_my_terrain_modular_and_how_do_i_store_it/"
+}
