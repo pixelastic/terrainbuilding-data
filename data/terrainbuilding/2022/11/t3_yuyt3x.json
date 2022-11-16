@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_2uoeqpwi",
+    "name": "nethercreature"
+  },
+  "date": {
+    "day": 1668384000,
+    "full": 1668431116,
+    "month": 1667260800,
+    "week": 1668297600
+  },
+  "id": "t3_yuyt3x",
+  "picture": {
+    "filesize": 148633,
+    "fullUrl": "https://preview.redd.it/3o1vbr5s0xz91.jpg?width=1440&format=pjpg&auto=webp&s=91d1785fb799b7ec8b169ceab9de114167612c03",
+    "hash": "b0f7f29f1e",
+    "height": 800,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwUG/8QAJRAAAgEDAwQCAwAAAAAAAAAAAQIDBAURABMhBjFBURIiFBWR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAdEQACAgEFAAAAAAAAAAAAAAABAgAhAwQRcYHR/9oADAMBAAIRAxEAPwDJdPWmjtSihvVv/JlqqeOQxzoCiBQFIyfOW/nHjSfqbXb2Etut+ytSu40LfL6/ZgCMnsR69avVNsne7YKpIoR9tKgltx2HHOcnnxx20sHSsc8avOamJsYxCQQe/vU+YE2ovmo+nYKdmvryf//Z",
+    "url": "https://preview.redd.it/3o1vbr5s0xz91.jpg?width=640&crop=smart&auto=webp&s=fe34a87f9ad39a91e6e499593c3d609e5ad65a43",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 1,
+    "value": 1
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Baba lysagas hut",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/yuyt3x/baba_lysagas_hut/"
+}

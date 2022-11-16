@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_jds14",
+    "name": "victorh_"
+  },
+  "date": {
+    "day": 1668470400,
+    "full": 1668484835,
+    "month": 1667260800,
+    "week": 1668297600
+  },
+  "id": "t3_yvm7fs",
+  "picture": {
+    "filesize": 97370,
+    "fullUrl": "https://preview.redd.it/nwni75j0g10a1.jpg?auto=webp&s=9ac3096b9f74a84545aaa5ebd8692ec6bd165284",
+    "hash": "ac49865b37",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQFBv/EACcQAAECBQIFBQAAAAAAAAAAAAECAwAEBREhEkEGEzEyUTVyc7HB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQT/xAAZEQACAwEAAAAAAAAAAAAAAAACAwABETH/2gAMAwEAAhEDEQA/AAnKmEUpIbUhUy6oAWVkC4JUkb+LDzGem6mZd6SfqE/yH2lFOp5y+u/U5wnYHBxDT/qTHz/iYlcXdrHsc+zEDDpojVDkUMJRb2f/2Q==",
+    "url": "https://preview.redd.it/nwni75j0g10a1.jpg?width=640&crop=smart&auto=webp&s=8b5555929b935ecb766d67b384c255e1c98b84be",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 97,
+    "value": 97
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I hope this counts as terrain: fluorescent obelisk. The green lines glow under UV light",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/yvm7fs/i_hope_this_counts_as_terrain_fluorescent_obelisk/"
+}
