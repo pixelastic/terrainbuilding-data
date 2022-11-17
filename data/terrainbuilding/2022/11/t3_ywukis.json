@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_a1s2x",
+    "name": "Tarryman"
+  },
+  "date": {
+    "day": 1668556800,
+    "full": 1668608137,
+    "month": 1667260800,
+    "week": 1668297600
+  },
+  "id": "t3_ywukis",
+  "picture": {
+    "filesize": 84936,
+    "fullUrl": "https://preview.redd.it/gvz7vaj5nb0a1.jpg?width=4080&format=pjpg&auto=webp&s=d1606eb49eff1c9d88092c051a52f71a4f622717",
+    "hash": "641059865b",
+    "height": 482,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQEG/8QAIhAAAgEEAgIDAQAAAAAAAAAAAQIDBAURIQAxBhJBYYGx/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABoRAAIDAQEAAAAAAAAAAAAAAAECAAMhQSL/2gAMAwEAAhEDEQA/AL5RUVFnrYqe2olHAYvV4wEUFxtjnBOd40fjgtF5hcLTWJWXCYzU0Zw0aRhWZSOv53xq+0itdEmaSQtI7e4yMN2c4x398zV3oYoz6LkKX2Nbz+cBKqqx5XR3sVndzpwz/9k=",
+    "url": "https://preview.redd.it/gvz7vaj5nb0a1.jpg?width=640&crop=smart&auto=webp&s=23be5e677d79211413ece1313bf7400d9a036333",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 62,
+    "value": 62
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "The lair of the Formorian...",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ywukis/the_lair_of_the_formorian/"
+}

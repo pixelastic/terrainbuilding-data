@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4sit38ov",
+    "name": "savage_northener"
+  },
+  "date": {
+    "day": 1668556800,
+    "full": 1668571843,
+    "month": 1667260800,
+    "week": 1668297600
+  },
+  "id": "t3_ywjbgo",
+  "picture": {
+    "filesize": 41030,
+    "fullUrl": "https://preview.redd.it/h00g4ab8n80a1.jpg?width=3934&format=pjpg&auto=webp&s=6cdd7cf9ece096333fcc76939d6f948581328871",
+    "hash": "a6a4c54b90",
+    "height": 500,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAANABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQH/8QAJRAAAQMDAwMFAAAAAAAAAAAAAQIDBAAFEQYHIRITURQiIyRh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABgRAAMBAQAAAAAAAAAAAAAAAAABAjFB/9oADAMBAAIRAxEAPwCfS24FoCftykkJQcAKHKsHA5I/KL6w3MYkjtQIzi0k+4khIHkcck0s2ItVsfujvqLfGeIhOn5EBQz0+CKynWdtiMT3gw0lsBRGKdp6JVw//9k=",
+    "url": "https://preview.redd.it/h00g4ab8n80a1.jpg?width=640&crop=smart&auto=webp&s=442a0efcfde5ac97279a59ad7922c99f15d196d3",
+    "width": 640
+  },
+  "score": {
+    "comments": 16,
+    "downs": 0,
+    "ratio": 0.81,
+    "ups": 44,
+    "value": 44
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "An old uni project",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ywjbgo/an_old_uni_project/"
+}
