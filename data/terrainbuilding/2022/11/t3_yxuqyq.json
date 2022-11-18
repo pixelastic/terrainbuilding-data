@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_m4jx6",
+    "name": "Tikira7"
+  },
+  "date": {
+    "day": 1668643200,
+    "full": 1668702876,
+    "month": 1667260800,
+    "week": 1668297600
+  },
+  "id": "t3_yxuqyq",
+  "picture": {
+    "filesize": 103284,
+    "fullUrl": "https://preview.redd.it/kuzdkmavgj0a1.jpg?width=750&format=pjpg&auto=webp&s=b9551820387947d6a30962e9f5e54a9457ab5976",
+    "hash": "d4d50b2eaf",
+    "height": 1138,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwUGB//EACEQAAECBgIDAAAAAAAAAAAAAAECAwAEBRESEyGSQVNU/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAZEQACAwEAAAAAAAAAAAAAAAAAAQMSITL/2gAMAwEAAhEDEQA/AMuRS6uZbYJdeq1ychxC/Cc9D3UxQsPVduVLKanrYuVYBPFz5gO2oferrDVfbFRyRrk//9k=",
+    "url": "https://preview.redd.it/kuzdkmavgj0a1.jpg?width=640&crop=smart&auto=webp&s=7175a1aaed06855e48d0007ac58d0d3961c22a22",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 79,
+    "value": 79
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First ever build",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/yxuqyq/first_ever_build/"
+}
