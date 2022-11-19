@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_33nnxdq",
+    "name": "Rojkow"
+  },
+  "date": {
+    "day": 1668729600,
+    "full": 1668795653,
+    "month": 1667260800,
+    "week": 1668297600
+  },
+  "id": "t3_yyqtmw",
+  "picture": {
+    "filesize": 115275,
+    "fullUrl": "https://preview.redd.it/w1ii95iq4r0a1.jpg?width=2592&format=pjpg&auto=webp&s=6fdbcd069eb84cbe4efd7a45af0ef151b5b19c16",
+    "hash": "cfcc16ee78",
+    "height": 1137,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgX/xAAoEAACAQIDBgcAAAAAAAAAAAABAgMABAUGEhETFiExQlRVcYGSk9H/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGhEAAgIDAAAAAAAAAAAAAAAAAAIBEiExQv/aAAwDAQACEQMRAD8AgZixkQSTWyW88d28ZmikJA3YX36nqPSj3FONeaXn2PTFcpLu5sTucQZIFlBFqya9SqwVNpBPPTtB5dxplwNkfxa/E/lCVmjEaE1Xo//Z",
+    "url": "https://preview.redd.it/w1ii95iq4r0a1.jpg?width=640&crop=smart&auto=webp&s=9adc70e36dfcba6a84b1f793a11cff7e61b62ace",
+    "width": 640
+  },
+  "score": {
+    "comments": 10,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 80,
+    "value": 80
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Some new scatter terrain i built with my GF. We are new to weathering effects. Thankful for some advice to improve.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/yyqtmw/some_new_scatter_terrain_i_built_with_my_gf_we/"
+}
