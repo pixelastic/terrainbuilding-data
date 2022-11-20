@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_um3cu",
+    "name": "Prez_Yarrek"
+  },
+  "date": {
+    "day": 1668816000,
+    "full": 1668825854,
+    "month": 1667260800,
+    "week": 1668297600
+  },
+  "id": "t3_yz1mzd",
+  "picture": {
+    "filesize": 82511,
+    "fullUrl": "https://preview.redd.it/457e4iuimt0a1.jpg?width=4032&format=pjpg&auto=webp&s=4cfaf11cd367ce84538205e505350954db757169",
+    "hash": "74c5fc0a19",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQFB//EACYQAAEDAwMCBwAAAAAAAAAAAAECAwQFBhEAITESEwcUIzJBUWH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABoRAAIDAQEAAAAAAAAAAAAAAAECABEhA/D/2gAMAwEAAhEDEQA/AAuO95dPuCsT6TOQ2xU1rWhC0d1eULVg9J9uATvj4xpCFdNXcrVKq1RPmnkEhsMpDZ6QeDgbHc8jjW9XT4S2rXpbs1+NIiyFBRUYrxQlROckp3Tvn61Hoti0K2XO9AjKcf29R9ZWcjg42Gf3GpGHRcuMERrNZ4z/2Q==",
+    "url": "https://preview.redd.it/457e4iuimt0a1.jpg?width=640&crop=smart&auto=webp&s=8e8f58a63d4ba784f0afd044ebd7e7098e8556af",
+    "width": 640
+  },
+  "score": {
+    "comments": 9,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 506,
+    "value": 506
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A river runs through it",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/yz1mzd/a_river_runs_through_it/"
+}
