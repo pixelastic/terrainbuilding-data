@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_2ofjvzkv",
+    "name": "The_Lion_is_alive"
+  },
+  "date": {
+    "day": 1668816000,
+    "full": 1668876542,
+    "month": 1667260800,
+    "week": 1668297600
+  },
+  "id": "t3_yzg91o",
+  "picture": {
+    "filesize": 142935,
+    "fullUrl": "https://preview.redd.it/jbze42hsaz0a1.jpg?auto=webp&s=d06dee38641d29c54161d5eb027254a37cb00c5e",
+    "hash": "0a1875b7c8",
+    "height": 698,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA8DASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAX/xAAjEAABBAIBBAMBAAAAAAAAAAABAgMFEQQGABIhIlETFGEx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAYEQEAAwEAAAAAAAAAAAAAAAABAAISUf/aAAwDAQACEQMRAD8ADKbTsqNgkWWJrPbw2M1aWw6VJUs/JQQkV3SP5ydoG5bdn7UwzKS8mcTqd8SALpJoG6H7xO26XtcpN5ilR2e5jCQOQ0pIJIAX2rvVVXrlbTIresfYGlSyJf6/UvqbfbDjSfE1Rr3+8lrZWPk7P//Z",
+    "url": "https://preview.redd.it/jbze42hsaz0a1.jpg?width=640&crop=smart&auto=webp&s=6254045af54acc70549df607c1227a17daa21488",
+    "width": 640
+  },
+  "score": {
+    "comments": 29,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 1005,
+    "value": 1005
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First attempt with epoxy…",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/yzg91o/first_attempt_with_epoxy/"
+}

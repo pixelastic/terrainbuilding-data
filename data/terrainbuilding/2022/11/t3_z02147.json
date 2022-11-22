@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5nzap",
+    "name": "alfihar"
+  },
+  "date": {
+    "day": 1668902400,
+    "full": 1668944421,
+    "month": 1667260800,
+    "week": 1668902400
+  },
+  "id": "t3_z02147",
+  "picture": {
+    "filesize": 120718,
+    "fullUrl": "https://external-preview.redd.it/i6ObCgt5djgu4K9lhWtp7UJn71vvCK2ujFcgVpBwF1g.jpg?auto=webp&s=9e08f1b3065dcb8c4ed1a667594f175650f2bca8",
+    "hash": "3fed12d50a",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgf/xAAjEAACAQMEAQUAAAAAAAAAAAABAgMEESEABRIxBgcTQVJh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAL/xAAXEQADAQAAAAAAAAAAAAAAAAAAAQIh/9oADAMBAAIRAxEAPwAn43K8kchRyFiTmePeCBYfF8iwPekQ3YgWRyyjo2tfRml2Ntk3fhWz1dJVxzNmRHVXjOCoUAm5wb6qXj/prW75QGvjlSihkkb24543DFftnOf3UzWsH//Z",
+    "url": "https://external-preview.redd.it/i6ObCgt5djgu4K9lhWtp7UJn71vvCK2ujFcgVpBwF1g.jpg?width=640&crop=smart&auto=webp&s=77d5402a89ef2fad9c191a8613c9f2343cc7d27a",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 15,
+    "value": 15
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Some tools I made for working with styrene, making small wire trees, shaping cork, and drying brushes.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/z02147/some_tools_i_made_for_working_with_styrene_making/"
+}
