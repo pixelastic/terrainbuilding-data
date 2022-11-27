@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_bhv0xef7",
+    "name": "Old_Shatterhans"
+  },
+  "date": {
+    "day": 1669420800,
+    "full": 1669468952,
+    "month": 1667260800,
+    "week": 1668902400
+  },
+  "id": "t3_z57gik",
+  "picture": {
+    "filesize": 84892,
+    "fullUrl": "https://preview.redd.it/tovlt0grqa2a1.jpg?width=4032&format=pjpg&auto=webp&s=f118aeef5a81c36ae464ada8127e7e7d213c1f34",
+    "hash": "46a1d480da",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAIRAAAQQCAgIDAAAAAAAAAAAAAQIDBBEhMQASBUEUUWH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAA//EABcRAAMBAAAAAAAAAAAAAAAAAAABAhH/2gAMAwEAAhEDEQA/ACPneTSCmVFRHU5RPZ1JUlOc+xednGNc1HhHn5qm47TMZTY7rS6t8kWBXXF5OPy1cjEVlUt2WUW8SGrJJHXWtcQjJTHkhxoUpIKRRoAX9a9cm5oKlp//2Q==",
+    "url": "https://preview.redd.it/tovlt0grqa2a1.jpg?width=640&crop=smart&auto=webp&s=a27be54df7efa42e3330627c4af04db1b0394f82",
+    "width": 640
+  },
+  "score": {
+    "comments": 9,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 300,
+    "value": 300
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "More scatter terrain finished",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/z57gik/more_scatter_terrain_finished/"
+}

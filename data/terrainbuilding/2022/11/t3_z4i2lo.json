@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_u1rv82ik",
+    "name": "Baron_Imperious"
+  },
+  "date": {
+    "day": 1669334400,
+    "full": 1669395111,
+    "month": 1667260800,
+    "week": 1668902400
+  },
+  "id": "t3_z4i2lo",
+  "picture": {
+    "filesize": 123598,
+    "fullUrl": "https://preview.redd.it/htit8fv5n42a1.jpg?width=3000&format=pjpg&auto=webp&s=25037730f968df58e35f776f5286cc87b2200809",
+    "hash": "1e8ac1090e",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAlEAACAgEDAgcBAAAAAAAAAAABAgMEBQARMRIhBhMiMlGBocH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABkRAAEFAAAAAAAAAAAAAAAAAAABAhESMf/aAAwDAQACEQMRAD8AsPGOWipZexHLYiWEqoAJ9p/nOpI5ETeuJiyHgr3H5pzKY6KvmqdC0y30eMvJJYh3k26ukEsO5Pc8/Gj6iPUWWutnyzFK6HopR7MQefsbamrY0dj/2Q==",
+    "url": "https://preview.redd.it/htit8fv5n42a1.jpg?width=640&crop=smart&auto=webp&s=170cf4412f3243d4275b4f80b014080e87d1cdd5",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 428,
+    "value": 428
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Blacksmith build",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/z4i2lo/blacksmith_build/"
+}

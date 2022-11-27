@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_u1rv82ik",
+    "name": "Baron_Imperious"
+  },
+  "date": {
+    "day": 1669420800,
+    "full": 1669478782,
+    "month": 1667260800,
+    "week": 1668902400
+  },
+  "id": "t3_z5aze9",
+  "picture": {
+    "filesize": 118357,
+    "fullUrl": "https://preview.redd.it/q6vygab0kb2a1.jpg?width=3000&format=pjpg&auto=webp&s=b0a295ff9facede938bfcb01f1910deae59f6c31",
+    "hash": "c1a2505ce3",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgME/8QAIRAAAgEEAgIDAAAAAAAAAAAAAQIDBAURMQASEyEUUXL/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABcRAAMBAAAAAAAAAAAAAAAAAAABEhH/2gAMAwEAAhEDEQA/AGF6u9ND3jRy0nkEXUA5DHQP1wlJc3dyRHKB+TzbZlR46WGanmL9SHLQtiMlvSknZxsjeDyVVKnlPwmuiQj0DDTAo2DsdlzyUtjvD//Z",
+    "url": "https://preview.redd.it/q6vygab0kb2a1.jpg?width=640&crop=smart&auto=webp&s=678d6dc280753d4b196778e3f6a28967f8fedc42",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 114,
+    "value": 114
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Graveyard Scatter",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/z5aze9/graveyard_scatter/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_i5x6a2va",
+    "name": "Elvren-Z"
+  },
+  "date": {
+    "day": 1669248000,
+    "full": 1669316782,
+    "month": 1667260800,
+    "week": 1668902400
+  },
+  "id": "t3_z3s0bq",
+  "picture": {
+    "filesize": 38487,
+    "fullUrl": "https://preview.redd.it/9ifhmlfb6y1a1.jpg?width=4608&format=pjpg&auto=webp&s=5bff23abb709a75e4fa1eacc14a436e61d8d8b84",
+    "hash": "6e668d0015",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAKBAAAgECBAMJAAAAAAAAAAAAAQIDACEEBQYRB3OyEhMiNjdBcZGh/8QAFAEBAAAAAAAAAAAAAAAAAAAABf/EABgRAAMBAQAAAAAAAAAAAAAAAAABEQIi/9oADAMBAAIRAxEAPwB22ZR9ySxQRsB2XdfATffc3+iB81neujjI9MjOIoiY48Q7yMHEZEJsCoYENc+/7STTfkqXljoFT+L3pZjuRH1LQ+XNpCE5qP/Z",
+    "url": "https://preview.redd.it/9ifhmlfb6y1a1.jpg?width=640&crop=smart&auto=webp&s=cff0f56a3aa0e7562dd464bf73d2c20e8055e71f",
+    "width": 640
+  },
+  "score": {
+    "comments": 20,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 417,
+    "value": 417
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First house build, any comments?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/z3s0bq/first_house_build_any_comments/"
+}
