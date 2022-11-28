@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1nv9vuk3",
+    "name": "Lord_Thanquol"
+  },
+  "date": {
+    "day": 1669507200,
+    "full": 1669550177,
+    "month": 1667260800,
+    "week": 1669507200
+  },
+  "id": "t3_z5zg9d",
+  "picture": {
+    "filesize": 62133,
+    "fullUrl": "https://preview.redd.it/d8mvv0doxi2a1.jpg?auto=webp&s=57ae89871dccd8eaed3b733cd8bf88e77b93779a",
+    "hash": "25944e8ebe",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQH/8QAJRAAAgEDAwIHAAAAAAAAAAAAAQIDBAcRACExBoEFCBITIlFh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAaEQACAgMAAAAAAAAAAAAAAAAAAQIDESEj/9oADAMBAAIRAxEAPwDO78GSg67EMU85jekRj7khYlmLZAPIGANuNVeXeSofrargldxGKKQmP1HBIZNyPsZ0bfKaWvuVXRyJhaYxQL8digUMCTnnLHtpSyJTwy6bRGRZYqiCWnR14ZjhgR+YXtoOW8FVXzcj/9k=",
+    "url": "https://preview.redd.it/d8mvv0doxi2a1.jpg?width=640&crop=smart&auto=webp&s=18061572974473abab9922e86c29c2bb9cc4ba93",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 268,
+    "value": 268
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Tall Tales",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/z5zg9d/tall_tales/"
+}

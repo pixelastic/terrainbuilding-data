@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1lfa8i0n",
+    "name": "Tubblington"
+  },
+  "date": {
+    "day": 1669507200,
+    "full": 1669564355,
+    "month": 1667260800,
+    "week": 1669507200
+  },
+  "id": "t3_z64k7g",
+  "picture": {
+    "filesize": 54905,
+    "fullUrl": "https://preview.redd.it/odajhjc04k2a1.jpg?auto=webp&s=7c8d1c6ca7eb356e6c324394046742730bb680cc",
+    "hash": "a412f0ef17",
+    "height": 288,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQF/8QAIBAAAgEEAwADAAAAAAAAAAAAAQIDAAQRQQUGIRMxYf/EABQBAQAAAAAAAAAAAAAAAAAAAAL/xAAXEQADAQAAAAAAAAAAAAAAAAABAhEA/9oADAMBAAIRAxEAPwDQ5Hrl3ysc0s6rJCJfjt4yFKqAPTgnwawP2qbjqwtOLtYrVZIEdWZQCpEb59yNgnH1rO6UoBVIkzZmBt3/2Q==",
+    "url": "https://preview.redd.it/odajhjc04k2a1.jpg?width=640&crop=smart&auto=webp&s=7c32da611dced1b5e13962ca7f9c080de3bc779d",
+    "width": 640
+  },
+  "score": {
+    "comments": 15,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 294,
+    "value": 294
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Work in progress ruined cathedral pieces. My first terrain build.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/z64k7g/work_in_progress_ruined_cathedral_pieces_my_first/"
+}

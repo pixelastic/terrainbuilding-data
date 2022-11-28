@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1vocucar",
+    "name": "Hazard_Duke"
+  },
+  "date": {
+    "day": 1669420800,
+    "full": 1669493470,
+    "month": 1667260800,
+    "week": 1668902400
+  },
+  "id": "t3_z5go8x",
+  "picture": {
+    "filesize": 96985,
+    "fullUrl": "https://preview.redd.it/2015vhlorc2a1.jpg?width=1440&format=pjpg&auto=webp&s=8b4f05fad65464c1c9c688eb7082f239ed9dc67f",
+    "hash": "300e5e8583",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAYH/8QAIxAAAgIBAwMFAAAAAAAAAAAAAQIDEQQABRIhIjEGFHGBof/EABUBAQEAAAAAAAAAAAAAAAAAAAAC/8QAHREAAgIBBQAAAAAAAAAAAAAAAQIAAwQFEiNCYf/aAAwDAQACEQMRAD8A0DA9W+1mw8PHPFnbm8hFrQB7fkmtR++M2FnOXpo5naRWHg2br90HEkgknieORhIKTuZQESiCSDVnr5B0vOztvimkSQjJjkKyNEACFYKFI5fV9NQcd7uEKdw8hdQWpzb1M//Z",
+    "url": "https://preview.redd.it/2015vhlorc2a1.jpg?width=640&crop=smart&auto=webp&s=b84c03b5c4725648321d7afbc4a2dbe3943fa662",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 28,
+    "value": 28
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Scatter terrain / ruins",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/z5go8x/scatter_terrain_ruins/"
+}
