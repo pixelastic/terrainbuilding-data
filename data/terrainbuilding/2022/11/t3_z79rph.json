@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_hcxhh",
+    "name": "cybernix"
+  },
+  "date": {
+    "day": 1669593600,
+    "full": 1669672256,
+    "month": 1667260800,
+    "week": 1669507200
+  },
+  "id": "t3_z79rph",
+  "picture": {
+    "filesize": 94616,
+    "fullUrl": "https://preview.redd.it/xnnak05u0t2a1.jpg?auto=webp&s=9f5a52e56bc919ae566438e0732d596fd9a4e7f8",
+    "hash": "e4430b1289",
+    "height": 1422,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAcDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAf/xAAhEAABAwMFAQEAAAAAAAAAAAABAgMFAAQGBxESITETIv/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/8QAFxEBAAMAAAAAAAAAAAAAAAAAAAERIf/aAAwDAQACEQMRAD8AlEVpwJDFWZlq/dPIcUsraSjsLKT+ifOjSq9pJn2B3Ea1GrbTFvJ5ENXY+iBuSo7E9be0qNNy/9k=",
+    "url": "https://preview.redd.it/xnnak05u0t2a1.jpg?width=640&crop=smart&auto=webp&s=e86e5d624753706d78a56290195b0c4f3ffbd7a6",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 47,
+    "value": 47
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Early WIP on ttcombat castle set.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/z79rph/early_wip_on_ttcombat_castle_set/"
+}

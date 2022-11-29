@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_u1rv82ik",
+    "name": "Baron_Imperious"
+  },
+  "date": {
+    "day": 1669593600,
+    "full": 1669610700,
+    "month": 1667260800,
+    "week": 1669507200
+  },
+  "id": "t3_z6n0ry",
+  "picture": {
+    "filesize": 123779,
+    "fullUrl": "https://preview.redd.it/5893egtqxn2a1.jpg?auto=webp&s=1db616bdcd9f69799f5135bd80bf40bee4b970a6",
+    "hash": "346ee6e7b4",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAjEAACAgEEAQUBAAAAAAAAAAABAgMRBAAFITESBhQiUWGR/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABkRAQACAwAAAAAAAAAAAAAAAAEAAhEhQf/aAAwDAQACEQMRAD8Aot29QwIk0gjnXFVyplVQfLmiVF2Rdi6rUzkbvOsnRCsPJfl2p6PH5phtxzMXePYBlNwhw0S8oLIUU1/RP840TuO5brgZ00CwYrxg+SPKzh2UgGzQq+T1oGuNrELvCf/Z",
+    "url": "https://preview.redd.it/5893egtqxn2a1.jpg?width=640&crop=smart&auto=webp&s=edc1c3f5e90e07346a5573537131ce146bbd0fda",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 71,
+    "value": 71
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Outpost Tower/Stone Platform Build",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/z6n0ry/outpost_towerstone_platform_build/"
+}
