@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_2u3pd1i",
+    "name": "EarthDogs"
+  },
+  "date": {
+    "day": 1669766400,
+    "full": 1669830750,
+    "month": 1667260800,
+    "week": 1669507200
+  },
+  "id": "t3_z8y02p",
+  "picture": {
+    "filesize": 92408,
+    "fullUrl": "https://preview.redd.it/m6mk40z4463a1.jpg?auto=webp&s=7f2a74628d9a61ea737ac8e65fe9e802dfcd6935",
+    "hash": "6ffeb5c77d",
+    "height": 388,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAKABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQP/xAAmEAABAwIFAwUAAAAAAAAAAAABAgMRAAQFEiEiMQYTQRQyYXGB/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABkRAAIDAQAAAAAAAAAAAAAAAAABAgNREf/aAAwDAQACEQMRAD8AozZKwrC2HLy90WklCHdXA3yCoj2mYP6KAvGMQ712vJmDkEkOAkbdBI1nnxND3bzpduUlxZSLlbYBUYCc52/XxSXSwHq1ojYYJT4Jy80aT4hle6f/2Q==",
+    "url": "https://preview.redd.it/m6mk40z4463a1.jpg?width=640&crop=smart&auto=webp&s=bce859b874e37af1bb5315196f211feb5580c0cc",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 225,
+    "value": 225
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Some post apocalyptic work on Escape from Stalingrad Z.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/z8y02p/some_post_apocalyptic_work_on_escape_from/"
+}
