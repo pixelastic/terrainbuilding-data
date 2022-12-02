@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_bc80s",
+    "name": "Teaslurper"
+  },
+  "date": {
+    "day": 1669852800,
+    "full": 1669889731,
+    "month": 1669852800,
+    "week": 1669507200
+  },
+  "id": "t3_z9ka3q",
+  "picture": {
+    "filesize": 60610,
+    "fullUrl": "https://preview.redd.it/8rj31p1zh93a1.jpg?width=5632&format=pjpg&auto=webp&s=de7b00d81746371047ba91816b9c0a75830657df",
+    "hash": "06df961fc1",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgX/xAAkEAACAQMDAwUAAAAAAAAAAAABAgMABBEFBjEHEiEUIkFRYf/EABUBAQEAAAAAAAAAAAAAAAAAAAMF/8QAGhEBAAIDAQAAAAAAAAAAAAAAAQACBBEhQf/aAAwDAQACEQMRAD8Afb5382m3UDTXfp4DnuYqWDcePHHOc/lENu9UIL/UJIXle4cKHV3zhvsYPzQLdE8msSIL1iyoMgL7RmpunW8dnMJIAQ/GSScVIMfZuz2NTJSoez//2Q==",
+    "url": "https://preview.redd.it/8rj31p1zh93a1.jpg?width=640&crop=smart&auto=webp&s=7d442abd2ca3476cedb557f1af4f15abc95d43ad",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 75,
+    "value": 75
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP Allotment/Garden",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/z9ka3q/wip_allotmentgarden/"
+}

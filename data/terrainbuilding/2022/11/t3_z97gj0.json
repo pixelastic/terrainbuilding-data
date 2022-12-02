@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_7fq09",
+    "name": "falconsmanhole"
+  },
+  "date": {
+    "day": 1669766400,
+    "full": 1669851809,
+    "month": 1667260800,
+    "week": 1669507200
+  },
+  "id": "t3_z97gj0",
+  "picture": {
+    "filesize": 76754,
+    "fullUrl": "https://external-preview.redd.it/R7VXdFGD19G99qJA58hyLe6qavBX3OkAOLifdejrXoI.jpg?auto=webp&s=87ec35ec4c0e37e7d943425a886b342a7d2a48b8",
+    "hash": "05dd6b5d28",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgIE/8QAIhAAAQMDBQEBAQAAAAAAAAAAAQIDEQQFQQAGEhMhUTFh/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABoRAAICAwAAAAAAAAAAAAAAAAESADECESL/2gAMAwEAAhEDEQA/ALtgrlAMNPcmCOtslJQv0Z/k/Y0ev9Pe6evh1kqZKuwDs8S2VGDGIB0h29d6o2ptXIAmrLSokchMSYzrTuGpU/tR50oQgqYQmEj8CiJifcfcnQEawQ1Gfthc/9k=",
+    "url": "https://external-preview.redd.it/R7VXdFGD19G99qJA58hyLe6qavBX3OkAOLifdejrXoI.jpg?width=640&crop=smart&auto=webp&s=cce42a51f26f2f4ce7c274466c7b62923f626575",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 10,
+    "value": 10
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A new addition to Zombie City :)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/z97gj0/a_new_addition_to_zombie_city/"
+}
