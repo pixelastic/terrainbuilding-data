@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_33nnxdq",
+    "name": "Rojkow"
+  },
+  "date": {
+    "day": 1670025600,
+    "full": 1670026056,
+    "month": 1669852800,
+    "week": 1669507200
+  },
+  "id": "t3_zb2d0o",
+  "picture": {
+    "filesize": 137915,
+    "fullUrl": "https://preview.redd.it/wzcyblhcrk3a1.jpg?width=2071&format=pjpg&auto=webp&s=57abb04aa920c9127e69dd1369c14b70f0853078",
+    "hash": "079accb896",
+    "height": 1137,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAKRAAAQIEAgoDAAAAAAAAAAAAAQMEAAIFEhFRBhUXISIlMUFUkoHB0f/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAWEQADAAAAAAAAAAAAAAAAAAAAARH/2gAMAwEAAhEDEQA/ADKbpm7ZTK63IcDAACwJ2n4+4v2g0zKb3EYOtUV1LUHTuoyKoN3ClqZUkI6Diwu3djnBnIvOl9h+QMQlZ//Z",
+    "url": "https://preview.redd.it/wzcyblhcrk3a1.jpg?width=640&crop=smart&auto=webp&s=ff2068c427b485ecc6582ca024864d840e018f25",
+    "width": 640
+  },
+  "score": {
+    "comments": 10,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 255,
+    "value": 255
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My mausoleum is ready for the table (FG)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/zb2d0o/my_mausoleum_is_ready_for_the_table_fg/"
+}

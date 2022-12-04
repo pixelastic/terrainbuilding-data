@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4l9frcg1",
+    "name": "cnbuch"
+  },
+  "date": {
+    "day": 1670025600,
+    "full": 1670078831,
+    "month": 1669852800,
+    "week": 1669507200
+  },
+  "id": "t3_zbhxat",
+  "picture": {
+    "filesize": 71783,
+    "fullUrl": "https://preview.redd.it/u4bgvuzslq3a1.jpg?auto=webp&s=c9108deb9486496e55c9cd251ce853ad46b6d76e",
+    "hash": "24a1728b69",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwEG/8QAJRAAAQMDAwMFAAAAAAAAAAAAAQIDBAAFEQYSIRMVMTJBUnGB/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABgRAAMBAQAAAAAAAAAAAAAAAAECEQAD/9oADAMBAAIRAxEAPwDD27SKY4Eh4NvKRyG17dqgUn5fpH1Va0M9JQO3pU4oN9Qoxk7RgE8e+T4ptF32Rc5ExiazGdbjEBvc3k+ojnJ5pLHf5T8q2z2mo8aQ06tILCCApOCCkgk5BCRmiEACzL512C3f/9k=",
+    "url": "https://preview.redd.it/u4bgvuzslq3a1.jpg?width=640&crop=smart&auto=webp&s=04b68946d09388c1da17df3bed78cc5c16ff38ad",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 70,
+    "value": 70
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Ruined temple theme for 4th AoS table",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/zbhxat/ruined_temple_theme_for_4th_aos_table/"
+}

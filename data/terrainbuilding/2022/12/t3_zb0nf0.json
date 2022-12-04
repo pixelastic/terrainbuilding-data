@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_mnvumgw2",
+    "name": "AdamantForm"
+  },
+  "date": {
+    "day": 1669939200,
+    "full": 1670021611,
+    "month": 1669852800,
+    "week": 1669507200
+  },
+  "id": "t3_zb0nf0",
+  "picture": {
+    "filesize": 39577,
+    "fullUrl": "https://preview.redd.it/9aej83s7ck3a1.jpg?width=1987&format=pjpg&auto=webp&s=8f1e588cdcafca04f62c3b4cd5618a089ec91eed",
+    "hash": "923b13aba1",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDB//EACIQAAIBAwQCAwAAAAAAAAAAAAECAwAREgQhMWEyQVFxkf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AyiNcm6AudjsPfFDqQb4lVa5W/wAU8LExSxrMYGcbSDkdVXVagSx4eeLXDH6sf3miv//Z",
+    "url": "https://preview.redd.it/9aej83s7ck3a1.jpg?width=640&crop=smart&auto=webp&s=c16ca15d8a9845d60453dd780def00a7e28659c2",
+    "width": 640
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 52,
+    "value": 52
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Fallen Titan Temple-its an rather unusual terrain piece I am working on, its also quite modular, so far I am really happy with it... more parts are on the way",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/zb0nf0/fallen_titan_templeits_an_rather_unusual_terrain/"
+}

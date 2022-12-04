@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_i4gdu",
+    "name": "gorebuddy"
+  },
+  "date": {
+    "day": 1669939200,
+    "full": 1670005575,
+    "month": 1669852800,
+    "week": 1669507200
+  },
+  "id": "t3_zatg8e",
+  "picture": {
+    "filesize": 85497,
+    "fullUrl": "https://preview.redd.it/zeoqi3hg2j3a1.jpg?width=3024&format=pjpg&auto=webp&s=314edf924bd2d15d27314200cef1c9866a0da2a6",
+    "hash": "ea66ca8ab4",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwMF/8QAJBAAAQMDBAEFAAAAAAAAAAAAAgEDBAURIQAGEjEHFCIjgaH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABcRAQEBAQAAAAAAAAAAAAAAAAECACH/2gAMAwEAAhEDEQA/AEGf5DiQN0zIdWfJmmjGa4mkYlEH+a8kUkRVylsdY1Tcu5EiTWUhqLjLrIuoVu+V7fltB26ahVZFR9a/FZaKZ8bYPKvIlz7kHv7tbWjLrO4ZqtG9GYIwbFu4BZLDhMX1Omk4ZSA9d//Z",
+    "url": "https://preview.redd.it/zeoqi3hg2j3a1.jpg?width=640&crop=smart&auto=webp&s=97684a42785dafba0c5a5fe9cc309828ab9e9112",
+    "width": 640
+  },
+  "score": {
+    "comments": 9,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 372,
+    "value": 372
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Three clustered buildings.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/zatg8e/three_clustered_buildings/"
+}

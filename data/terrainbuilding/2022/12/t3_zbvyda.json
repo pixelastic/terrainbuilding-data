@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_c082l",
+    "name": "WibblyWobblyWW"
+  },
+  "date": {
+    "day": 1670112000,
+    "full": 1670115058,
+    "month": 1669852800,
+    "week": 1670112000
+  },
+  "id": "t3_zbvyda",
+  "picture": {
+    "filesize": 128127,
+    "fullUrl": "https://preview.redd.it/rbccdsajlt3a1.jpg?auto=webp&s=2b827c25db4510ae18613800760fff9342d2ab92",
+    "hash": "9b1c5d7c91",
+    "height": 1138,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQP/xAAkEAACAAQEBwAAAAAAAAAAAAABAgADBREEEhQhEyIxUlRxof/EABUBAQEAAAAAAAAAAAAAAAAAAAEF/8QAHBEAAgICAwAAAAAAAAAAAAAAAQIAAxETMnHw/9oADAMBAAIRAxEAPwC1QpFVxsuW+GE6RLU580lV51t0Ja+3qCdYO77B4r4DEpIBS+w4jWtB+uXxlijU9xJ2J17JgyoOJn//2Q==",
+    "url": "https://preview.redd.it/rbccdsajlt3a1.jpg?width=640&crop=smart&auto=webp&s=c0405bd8dc03704af4835d970b1c59afd46e1829",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 2,
+    "value": 2
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My laser cut bridge prototypes.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/zbvyda/my_laser_cut_bridge_prototypes/"
+}
