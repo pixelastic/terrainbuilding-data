@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_45dcpp41",
+    "name": "Redfaint"
+  },
+  "date": {
+    "day": 1670112000,
+    "full": 1670169948,
+    "month": 1669852800,
+    "week": 1670112000
+  },
+  "id": "t3_zcdihz",
+  "picture": {
+    "filesize": 61130,
+    "fullUrl": "https://preview.redd.it/5nv1hc17nw3a1.jpg?width=4000&format=pjpg&auto=webp&s=cd9dc1649056325cf5453aa2b48201b6635dddb7",
+    "hash": "fa7578d9d3",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAjEAACAgEEAQUBAAAAAAAAAAABAgMEEQAFBhIhEyIjQWEx/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABoRAAICAwAAAAAAAAAAAAAAAAEDACECERL/2gAMAwEAAhEDEQA/AEuU73u1Xj8liKeGlN0XrXjb5CScePv6Op/i/MNwv7w8NyxI9IRFghAdlOQFJJx4/uT+6mrDyW7INiR39Or3QE56sxOSP32jQhuyCSNUCIzEBnQYZsnB86NgsAXcQxvVAaE//9k=",
+    "url": "https://preview.redd.it/5nv1hc17nw3a1.jpg?width=640&crop=smart&auto=webp&s=cd6e67fe18cce0dd9ff1d2da51ed66280bd0adab",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 74,
+    "value": 74
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Painting still in progress but it's coming along nicely",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/zcdihz/painting_still_in_progress_but_its_coming_along/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_2u3pd1i",
+    "name": "EarthDogs"
+  },
+  "date": {
+    "day": 1670112000,
+    "full": 1670142328,
+    "month": 1669852800,
+    "week": 1670112000
+  },
+  "id": "t3_zc4dnf",
+  "picture": {
+    "filesize": 53185,
+    "fullUrl": "https://preview.redd.it/6skyxc23du3a1.jpg?width=4000&format=pjpg&auto=webp&s=63d19c42ae73128c33b65ff0adc4a5be217167d0",
+    "hash": "d8a50f9b24",
+    "height": 299,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAb/xAAgEAABBAICAwEAAAAAAAAAAAABAwQFEQACBhIHIXEx/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABkRAAIDAQAAAAAAAAAAAAAAAAABAhEiIf/aAAwDAQACEQMRAD8AmvGMlHcfj3kg1eoJruVgnuSioTVgkeh+A7AD4TlVykRknDvWUi/TVVXtwh1Zd721FakqbVsCao/cYwzyrER0+n//2Q==",
+    "url": "https://preview.redd.it/6skyxc23du3a1.jpg?width=640&crop=smart&auto=webp&s=3d60cea87c74612b4ae1b718f3a6f428b72462f9",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 70,
+    "value": 70
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Smoke stacks",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/zc4dnf/smoke_stacks/"
+}
