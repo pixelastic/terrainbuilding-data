@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_g6fb6",
+    "name": "boblogbob"
+  },
+  "date": {
+    "day": 1670198400,
+    "full": 1670283028,
+    "month": 1669852800,
+    "week": 1670112000
+  },
+  "id": "t3_zdo0pq",
+  "picture": {
+    "filesize": 111723,
+    "fullUrl": "https://preview.redd.it/lmhvtergz54a1.jpg?width=3024&format=pjpg&auto=webp&s=9503ea10e41d5416207d5dda3851e787e148944f",
+    "hash": "1aa9f50e2c",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgIE/8QAJRAAAgIABgIBBQAAAAAAAAAAAQIDBAAFBhESIRMUIjJBQlGB/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABwRAAICAgMAAAAAAAAAAAAAAAECACEDETFBUf/aAAwDAQACEQMRAD8AyZhczaW5W9qOoAkBhZFkV/J8yQOZ+kEMevthZpDX1DSNK5luoo7la/7ckviqVXnjVDtwAdBsegMDrGZJJKFWQcPxZewP6MXZzaG4yPfjpTWFXg0jKN22/ex7wPKjsaNHn2KTMNAN1Qn/2Q==",
+    "url": "https://preview.redd.it/lmhvtergz54a1.jpg?width=640&crop=smart&auto=webp&s=2191bedbf7630944dfbd665fc35aa71124bc2aaa",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 54,
+    "value": 54
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP ocean tiles",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/zdo0pq/wip_ocean_tiles/"
+}
