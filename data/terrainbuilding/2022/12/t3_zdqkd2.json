@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_ak1cs539",
+    "name": "Drowned_goldfish"
+  },
+  "date": {
+    "day": 1670284800,
+    "full": 1670289065,
+    "month": 1669852800,
+    "week": 1670112000
+  },
+  "id": "t3_zdqkd2",
+  "picture": {
+    "filesize": 106406,
+    "fullUrl": "https://preview.redd.it/vkrtagech64a1.jpg?width=3024&format=pjpg&auto=webp&s=79710d4f98252caffd7c25211505cbabf207ed43",
+    "hash": "9a234745ac",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgUGB//EACYQAAEEAQIEBwAAAAAAAAAAAAECAwQRBQATBhIhQSIjMVFhcZH/xAAUAQEAAAAAAAAAAAAAAAAAAAAB/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAECUf/aAAwDAQACEQMRAD8A0XhjDDHuzBBaaYgKbZSwhFeZSSVLUasqJNWew0GYi4tEsCaiDuFNp3m0k8tn3H3qb4SmtQMY0ZkqW5ISOp3RQ6ctJNWAUhNj40hzsxjJZN1+XLWuvA3aEkpQPQE9+t/uhOdFzWH/2Q==",
+    "url": "https://preview.redd.it/vkrtagech64a1.jpg?width=640&crop=smart&auto=webp&s=716a7261741553a65e87888756e8680d78cb7b4d",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 0.95,
+    "ups": 14,
+    "value": 14
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Idk if this is the right place for this, but I'm trying to recreate this old platform for a winter train village and was wondering how to recreate the water part. How do you achieve this multiple color layer look of the old one?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/zdqkd2/idk_if_this_is_the_right_place_for_this_but_im/"
+}
