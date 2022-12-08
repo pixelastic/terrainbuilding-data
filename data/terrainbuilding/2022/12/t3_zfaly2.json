@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5feeu1um",
+    "name": "fishtacopainting"
+  },
+  "date": {
+    "day": 1670371200,
+    "full": 1670440556,
+    "month": 1669852800,
+    "week": 1670112000
+  },
+  "id": "t3_zfaly2",
+  "picture": {
+    "filesize": 100066,
+    "fullUrl": "https://preview.redd.it/epmf77hehk4a1.jpg?auto=webp&s=50f1f57040488ab1dae7bdb1b72cec0a6b533c5a",
+    "hash": "5dafb32937",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGB//EACUQAAEEAQMCBwAAAAAAAAAAAAECAwQFEQAGIRJRBxMiQUJh8P/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAHREAAgEEAwAAAAAAAAAAAAAAAQMCAAQRMWGBof/aAAwDAQACEQMRAD8AG8P92TbKpmVNgwzLYZiIZYRJSC4whI+ORweOc9hp/tS7XNqQ6/UsyHespLgCEdWAPbjnv96zuBV2ZvtxzYSfJLJWhaDkq9QJOAOPw1WbWsJsCghsMV7y0hJJUUk5JJzqZdymUxKsZ515Sk3CVkFoPVf/2Q==",
+    "url": "https://preview.redd.it/epmf77hehk4a1.jpg?width=640&crop=smart&auto=webp&s=65fbf7efd7095565f02f8998fe69f73d204f5d2b",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "ratio": 0.98,
+    "ups": 205,
+    "value": 205
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Added a freehand banner to make my tower look more nurgley.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/zfaly2/added_a_freehand_banner_to_make_my_tower_look/"
+}
