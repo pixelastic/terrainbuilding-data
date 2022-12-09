@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5k4gmyt8",
+    "name": "keepermilio"
+  },
+  "date": {
+    "day": 1670457600,
+    "full": 1670468357,
+    "month": 1669852800,
+    "week": 1670112000
+  },
+  "id": "t3_zfmvvq",
+  "picture": {
+    "filesize": 64638,
+    "fullUrl": "https://preview.redd.it/v53rwsi2sm4a1.jpg?auto=webp&s=40ed6812ec94b4a9c1da81913ab1eae21a98d096",
+    "hash": "f9e6f5a153",
+    "height": 479,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgUGB//EACMQAAIBAwQBBQAAAAAAAAAAAAECAwQFIQAGERNBBxIxcZH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABcRAQEBAQAAAAAAAAAAAAAAAAECABH/2gAMAwEAAhEDEQA/ADt+2oe6yUq3e71MdKh7njJgYsRjrJyFAPtz8+NUO7KC8U1lhobUtyeCUlZ56+QTvDC2HIZTyTx4P7rHoN/bhnSslFZHE0RVeIoEUSEHgM2MnTixep252oHqJ6xJ3YlCJE5BH0NT+0DS5fBSd//Z",
+    "url": "https://preview.redd.it/v53rwsi2sm4a1.jpg?width=640&crop=smart&auto=webp&s=45921f445b002e04cc70a80f07e1fb49fdb11e70",
+    "width": 640
+  },
+  "score": {
+    "comments": 51,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 319,
+    "value": 319
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Tips for rock texture?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/zfmvvq/tips_for_rock_texture/"
+}
