@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4l9frcg1",
+    "name": "cnbuch"
+  },
+  "date": {
+    "day": 1670544000,
+    "full": 1670550209,
+    "month": 1669852800,
+    "week": 1670112000
+  },
+  "id": "t3_zgj7x9",
+  "picture": {
+    "filesize": 86812,
+    "fullUrl": "https://preview.redd.it/0bnf22dgjt4a1.jpg?auto=webp&s=9dad9680c592d95e95bd86458b7f11c576c702f8",
+    "hash": "a3d5a9bcf4",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQT/xAAkEAABBAEDBAMBAAAAAAAAAAABAgMEEQUABhIhMUFRBxMUIv/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAbEQACAgMBAAAAAAAAAAAAAAABAgADBBExE//aAAwDAQACEQMRAD8AE28qJjpLGPxWSD5Y+8ONJSRxQqiU2e9Hp7HXTZ3Hkom4GkSUpcjl5oRylsrtPKlK5AgCr8+Bq/ZmAj5GTnn5EiSHGWS6goKU/wBkWVEhNkmz30D8ZfonMNNzpsqS1kZBDyHFggAK40k1YBAoi6PrQ2x6/QOV7Fh7ChXfJ//Z",
+    "url": "https://preview.redd.it/0bnf22dgjt4a1.jpg?width=640&crop=smart&auto=webp&s=09d1fd06a745d5bb94cb426d453892452b2343b5",
+    "width": 640
+  },
+  "score": {
+    "comments": 9,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 557,
+    "value": 557
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Ruined temple scatter",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/zgj7x9/ruined_temple_scatter/"
+}

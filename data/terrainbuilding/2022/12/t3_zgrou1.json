@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4if59mw5",
+    "name": "adrian_nwb"
+  },
+  "date": {
+    "day": 1670544000,
+    "full": 1670575777,
+    "month": 1669852800,
+    "week": 1670112000
+  },
+  "id": "t3_zgrou1",
+  "picture": {
+    "filesize": 39466,
+    "fullUrl": "https://preview.redd.it/u5xaxaex5u4a1.jpg?width=3091&format=pjpg&auto=webp&s=c3e2787fefd121d3083ea3b52eb2d0662fb71414",
+    "hash": "7c26785c2c",
+    "height": 309,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAIABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMH/8QAIRAAAgEDAwUAAAAAAAAAAAAAAQIDAAQRBRKBEyIyQWH/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAGxEAAgEFAAAAAAAAAAAAAAAAAAEDAhIhIlH/2gAMAwEAAhEDEQA/AMcvILAXSJbwNHAj7CXYFnUKe5vpJ4AAFV0/T7Bo1a6ieReirMEYZL42svPln0aUox02YTBJu0+H/9k=",
+    "url": "https://preview.redd.it/u5xaxaex5u4a1.jpg?width=640&crop=smart&auto=webp&s=43139111127a25ca80b009bd02c1d0cb54f3f19b",
+    "width": 640
+  },
+  "score": {
+    "comments": 29,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 392,
+    "value": 392
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Some scratch build plasma reactors. I hope you like them!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/zgrou1/some_scratch_build_plasma_reactors_i_hope_you/"
+}
