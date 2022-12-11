@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_tc78s8xx",
+    "name": "CaitRaven"
+  },
+  "date": {
+    "day": 1670544000,
+    "full": 1670604704,
+    "month": 1669852800,
+    "week": 1670112000
+  },
+  "id": "t3_zh27v6",
+  "picture": {
+    "filesize": 108868,
+    "fullUrl": "https://preview.redd.it/p5zfdzxh1y4a1.jpg?auto=webp&s=9dfb7983810d94d8bca3bc0b67d6de93543454bd",
+    "hash": "732d5e2f4b",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAkEAABAwQBAwUAAAAAAAAAAAABAgMEABESMQUhIkEGUVJhof/EABQBAQAAAAAAAAAAAAAAAAAAAAX/xAAdEQABBAIDAAAAAAAAAAAAAAABAAMhMQJhBBEi/9oADAMBAAIRAxEAPwADh+WitOtqhwWGouWOR73HPoE6Nup8AbppPNKZcC+TYIhqJvKjpKgL6yTtP6KkvTLIsZLilOPE4hSrdqfiAOgFVq3SG0gAAe3jVIYtuR6QDj3GJyJbBFTNbvva/9k=",
+    "url": "https://preview.redd.it/p5zfdzxh1y4a1.jpg?width=640&crop=smart&auto=webp&s=8d6102b22686ddeb9b675b0065796eeb9179dac6",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "ratio": 1,
+    "ups": 3,
+    "value": 3
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Thatched roof",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/zh27v6/thatched_roof/"
+}

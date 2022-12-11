@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5sb6754g",
+    "name": "BlueCloud2k2"
+  },
+  "date": {
+    "day": 1670630400,
+    "full": 1670689969,
+    "month": 1669852800,
+    "week": 1670112000
+  },
+  "id": "t3_zhwslg",
+  "picture": {
+    "filesize": 55225,
+    "fullUrl": "https://preview.redd.it/0sqq1ept255a1.jpg?auto=webp&s=e0a7b98962bedf1638de486038d5a910201a5ca5",
+    "hash": "cacec8591c",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQIG/8QAJhAAAQMDAwIHAAAAAAAAAAAAAQIDBAURIQASMRNRBhUWIiMkkf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGxEAAQQDAAAAAAAAAAAAAAAAAQACESEEEiL/2gAMAwEAAhEDEQA/AB6ZGZpEWm1KbTXSqksrb64dPuRdSQAArOCOcXGiJEb1dLXOrVS8qaU2VMi3UCUGwSnZcZP6cni2tI0XZzyo0l91TCkklAISDjsNR4UbS9M2SvsC9vlzkDntfRgDoi1FmRJ0bNr/2Q==",
+    "url": "https://preview.redd.it/0sqq1ept255a1.jpg?width=640&crop=smart&auto=webp&s=f8c8819dd63633d8eb9001eb83012a08bb51fbe7",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "ratio": 0.97,
+    "ups": 33,
+    "value": 33
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Made a 45 degree bevel jig for my Proxxon hotwire cutter.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/zhwslg/made_a_45_degree_bevel_jig_for_my_proxxon_hotwire/"
+}
