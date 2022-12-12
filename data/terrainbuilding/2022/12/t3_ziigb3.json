@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_f9r8l",
+    "name": "thorlek"
+  },
+  "date": {
+    "day": 1670716800,
+    "full": 1670740753,
+    "month": 1669852800,
+    "week": 1670716800
+  },
+  "id": "t3_ziigb3",
+  "picture": {
+    "filesize": 51691,
+    "fullUrl": "https://preview.redd.it/o0333lwhs75a1.jpg?width=4000&format=pjpg&auto=webp&s=cf8f637787b86e8e5f0bf8a1df79c481711a4e38",
+    "hash": "1e2d0b8ef6",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUH/8QAJBAAAgIBAgUFAAAAAAAAAAAAAQIDBBEABQcSFCExBhMjUbH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABgRAAMBAQAAAAAAAAAAAAAAAAABEQMC/9oADAMBAAIRAxEAPwC9tnFqvdqtXXa5+oaPBzKvLnH5oPrHigbmzzbfBTarfcqPccq6IAQScEecD61jUtmSCz8R5CBjt20fq5pLgZ3LNnydT05dg82pT//Z",
+    "url": "https://preview.redd.it/o0333lwhs75a1.jpg?width=640&crop=smart&auto=webp&s=1aaea98f11e1d400a2b183f40760f3de50f0e508",
+    "width": 640
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "ratio": 0.99,
+    "ups": 137,
+    "value": 137
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP shot of my industrial game board",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ziigb3/wip_shot_of_my_industrial_game_board/"
+}
