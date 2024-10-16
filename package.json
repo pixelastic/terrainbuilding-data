@@ -1,8 +1,8 @@
 {
   "devDependencies": {
-    "aberlaas": "1.25.1",
-    "algolia-indexing": "1.3.0",
-    "firost": "2.17.0",
+    "aberlaas": "2.10.0",
+    "algolia-indexing": "2.0.0",
+    "firost": "4.3.0",
     "golgoth": "2.1.0",
     "on-circle": "2.2.0",
     "reddinx": "2.2.0"
