@@ -1,0 +1,18 @@
+#!/usr/bin/env sh
+set -e
+
+# Patch reddinx to use updated Pushshift API parameters
+# See: https://github.com/pixelastic/reddinx/commit/5b57aeab1c3ca90367e60760b05c36de786b3c77
+
+POSTIDS_FILE="node_modules/reddinx/helpers/postIds.js"
+
+if [ -f "$POSTIDS_FILE" ]; then
+  # Replace sort: 'asc' with order: 'asc'
+  # Replace sort_type: 'created_utc' with sort: 'created_utc'
+  sed -i.bak "s/sort: 'asc',/order: 'asc',/" "$POSTIDS_FILE"
+  sed -i.bak "s/sort_type: 'created_utc',/sort: 'created_utc',/" "$POSTIDS_FILE"
+  rm -f "${POSTIDS_FILE}.bak"
+  echo "✓ Patched reddinx for updated Pushshift API parameters"
+else
+  echo "⚠ Warning: Could not find reddinx postIds.js file to patch"
+fi
