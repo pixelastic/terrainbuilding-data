@@ -5614,6 +5614,11 @@ minimist@1.2.6:
   resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.6.tgz#8637a5b759ea0d6e98702cfb3a9283323c93af44"
   integrity sha512-Jsjnk4bw3YJqYzbdyBiNsPWHPfO++UGG749Cxs6peCu5Xg4nrena6OVxOYxrQTqww0Jmwt+Ref8rggumkTLz9Q==
 
+minimist@1.2.8:
+  version "1.2.8"
+  resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.8.tgz#c1a464e7693302e082a075cee0c057741ac4772c"
+  integrity sha512-2yyAR8qBkN3YuheJanUpWC5U3bb5osDywNB8RzDVlDwDHbocAJveqqj1u8+SVD7jkWT4yvsHCpWqqWqAxb0zCA==
+
 mixin-deep@^1.2.0:
   version "1.3.2"
   resolved "https://registry.npmjs.org/mixin-deep/-/mixin-deep-1.3.2.tgz#1120b43dc359a785dce65b55b82e257ccf479566"
@@ -5733,10 +5738,10 @@ node-object-hash@2.0.0:
   resolved "https://registry.npmjs.org/node-object-hash/-/node-object-hash-2.0.0.tgz#9971fcdb7d254f05016bd9ccf508352bee11116b"
   integrity sha512-VZR0zroAusy1ETZMZiGeLkdu50LGjG5U1KHZqTruqtTyQ2wfWhHG2Ow4nsUbfTFGlaREgNHcCWoM/OzEm6p+NQ==
 
-node-object-hash@2.3.8:
-  version "2.3.8"
-  resolved "https://registry.npmjs.org/node-object-hash/-/node-object-hash-2.3.8.tgz#d19927ebbdb27019d2260de419cc62598a1721e7"
-  integrity sha512-hg/4TUqBOFdEhKjLF4jnn64utX3OWPVPWunVaDsaKxY+TVoViOFyW4lu34DES8yAqAqULSFm2jFL9SqVGes0Zg==
+node-object-hash@2.3.10:
+  version "2.3.10"
+  resolved "https://registry.yarnpkg.com/node-object-hash/-/node-object-hash-2.3.10.tgz#4b0c1a3a8239e955f0db71f8e00b38b5c0b33992"
+  integrity sha512-jY5dPJzw6NHd/KPSfPKJ+IHoFS81/tJ43r34ZeNMXGzCOM8jwQDCD12HYayKIB6MuznrnqIYy2e891NA2g0ibA==
 
 node-releases@^1.1.71:
   version "1.1.73"
@@ -6586,17 +6591,17 @@ readdirp@~3.6.0:
   dependencies:
     picomatch "^2.2.1"
 
-reddinx@2.2.0:
-  version "2.2.0"
-  resolved "https://registry.npmjs.org/reddinx/-/reddinx-2.2.0.tgz#1fc3d2c356efc2825e4b7c1f0caad357d34b2797"
-  integrity sha512-ENKE1wK2ejv+QvrQbdNh5QeUpXZbsWn/OouRngllM7cKYI5YPsryTttwwgFtuxUOE8Q961dbdc0FzKgh3z9Fbg==
+reddinx@^2.4.0:
+  version "2.4.0"
+  resolved "https://registry.yarnpkg.com/reddinx/-/reddinx-2.4.0.tgz#cb7bcf804531d25fa96c4b3fd19eeccac632d8ce"
+  integrity sha512-g02Wx4cxsXo4U/lOxjOY46zp/LXNdoyGJ3kWQD5bJY4Mv6VHnFlUqTcztAQoHxy92z0VBEsvhrNxB6sUNBXnEw==
   dependencies:
-    firost "2.16.2"
-    golgoth "2.0.0"
+    firost "2.17.0"
+    golgoth "2.1.0"
     he "1.2.0"
     imoen "1.2.0"
-    minimist "1.2.5"
-    node-object-hash "2.3.8"
+    minimist "1.2.8"
+    node-object-hash "2.3.10"
 
 redent@^3.0.0:
   version "3.0.0"
